@@ -1,0 +1,7 @@
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function _forEachLimit at lib/async.js:152},{Function _eachLimit at lib/async.js:155})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function _forEach at lib/async.js:30},{Function _each at lib/async.js:30})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function forEachIterator at test/test-async.js:13},{Function eachIterator at test/test-async.js:13})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function forEach at lib/async.js:92},{Function each at lib/async.js:92})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function forEachSeries at lib/async.js:114},{Function eachSeries at lib/async.js:115})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function forEachNoCallbackIterator at test/test-async.js:40},{Function eachNoCallbackIterator at test/test-async.js:40})
+1fecb21940135b2ff647a93d1fc83df03b363714,RENAME,{Function forEachLimit at lib/async.js:147},{Function eachLimit at lib/async.js:149})

@@ -1,0 +1,13 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+43f32545d4f4093bfcb2bb9a3e123121d82d8eb3,d998e4c167bbd1f5db624950fabb6d65716ec187,e79795e273e381f513baca4e4717a6390094a462,[],['package.json'],0,1,0
+27cce3fee74548361d52eaf8ec340cb42d5af16f,47258ff60264bc9acc3ba6a470b6f71d6952fd5c,a66d5d7811e2d3c7727e7d940e22611fcf0dd791,[],['package.json'],0,1,0
+35d7bb4db9ea93357aa79ec3e377f6078c546a2b,951a67b43fa0da3caa9105b32fb02a6c229aa5d5,7498e2c6ac940f2cb2d39689f642615415b8a49e,[],['package.json'],0,1,0
+1d6417db577e8b0443fdcac4d8e29de2192544a2,3fcba915f52c6c6854e3edae505f490b0f3fd705,d4f3b4e27edb39e9870d0ce27c5726bd6b66e75a,[],['package.json'],0,2,0
+81b9131269193b604898db61bfbf86b8de08ad08,96836c0f857d7ab94fe67bd184b80408d558e4a5,0c3f82bc58faf33bb38902c3c9d2b11d82700124,[],['build/scss/parts/_pages.scss'],0,1,0
+d5de8efb332a665ee138f2b6094aa6e295037766,dc4054d2167b83ddc37c99f2ffd7c41a51ed9651,eaf5cf449fcd3d3d38acdbc6ff046977c389a608,[],"['dist/css/adminlte.css.map', 'dist/css/adminlte.min.css', 'dist/css/adminlte.min.css.map']",0,3,0
+2ab586c4dbcb4ab5edc80682fccb86edc4de8eb1,c9b02625dded487dc2e18abd981ef9255056a4fe,04376358306a98573d69fe811bd6321304115982,[],['docs/_config.yml'],0,1,0
+7c959812efeef9485a7cd9d9d4e8b7dd7a6f8e10,164df59d0169d53489bfe157039a5ffcc455c952,a5141cabc74e9eec7914bbde38cffc85a31a1833,[],['package.json'],0,2,0
+c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,['Gruntfile.js'],['package.json'],1,3,2
+2ceb6e19b8eb92e20d3037a0d22822d9cb579c40,d75e3e18c95493efbfe8f0420f1269a4b9e465bf,c848c6737f1b56d16bb9dc3448667a6680b59c70,[],['dist/css/AdminLTE.min.css'],0,1,0
+fa75a8d3b0f594688f911a664062ca9cd98a3b55,aa6552502d49b81fc87b76310fe16beb3f2397e3,6f09c02537ccee14224dcb926e6682d21443c7d6,[],['dist/js/app.js'],0,2,0

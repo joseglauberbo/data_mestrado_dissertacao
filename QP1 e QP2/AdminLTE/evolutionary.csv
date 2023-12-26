@@ -1,0 +1,7 @@
+evolutionary_commit,base,left,right,parent,region_change_evolutionary_commit_before,region_change_evolutionary_commit_after,region_conflict_before,region_conflict_after
+071a2c166e8d5484d85775eb5ca646e1fb841c7d,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,left,"-5,121","+5,6",a/Gruntfile.js,b/Gruntfile.js
+545a862c1d24567b0f32b13bdbbd70f38f24a662,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,right,"-5,168","+5,172",a/Gruntfile.js,b/Gruntfile.js
+c4ac73688bfb790171c7f6efa14382e27eab86c5,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,right,"-5,121","+5,168",a/Gruntfile.js,b/Gruntfile.js
+f5f78f415bb33b93f212a1763b9adb03c3821b75,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,right,"-5,121","+5,121",a/Gruntfile.js,b/Gruntfile.js
+071a2c166e8d5484d85775eb5ca646e1fb841c7d,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,left,"-129,24","+14,1",a/Gruntfile.js,b/Gruntfile.js
+c4ac73688bfb790171c7f6efa14382e27eab86c5,c58d1d48c594f5f14db21c744a214f4f8456932c,df23666eff172219b09d62e3ac7193bfd586a0ff,545a862c1d24567b0f32b13bdbbd70f38f24a662,right,"-129,24","+176,26",a/Gruntfile.js,b/Gruntfile.js

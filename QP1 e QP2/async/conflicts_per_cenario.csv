@@ -1,0 +1,28 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+ec8d30c9332256907fdfc976576b7927c5fcc61d,83d3f738d2dd31dad6d986731b41851d6f6aced0,ca85923d491812bd0ff4f514ee28de8732d0ea90,[],['package.json'],0,2,0
+acce4d9c0d2cfc2908730c6fd4d864005d63a0f0,88f675bad27051269bb122655b26235176e89b8c,a6165edc51d973eecfb9f6ed6034f3c209151111,"['support/build/aggregate-build.js', 'support/build/aggregate-bundle.js', 'support/build/compile-modules.js']",[],3,6,6
+cdbc105bbfa09f0d8006aa46c04eff924b765e7b,22a5354ce9d80dc6fac8f029ca62a729ed53de76,75cb35760e8a2a7ca7917b865ec8c975886f9db2,[],['dist/async.min.js'],0,2,0
+79fd8872f1c9c549450142dbd6c5c4c6b0517d76,9f1834c169bbb5f8d56ad2033393101b4762a38c,c54345d703a3d1959e6509c066c6966b2da6ee13,['mocha_test/autoInject.js'],[],1,1,1
+a35af5192ffbe1215376dde7e8adfe277603643e,3b0d9bd039266d6b3f9603d4bc30aae8307becc6,a50b252794979c66ecb75e8f33cac882c1019ef0,['mocha_test/autoInject.js'],[],1,1,1
+20c0a9be73f517fcb7cda940675007416bb3aa0c,0858e09f203f9e358bdfa1ce84400e758bea68fc,f38483cbccc16efe205b0bf1439c233e61a7f090,[],"['README.md', 'test/test-async.js']",0,2,0
+e46c8a6c74035223eecd55ba6dfdbef0e34cefad,db9acac2bb7161fac1d9c83fbce416ef63b95420,01205e053b16c7843a3d4d3c9075b33de5adb2d0,[],"['.editorconfig', 'README.md', 'bower.json', 'component.json', 'package.json']",0,9,0
+a6d5e9503752f78a85bb03665c4d1fe4d0e12690,e56a37170b017c3bade81eedab57a99a5e2f019f,11f5d1f4ac46932a007b87757af3fb01db38d03e,['lib/async.js'],['test/test-async.js'],1,2,1
+a1fdd1cf87ca86ddcac71e744ab08899a84656cc,22e89cb5d5d3fd655e6af65750896f53a4f8e600,04dec370886cbd11845bd30559465ca29bda14ef,['perf/benchmark.js'],['package.json'],1,3,2
+ec63006d767246aaf92b0bc474bf4043380dbad7,3c2fd71e350f6a5cda22696ed7cc2022fe566128,7ea45d7fc816235003d319e1ce96582a4c65d77a,[],['package.json'],0,1,0
+f93d534033a038cd0aa7e43320b270a36edc4686,994f3f61da2c3333deceaa478ae4930c3fa047d1,f97befd8e0887f3cf02289ae20e3b0a1703eb2ec,[],['README.md'],0,2,0
+57649026fe339aea13ec8d9be110d885c630a7e3,ea3576b6da334710d0da7446064e9acc0766136a,e7948013f3c3741606159e0c86f03dbb9e20ff2b,[],['test/test-async.js'],0,1,0
+9697f400997d211ad18a04a1b61febbb397fe0b0,0450c3b5bdc5db8a50b19fc9d70c48c8a88bac7d,46cbdfd5324be57f15481bee32ad0fda507171b0,[],"['CHANGELOG.md', 'bower.json', 'component.json', 'package.json']",0,4,0
+807546d534786c1cb79a3f2ae2d4fa9d4863e6d0,11bf48b4ff52823edb66e35d05571724accc02d3,a44d11ca95304dca673e6487050e630c2b2d87ee,['lib/async.js'],[],1,1,1
+da40afa5ee2bca3cb92d9f7fd8bc83c5fdbfa1e1,c64997e79593f83468f1db2517d40e385098414a,2a13d0857682663e556b1a344d8c33d3a6c289bf,['lib/async.js'],['test/test-async.js'],1,5,2
+174cb00704bae2986d529911f755e445e72fa969,23691dffdfce73287a879a6c8dc8ef7f891666b1,cdec81fb3bfdedf847f79e9feeab92d1d7ea31d8,['lib/async.js'],[],1,1,1
+1513f799ddf351473d01172626eaa4935e11cfa1,e5ae810dbe4ee82701c947bc4cf5425d0bedeef1,49faae6018261a8b925d8f507784ad2789d06376,[],['README.md'],0,1,0
+f8cb033c279dc06504cefca66b17c1117b9dcf26,1346453cd2b4b8831f7765bac703ac63a3f9f124,eea14ed194dff46540eee196400acdfc0c8b7480,[],['README.md'],0,1,0
+712d06c03972dda89f1a1f4af561b6e2a8d488d2,418ae9fb8f03a55255571774a5c0db6faac23120,f128d3d2a5d33c0cc726a829705ba93f0b6fc791,['lib/async.js'],"['README.md', 'test/test-async.js']",1,3,1
+d87f799cc0dcf8b8248ce726ee8b0fabdcf93566,8ff697f254cc0fcbeecb2bee1fb329c71860fc24,4ef2984463de6fcc5685ebaf680db02a01587b97,[],[],0,0,0
+089d94b3ac96b3a1a1aab42672f793c1b2dbfe46,bee45ddd8655de34befb7d5ae3bc665b42666c25,7d1827063ea28bb06b4ac492323c1cdd7b9e5df0,[],[],0,0,0
+96a7da519adc9e8cb3c187a2da4945f5edea71d3,5a8c60eae25847e77bd22d8b364303ceb9292c03,8696792b5d60b1a24daef09b522a0bfcb7bd3c2f,[],['README.md'],0,1,0
+bb07255f3c54ccb7efdcd798a77c99984d91119b,6663ac82c3730704dd8340e723b87e253fd57aeb,5d444b74ddfee3a022509570140e5b717591320d,['lib/async.js'],[],1,1,1
+785349f5cc8d2ba16e66719a7b44cdb575da49f5,a472964d5cb12f20550dd21673b6ad229d5a2ce8,912d36bbfa58125918a14c945380178a393bdc42,[],['test/test-async.js'],0,1,0
+58dca5a32ae1e10c5fe6031353549c54658d80ac,aa837d70886ed4f4f6f85537bc19364a18d4c4e8,9e116c4c76d13ffecec716e6bfee410592c01827,[],['dist/async.min.js'],0,1,0
+9e116c4c76d13ffecec716e6bfee410592c01827,010c3a530cd1a59305081610e26ea4061a1eb82e,f3aec6187f9148a5855a365ee2fcd94430bf4706,[],['dist/async.min.js'],0,1,0

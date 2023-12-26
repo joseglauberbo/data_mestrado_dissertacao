@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+fa75a8d3b0f594688f911a664062ca9cd98a3b55,aa6552502d49b81fc87b76310fe16beb3f2397e3,6f09c02537ccee14224dcb926e6682d21443c7d6,['Gruntfile.js'],"['package.json', 'build/scss/parts/_pages.scss', 'dist/css/adminlte.css.map', 'dist/css/adminlte.min.css', 'dist/css/adminlte.min.css.map', 'docs/_config.yml', 'dist/css/AdminLTE.min.css', 'dist/js/app.js']",1,18,2

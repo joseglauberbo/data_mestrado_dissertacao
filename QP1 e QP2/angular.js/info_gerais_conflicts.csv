@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+0b630972b15676b1c1b6c59edd564e4ee331ec70,19bbee030ba012b8fc4835c1d17e039804b2b94b,473e57e22532f9b85fc9dcc1bcc53e12a10154c2,"['src/JSON.js', 'src/directives.js', 'src/scenario/DSL.js', 'src/Angular.js', 'src/Scope.js', 'src/services.js', 'src/ControlBar.js']","['test/servicesSpec.js', 'test/ParserTest.js', 'test/ApiTest.js']",7,11,8

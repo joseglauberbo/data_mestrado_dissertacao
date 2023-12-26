@@ -1,0 +1,18 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,0,0
+21a12de13ecc42322a2948663882eb85648cf591,7ec84f817fbf0ada5feb3da1baf403329e8a8e33,8c307299cb454abfa83a4eb8dc0758409cfec241,[],"['CHANGELOG.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'UPGRADE_GUIDE.md']",0,7,0,0,0
+3e0954db223d3a4efc5883af237f96b016eefe6c,a3dd6031bb1be62e62a436f7dd83326234f1ab68,e3002e1fdab050ef5cf2adbf95f2674e8010f644,"['lib/defaults/index.js', 'lib/helpers/toFormData.js']",[],2,2,2,0,0
+8699891b8e12b1e8d6a92b53b036dadeb89590b1,c855c9d385464511919f5093d6c101e3a0e65a29,6b9b05b9078c78c9532ed8c29dfb910fdc1b1018,"['lib/defaults/index.js', 'lib/utils.js']","['README.md', 'package-lock.json', 'test/specs/defaults.spec.js']",2,11,4,1,0
+340ad9ec8c3621796143c98e49a95e9da905b2d7,9497729537d3e0853205b2d7360df1945fd060f0,d8d43c1ffd4e45f55388814058a41d5b710a5246,"['lib/adapters/http.js', 'lib/adapters/xhr.js', 'lib/defaults/index.js']",[],3,5,5,1,0
+d8d43c1ffd4e45f55388814058a41d5b710a5246,c9aca7525703ab600eacd9e95fd7f6ecc9942616,7f1236652adb813ff884be008fe73ddf0590c664,['lib/adapters/http.js'],['index.d.ts'],1,2,1,0,0
+547815d9fda524babf9e2b3e9f1648834cb44cb5,e462973a4b23e9541efe3e64ca120ae9111a6ad8,2bc250786f7743fa233cfbf0512f1258a926a777,[],['index.d.ts'],0,1,0,0,0
+0445d6c39ead139a9e7fb8ef0bca43bda3bc0724,5bfd2ea9f63e59efaef3f1a659b55bbb9778fce2,d4dc124f15c8dc69861b9cf92c059dbda46ae565,['lib/core/Axios.js'],[],1,1,1,0,0
+b6920570c517013ec62ea502edd6f78fbe8332a8,6566598603953b159ec23227e100c7013c39efea,d59c70fdfd35106130e9f783d0dbdcddd145b58f,['lib/core/Axios.js'],[],1,1,1,0,0
+4f0750887152c8b5795d17597a071a9362e533b7,4545b085c51bdc48d0ed2a824592e009dcffa5cc,84b068461066a9407695e565b45cc6bfa4a83ba7,[],['ECOSYSTEM.md'],0,1,0,0,0
+032916e1165895edfa82dd50118f8c2bb16b55e2,216e2a6787fa836d0aeb0b000c2849ba88e2f462,b718ebfb2190d9c9899a7a7d19c48af6296d30da,['lib/core/dispatchRequest.js'],[],1,3,3,0,0
+4e7ca3dea349e6076e7f1e70a5fcb7206a4f0cc0,da62e873a5f6a07c857aeec4cae3024077a017c9,a04077a17db282c476c348e67994a95db2d015f6,['lib/adapters/http.js'],[],1,1,1,0,0
+94a2128549ed2e2bd5d36378d8b9a203e6552cc3,716e487038fca364648f61c6c432063f1d2c41c0,05a522fc123f8e9f5b1424c35f42bbfa9ec95307,['lib/adapters/http.js'],[],1,1,1,1,0
+5fc59a65aa9df399c19f756a0020b132e7e2dcb2,84755d1325c228553883a89a5d6e348dcb67e305,261e41644dcb4c3c4dcc4b695635b8f7b447fe70,['lib/adapters/xhr.js'],[],1,2,2,0,0
+729ff051122e328fe34bbad720286b47903f17da,1eac0b1b218748ffa499039a5ca7e6edf1600b36,7fa69152e952b26c6655a3ee3775b0f90050e5d3,[],['package.json'],0,1,0,0,0
+e5e14daab6f643b7ed95d01e6ebb4713ae9f3691,a768ac07cdd228b46c8c26536bcad51193cdfb4b,433dd0d0371a2fdc4903aabf1d41c9dd1615b6dd,['lib/adapters/xhr.js'],[],1,1,1,1,0
+02a93330edcd5bcfc20172e744ab1c828760ad71,3d65057d7111d7873cf4fad40805cd9ebe327574,2e4c9285d77f16a8a92019ceb99e61c41ae5974a,['lib/adapters/http.js'],[],1,1,1,0,0
