@@ -1,0 +1,14 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+7de68f0bf22e9b236fc01f0b88096e7f98528c2f,https://github.com/mermaid-js/mermaid/commit/7de68f0bf22e9b236fc01f0b88096e7f98528c2f#diff-68fbd0ac17e9f11e4a399140e94940ddb4152ca9275af19092b941c3d84078a5,1,14,1,>0,floss
+bb2dd2f5f3c8bb5a6a8fe85beba6c8ac7055c48e,https://github.com/mermaid-js/mermaid/commit/bb2dd2f5f3c8bb5a6a8fe85beba6c8ac7055c48e,3,381,2,>0,floss
+6df9bf36e5d9a3f1e968247a7aabca4abfa965cd,https://github.com/mermaid-js/mermaid/commit/6df9bf36e5d9a3f1e968247a7aabca4abfa965cd,2,7,2,>0,floss
+6ce1c80a47c3817fae6d59cee91f5ceeeecddfd1,https://github.com/mermaid-js/mermaid/commit/6ce1c80a47c3817fae6d59cee91f5ceeeecddfd1,1,7,1,>0,floss
+fd4240b7748f86e1d0bc436f00661dabbbae808c,https://github.com/mermaid-js/mermaid/commit/fd4240b7748f86e1d0bc436f00661dabbbae808c,4,17,2,>0,floss
+217bd1f4bf90b32773bc24bc3c7a53843814a2ec,https://github.com/mermaid-js/mermaid/commit/217bd1f4bf90b32773bc24bc3c7a53843814a2ec,3,13,8,>0,floss
+5646518352be28a471b9edf1fdd81146c38a666a,https://github.com/mermaid-js/mermaid/commit/5646518352be28a471b9edf1fdd81146c38a666a,1,3,6,>0,floss
+44d50095382066568b99b7487b13a69d6acb403b,https://github.com/mermaid-js/mermaid/commit/44d50095382066568b99b7487b13a69d6acb403b,2,26,4,>0,floss
+ad1763a8f2178516de9d765255e9598906d4111e,https://github.com/mermaid-js/mermaid/commit/ad1763a8f2178516de9d765255e9598906d4111e,1,1,1,>0,floss
+4800460e07ff69a0becfe40d918da07deff536ad,https://github.com/mermaid-js/mermaid/commit/4800460e07ff69a0becfe40d918da07deff536ad,1,1,1,>0,floss
+b322a964cafc9953a82f97820372a3673503aa73,https://github.com/mermaid-js/mermaid/commit/b322a964cafc9953a82f97820372a3673503aa73,1,1,1,>0,floss
+9dbb3767e28cd45fcd5c9ad2227ff0cbdb3ee313,https://github.com/mermaid-js/mermaid/commit/9dbb3767e28cd45fcd5c9ad2227ff0cbdb3ee313,1,1,2,0,pure
+f912f8582d03c89b868e49e96491ebe460fbfb84,https://github.com/mermaid-js/mermaid/commit/f912f8582d03c89b868e49e96491ebe460fbfb84,1,2,1,>0,floss

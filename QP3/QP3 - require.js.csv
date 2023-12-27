@@ -1,0 +1,8 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+c7036502b6f61a3112e80d31b7b127e8c2811618,https://github.com/requirejs/requirejs/commit/c7036502b6f61a3112e80d31b7b127e8c2811618#diff-8bab68585d8a80f32708b8818df2beb779800ac7ce35ecb2734c936a2616e2fc,1,10,1,>0,floss
+5463c8f5940c05427289afa106f5748b35542aee,https://github.com/requirejs/requirejs/commit/5463c8f5940c05427289afa106f5748b35542aee,1,1,1,0,pure
+3593b89eb4ba8964a295f88f4a0cad280127821a,https://github.com/requirejs/requirejs/commit/3593b89eb4ba8964a295f88f4a0cad280127821a,1,1,1,>0,floss
+4d94abcd4774b60942199c20548b9bee4e7e305f,https://github.com/requirejs/requirejs/commit/4d94abcd4774b60942199c20548b9bee4e7e305f#diff-92440d44b330088678a4c430f559c57ce4b272933a1d2559fb9abb56214e6ffe,4,4,51,0,pure
+216cedea469c5f4a254c9ac431a42f342d852632,https://github.com/requirejs/requirejs/commit/216cedea469c5f4a254c9ac431a42f342d852632,1,1,2,>0,floss
+de9d22c585f4ba505c0f968ab83a926636e0ee73,https://github.com/requirejs/requirejs/commit/de9d22c585f4ba505c0f968ab83a926636e0ee73,3,3,33,>0,floss
+16699d128d4bfb8f9824fb2ceba006a1f3d987be,https://github.com/requirejs/requirejs/commit/16699d128d4bfb8f9824fb2ceba006a1f3d987be,2,2,2,>0,floss

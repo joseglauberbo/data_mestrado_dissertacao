@@ -1,0 +1,11 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+67316d02a56a3c60d7847c1d6975104816ca087f,https://github.com/hexojs/hexo/commit/67316d02a56a3c60d7847c1d6975104816ca087f,1,1,1,0,pure
+d26dbb23cbc9959cff81a4a4a9f20cac13df3985,https://github.com/hexojs/hexo/commit/d26dbb23cbc9959cff81a4a4a9f20cac13df3985,1,1,1,0,pure
+94671dfe69c3e5c94a1e2762d7b51a22ca2bba44,https://github.com/hexojs/hexo/commit/94671dfe69c3e5c94a1e2762d7b51a22ca2bba44,1,1,2,0,pure
+db7e37d8b9aaa3a0221cd1c6d068c032351f7dea,https://github.com/hexojs/hexo/commit/db7e37d8b9aaa3a0221cd1c6d068c032351f7dea,1,1,1,0,pure
+7278da6e37068444c030e9b4a7641800a30500ca,https://github.com/hexojs/hexo/commit/7278da6e37068444c030e9b4a7641800a30500ca,1,1,1,>0,floss
+d99b225e5244d4a634a5a16c01986c72169902b5,https://github.com/hexojs/hexo/commit/d99b225e5244d4a634a5a16c01986c72169902b5,3,26,4,>0,floss
+d35287a765d5d7d43135c8f50d1a63204d5f21ad,https://github.com/hexojs/hexo/commit/d35287a765d5d7d43135c8f50d1a63204d5f21ad#diff-68fe82e90cd05a06b07371294b60f2980fdb6493ecbf194845744209ff2da9f9,2,62,8,>0,floss
+f2c11995e7fbd192a11f3299d008bf608f9e76eb,https://github.com/hexojs/hexo/commit/f2c11995e7fbd192a11f3299d008bf608f9e76eb,9,61,18,>0,floss
+bd710fcb8c4ee9a876ad855295684fbd7aeb2a28,https://github.com/hexojs/hexo/commit/bd710fcb8c4ee9a876ad855295684fbd7aeb2a28,1,1,1,0,pure
+cfed70653f13d9b95c08c2f87a6dadab4a142b32,https://github.com/hexojs/hexo/commit/cfed70653f13d9b95c08c2f87a6dadab4a142b32,1,1,1,>0,floss

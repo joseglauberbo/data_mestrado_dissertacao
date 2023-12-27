@@ -1,0 +1,8 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+afcd4e548438632fbfbb51881e8327b6fa5e4236,https://github.com/i18next/i18next/commit/afcd4e548438632fbfbb51881e8327b6fa5e4236,1,2,16,>0,floss
+3f9c530a657dd3e2a3c5b8eaf1c437560c9c707a,https://github.com/i18next/i18next/commit/3f9c530a657dd3e2a3c5b8eaf1c437560c9c707a#diff-5dfe38baf287dcf756a17c2dd63483781b53bf4b669e10efdd01e74bcd8e780a,3,10,13,>0,floss
+9a3ccca875d1005ee2a912798fa13b98f087476a,https://github.com/i18next/i18next/commit/9a3ccca875d1005ee2a912798fa13b98f087476a#diff-ae80b9233df0948292fc5ff6541f30a307509f61bf5b8b60bd0a7876a9d7cffe,1,10,4,>0,floss
+10604a49ec6533e359bb40d9df2b799c16747772,https://github.com/i18next/i18next/commit/10604a49ec6533e359bb40d9df2b799c16747772,2,5,1,>0,floss
+5d54aa54493fe4ac3c2068e30418a7428310fdb2,https://github.com/i18next/i18next/commit/5d54aa54493fe4ac3c2068e30418a7428310fdb2,1,7,1,>0,floss
+d62e769f9294ee55718a267331f28735df185fdd,https://github.com/i18next/i18next/commit/d62e769f9294ee55718a267331f28735df185fdd,1,8,1,>0,floss
+920b787dd9b6ff0d3ec3ef0c32db28bd8e763262,https://github.com/i18next/i18next/commit/d62e769f9294ee55718a267331f28735df185fdd,1,6,1,>0,floss

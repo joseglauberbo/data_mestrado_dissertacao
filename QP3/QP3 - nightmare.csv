@@ -1,0 +1,5 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+32cc983a1ee99d4883a4fadea4f790a63688b936,https://github.com/segment-boneyard/nightmare/commit/32cc983a1ee99d4883a4fadea4f790a63688b936,1,3,1,>0,floss
+fa35007bdcec939026899110529e859e73bfc445,https://github.com/segment-boneyard/nightmare/commit/fa35007bdcec939026899110529e859e73bfc445#diff-ccec8a6cd159796cbca5166b919d75afa7e362394ac31ed3ef472ac5af0608da,1,3,1,>0,floss
+39d921dc09c98c8b3be416cbdda0778748633b7a,https://github.com/segment-boneyard/nightmare/commit/39d921dc09c98c8b3be416cbdda0778748633b7a,1,1,3,0,pure
+85aa38c1f99ca504b513e58f75ae474c6a9edd6b,https://github.com/segment-boneyard/nightmare/commit/85aa38c1f99ca504b513e58f75ae474c6a9edd6b#diff-37b88258822cb207e2caa1a88d4fbc057924da72c5580d1f39b78349214ab622,1,3,2,>0,floss

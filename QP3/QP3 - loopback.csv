@@ -1,0 +1,17 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+e35309ba27e32bb20d9d888ca31221cbcffc0844,https://github.com/strongloop/loopback/commit/e35309ba27e32bb20d9d888ca31221cbcffc0844#diff-f378a97da8ca5618997a0b3539942e0a413b9826c38b9f19583be9eaf9f2b2a9,1,9,1,>0,floss
+7316048afc1164ed91a004a8f4f58f3603df456f,https://github.com/strongloop/loopback/commit/7316048afc1164ed91a004a8f4f58f3603df456f#diff-78ad1d7a139d3568e268ff733f9a39c09a39784da14487c630a34c86d8ce7d82,1,3,1,0,pure
+eac231df99943c31bd1e77697c2941ebe1bdd5a6,https://github.com/strongloop/loopback/commit/eac231df99943c31bd1e77697c2941ebe1bdd5a6#diff-17c1ca7f930cd47c534a89fbdfe848b46c6fe27f464f13afd5af6236b3d1dd25,2,7,13,>0,floss
+f8444593117ed956056afe7985423ec72df3ba39,https://github.com/strongloop/loopback/commit/f8444593117ed956056afe7985423ec72df3ba39#diff-17c1ca7f930cd47c534a89fbdfe848b46c6fe27f464f13afd5af6236b3d1dd25,2,4,2,>0,floss
+fc0fad4a9fbbff2b372f38a0302fcc457272b46c,https://github.com/strongloop/loopback/commit/fc0fad4a9fbbff2b372f38a0302fcc457272b46c,2,4,2,>0,floss
+1b1106099187c0b23d622410feb4823b01729142,https://github.com/strongloop/loopback/commit/1b1106099187c0b23d622410feb4823b01729142,1,1,1,>0,floss
+eec7bdd5f4497150973a0359b67fbc1b65624445,https://github.com/strongloop/loopback/commit/eec7bdd5f4497150973a0359b67fbc1b65624445,1,15,1,>0,floss
+7d674779e18c04c9838954bbc0eba5e6840a2f9d,https://github.com/strongloop/loopback/commit/7d674779e18c04c9838954bbc0eba5e6840a2f9d#diff-2e6842e14cd05545569a9c21eddb98a469f2d28d3824e83cb41c67f391ba13d1,2,6,12,0,pure
+19425b8fd9c79e73f52c93ac635f1ea8f39d8f0a,https://github.com/strongloop/loopback/commit/19425b8fd9c79e73f52c93ac635f1ea8f39d8f0a,1,1,1,0,pure
+ea5b9d16fc50d733b7aab705aba51e504f13bdad,https://github.com/strongloop/loopback/commit/ea5b9d16fc50d733b7aab705aba51e504f13bdad,1,19,1,>0,floss
+6b4ebdf6098eac392fa89e372aa53e3f254cf921,https://github.com/strongloop/loopback/commit/6b4ebdf6098eac392fa89e372aa53e3f254cf921,1,3,1,0,pure
+0bf7af104d6dd5b1bdb6bb9eabf9183131fcff96,https://github.com/strongloop/loopback/commit/0bf7af104d6dd5b1bdb6bb9eabf9183131fcff96#diff-4e4da4ced983200b1e702e95ad0f20f6c4595f13a62b4dbe5c26d5ca25ec0159,1,3,1,0,pure
+3a420187e959844b7ebea4991a9163a546e135e4,https://github.com/strongloop/loopback/commit/3a420187e959844b7ebea4991a9163a546e135e4,1,1,1,>0,floss
+407a50f493c8a215efd66bf8ab4559839a4d2ad9,https://github.com/strongloop/loopback/commit/407a50f493c8a215efd66bf8ab4559839a4d2ad9,1,2,1,>0,floss
+49da6f42493655f3860cfad73190ab0ce6275234,https://github.com/strongloop/loopback/commit/49da6f42493655f3860cfad73190ab0ce6275234,1,2,1,>0,floss
+6428000fc0e15ca2de7645a851f9f20598fb0e06,https://github.com/strongloop/loopback/commit/6428000fc0e15ca2de7645a851f9f20598fb0e06#diff-17c1ca7f930cd47c534a89fbdfe848b46c6fe27f464f13afd5af6236b3d1dd25,1,3,1,>0,floss

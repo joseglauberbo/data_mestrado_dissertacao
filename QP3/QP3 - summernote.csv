@@ -1,0 +1,15 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+8cf572e51db8336d803a79581ba98658cf2088cb,https://github.com/summernote/summernote/commit/8cf572e51db8336d803a79581ba98658cf2088cb,1,6,1,>0,floss
+8ccac612b672788155db900a6341f4b5f044a1be,https://github.com/summernote/summernote/commit/8ccac612b672788155db900a6341f4b5f044a1be,1,3,1,>0,floss
+5323d063f14cc9dfa4e5cf50ea76da3f7395732b,https://github.com/summernote/summernote/commit/5323d063f14cc9dfa4e5cf50ea76da3f7395732b,1,5,1,>0,floss
+0b85301d487413fa6c05d51f00b890215147c1d8,https://github.com/summernote/summernote/commit/0b85301d487413fa6c05d51f00b890215147c1d8,1,2,2,>0,floss
+48e1d0ae632dbf17cfd76dc8eed45859bc34b8af,https://github.com/summernote/summernote/commit/48e1d0ae632dbf17cfd76dc8eed45859bc34b8af,1,8,1,>0,floss
+98a6ce97c9f572dcb14ae523dbebc6a2c883dd45,https://github.com/summernote/summernote/commit/98a6ce97c9f572dcb14ae523dbebc6a2c883dd45,4,11,7,>0,floss
+c38790440c1d182a99c6c4e06ed019e22c025642,https://github.com/summernote/summernote/commit/c38790440c1d182a99c6c4e06ed019e22c025642,1,4,1,0,pure
+c6e9f4b5d7574fef2504523ec24aa4b1bd3e68b8,https://github.com/summernote/summernote/commit/c6e9f4b5d7574fef2504523ec24aa4b1bd3e68b8,1,4,1,0,pure
+262de3ecb5f76ea3247dcdf626c5baa728e573f8,https://github.com/summernote/summernote/commit/262de3ecb5f76ea3247dcdf626c5baa728e573f8,1,3,4,>0,floss
+98d43349d35d08f90e81d9d5b8ba1597ae219d8c,https://github.com/summernote/summernote/commit/98d43349d35d08f90e81d9d5b8ba1597ae219d8c,2,5,4,>0,floss
+cc621dce531dc5042407a225ffc80962ef6f6f78,https://github.com/summernote/summernote/commit/cc621dce531dc5042407a225ffc80962ef6f6f78,1,9,1,>0,floss
+0d60dcd97ab074c4b67d042b97ab5fccf570d211,https://github.com/summernote/summernote/commit/0d60dcd97ab074c4b67d042b97ab5fccf570d211,4,12,11,>0,floss
+adc0f75ba26231c5d0449a5bf4de594d11cebe0c,https://github.com/summernote/summernote/commit/adc0f75ba26231c5d0449a5bf4de594d11cebe0c,2,29,2,>0,floss
+cf25a17c0a1ee2d6f0dc01db9a13bf20efcbffc9,https://github.com/summernote/summernote/commit/cf25a17c0a1ee2d6f0dc01db9a13bf20efcbffc9#diff-ded3feaec7f27c488dd856bf1970d0b567023133c85f9008392cd93345a754ea,3,11,13,>0,floss

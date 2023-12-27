@@ -1,0 +1,8 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+be72adeaff7a5751f5772132da661fe224e2f2e0,https://github.com/aws/aws-sdk-js/commit/be72adeaff7a5751f5772132da661fe224e2f2e0,153,154,83,>0,floss
+6e20551e4a3e528d29b236fb4c7207a3f7cbd417,https://github.com/aws/aws-sdk-js/commit/6e20551e4a3e528d29b236fb4c7207a3f7cbd417#diff-bd838b9e39070ee8abb16cf071af665e9d8408bc921097d066a799a38ecf2870,1,4,1,0,pure
+48ed485fa30a14e4d19ff975ce8f4ad17ae4dfca,https://github.com/aws/aws-sdk-js/commit/48ed485fa30a14e4d19ff975ce8f4ad17ae4dfca#diff-499f7c110ca4ecfb34dc082106e9e6034aae0f2bf16ea186ec7f183a20c64cc8,2,109,16,>0,floss
+412e23311516e9c7db97aaf634b8e25de403a466,https://github.com/aws/aws-sdk-js/commit/412e23311516e9c7db97aaf634b8e25de403a466#diff-a51ebd8b5e5766a58abf907d02dfed5c33e3e6dbecc85a41020c0c5b5b97b540,1,5,2,>0,floss
+cfc48396b37ae1b66ad744f2eb6846f77f45ff58,https://github.com/aws/aws-sdk-js/commit/cfc48396b37ae1b66ad744f2eb6846f77f45ff58,1,5,2,>0,floss
+bb250eb25900c8805d8a81c2dbd57a6cb9431d15,https://github.com/aws/aws-sdk-js/commit/bb250eb25900c8805d8a81c2dbd57a6cb9431d15#diff-ca407d959d33ce92a7f7efee354a5ea5e6e61fcd797d32c04205e429a074ed54,64,64,31,>0,floss
+8a89c7238c366e6560dce7c35550155ec6dac4dd,https://github.com/aws/aws-sdk-js/commit/8a89c7238c366e6560dce7c35550155ec6dac4dd#diff-c8cedcb38e8942248a637340e5acd92b770e6a0e25aa4a3c09d2e779a50c6946,1,2,1,>0,floss

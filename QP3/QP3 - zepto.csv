@@ -1,0 +1,6 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+7afa8b3f75a859a11f67b5e05cd9bcbcceb8daba,https://github.com/madrobby/zepto/commit/7afa8b3f75a859a11f67b5e05cd9bcbcceb8daba,1,1,6,0,pure
+39c073c7a747ea1a3bbd941722a04e6c3fbae005,https://github.com/madrobby/zepto/commit/39c073c7a747ea1a3bbd941722a04e6c3fbae005#diff-cb15cb6b8401d8f36649d3ef0690e6b378a54487b3b0c71f7ca516e23870e0bd,1,2,1,>0,floss
+fd81b811d9805a48b9f41e6cb064369661ad4589,https://github.com/madrobby/zepto/commit/fd81b811d9805a48b9f41e6cb064369661ad4589,1,1,1,0,pure
+9162a1ddff5d9300b520cf948102f48f23a97a4f,https://github.com/madrobby/zepto/commit/9162a1ddff5d9300b520cf948102f48f23a97a4f,1,1,1,0,pure
+120c8ad52424330295fc0d33722a292d8c4d5965,https://github.com/madrobby/zepto/commit/120c8ad52424330295fc0d33722a292d8c4d5965,1,7,1,>0,pure

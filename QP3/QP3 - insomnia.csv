@@ -1,0 +1,6 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+10a241b60083aa4088de9e652561ee38ee53591a,https://github.com/Kong/insomnia/commit/10a241b60083aa4088de9e652561ee38ee53591a,2,8,2,>0,floss
+d675222bdd7627c95b1ccef3a44590c580bedb46,https://github.com/Kong/insomnia/commit/d675222bdd7627c95b1ccef3a44590c580bedb46,4,66,9,>0,floss
+79b3f3fe7cf256f5414cdbcced39a94ba15c024a,https://github.com/Kong/insomnia/commit/79b3f3fe7cf256f5414cdbcced39a94ba15c024a,3,22,3,>0,floss
+3b0e0384ad0863eb11b7ca3126f70dc9b51163ac,https://github.com/Kong/insomnia/commit/3b0e0384ad0863eb11b7ca3126f70dc9b51163ac#diff-eee5201dd6943b17c4b16b40037ee1ccdfb74ea60e81d2ce652d2a59a0c791c5,1,8,1,>0,floss
+eafca06f09a51be0c5a4885eeb6bf08b3173f2a9,https://github.com/Kong/insomnia/commit/eafca06f09a51be0c5a4885eeb6bf08b3173f2a9#diff-c0c47bfad18ea3e93bc67a39ca6fab87625d1bb8ba3884b4fb64d50662a289dc,1,10,1,>0,floss

@@ -1,0 +1,12 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+9c3df31216aa28d8252b216b558cbb5907480b5b,https://github.com/d3/d3/commit/9c3df31216aa28d8252b216b558cbb5907480b5b#diff-c4f3b00efa686aac6e3d29c57db0c98a3af9377bce597d5db94da6787ca6d640,4,19,7,>0,floss
+e2ef1c776f1143e16209baebfcd1c3ee934b7aa6,https://github.com/d3/d3/commit/e2ef1c776f1143e16209baebfcd1c3ee934b7aa6,2,3,5,>0,floss
+d2d87924a980663e0681592e363e11742142b41d,https://github.com/d3/d3/commit/d2d87924a980663e0681592e363e11742142b41d,1,4,1,>0,floss
+89ffe0e7f4b23a4ac585248e22b4a65afd8798a0,https://github.com/d3/d3/commit/89ffe0e7f4b23a4ac585248e22b4a65afd8798a0,2,3,8,0,pure
+94168faabc8828973d7ba33e33f0dc89bb8faeca,https://github.com/d3/d3/commit/94168faabc8828973d7ba33e33f0dc89bb8faeca#diff-6f52dd99509a2237ffec0d573eb267282fe17f189b43530c0ec271e0bc4c5b09,2,4,3,0,pure
+d99e1176c5be88e517fb4ab0db306276b7fc9c74,https://github.com/d3/d3/commit/d99e1176c5be88e517fb4ab0db306276b7fc9c74#diff-6e7f86ab97bdc883de43957abf548bbe9a47652023d9a5c54466401939931056,1,5,1,0,pure
+a7cb015ce8e1997ac0fdf5481cfffd4ada08f501,https://github.com/d3/d3/commit/a7cb015ce8e1997ac0fdf5481cfffd4ada08f501,5,5,10,>0,floss
+4c14f5ff6a944ef70a12fa054787c07f8176a1ad,https://github.com/d3/d3/commit/4c14f5ff6a944ef70a12fa054787c07f8176a1ad#diff-8cbabec72736d8a45b829589cfc410d5847461402582489fb58bc1a63e52366e,2,4,2,>0,floss
+b567b5d1064bd494bf6f94e75717f0f994a06094,https://github.com/d3/d3/commit/b567b5d1064bd494bf6f94e75717f0f994a06094,3,7,5,>0,floss
+9d0bbefa942ba0e1663505024f06e86645c16bab,https://github.com/d3/d3/commit/9d0bbefa942ba0e1663505024f06e86645c16bab,2,4,3,>0,floss
+082c9593e2e7341671eccc4516d1ebd2e421a274,https://github.com/d3/d3/commit/082c9593e2e7341671eccc4516d1ebd2e421a274,3,3,6,>0,floss

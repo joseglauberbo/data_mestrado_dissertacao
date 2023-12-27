@@ -1,0 +1,4 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+8c1fd3d76fe7c19aac7505f9b9adf724e7bacd13,https://github.com/avwo/whistle/commit/8c1fd3d76fe7c19aac7505f9b9adf724e7bacd13,1,2,71,>0,floss
+b7c015fdbb1022be15b6dd637a9880ff11c447df,https://github.com/avwo/whistle/commit/b7c015fdbb1022be15b6dd637a9880ff11c447df,1,1,128,>0,floss
+8ae1aa2004b6a29959a6fe93019b423f7062cf89,https://github.com/avwo/whistle/commit/8ae1aa2004b6a29959a6fe93019b423f7062cf89#diff-a477a521418139b5bcbc478c06ab8b9474e417447eb891e79e59cae918d11962,1,1,4,>0,floss

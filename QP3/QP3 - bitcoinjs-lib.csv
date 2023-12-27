@@ -1,0 +1,3 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+7ec046f797d132760dc558164cbc9434c7ebc3b7,https://github.com/bitcoinjs/bitcoinjs-lib/commit/7ec046f797d132760dc558164cbc9434c7ebc3b7,1,2,2,>0,floss
+30e8b572d6e841987612241138644f4b7521edd4,https://github.com/bitcoinjs/bitcoinjs-lib/commit/30e8b572d6e841987612241138644f4b7521edd4,1,2,4,>0,floss

@@ -1,0 +1,6 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+d717020911a350a5ea3c0a985c57d56c8fcad607,https://github.com/angular/angular.js/commit/d717020911a350a5ea3c0a985c57d56c8fcad607,2,7,1,>0,floss
+85f13d602e31424b2e2d18172872f14a24c31135,https://github.com/angular/angular.js/commit/85f13d602e31424b2e2d18172872f14a24c31135#diff-c6914285f0514474b271ac3282fe7b3678349afd729ea92f3177736ed4e5c3fa,4,8,2,>0,floss
+11a6431f8926c557f3c58408dacc98466e76cde1,https://github.com/angular/angular.js/commit/11a6431f8926c557f3c58408dacc98466e76cde1#diff-b8466874e48a4ea22583d6da9ae4c734937c5d806b496870eb4b51d371db9c59,3,11,3,>0,floss
+6d5471c9bea9671dec7900a7bc548aea8ddd5a3e,https://github.com/angular/angular.js/commit/6d5471c9bea9671dec7900a7bc548aea8ddd5a3e,1,18,39,>0,floss
+9b9a0dadcce82ae42ac09ad396d647739af20a06,https://github.com/angular/angular.js/commit/9b9a0dadcce82ae42ac09ad396d647739af20a06,3,,19,>0,floss

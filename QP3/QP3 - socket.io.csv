@@ -1,0 +1,3 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+186649102defa4443e464bf884629311184d3d85,https://github.com/socketio/socket.io/commit/186649102defa4443e464bf884629311184d3d85#diff-43b01c459ebb48eb3a9d186fb9c14ab8567a2ae6e2e8a4c77406f64a872e172f,3,5,10,>0,floss
+07b9c4696daeb10141383767b9c220756e10b88c,https://github.com/socketio/socket.io/commit/07b9c4696daeb10141383767b9c220756e10b88c#diff-3fb720f70ea34fb2975fd6c38ac4b6b6131373be2abfa4760dfaae8a25daaee2,3,5,10,>0,floss

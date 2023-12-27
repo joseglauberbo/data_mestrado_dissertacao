@@ -1,0 +1,3 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+72f5f371a68d8be0ed8bc53c5499a62ea2e2cc76,https://github.com/jshint/jshint/commit/72f5f371a68d8be0ed8bc53c5499a62ea2e2cc76,1,1,1,>0,floss
+cfeff166a14420117e30e927862394c870fe0f3f,https://github.com/jshint/jshint/commit/cfeff166a14420117e30e927862394c870fe0f3f,1,1,7,>0,floss

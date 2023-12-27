@@ -1,0 +1,6 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+d45ef37f2b7266c841fa2f31ac4c9894f2a15fae,https://github.com/usablica/intro.js/commit/d45ef37f2b7266c841fa2f31ac4c9894f2a15fae,1,1,1,>0,floss
+f39637505f4ec5a623d2b4411217c60757a4cd9a,https://github.com/usablica/intro.js/commit/f39637505f4ec5a623d2b4411217c60757a4cd9a,1,3,1,>0,floss
+007089a0007998fcffc6fbc104e89bc60d7b6f52,https://github.com/usablica/intro.js/commit/007089a0007998fcffc6fbc104e89bc60d7b6f52,1,1,10,0,pure
+a5dd55299d677c06c43103ff92b60c493c64d856,https://github.com/usablica/intro.js/commit/a5dd55299d677c06c43103ff92b60c493c64d856,1,6,1,>0,floss
+"cd2ec800d52c69604f5e5545e125d377e1e73267,EXTRACT,{Function _placeTooltip at intro.js:418},{Function _checkLeft at intro.js:564})",https://github.com/usablica/intro.js/commit/cd2ec800d52c69604f5e5545e125d377e1e73267,1,2,2,0,pure

@@ -1,0 +1,14 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+f2780bb825d4bbdcba486d41d45f2268fc1d1786,https://github.com/chartjs/Chart.js/commit/f2780bb825d4bbdcba486d41d45f2268fc1d1786#diff-fe4a7ef21f0215db258fd8c1d5b5ecda9cbe5a250a60b3f7221452f28f47c856,30,39,380,>0,floss
+5732e0d72a5aa0f84132c5b45ecef2b489df1a95,https://github.com/chartjs/Chart.js/commit/5732e0d72a5aa0f84132c5b45ecef2b489df1a95#diff-fe4a7ef21f0215db258fd8c1d5b5ecda9cbe5a250a60b3f7221452f28f47c856,10,18,50,>0,floss
+098b05f1b271d16cab0c73e92df2e8eaa6a7f1ea,https://github.com/chartjs/Chart.js/commit/098b05f1b271d16cab0c73e92df2e8eaa6a7f1ea#diff-fe4a7ef21f0215db258fd8c1d5b5ecda9cbe5a250a60b3f7221452f28f47c856,1,3,2,>0,floss
+bf2ca8bd0b0bb92b888c7208313ded894a32db5b,https://github.com/chartjs/Chart.js/commit/bf2ca8bd0b0bb92b888c7208313ded894a32db5b,1,2,2,>0,floss
+ae643d3d76c57323925fc0bab66823ccd69dbe0d,https://github.com/chartjs/Chart.js/commit/ae643d3d76c57323925fc0bab66823ccd69dbe0d#diff-fe4a7ef21f0215db258fd8c1d5b5ecda9cbe5a250a60b3f7221452f28f47c856,1,2,18,>0,floss
+421e6101501e866959e134ee2e9feca51d049586,https://github.com/chartjs/Chart.js/commit/421e6101501e866959e134ee2e9feca51d049586,1,4,5,>0,floss
+a91dba3e8a713993003d598032158359c98b5d1c,https://github.com/chartjs/Chart.js/commit/a91dba3e8a713993003d598032158359c98b5d1c,2,5,1,>0,floss
+c7107677d2aa690f677868436b8bf3f8f10f60fa,https://github.com/chartjs/Chart.js/commit/c7107677d2aa690f677868436b8bf3f8f10f60fa#diff-20242c6d6e67c730511b603d00054d6c95d7698f180cc1eaeeff4dd3278b9c98,3,8,5,>0,floss
+9b9ebca2467b9be50f5dee9e3ed1ce39bb31f3bc,https://github.com/chartjs/Chart.js/commit/9b9ebca2467b9be50f5dee9e3ed1ce39bb31f3bc,5,11,11,>0,floss
+3a32144d899f2b047cd341e5130450cea367fdfe,https://github.com/chartjs/Chart.js/commit/3a32144d899f2b047cd341e5130450cea367fdfe#diff-f7b70004c35a0c06784335b0e03683e0e50ceaa230e053d836421b628816a085,1,4,1,>0,floss
+676765e8085c297021b241e026e9846b41e3af7c,https://github.com/chartjs/Chart.js/commit/676765e8085c297021b241e026e9846b41e3af7c,1,3,2,>0,floss
+951e714e779bd96ac4f0a7bc04c75685b7b68616,https://github.com/chartjs/Chart.js/commit/951e714e779bd96ac4f0a7bc04c75685b7b68616#diff-7ef815f59b9d8115a120cb98db7927876daaca38f75286c9694e3a2c73d5de9b,2,12,5,>0,floss
+997a216b5008e33c9a9e01b5b5ac89c6536b9883,https://github.com/chartjs/Chart.js/commit/997a216b5008e33c9a9e01b5b5ac89c6536b9883#diff-04b42573a8b6da8bffd63fd6d21295a11fe48a509ce1dc6a88bba85d596a4242,2,3,2,>0,floss

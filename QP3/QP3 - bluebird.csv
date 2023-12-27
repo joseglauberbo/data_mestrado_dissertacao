@@ -1,0 +1,2 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+"096fb5a493ae2b338bb2ac9ff180c9076132bdff,EXTRACT,{Function some at js/bluebird_sync.js:1236},{Function some at js/bluebird_sync.js:856})",https://github.com/petkaantonov/bluebird/commit/096fb5a493ae2b338bb2ac9ff180c9076132bdff#diff-3c3f49644853b3ef49c7bcd9dd361ae0b8262bb7869f2bf3e369b2068a711756,4,5,52,>0,floss

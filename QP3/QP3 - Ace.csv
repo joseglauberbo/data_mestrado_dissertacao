@@ -1,0 +1,31 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+2e6f12725bc01011c545c99c1f1c1da6065063d9,https://github.com/ajaxorg/ace/commit/2e6f12725bc01011c545c99c1f1c1da6065063d9,3,28,4,>0,floss
+7f1bc7af2fcc431241c2e8812588164394444df9,https://github.com/ajaxorg/ace/commit/7f1bc7af2fcc431241c2e8812588164394444df9,1,1,2,>0,floss
+6381f3e048506d5f0e2b8b1da81551d6ff1bd9a4,https://docs.google.com/spreadsheets/d/1CvMvl-c4vji6LJxyDwQO13Z0bpuqp9945F6OLEHdQZc/edit#gid=984375047,2,2,8,>0,floss
+299cdc1b19ec95559d75f1719ebccd15346ef728,https://github.com/ajaxorg/ace/commit/299cdc1b19ec95559d75f1719ebccd15346ef728#diff-5aebdef66253f74a7d6077eedf1196af428ab94b08633c62be731e88f95678af,1,2,1,>0,floss
+b77c3b348ebcb2b6e952262f4c2605a58a6d5287,https://github.com/ajaxorg/ace/commit/b77c3b348ebcb2b6e952262f4c2605a58a6d5287#diff-0c7f0c4cfc3d73115a277f7001dc20211ac64580b5be94923b0514ee4e193900,1,5,1,>0,floss
+2208ccdd4886f0e2f0945b4ec769374ca832b294,https://github.com/ajaxorg/ace/commit/2208ccdd4886f0e2f0945b4ec769374ca832b294,1,1,1,0,pure
+bcf8430ec4abf37ce5cb9d9894d29bcfe801de5a,https://github.com/ajaxorg/ace/commit/bcf8430ec4abf37ce5cb9d9894d29bcfe801de5a,1,3,1,>0,floss
+9244fd04402d8f7dfd8a72ec38f72ad9bf101b11,https://github.com/ajaxorg/ace/commit/9244fd04402d8f7dfd8a72ec38f72ad9bf101b11,4,9,36,>0,floss
+a40c6a9211bed5b4ac442c329f00078b5b947d4e,https://github.com/ajaxorg/ace/commit/a40c6a9211bed5b4ac442c329f00078b5b947d4e#diff-b1a401b155047727f7401727b432f25f6446d54fec0aaa216696f102662fd07c,2,8,2,>0,floss
+680ae0e8a228bdf6d7ed1871b05d621686bbb23a,https://github.com/ajaxorg/ace/commit/680ae0e8a228bdf6d7ed1871b05d621686bbb23a,1,4,1,>0,floss
+62a3b4edf5438bd3217e01a5959b71eb480d9fc7,https://github.com/ajaxorg/ace/commit/62a3b4edf5438bd3217e01a5959b71eb480d9fc7,1,18,8,>0,floss
+e0048b4967c9d32f2036b84761f785631f5ba3d4,https://github.com/ajaxorg/ace/commit/e0048b4967c9d32f2036b84761f785631f5ba3d4#diff-b8c68fc806db5f37fdc5e327b731062e471a1f887cff8650994571b1c2ced1c8,2,5,1,>0,floss
+0a58b58d1fa42b8bf41586ea071f5577e57e16be,https://github.com/ajaxorg/ace/commit/0a58b58d1fa42b8bf41586ea071f5577e57e16be,1,8,1,>0 ,floss
+5e41503243648f5dda38a417042538569910a035,https://github.com/ajaxorg/ace/commit/5e41503243648f5dda38a417042538569910a035,3,7,3,>0,floss
+2e35c0054bfffef6cdb0606797d90f96987cc3be,https://github.com/ajaxorg/ace/commit/2e35c0054bfffef6cdb0606797d90f96987cc3be,2,2,4,0,pure
+1c432b976c83cf2a33af1b620dd690e1dc8206a4,https://github.com/ajaxorg/ace/commit/1c432b976c83cf2a33af1b620dd690e1dc8206a4#diff-1bedbee2a4a0ee4ad962c50f3f77f1e1154b859676bdc6a328afa5f683aaf847,2,4,5,>0,floss
+c2f7944a753f599d14097adfa33ef5d86f324b82,https://github.com/ajaxorg/ace/commit/c2f7944a753f599d14097adfa33ef5d86f324b82,2,4,46,>0,floss
+1c6b0d47d521d9d2bc2c9a9d551996c97e85c134,https://github.com/ajaxorg/ace/commit/1c6b0d47d521d9d2bc2c9a9d551996c97e85c134,1,1,1,>0,floss
+c6b32c96ef8547b47a6fbfd880fcee0cdb6af5c4,https://github.com/ajaxorg/ace/commit/c6b32c96ef8547b47a6fbfd880fcee0cdb6af5c4#diff-299274f744c065a5ea30f5fc90b5fbc94705530f23c8ac134defbb4b0e94e77d,1,1,1,>0 ,floss
+28ea247f17caab7de15fe9a2703ded1e5525d2bb,https://github.com/ajaxorg/ace/commit/28ea247f17caab7de15fe9a2703ded1e5525d2bb#diff-2d40095e4e5cb03eb0894633c3135795eccbb8687f62287363c2cfeb639691db,1,8,2,>0,floss
+40472b71fc67c56ae8dc5602960093d4421775a1,https://github.com/ajaxorg/ace/commit/40472b71fc67c56ae8dc5602960093d4421775a1#diff-7949403f021c1da1275257b75e89aa7ada6af39b3aab33ef37638fe39c700db2,2,2,2,>0,floss
+609f0628033ecf1aeb99ff70f430b24b48ee4380,https://github.com/ajaxorg/ace/commit/609f0628033ecf1aeb99ff70f430b24b48ee4380#diff-407839c2ffecb9d107c5f7221daab1ffff793a6c2f2b2ce4d3aa77260ca66c15,2,5,3,>0,floss
+d436d71c20c3ea1acf21aef6b85587fa28a0cc9f,https://github.com/ajaxorg/ace/commit/d436d71c20c3ea1acf21aef6b85587fa28a0cc9f#diff-715a8842e8eb0fc40f76c4f6af70b99e1fd3b6ffd0a6bd889cd5b567fe479383,2,11,2,>0,floss
+32d7246abd7969891f6317a41dd1cfaac5dae107,https://github.com/ajaxorg/ace/commit/32d7246abd7969891f6317a41dd1cfaac5dae107#diff-c65b24138dd7eca4d58f0d0d52767bac156aa8eba458fc264a2c52337621d77a,1,2,1,>0,floss
+d7486bb1e23cd76d31385b80d75910a45a7d998d,https://github.com/ajaxorg/ace/commit/d7486bb1e23cd76d31385b80d75910a45a7d998d,2,4,5,>0,floss
+10843ba7e6a2dd9726eaa7e7c57c2063993b41d5,https://github.com/ajaxorg/ace/commit/10843ba7e6a2dd9726eaa7e7c57c2063993b41d5#diff-16e8a20a358500bb06a435bcb33fc29f3ec861589ea2b5e88590d17e9c71d50b,1,11,1,0,pure
+0977c392f1e679c187b6aadfd2bee01b44517c7c,https://github.com/ajaxorg/ace/commit/0977c392f1e679c187b6aadfd2bee01b44517c7c#diff-2a36eaf46d1c70b2d6ffeeff4cf02dd6332a811cbee439f754f1d9d54652cb72,1,9,1,0,pure
+bd2a2bff98915b292389e80099c0dbbae6d6e220,https://github.com/ajaxorg/ace/commit/bd2a2bff98915b292389e80099c0dbbae6d6e220#diff-866e01670a5bf57e9998965aa25d27f0669e6d2a7398858d4b24d63b272d617c,1,9,1,0,pure
+0bc817cde188744317d3b0d5e3786738d732172c,https://github.com/ajaxorg/ace/commit/0bc817cde188744317d3b0d5e3786738d732172c#diff-9dc63801374ec78adc23840eb1878058d6dc29e679bcfd60c41f79df16ea705d,3,4,5,>0,floss
+b503e65e0370cb01a251a34719bde5ddb508e2c4,https://github.com/ajaxorg/ace/commit/b503e65e0370cb01a251a34719bde5ddb508e2c4#diff-299274f744c065a5ea30f5fc90b5fbc94705530f23c8ac134defbb4b0e94e77d,2,2,5,0,pure

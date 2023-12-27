@@ -1,0 +1,12 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+eb7f0aa452da27450f18538fc3f7dbf30133bb65,https://github.com/atom/atom/commit/eb7f0aa452da27450f18538fc3f7dbf30133bb65,1,8,1,>0,floss
+8d4b9c248596fb8432f7c1e5f883c934fa34e71b,https://github.com/atom/atom/commit/8d4b9c248596fb8432f7c1e5f883c934fa34e71b#diff-bf046968a7487e63da336bfdd7faecb35a00660e17f04a72c30020f374fac184,1,3,1,>0,floss
+ad39f99a54035a153a799a62a0cc927236481412,https://github.com/atom/atom/commit/ad39f99a54035a153a799a62a0cc927236481412#diff-8e65cae9a53c7b22d15aa40a8090825ad4e150946178bb7c5ca4f9db364329e7,1,2,1,>0,floss
+bf9fac27cf626a2d0a46de526af6662199edc984,https://github.com/atom/atom/commit/bf9fac27cf626a2d0a46de526af6662199edc984#diff-b593ab8e8b689835d17c2f64316a0cc3ac23110b429cf1d00df3e0bfe6021ff8,1,5,1,>0,floss
+d59b779c0adf4e257d9068e8e62acc3ea7719b80,https://github.com/atom/atom/commit/d59b779c0adf4e257d9068e8e62acc3ea7719b80,1,1,5,0,floss
+062dfdea80861f9c918c99a3f86895f908635862,https://github.com/atom/atom/commit/062dfdea80861f9c918c99a3f86895f908635862#diff-23821ae067a9c7dfb6227774aefb39fa3951a5874ea953b9401dfc80175c026c,2,8,3,>0,floss
+7ce5b000e448552bb4ba9556c8f38ccfef127162,https://github.com/atom/atom/commit/7ce5b000e448552bb4ba9556c8f38ccfef127162#diff-1ddec36f0898bccd28575480aaa27015a62ed97c72eddb6733035ff6d721cd57,1,4,2,>0,floss
+e2c480847c81f6f97cc184cb5353080ffbcd590d,https://github.com/atom/atom/commit/e2c480847c81f6f97cc184cb5353080ffbcd590d#diff-2423465efcc7876ec9a4a7aa80c90aae32a63b514339c8c5f415c5335b92e594,1,4,2,>0,floss
+0390548e2c569277a5ed4590f9b4966e599967b2,https://github.com/atom/atom/commit/0390548e2c569277a5ed4590f9b4966e599967b2#diff-9984259267ce5f68760fd9df0e4ea0d3cbfdfe7d1450d18ad4ce1630349ab274,1,7,4,>0,floss
+bf39947eee2f84d6db8a19740a117d568744fedc,https://github.com/atom/atom/commit/bf39947eee2f84d6db8a19740a117d568744fedc,4,7,26,>0 ,floss
+367d595ab8b1b3b26b48c0322ccb0af729b86029,https://github.com/atom/atom/commit/367d595ab8b1b3b26b48c0322ccb0af729b86029#diff-2dd670e4f653e99267c81758e7d4d90bcaeab78eff5c5af330af1f52f3aa672f,1,2,1,>0,floss

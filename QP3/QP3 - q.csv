@@ -1,0 +1,13 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+3fb83eb6ed29d9269035c1d7d098b91779bcc0c8,https://github.com/kriskowal/q/commit/3fb83eb6ed29d9269035c1d7d098b91779bcc0c8#diff-484bb7fd480f75656dd528dc8d27cc5d575696b3a9a70f7f9b2cd81a5894a890,1,2,2,0,pure
+b7428aa6363e8b906a1a3b0fc7a61375e6fa96ad,https://github.com/kriskowal/q/commit/b7428aa6363e8b906a1a3b0fc7a61375e6fa96ad,1,1,1,>0,floss
+cbf0a2eb6664e5ae74fbd41bb74eeb72cba720c6,https://github.com/kriskowal/q/commit/cbf0a2eb6664e5ae74fbd41bb74eeb72cba720c6,1,1,1,0,pure
+20d7f7a3fed9981f257aa13acf23158b028967e5,https://github.com/kriskowal/q/commit/20d7f7a3fed9981f257aa13acf23158b028967e5,1,1,1,0,pure
+7594adabd32722cbec79908e5472b2df9026b46d,https://github.com/kriskowal/q/commit/7594adabd32722cbec79908e5472b2df9026b46d,1,1,2,>0,floss
+16c913dbff60c26214a6650bcde7c1bd23325dcc,https://github.com/kriskowal/q/commit/16c913dbff60c26214a6650bcde7c1bd23325dcc,1,2,1,>0,floss
+2e119fb2c6607f256a24e1436a99107ad14c7af7,https://github.com/kriskowal/q/commit/2e119fb2c6607f256a24e1436a99107ad14c7af7,1,1,1,>0,floss
+da7cf60950c48c89af507c9d12feb4bc5bb078c0,https://github.com/kriskowal/q/commit/da7cf60950c48c89af507c9d12feb4bc5bb078c0,1,1,1,0,pure
+7eb729b896eda852bb1401796ef999dbdebb6081,https://github.com/kriskowal/q/commit/7eb729b896eda852bb1401796ef999dbdebb6081,1,5,1,>0,floss
+bd93de156d895976f6dd5a52120eea66c1b0a2b9,https://github.com/kriskowal/q/commit/bd93de156d895976f6dd5a52120eea66c1b0a2b9,1,1,1,0,pure
+f5ca7a117e4bc643f1930d3fd07176fd8424a137,https://github.com/kriskowal/q/commit/f5ca7a117e4bc643f1930d3fd07176fd8424a137,1,2,1,0,pure
+"424e0f8c8d5c8974bcaf71d18bf2400abca33f22,RENAME,{Function emit at lib/q.js:115},{Function DUCK at lib/q.js:117})",https://github.com/kriskowal/q/commit/424e0f8c8d5c8974bcaf71d18bf2400abca33f22#diff-aac07aefec754086f5c344e2c233862f6a611c739b5647fd456c1b77d3577c79,1,2,2,0,pure

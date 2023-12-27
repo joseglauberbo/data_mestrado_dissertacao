@@ -1,0 +1,4 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+1736f4aaf0efc30774dbc7ef4ed8fec9a19dfd38,https://github.com/PrismJS/prism/commit/1736f4aaf0efc30774dbc7ef4ed8fec9a19dfd38#diff-7bad1f74f0f8fed9cdd04f4cd6eed454eac9cff8d5496de3d9d849ee21a2b3ef,2,7,3,>0,floss
+f680ee70883c6c6b49f88d7dbd9607a28afdcbf7,https://github.com/PrismJS/prism/commit/f680ee70883c6c6b49f88d7dbd9607a28afdcbf7,1,19,1,>0,floss
+e962299cde65f50303855a6f9fcf78ec7102b6b4,https://github.com/PrismJS/prism/commit/e962299cde65f50303855a6f9fcf78ec7102b6b4,1,2,1,>0,floss

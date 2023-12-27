@@ -1,0 +1,3 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+d7b721877cf42fd37fa03e08398ec0b5cee579c8,https://github.com/Leaflet/Leaflet/commit/d7b721877cf42fd37fa03e08398ec0b5cee579c8#diff-65510978f847aaaf9307d30495332de39ecfed44ec25372d1338456e7d953a17,2,11,13,>0,floss
+d1997386fd4d5b9bbe3f33ac7d68ba31a3a8c9c1,https://github.com/Leaflet/Leaflet/commit/d1997386fd4d5b9bbe3f33ac7d68ba31a3a8c9c1,1,2,1,>0,floss

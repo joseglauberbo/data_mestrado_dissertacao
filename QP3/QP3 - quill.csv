@@ -1,0 +1,5 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+5adf20c3bd672e28a6cf707e476406c787102ebc,https://github.com/quilljs/quill/commit/5adf20c3bd672e28a6cf707e476406c787102ebc,1,1,1,0,pure
+9539ae7bcc7c04327d4b815628069c6826ee3f60,https://github.com/quilljs/quill/commit/9539ae7bcc7c04327d4b815628069c6826ee3f60,1,7,3,>0,floss
+ec02e8fd661a241d6692c396ba929dd4b00e39b4,https://github.com/quilljs/quill/commit/ec02e8fd661a241d6692c396ba929dd4b00e39b4,1,1,3,0,pure
+d1149adff6b562fcfc62b25d2bfacd30a331fcff,https://github.com/quilljs/quill/commit/d1149adff6b562fcfc62b25d2bfacd30a331fcff,1,1,1,>0,floss

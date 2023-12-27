@@ -1,0 +1,8 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+296387d67e3c4c22d300326cce29b117026520a4,https://github.com/freeCodeCamp/freeCodeCamp/commit/296387d67e3c4c22d300326cce29b117026520a4#diff-4bd1cb2b31f874bc511de51d55a9c04029e4aff6b2c9a64394f795577dc83787,2,2,1,0,pure
+29f90505b7885ea004b3cf0e2fe0268518f58af6,https://github.com/freeCodeCamp/freeCodeCamp/commit/29f90505b7885ea004b3cf0e2fe0268518f58af6#diff-a7cd5cf6304bf4b5b4bbe776d9015178e1ea85fbe03146a82abdffddb83237f9,24,30,15,>0,floss
+8c48626f031c40b5ffc6fc20684f846260181f93,https://github.com/freeCodeCamp/freeCodeCamp/commit/8c48626f031c40b5ffc6fc20684f846260181f93,1,17,1,>0,floss
+13590a133160634c41ed4ed5ec3a8f45f7db998b,https://github.com/freeCodeCamp/freeCodeCamp/commit/13590a133160634c41ed4ed5ec3a8f45f7db998b,2,4,6,>0,floss
+7da6f69cd85be2981d9799de3115015f542b8f5d,https://github.com/freeCodeCamp/freeCodeCamp/commit/7da6f69cd85be2981d9799de3115015f542b8f5d,4,13,6,>0,floss
+e4eb5052c7826f1cecffb0e6571b858afadccf6b,https://github.com/freeCodeCamp/freeCodeCamp/commit/e4eb5052c7826f1cecffb0e6571b858afadccf6b,1,1,1,>0,floss
+afab456ad96a5b47551f265f1cc0378e12ed868c,https://github.com/freeCodeCamp/freeCodeCamp/commit/afab456ad96a5b47551f265f1cc0378e12ed868c,2,10,1,>0,floss

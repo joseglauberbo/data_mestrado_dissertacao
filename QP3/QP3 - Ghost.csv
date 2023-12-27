@@ -1,0 +1,16 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+6b3c4a59b4d357362db90bc074d724efd3792153,https://github.com/TryGhost/Ghost/commit/6b3c4a59b4d357362db90bc074d724efd3792153#diff-c4c90c8f9e21a4fcd1dd93210048d8f26db0cf6e5279c430314801995c25d5be,2,4,1,>0,floss
+a62b014905b71434f92f28e7a74039feb8fe128e,https://github.com/TryGhost/Ghost/commit/a62b014905b71434f92f28e7a74039feb8fe128e,1,8,1,>0,floss
+fd0f5a5028888210e68482245d03ad207bc2c6ca,https://github.com/TryGhost/Ghost/commit/fd0f5a5028888210e68482245d03ad207bc2c6ca#diff-dc48ef0c63185614bfc9f93d07296220f5d06654bffafe796ed05d1283e44424,1,43,1,>0,floss
+1e624004653d5e19b480f7f36dd9437e2b12679f,https://github.com/TryGhost/Ghost/commit/1e624004653d5e19b480f7f36dd9437e2b12679f,1,13,1,>0 ,floss
+3296a3a41c41f54fdf31d7ee274fb75a486d9236,https://github.com/TryGhost/Ghost/commit/3296a3a41c41f54fdf31d7ee274fb75a486d9236,1,34,1,>0 ,floss
+665bacf4c68db70b01b4e56acb82bf6e03f698cb,https://github.com/TryGhost/Ghost/commit/665bacf4c68db70b01b4e56acb82bf6e03f698cb#diff-691fd67bdb6f4434ffe14c5305db2540db42925bb360ba0bcb14a2b6b1a4f1f7,6,9,18,>0,floss
+242367e22856f0d6c20ca1c02371e15eb4758a6b,https://github.com/TryGhost/Ghost/commit/242367e22856f0d6c20ca1c02371e15eb4758a6b,3,14,3,>0,floss
+601e261439ea8d8c755ee6715b0cd1e7eeffd353,https://github.com/TryGhost/Ghost/commit/601e261439ea8d8c755ee6715b0cd1e7eeffd353,3,15,6,>0,floss
+52911c7a502c509f796e41d564cc56f9bc73ad81,https://github.com/TryGhost/Ghost/commit/52911c7a502c509f796e41d564cc56f9bc73ad81#diff-6a1bb8d18dccdbec1c0a0bfbc9a77ba708a41a6fa0221c16f8d043e1408fe013,1,7,1,>0,floss
+9a7e153549daff688adfbdd8d6a83dfdbba09cbe,https://github.com/TryGhost/Ghost/commit/9a7e153549daff688adfbdd8d6a83dfdbba09cbe#diff-0abc98e14da3602c8308c4b97c07a6fb0e0704726811b4e92729a372e29082f6,2,7,1,>0,floss
+d90df55b75a4607967961000f0444ed1dbdf2c8c,https://github.com/TryGhost/Ghost/commit/d90df55b75a4607967961000f0444ed1dbdf2c8c,2,17,2,>0,floss
+00199cee6733a1945984af7a6ea264244ad4dd6f,https://github.com/TryGhost/Ghost/commit/00199cee6733a1945984af7a6ea264244ad4dd6f#diff-aac8a3d4c7f0c0698ca6bcbb887550053eb06a3faac1cb22b904b1dfc92b9cf3,2,6,6,>0,floss
+9ac01e02b419cd2587d1ed0c0c06b72e829e1813,https://github.com/TryGhost/Ghost/commit/9ac01e02b419cd2587d1ed0c0c06b72e829e1813,1,2,1,>0,floss
+c52a10cd1a5c3888326185621448b85641d1e2fc,https://github.com/TryGhost/Ghost/commit/c52a10cd1a5c3888326185621448b85641d1e2fc,1,2,1,>0,floss
+7ebd104f3f8e350f61ebaa21d31dc27a37b6bc88,https://github.com/TryGhost/Ghost/commit/7ebd104f3f8e350f61ebaa21d31dc27a37b6bc88,4,16,7,>0 ,floss

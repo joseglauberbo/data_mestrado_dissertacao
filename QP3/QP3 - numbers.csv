@@ -1,0 +1,4 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+8f25d3714ed216a76011ed984dda20469051a4a2,https://github.com/numbers/numbers.js/commit/8f25d3714ed216a76011ed984dda20469051a4a2#diff-fa318332fe56f648a72276c9e4a38f70aa414f8dbf9e289808bfb8060e32f18b,2,6,6,>0,floss
+79e6c088ccd9d7d6232b2f88d9d891de9c5b05c5,https://github.com/numbers/numbers.js/commit/79e6c088ccd9d7d6232b2f88d9d891de9c5b05c5#diff-a35648fe0462762958a354e9fbbf5d17cd241eb9d4d76791c22639d3e003a7de,2,3,3,>0,floss
+81412359b507cbeba3c3958bedf90d8bdf4eb77c,https://github.com/numbers/numbers.js/commit/81412359b507cbeba3c3958bedf90d8bdf4eb77c,2,4,3,0,pure

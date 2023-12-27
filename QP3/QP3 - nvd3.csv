@@ -1,0 +1,12 @@
+commit,link,qt_file_refactorings_diff,qt_file_refactorings_interface,qt_refactorings_refdiff,qt_other_modifications_interface,type
+706f28b71ff93e2df23d6175971deecf0092ac26,https://github.com/novus/nvd3/commit/706f28b71ff93e2df23d6175971deecf0092ac26#diff-82e78dccce0a3d70da49d2c06d5ca9712ecf363bb2480a966291967c484936d4,2,5,2,>0,floss
+049c9a0bfb52372911e8ce5b0d0531c4ebe9a778,https://github.com/novus/nvd3/commit/049c9a0bfb52372911e8ce5b0d0531c4ebe9a778#diff-b9726e6d5ce781930678c07f65ce05a2e841f8c52439f1b5dab9d1e8260ed3f0,1,3,4,>0,floss
+ca91c4ec0abc718fcb372ac25b286971f83f1089,https://github.com/novus/nvd3/commit/ca91c4ec0abc718fcb372ac25b286971f83f1089,1,1,3,>0,floss
+44c538bbf5ef25799e25b723308a50c009a79fb9,https://github.com/novus/nvd3/commit/44c538bbf5ef25799e25b723308a50c009a79fb9#diff-25908c9a9cab057e1bf06d5029db7b5a6e572deecc149ce5d08101359e68b153,2,2,4,0,pure
+7f24fe8d1f3c523ea3af54ddd262afdddbed791c,https://github.com/novus/nvd3/commit/7f24fe8d1f3c523ea3af54ddd262afdddbed791c,1,2,7,>0,floss
+c13be39c1287edfc796fbd93de4ac15fffaca29b,https://github.com/novus/nvd3/commit/c13be39c1287edfc796fbd93de4ac15fffaca29b,1,5,2,>0,floss
+b07d1f2a8741bb397120ffeafddde70633458492,https://github.com/novus/nvd3/commit/b07d1f2a8741bb397120ffeafddde70633458492#diff-b47d0c88edfc6b631654070845b7e111e12487eb2793d9491d7d2d58ae5c440e,1,3,4,>0,floss
+2f6c35e3adaf56ee77aed0866debde6f4206faff,https://github.com/novus/nvd3/commit/2f6c35e3adaf56ee77aed0866debde6f4206faff,1,2,1,>0,floss
+ebea41d8dc3327276bdd8d7d8d6b2f6a756df3eb,https://github.com/novus/nvd3/commit/ebea41d8dc3327276bdd8d7d8d6b2f6a756df3eb#diff-4bcd13151bf2bddcd3de9e0543d65b1a0ad5bffcbffa3c39f1514023715825a7,1,2,1,>0,floss
+5dcc2b7402e259c75a51d58ab319b221860f0d19,https://github.com/novus/nvd3/commit/5dcc2b7402e259c75a51d58ab319b221860f0d19,2,3,2,0,pure
+d57bd67074691d3ca77da338d3f387e28a4e43d9,https://github.com/novus/nvd3/commit/d57bd67074691d3ca77da338d3f387e28a4e43d9,2,7,2,>0 ,floss
