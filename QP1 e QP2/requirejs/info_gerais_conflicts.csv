@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+8526587a2ef33b5085220c386b88beb78feb5cb3,16699d128d4bfb8f9824fb2ceba006a1f3d987be,4933ecfd458a925c22098dda916cc4fd0befc3b9,"['require.js', 'text.js']","['tasks.txt', 'README.md']",4,22,15

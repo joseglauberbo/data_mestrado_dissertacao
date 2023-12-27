@@ -1,0 +1,11 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+4d6ddcdd9a915602a4effd05472e58a2346965a3,b5f357d59fa2d66b34e757463aa114157249181d,8b24585edf20029f5cc052f3ba495af279efd171,['require.js'],[],1,1,1
+1a3179c2f2a536b513ce3587c728822423c80547,a1556d4d2eb3a5ab3629e4099d892b72aab77b6f,6b503691cf4eacac59a6b9896ea959eb19eb1895,['text.js'],[],1,2,2
+50b693e97900d6ef7df8fa4b4e7571469897639e,c85d60e5ccdb2ee3619d8b9c0ca4ad2f23641efe,07de48155203931a763a7b954b016e8dbd1d26aa,['require.js'],[],1,4,4
+0b8670e655e00da8062c81951938b13d36a2eb5c,dcdab39d2b8e7dfc680c8927ebc0f9aa62516a71,6ecc0ef3ae0bc93b3d355fc46465cb4de17f9e9d,[],['tasks.txt'],0,1,0
+c6adab0ca2357c0d83cca91825bb3bfb1d741dbd,e2c7ba8cba2a886754e1db7abeeb9f7858fe696c,77dec29e0dc87fc4577f78f329dc72f6eecc4052,[],['tasks.txt'],0,2,0
+0b6c3aa621cbd5e9d78206d0ada4457b354bff14,72d2840fa56b1651f15f4331982b01257dfdabd6,3b4847df269ecc59b582bb2869a7fff2906d29a0,[],[],0,0,0
+5c3529f57d32620073b0529a1da3c48c73ac82e2,43814343f233b977afb511bec24dd6c1767d7df4,fd4417f795d0a9050edf00bac62f8c344775551c,[],['tasks.txt'],0,3,0
+d93e11b73cbf945754847bf1ee28095d4b7db246,5e9c5bdd7d124eac710a3a63ed04099c31bb6544,6e6e2e0636c188797e0e7ce32986845a2c4ea4e5,[],['README.md'],0,1,0
+8526587a2ef33b5085220c386b88beb78feb5cb3,16699d128d4bfb8f9824fb2ceba006a1f3d987be,4933ecfd458a925c22098dda916cc4fd0befc3b9,['require.js'],[],1,8,8

@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+f6b84225874075b80d743b2aba9bf0437cd3ae26,cb16e62c4f5d62f5caa0089f56c7b899add23147,0376b603330853c82c7f9b4ab3d47f3de2cc0c39,"['bin/jade.js', 'lib/jade.js', 'lib/parser.js', 'lib/compiler.js']","['Readme_zh-cn.md', 'test/cases/mixin.blocks.jade', '.npmignore', 'Readme.md']",5,11,7

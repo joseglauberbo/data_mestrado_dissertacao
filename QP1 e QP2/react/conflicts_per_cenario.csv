@@ -1,0 +1,35 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+9d4fd7a24991598aa2fcaec203dbba5c04d253d1,13a93e7b82119d60532e3d7c8273c90764ec4bae,4c1514495bf77acad2677b9944726e512691150e,[],['packages/react-devtools-extensions/src/main.js'],0,8,0
+4da836af71f035a25c26814e7f6aa04e0535f4af,833f20634868961f4786879ee18d94b06971f05f,3ad50710a769838c9ae9c2d1669c5981e7639092,[],"['LICENSE', 'packages/react-devtools-core/src/standalone.js']",0,21,0
+3ad50710a769838c9ae9c2d1669c5981e7639092,56b1c20cf0b990dceee7e62599f272c5b28aa991,2843a1556e778c363757653ad74390d0660b9aba,[],[],0,0,0
+833f20634868961f4786879ee18d94b06971f05f,85fbe3be3fa645734c68992bb0aa9bc756dab9ad,efa5dbe7a57c2e761bae90e07391f43ce7c01132,[],['packages/react-devtools/OVERVIEW.md'],0,1,0
+85fbe3be3fa645734c68992bb0aa9bc756dab9ad,7ce229d3b080ce06b9a5c7a5e667474f3255b954,a9304e79d467bf9058f4352ddb5450f8a43d4f46,[],"['packages/react-devtools-core/README.md', 'packages/react-devtools-core/package.json', 'packages/react-devtools-inline/README.md', 'packages/react-devtools-inline/package.json', 'packages/react-devtools/CHANGELOG.md', 'packages/react-devtools/package.json']",0,6,0
+44e410900da8ef7b5e7daf18e7a0bf61b6612247,441d014cefa2a1c98b4ede641f2c358b1b3bb58f,b1a03dfdc8e42d075422556553ffe59868150e95,[],['yarn.lock'],0,46,0
+ad7458bb42d557f5d1d78fd561ab164740962cb0,9243bc194c240d3f06ccd5e4333f3488f2628e2f,88e59277e7362640bf68799893053f55894e472c,['src/utils.js'],[],1,1,1
+c7580fcd3f713f391c6f5f3ceab7cd305a01a20a,7aaef6f41fa0dc0b13554a2e0800a34187a4ddfc,92c2d8366b77e94125010a626c1a56e4b4f94864,"['src/__tests__/profilingCharts-test.js', 'src/__tests__/profilingCommitTreeBuilder-test.js', 'src/__tests__/utils.js']",[],3,7,7
+fa0139afbfcf9bfb25cd64e9ce45762b1d416e24,4422337562574cb87012d3dc68ea66cab638dda6,af47c39dbbf195442e9b654e8de0ebadf4102316,"['src/backend/agent.js', 'src/backend/renderer.js', 'src/backend/types.js']",[],3,7,7
+94bebda8252a1d922a8e518a7f53c5d4f277dc44,29811cd24ef304fb089c6d69692b2e2e21f47e1e,bda8a0aa9850bd9925f0bf8dbe3179d9f04f0fa6,"['src/backend/agent.js', 'src/backend/renderer.js', 'src/backend/types.js', 'src/utils.js']","['package.json', 'yarn.lock']",4,15,10
+40ed0ca8393b43c7e1bdac4b7f1585de2b25569b,4bf3ac19101c3273b205ed08f293795597485dee,d35cf80921245ff7da4bcc7c17f68082f21088fb,['src/backend/renderer.js'],[],1,1,1
+ba640df98294946f188fd8c35fa81122e6a88178,d53ae2ea8a5db88232c6802fc8f480cb13c23576,433934f55ef272b39281e9b56e4d6c3ff34f48fc,"['src/devtools/views/Components/SelectedElement.js', 'src/devtools/views/Components/TreeContext.js']",[],2,11,11
+740993baa916e5482275825ac29fb0c3594018e2,02a3a2275307389474c11119cef1f13763cfca60,72156c744f8fc2992b81c0c2dc1b7a3147c2d79e,['src/backend/renderer.js'],[],1,1,1
+37dd1ec8f8411674ac4f762eb95c844df7de3310,b0c0a11f1b8f8047cbbd898ca481ca03b8d47710,f286c0d901588b6d2ba811e4b9077a65279bdd70,"['src/devtools/store.js', 'src/devtools/views/Profiler/CommitTreeBuilder.js']",[],2,4,4
+388677fcbce398974b7dea1341096aaedddd3793,99593444b98bd0c0ae255fb897867a02c4a73d25,44ecff31e3b8d6963711dd375045e5deca068fc7,['src/backend/agent.js'],[],1,1,1
+4d9e7e75c6e37d026c91444ef6120bc3fe642edb,89df0a6363d15a502b278a25b31a97706b4346c8,044e6ba9cd217a079d99a2274b3bf5f5e6d70875,['src/devtools/views/Element.js'],[],1,1,1
+8bc11649df767402c262b6c9b67c6dd811d42cd0,d2944bb5bf5c9db99dba2569d6e49202e5a1c8bd,e452e3374135c116ef687a8bb3a5d277e3cde8fb,['src/renderers/dom/shared/__tests__/ReactMount-test.js'],[],1,1,1
+209b7522d99a8af36f8d9e06ce622c59b793e5a3,badc15e3c045a59adc3fe1acb76c7c98015e8927,f1c15444019587783d1afd181c8cc15ea3b04ff2,[],['docs/docs/thinking-in-react.zh-CN.md'],0,1,0
+edf4d24c499faf83ea16de25edc77b9cb522a7aa,6eb5a15049fcb8b11a6f513b4c9833242dc33f17,f1e524b0b16b4645ae9e9d8bdfaee155f6d9ac66,['src/addons/transitions/ReactCSSTransitionGroupChild.js'],['docs/docs/10.1-animation.md'],1,2,1
+3ca5c15c1ee8375c7308e37d61228863ceeadcd8,d66fd214466d77d3bc2e4bfe6458771ad84afca4,fc63cebd29903a9bc8fb90132d9605f5d23f5c59,['Gruntfile.js'],[],1,2,2
+a841b4f5fb2b26a7a46cc0a618aea764e7fd0e94,531e6280a357515512dbcefe9170dbd8bf109d4a,0937e918aac558e54b38245a617881a9b230668a,['src/isomorphic/classic/element/ReactElement.js'],[],1,1,1
+b5bcaba77fbe53cafd7c5f6b76752b09791caadf,8a4b2763dc4fec2c13e13005e3c118ba48faa673,1fd187b9947fc708d7be9129d2a3b4836a831915,[],['docs/docs/02.1-jsx-in-depth.md'],0,1,0
+f45d7534864b8e77bfa12e920c342bc290e26e02,ef327fcb235c5913364b839c7427718985593b1a,6c19040d24223a2c98953ad85d318657504ce874,[],['docs/docs/flux-todo-list.md'],0,1,0
+986f5a1a07dcc860ecb23295c6948762d16478ae,0e5316f12fc5536287a216c3bdfe3acb80e361ef,e625b8b2348d151fd3ee969e55ccd64ca9461006,['src/browser/ui/dom/CSSPropertyOperations.js'],[],1,1,1
+77150630e2f2832f83067a958b9aea194c68a126,3c64461383d790c299e32f148dcbdf75101c3b18,765ee8e5d0e8c309c0e4d87ba15466c46e6b0138,['vendor/browser-transforms.js'],[],1,2,2
+1e268c359152d04195b026a42dd703867bdec525,3e30940bf31c3ab9e8321b69b00aad63929b5358,7954a861d18d6000d04738c39912f1de3db7065e,['examples/todomvc-flux/js/dispatcher/Dispatcher.js'],[],1,1,1
+765ee8e5d0e8c309c0e4d87ba15466c46e6b0138,3f31ec463f26a5786bc7262e8b87f61c53169380,2d26451821e024c287d3f2377610051a56a33315,['vendor/browser-transforms.js'],[],1,1,1
+b0f9f73e918f544601b97df52709ce83067e91a2,c6a59c0ae63834b90f854f32f0b3ebdf2acbe3e9,69767d4b792d2192ccd0e5b2cbfa29b401d798fd,[],['docs/docs/01-why-react.zh-CN.md'],0,1,0
+5d2f0b4e0752509cb147d363418df1b2543c89e1,e79079d174f60e88d0eff3c58640109cd487135f,ff51a23aeabc06701fbf99ebf676169c5e55e402,[],['docs/docs/09-addons.md'],0,1,0
+d220ce71b53f74bc7ead832070f9c9b30cb98593,d6cbc710bdeb65057e3aa4dfd8ac691c4e6a6a71,0acf5e22bda991b4caebd6fd75e07187734675e3,[],['package.json'],0,1,0
+dbdf1cc296de40786146da4bdedd8172c9f555d7,96bd63cc4bc36791aa6b7fc4559e5c5e9e00bab7,dd14fdfdc57d9a0dd9eeb10d83daacce77a2aaa3,['docs/_js/examples/markdown.js'],[],1,1,1
+f39a0f8e40a8aeb0f6d6e5e63be2a38a89f3fb5d,ca19ffb0837bd9211375b77e589fcc40f658c34e,e9980412296b6469f39605f48ea527776d7ac718,['src/core/ReactNativeComponent.js'],[],1,2,2
+43358157cff16e8945da9b816fcb858a59da81af,0b65d7555eabdd719490ae5e35482a9b348dac29,ac5320e8871e87a01d22a69e2d9dc1ab7f781515,['src/core/ReactDefaultInjection.js'],[],1,1,1

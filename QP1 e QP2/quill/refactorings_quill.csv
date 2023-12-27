@@ -1,0 +1,8 @@
+5adf20c3bd672e28a6cf707e476406c787102ebc,RENAME,{Class IdentAttributor at formats/indent.js:3},{Class IndentAttributor at formats/indent.js:3})
+9539ae7bcc7c04327d4b815628069c6826ee3f60,INTERNAL_MOVE,{Function index at blots/embed.js:25},{Function index at blots/embed.js:22})
+9539ae7bcc7c04327d4b815628069c6826ee3f60,INTERNAL_MOVE,{Function update at blots/embed.js:70},{Function update at blots/embed.js:67})
+9539ae7bcc7c04327d4b815628069c6826ee3f60,INTERNAL_MOVE,{Function restore at blots/embed.js:31},{Function restore at blots/embed.js:28})
+ec02e8fd661a241d6692c396ba929dd4b00e39b4,EXTRACT,{Function constructor at core/selection.js:20},{Function handleDragging at core/selection.js:94})
+ec02e8fd661a241d6692c396ba929dd4b00e39b4,EXTRACT,{Function constructor at core/selection.js:20},{Function handleComposition at core/selection.js:78})
+ec02e8fd661a241d6692c396ba929dd4b00e39b4,EXTRACT,{Function constructor at core/selection.js:20},{Function handleEmbedSelection at core/selection.js:112})
+d1149adff6b562fcfc62b25d2bfacd30a331fcff,EXTRACT,{Function pasteHTML at core/quill.js:237},{Function dangerouslyPasteHTML at core/quill.js:104})

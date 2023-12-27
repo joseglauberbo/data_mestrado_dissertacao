@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+140adcc9ed566a152fb5a017f7368702fad07f8b,c7bdbc31cf94739901ee9f07dba492f897add356,479161c4e660ae3e348e285e9dce8cc59a1bb4b6,"['q.js', 'q.min.js', 'lib/q.js']","['CHANGES.md', 'README.md', 'package.json', 'CHANGES', 'test/methods.js']",20,78,54

@@ -1,0 +1,9 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+ad86d8b88acfb3b5d5a174042bb7b8a49aa2af9a,29df168a47531ff617862febbe264a320dd2d6e2,10272b9fd54374aa8550f55ce4dad161906a7e2a,['bin/jade.js'],[],1,1,1
+0c996d0429ba58f95049730636564ae3e4dd7196,2c19c329c25667fa2d92c7130ef05408125872d1,8ed5649d965ca62cf5fed1e7b0cd32977eb06e40,[],['Readme_zh-cn.md'],0,1,0
+5e4e29c1b8badc8a28d8514e1bc6d347820778dc,7ea453cec7b5220c3270f136ba3c146c9f8492fe,2ca5abf7c9cba6804b1c903d3925e126cc604dfb,['lib/jade.js'],[],1,1,1
+c78fe616819999b0a4d569463a9a1ec39d40093d,d79ee8568c553b99711cba2719cc4fac201adaac,58ae4f57ae3ce1a2fd27f164356c7ea09560dd21,['lib/parser.js'],[],1,2,2
+842a7cb2de8e27f09a5815d080f150cb5512453f,1fbc4255e93db150fc6d01f7f8017139b61fb9c2,9f37c4442f683d78e5ad33101fc2ad84e9ac5a47,['lib/parser.js'],[],1,2,2
+18638bf54f0be96c6985344f16a5dd36aea9706f,fd7532073e2fa383b63f9b823d43fae675df4786,96bff337e7b3903be6cd0c35d59194b40601718e,['lib/compiler.js'],['test/cases/mixin.blocks.jade'],1,2,1
+f6b84225874075b80d743b2aba9bf0437cd3ae26,cb16e62c4f5d62f5caa0089f56c7b899add23147,0376b603330853c82c7f9b4ab3d47f3de2cc0c39,[],"['.npmignore', 'Readme.md']",0,2,0

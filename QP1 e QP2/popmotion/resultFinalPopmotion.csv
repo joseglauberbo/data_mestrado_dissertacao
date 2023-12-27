@@ -1,0 +1,56 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+e3184b638db2e2413898b6f17154ccd8c28829d7,2399722bb40eb2671be8f99c21a85213a439fe8b,4c91fe3a5cdab6e31f826e4150ea7403c9962db2,"['site/styles/themes.js', 'site/templates/content/MenuPage.js']",[],2,3,3,0,0
+ad02d8b21c38f5658b78fdb5d822d1eb2e7ac9c1,e967c18efbd93c3f7fa3746ae9ea417d90666410,41932e5fb05193f5c4eeeb79ab6affd0cb08e31e,[],"['packages/popmotion-pose/CHANGELOG.md', 'packages/popmotion-pose/dist/popmotion-pose.js']",0,9,0,0,0
+f90ced2957df749b17b7fd4cf8d2f01fa5e5c098,ffc1345ca33d30233d0477c9909a981613baff87,a0a4375d35e6b22629ad9ec3ef768c2e834ffd7a,[],['packages/popmotion-pose/package.json'],0,1,0,0,0
+f40cb0174f688a79869c1fc8befe82593703d960,75c3c517dcf5bfc4d3e7cffd2cd3bd8b5a8eb9a9,532f95b19fb82837ae7787fca74dfa0d776d13cc,[],"['packages/popmotion/CHANGELOG.md', 'packages/popmotion/dist/popmotion.global.min.js']",0,3,0,0,0
+df656cef4d55ce7e18fc2b546aa9a49c86549f13,95765d6cdac53ac3524d88cc7e9db10664fc3cfc,ed326d10042b6d9235438c1543bf90ca84f89f41,"['site/styles/reset.js', 'site/templates/Homepage/USPs/index.js', 'site/templates/Homepage/USPs/styled.js']",[],3,8,8,0,0
+b9f83df853db63c50e15eef9554a11cf26b3516e,c717d4086f7efd6120c0de35f08aadfd177f6952,6dbc75708c9e58fdc11abd97efc2faf2b53cd5b5,[],"['src/action/_tests/action.test.ts', 'src/action/types.ts']",0,2,0,0,0
+88522a9c7c35c8873df1ea514a8c2c83630d80d5,82d2f135058c6268ccf7a2a56294a5ff3217026d,9ef38e3aa246159b7399f38f7fbc06b9694511a3,[],[],0,0,0,0,0
+6e110bddf28556ef3a67dc5d7427fad9eaa502b6,8951a628f87b0705270f4e83a55539ef6d410bfe,b4c3a6d296ba58bd99a95ad116f4223ecf47360f,[],"['CHANGELOG.md', 'README.md', 'docs/api/value-types.md', 'package.json']",0,4,0,0,0
+72758a1c09f1f5a4033e267c856581abdb151caa,b768dedc580c515ca123deee1b21588de9743dc5,656bb291afaa338bff1ace47151195bd26f1916b,[],['dist/popmotion.global.min.7.7.0.js'],0,2,0,0,0
+abd27c8ec56ed8e44d677e533b26281402e9838c,19c18ebb20599316e3c027f620e373ee3172b383,13e5a4c281934b95d07e55cf8beeeff7382c87a1,"['src/actions/composite.js', 'src/popmotion.js']",[],2,2,2,0,0
+fd8618f72ac00970da238d8272d2534f50ac6110,3263ccc19392bac29fc856acc360751f7ec4074e,698c1a56df576e9e8b586493584a63361e43b14a,[],['package.json'],0,1,0,0,0
+0523c273fdef08a060cefb515d4c68095eda95c3,932373b11a797451c47a3bef9755b03521ea6e2f,f963cc3e145b3e42429717f2bf5c1379f1959280,[],"['package.json', 'packages/popmotion-react/stories/index.js']",0,4,0,0,0
+9a5ec781b263ea73166ce6b42bcb3359d310f336,9f27ed4f1543a4cfb20d61ff12529fddda7a0f7e,72a370b52d029440e86e30458ef2c28ff078ed5a,[],[],0,0,0,0,0
+50fcdb65c536f555e703391206a727fd644103ce,31582c010be1f8ba44bb412511b06e5775f0e9dc,1ce9c304db4162f6981e9c4d9847d8f1d274e7aa,[],"['docs/api/plugins/react.md', 'docs/blog/20170703-choosing-a-default-easing-for-popmotion.md', 'packages/popmotion-react/package.json', 'packages/popmotion-react/src/index.js']",0,12,0,0,0
+5b0b8ced4363f278d5431d6fe76a3d4211a7b5da,7ae011c94abb5acf2916b36624aee7f5eb938571,4c540bcda21c6f464c5f2b76be59e959c83a64d1,[],"['docs/blog/20170625-why-popmotion-default-easing-is-ease-out.md', 'site/data/content.json', 'site/data/menus.json']",0,3,0,0,0
+1b65aa2ee691239968bc831b18e552c2973d5287,b2855b645682075ac9007bc912de01c48342f4f7,c3c7ef1443ca4de4b2e43d859eee27a7b8d309a9,[],"['site/data/content.json', 'site/data/menus.json']",0,2,0,0,0
+121d73c77a5c026620ae577266e473f1fbc6d145,816ef80293b06866916122c74b3a129bf488a8ea,880ebff77ac4194696da7437015be06912876922,['src/actions/color-tween.js'],"['CHANGELOG.md', 'package.json']",1,4,1,0,0
+d62356c25040f19c0ee06e3a1394ec8221156d52,d1d9fd7bdacecca08944ce94fcede7f5c5665f4d,28c0f759f6ccb9971c5f2a94d739f2f98dc863d9,[],"['.babelrc', '.gitignore', 'CHANGELOG.md', 'dist/popmotion.global.min.js']",0,5,0,0,0
+128ca76e038a699287943006e8060250bf230221,a9ce587a64390349484edc2de76fa3d0ac2fb2d9,7f62601d529d22097c07505a99574c2ef840bc69,[],[],0,0,0,0,0
+be89715590417bea1334800ae3690f6221cafa0f,c8fc7135ec1d941b152834a60b0e41ecd9bf2162,343c99e59918de8f884fb31fb46a6cc04d871ae6,[],['package.json'],0,1,0,0,0
+4562985d3feb3ee99c2ff4f9b44747d6167f513e,0fe9dcc7604c6f58f9f7cf51e36644a818668b8f,00bcbad88eb2860b0c84d4d3a4a70209a71a093a,[],['CHANGELOG.md'],0,1,0,0,0
+d8b407ec187f5dc1fec16bedce52ae8e3ce0cee5,93ab3f35bb8dee5d5c397650601210a8d1e31673,d3053e2f974851570b3970f4345cfaa2d83bd2d9,[],"['CHANGELOG.md', 'dist/popmotion.global.js']",0,62,0,0,0
+942f367fd2e53b5b9add0e965c4abbdecd815d12,f3593ab9fe729886f9efbcb6c011b25db6835902,20e0093c87b522edc344c2ce791a037d099a59bd,['src/value/transformers.js'],[],1,1,1,0,0
+96625d723a5766c1533876f2ba7099538490d6d8,64583bd1e58ac7f887495d14a2626210281f631b,f9a5fc7809b15b63484b4cd3bdb22924c04f7c40,['src/value/value.js'],[],1,1,1,0,0
+7659cc723f0433710d2672a5711e40ecf14ad2a7,814db6ca47d8ea2d30bb74587883c35a71ad3cc6,c3aad619b6c0c6025fc6a3d9bd7d819afa8f58d7,[],['dist/popmotion.global.js'],0,76,0,0,0
+8d4f0de08e3a16305934bd524c90b95207d33d79,8e7de0361fd24999ad209beb15b36ebf5a545ac1,d7825c76d007d0096e0e393bc63d31f602a9b938,['src/actor/Actor.js'],[],1,2,2,2,0
+1b53588dbb383a916aae4c833ba4b1c82f6e1968,7060b2b1a2786e38b2d33a56a95ff7831698bc23,742aca4fddef858e2f349c4eaacfbc129901bd07,[],['package.json'],0,1,0,0,0
+1a86b0e1ee79f84c23cccaf628480c287664cdce,bbd45343234451d839652b3e79241f8474ec7885,d35870d5b2305d61e60bbe1c07ca3218a5bf54a8,['popmotion.global.js'],[],1,1,1,9,9
+217c75d29c6e0f658397f1380dbd4277d6883c46,c7909e37d64caddc6e8e2973db9f9605f0dad6b0,40673bf56a762a695f6585cc6e86691a39dee076,"['lib/actor/post-render.js', 'lib/actor/render.js']",[],2,7,7,7,2
+8d70d89675fc047a5cb4518e4ce762bd3565d87a,9015af5d024502e46cef746abc5982f897816ba0,029c8e9891af6064ba37c67bfa1bef6a4b41ef7c,"['lib/actions/Simulate.js', 'lib/actions/Track.js', 'lib/actions/Tween.js', 'lib/actions/Watch.js', 'lib/actions/tween/TweenControls.js', 'lib/sequence/Sequence.js', 'meteor/spoof-window.js', 'popmotion.global.js', 'popmotion.global.min.js']","['CHANGELOG.md', 'package.json']",9,11,9,38,4
+3304047188dcca8c7e4c1171e5fe5cff0fcc40c0,6f47f9b926a99475de66b66103ead636c9738d4c,b32a4d5bee31ddd00f0bbe9a9bd075f04d03fda4,"['popmotion.global.js', 'popmotion.global.min.js']",['CHANGELOG.md'],2,3,2,2,0
+9c50e97e82794215e7ef970134d88a0572bd4723,8caf1803821275b859c7075089f2c2a08d4e5abf,54dffde94303d5940488be83b2184ede5e33014d,"['popmotion.global.js', 'popmotion.global.min.js']",['CHANGELOG.md'],2,4,2,1,0
+a5f45dc22f0d472444fe790a825a4d2b88e447d3,5d09e90400c19d57136e81972e3dd35bb336284d,e52efc19ad178ea68b1b5ead3764cc52ac8ed0bf,[],['package.json'],0,1,0,0,0
+44514af123720e3bb83f783d4cb6cf61efa954ba,aee764d6ba212a419cacdae01f023d8ad6b23bd7,d172c873a47dfc0780c88013cdd58f74c2e73efc,"['popmotion.global.js', 'popmotion.global.min.js']","['CHANGELOG.md', 'package.json']",2,24,22,65,0
+5e3eeb8f27251e9fa3884321004eaeb425ee44d1,88ddc7696f504f988d46c2b56af0dc29baf791e9,07218cdf9b1c67293cb86227e2c7e907cd75afa6,"['popmotion.global.js', 'popmotion.global.min.js']",['CHANGELOG.md'],2,4,3,5,0
+3ffb1c5585824a8f177b0c1e63dda49bc9b8e61e,60b62ac7b959f639c3a68a2452992297b4b9d457,722c015289e2c554abcd69a3aaa87a29b9c145d3,[],['package.json'],0,1,0,0,0
+4d31cceeb3848aac1b6a682e74167117d3755587,3b69501cf0597f09d3c3e1da4c1237f31309f959,555e48e8d56d7dfcf3747882a3b74135204f30d1,[],['package.json'],0,1,0,0,0
+35def927ba05cfe44992f218c7445d95a7a517ce,928bd0e371bbe9dddd8398abb90dfe4295e33347,16473cafff83770d755e6fae967dce0bbb9b57cd,"['popmotion.global.js', 'popmotion.global.min.js']",[],2,2,2,0,0
+32915d9b45f1ebfa9cde5f82383a1c1ed4ee2f55,03fa49d66213d334dd0f94a0a157bd54c5d7100e,fff468ab9f0dda06277eb30bcdc5c0058321411c,[],['package.json'],0,1,0,0,0
+ae5e3e9aa88fb925a2a3d6df638ab49e4f69c225,7c01d47306771cd20d7b3d5c234ef229cc29e9d5,60fdb140e8d2be4eff1c7b93fc2b91c77d78600b,"['lib/actor/ActorCollection.js', 'popmotion.global.js', 'popmotion.global.min.js']",['package.json'],3,4,3,24,23
+40d2b1724b7825169c9186854138bb22a12c5f5b,109e31533a2a4e8236ce6c260d8995e93e89abb9,272b2c26ff06f9283cf570b128983c8601a45d31,['popmotion.global.js'],[],1,14,14,160,3
+52a55112b448da8f71b219686c7063409ecb3476,48ecb2342bd443da19bb4ecb3cffae3dea4846af,bfcc0e179028803f39f6bac568ba99cd4842e869,"['popmotion.global.js', 'popmotion.global.min.js']",['CHANGELOG.md'],2,3,2,1,1
+7ee573d503992663972ab55bc98133f014da724f,4e208bd19b225288b19ea41560eca4b59f4248d7,5392972b64729c3e75d07e889433d89162b5a9bb,"['popmotion.global.js', 'popmotion.global.min.js']",[],2,40,40,0,0
+e737cb0ce613947430a25f15f01f609d86a13332,c268dbedf3fb1ced159a439e6e6063f83154d744,acfeb9887205f369ed631f7e77df8481f69a6bde,[],['package.json'],0,1,0,0,0
+037fc69e4b95fd353ba1b1aad5eb42fc095e9d18,f5a18aa67732410cec791fc4397cdfa4943ed043,a598072bc56fe523ff6222d9e5f4601a6fdc6ec9,[],['package.json'],0,1,0,0,0
+5e63ba2a42aae86c9d1d97e8f13c9a93c59f9aff,d04bb7bb10fc0bc90f79e00fd206ec7b1d565b8e,b901f96dd1f50790c2e52e88d7e456b20a9f8cbe,[],['package.json'],0,1,0,0,0
+58db1bfbd5043b3fab4c9418876d1f34acc00d8b,12bebac87ca0485fb4b993a0c0c3c1e609007c3a,2a99cb8ee99a227a079ca052a0f12c9cbd0f14cc,['src/actor/value-operations.js'],[],1,1,1,0,0
+8379ba3085aa7e5d50a478e31d0488bf18ea1abf,b760610165be109cb44f5ca36643ebca246462de,516ad6eecf25a328fccef72c427e4fb427e804a5,"['redshift.global.js', 'src/element-types/dom.js']",[],2,3,3,0,0
+978e4f750bc1188b7b72783be3b89c80a5768224,94990cd29a1e4be126b287983631e93dd1641d17,c39ae4ee464303cfce1885e9ce285e98bc17544a,"['redshift.global.min.js', 'src/routes/path.js']",[],2,2,2,0,0
+693e8e141ad019b38752558d4282d4668861dd43,049530d0c3094122e22490068a5d383a8f6f4698,812ecca812ce4eeb6d21700b35d0c32364834e88,"['redshift.global.js', 'redshift.global.min.js']",[],2,2,2,0,0
+c148597c465cdc8a7e24bf97224151e2a24d60a8,2f0b41c0d794321bc7e54679638cbf7bd1b85aab,3a34a861e5ba7875ac64c7ddeff7586f611bc3eb,['redshift.global.min.js'],['package.json'],1,2,1,0,0
+3b11cab8e9ec4f1072324f7727accb53909d5f3f,8d48f2e4c094b21cb6105a0ad0f7bdb1b50f3e9b,17698842c0b29fb17f287c7a1668d7fa47458c88,['src/redshift.js'],[],1,1,1,0,0
+b7b7e65115d309915eb137fbf17c7425926c00c4,3fcd733601e764e399bcac0b1a96b74ff5a5003c,c7c465ef0a940d5a9d0f4cc3c4afd14795212b25,['src/utils/rQuery.js'],[],1,1,1,2,2
+226e3805b2944a223f399b4e8d3038598dea52dd,b2a129583462807b7c95d5c6945de3b5c047bc67,49122455792dde4eaeb7577b380ce55b1db7f0d8,['src/bits/pointer.js'],[],1,1,1,0,0
+cee8e563c8700d6ba38989077bef205fb0874c76,86e55d188902ddf37f86a17833da993dad0a9fb8,fc56450c91c7f5f752dcdc1443a269719aa59779,['src/redshift.js'],[],1,1,1,0,0

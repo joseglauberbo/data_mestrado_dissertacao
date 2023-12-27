@@ -1,0 +1,5 @@
+1736f4aaf0efc30774dbc7ef4ed8fec9a19dfd38,EXTRACT,{Function tokenize at prism.js:263},{Function matchGrammar at prism.js:263})
+1736f4aaf0efc30774dbc7ef4ed8fec9a19dfd38,EXTRACT,{Function tokenize at components/prism-core.js:258},{Function matchGrammar at components/prism-core.js:258})
+1736f4aaf0efc30774dbc7ef4ed8fec9a19dfd38,EXTRACT_MOVE,{Function tokenize at prism.js:263},{Function matchGrammar at components/prism-core.js:258})
+f680ee70883c6c6b49f88d7dbd9607a28afdcbf7,RENAME,{File prism-jade.js at components/prism-jade.js:1},{File prism-pug.js at components/prism-pug.js:1})
+e962299cde65f50303855a6f9fcf78ec7102b6b4,EXTRACT,{Function extend at components/prism-core.js:43},{Function merge at components/prism-core.js:41})

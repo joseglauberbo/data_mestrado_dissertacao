@@ -1,0 +1,8 @@
+b9210e8fff617b4f25a4407227f8650cb3798064,MOVE,{Function removeAttribute at lib/nodes/tag.js:75},{Function removeAttribute at lib/nodes/attrs.js:55})
+b9210e8fff617b4f25a4407227f8650cb3798064,MOVE,{Function getAttribute at lib/nodes/tag.js:91},{Function getAttribute at lib/nodes/attrs.js:71})
+b9210e8fff617b4f25a4407227f8650cb3798064,MOVE,{Function setAttribute at lib/nodes/tag.js:63},{Function setAttribute at lib/nodes/attrs.js:43})
+b9210e8fff617b4f25a4407227f8650cb3798064,EXTRACT,{Function visitAttributes at lib/compiler.js:524},{Function attrs at lib/compiler.js:558})
+b9210e8fff617b4f25a4407227f8650cb3798064,EXTRACT,{Function parseTag at lib/parser.js:584},{Function tag at lib/parser.js:599})
+2c2e127366fe1d82925b296790e02edf732f859a,EXTRACT,{Function parseTag at lib/parser.js:584},{Function tag at lib/parser.js:625})
+
+ 
