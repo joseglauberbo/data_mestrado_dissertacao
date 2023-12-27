@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+a2aab7c6996835d453972b22999b80dbfe125db5,875633141a9344ceb69bbb494aec77129ef34abf,31f0f8c54cb5211cc48f6a1ee92fcedc4ed89a20,"['lodash.min.js', 'vendor/underscore/underscore-min.js', 'lodash.js', 'underscore.js', 'underscore-min.js']","['doc/README.md', 'build/post-install.js', 'index.html', 'test/collections.js', 'test/objects.js']",10,86,11

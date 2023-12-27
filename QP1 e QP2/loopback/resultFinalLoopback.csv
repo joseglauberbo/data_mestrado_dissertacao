@@ -1,0 +1,22 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+77bcc0910721c851345d8d1853ecc3026f1c1184,b283458a6f037c6117b084591bdcf7e8621b5f73,957f84e989c6a6540a96a23cf769ec901c3e5693,"['common/models/role.js', 'lib/builtin-models.js']",[],2,4,4,0,0
+335bae4b465aed1520264c739149ed0c048c3fd4,21b8609ee23e8c0113bf2086235fa6490d25681d,070f3d9583851015eac880e809784266ddbb0be5,[],['test/user.test.js'],0,1,0,0,0
+79f504a3c7819c3c583cf1120bf08e0a91854025,e18ee116c115f65b90c0032fac87c033fb7c48d4,9125218eab0c1544611ca7a6acba95297ebbac7a,"['lib/models/model.js', 'lib/registry.js']",['package.json'],2,7,3,28,1
+10d29c7d86fdd6c4c0be7b9c5d3624310572687c,f92d18939ad52f853eb51c4487197c31b03cfb71,1d0ece01e7d73e900d7ba1a6af61f2bea5bac329,[],['package.json'],0,5,0,0,0
+9eab7d62d33ddafa7c9cb8270926961908bbdde3,b44dac3c62984e1e3455255fc8687b85c0fad5c8,ebe65656e5429c2e9998e270570a4f980baf92ef,[],"['package.json', 'test/data-source.test.js']",0,2,0,0,0
+b44dac3c62984e1e3455255fc8687b85c0fad5c8,75406f089115f7a3e58050ed94fa5e59f5376910,3672c59410a0e5806e21332f876f6c2f9c1d3f4a,[],['package.json'],0,1,0,0,0
+56c7a6b3c52cc17df8230cde9706b4d9292ab8f1,d2517d82362d23ccc11464d9fdbc04bceaa2cb8b,7dc2521c07f4fe53ee28218a1a8172eec23b3439,[],['test/access-token.test.js'],0,1,0,0,0
+d2517d82362d23ccc11464d9fdbc04bceaa2cb8b,98799c509a7972c93fafac01b3db7073b6a1d998,5c3cdd498c453e8019c675c4025234cc06fbf6e8,[],['test/app.test.js'],0,1,0,0,0
+d21669b844f37d775559020d86338e66f10ee514,a9c35fa007128d4bae3892a350043ea8d225e9ea,828aec9481a5e3f4bdb4e8940c80b5c06b366945,"['lib/application.js', 'lib/loopback.js', 'lib/models/model.js', 'lib/models/user.js', 'lib/registry.js']","['docs.json', 'package.json', 'test/app.test.js']",5,19,12,108,12
+18fd61a5467a47f5d2e2e23f118f63f338872362,10bbfdcf253e42c76edfea3556af5a759ee278e5,acf7af0c4ed9367656dc934ce84b3dc1bb186722,[],"['package.json', 'test/acl.test.js']",0,5,0,0,0
+d237ae5ddbcddb0ff39fa39616e10b494c9e2746,0c925f7ceabc2f039940ba7495d142fa69b91e7a,94875fdd3c40281c0865c0bd0d2d18d64fa08487,[],"['docs.json', 'package.json']",0,2,0,0,0
+83e74ab414dc666d097d386e74b6cedbc3c35d0d,b660f8a59ec9a2362e4715d61fb1ad63d8f9a56b,867e3ca996c02b36488c6b91ea1edc06c87f8240,"['lib/models/change.js', 'lib/models/model.js']","['package.json', 'test/change.test.js']",2,10,6,1,1
+e86a00de695611b99014f5cc85cd952eca9c7b47,a0e595dce8cdaa4d40398352a9662df47f293089,c7eba32ac57a341ff119ab15b03973dd07519e3d,[],"['package.json', 'test/model.test.js']",0,3,0,0,0
+138821cf8b2ef83058ecd57ee68e398abb81c498,bade4876163dbec40eafbdcda9a5609a00a386e2,edd16b9ce81b4514dc52009d8ff1d1a4ccfb4563,['lib/loopback.js'],['package.json'],1,2,1,0,0
+e39020aead176c3e187782e6b98f27e01974c215,e7f64a3abf4d39217bf0a30467927c736d5788ba,1dc4a3fa25710f6e49e362b2444844ecd9a964fd,[],['package.json'],0,1,0,0,0
+e18397ce4be7e5e62f5a77357e542ddc4cc19ff1,d00b8b54bc0a4dd9218c2a95ba57604ff3864ed6,7fbb70d520f419a877fd8ceb0e7fd24711fbe614,[],['package.json'],0,1,0,0,0
+af2b8dd4ffa19b79af9d46bef7e1a16f293b7d89,a6a135ab185631e74c0e711198bcececd535de08,e92c46a4e4864860dce0dbf40cfb23abbc2c9c7e,[],[],0,0,0,0,0
+c136d2995f9a2fe89587c45e18f813d2568727e4,574abf47a2aa49bbdbe6f459667e64e7c6616ece,315218c79b59a51b5c3e2d93388ffb65d3510525,[],['docs/concepts.md'],0,1,0,0,0
+a2308cbc1c5fb6e4ce40f8ea2345e8328d6b9fde,6b1ac1ab79d49eb84530becad7160d113759f7c9,1cf4338298d6896025b45522e7097521e9d1a731,"['lib/application.js', 'lib/loopback.js', 'lib/models/acl.js', 'lib/models/user.js']","['README.md', 'test/README.md', 'test/app.test.js']",4,17,5,3,1
+4582ef34dcddbaa98dbda58d04aa2010689c0cdc,654a89147c1dcc8190f5b362d32c8ea71bb23562,ca3a3c468cee6172d0904682aa6bcb69d2b243ea,['lib/application.js'],"['README.md', 'package.json']",1,3,1,0,0
+654a89147c1dcc8190f5b362d32c8ea71bb23562,583f87a72baa2c02869ea0c0d689f5b5eafe3058,6428000fc0e15ca2de7645a851f9f20598fb0e06,['lib/application.js'],[],1,3,3,0,0

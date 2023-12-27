@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+395610964a5bd0df03dab0a642b3873928d080f6,4b9d685f4ceb8069cc2745c85296309444286810,023fd6a29e3da371cc5b06fa7afd73c446eccd97,"['src/firefox/chrome/content/ff-overlay.js', 'src/common/github.css.js']","['src/_locales/en/messages.json', 'src/common/CHANGES.md']",2,4,2

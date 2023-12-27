@@ -1,0 +1,7 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+cc143a6ea9e7e8fd375dfd11b6e684cb636e2c2d,bc0739c24e6f4beda53db034ebc8b9cb2a8ca0bd,5308e78377548a4b458b17e8fed3fd16863f9039,[],['src/_locales/en/messages.json'],0,1,0
+69e3cff2727d9e14acc8bbc32e54297da4b589c2,5cab3700dfd87ca0b933202c2d4de548ca40914e,39a0b26e537b8d86d2ec83792f4ca2a350358e6b,[],[],0,0,0
+126107766fd47afd608f4b5cb7dc0929c30e0538,6be023e760ebb807cb75256b34db82b0141429d9,8200a69a21431f2ec30e3edd99b0d2a625e14f2f,[],['src/common/CHANGES.md'],0,1,0
+09716c213fe25053f650738d9dab93a9e89cb08e,2e0ba9785cbf9062f0d0c129005655ae6f34ea1b,347d25ba21df6f9b62b65e464fea886b5fa60ee6,['src/firefox/chrome/content/ff-overlay.js'],[],1,1,1
+395610964a5bd0df03dab0a642b3873928d080f6,4b9d685f4ceb8069cc2745c85296309444286810,023fd6a29e3da371cc5b06fa7afd73c446eccd97,['src/common/github.css.js'],[],1,1,1

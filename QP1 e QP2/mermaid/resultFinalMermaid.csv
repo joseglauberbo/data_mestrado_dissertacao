@@ -1,0 +1,278 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+ecc4aa734b5411a496f87db2c75f63c7e8f99b46,547358fc7e741561a37481be48dc52162535df4c,15dbf22a40c7ab447f1c2e855b87245160f998a3,[],['pnpm-lock.yaml'],0,35,0,0,0
+2b388ec6ec1b24b989ba99a59678bc0e6fe1ea6a,b7795ef12d8f5a7674e0c2d99257714f056c950c,3662869ce14be1a64a73fa4e6602f368b6204865,[],['pnpm-lock.yaml'],0,1,0,0,0
+cae612dffff2e3b15a1fc7cb3f4869e14b35b864,7cd62bd0522ada9a2bcd57b0996510154dfe7a34,40f517daee763df0f5a8df32a627da367d9681a9,[],['packages/mermaid/src/docs/.vitepress/config.ts'],0,1,0,0,0
+307aa6f623e5348c5e6e5e8eb36ef73098b71f43,08c107138279ba99445abd98b9d55565d7838edd,84267168860e01fa697266e26d40a6844166673f,[],['CONTRIBUTING.md'],0,1,0,0,0
+1a6fd69f65b23ed79d6963f4ef2c94a891227ac1,a497909446f7561d97ffcca5864ac5f6d470f164,56a9625d955c2ba0c3b25f19a4692c6860a2704e,[],"['CONTRIBUTING.md', 'cSpell.json', 'packages/mermaid/src/docs/.vitepress/config.ts']",0,4,0,0,0
+355b471ca0b556c60b9ac6a2a774c8e2e00150b1,5c8b7390475da607d3973089c09e331ebb67b1cb,b651be77f130824f00e0c244677e35c0a793a4e9,[],"['docs/syntax/flowchart.md', 'packages/mermaid/src/docs/syntax/flowchart.md']",0,2,0,0,0
+d148a65967ddee0db6202106d5a4ce290709f37a,102b9bc8c36b0a9d1e38c3b2a51cffe8a2f034ab,c2c802471802e9e006fa02b5f817eb92c22d0a4e,[],['pnpm-lock.yaml'],0,9,0,0,0
+bd1343648e983290693eddd16e95db09ae0526d3,ac23787084e2d35eb750ae0ce93746726bcce74d,3517314390247e4a05b37912467c717e3466d48e,[],['pnpm-lock.yaml'],0,6,0,0,0
+102b9bc8c36b0a9d1e38c3b2a51cffe8a2f034ab,9cec5ae1c490f6fbf78b798a9d264bdf4e1e7cc3,ac23787084e2d35eb750ae0ce93746726bcce74d,[],['pnpm-lock.yaml'],0,16,0,0,0
+9cec5ae1c490f6fbf78b798a9d264bdf4e1e7cc3,6a89ef94f7b1fdaa602bdf2b6b559f86c800fbb1,acc19db5bb87261243976e6e6359fff51e38bef6,[],"['packages/mermaid-zenuml/package.json', 'pnpm-lock.yaml']",0,14,0,0,0
+acc19db5bb87261243976e6e6359fff51e38bef6,6cce1b20fb83116e98b784f80edc80e07b2b82dc,b1590c2211777f986f223b1c91d784fb59b004a0,[],['pnpm-lock.yaml'],0,3,0,0,0
+e984b34af4610b63fb8185d91e3b7cfe7365fb3e,c255d95ae29ff54ae552e801ca8c422dc4eb4aa5,458ac847495d93fc9cc3bd0104d1bc4d3bae118c,[],['pnpm-lock.yaml'],0,31,0,0,0
+97be4983f0159234b370c0fb1de9f05caeaeb077,c7affbe33b9cde1f5b08c8f90fad8e13d9a6bbc6,458ac847495d93fc9cc3bd0104d1bc4d3bae118c,[],['pnpm-lock.yaml'],0,31,0,0,0
+17c798a1b3a8513f4ea3df5b1a28aaba6f0418e3,29c8f8c8677afdd9c49215e62c00af9556df0bec,c0b7ba305fdb68e8a34984f8437ad3403e12fba2,[],['pnpm-lock.yaml'],0,13,0,0,0
+1b48c19897089768f65a1efc63a888b0fadf269a,500efda8d68471604b54790ac7e1d274debf5c45,2dc780a76627338eecb15c6a5ee968da28e7d332,[],['pnpm-lock.yaml'],0,2,0,0,0
+25a7164df2525bf5b21f6f2f443e344ad96f560f,cb3982de7e5f0b563afe16cc18430ada75c90ef2,a226b073a02a183ded0996578addd7c9fc74180f,[],['cSpell.json'],0,1,0,0,0
+ccc87be462352e017336cbf8df6af41812f7240b,7e240dac22ac6b0c24cf12203cf012395d540555,f8b029de0e7386fc9a8116575a2960ed7a11603e,[],['packages/mermaid/src/diagrams/class/classDiagramGrammar.spec.ts'],0,1,0,0,0
+e903f06f75306a5c71f6378abbc926fa067c7e38,e357bbee4287eb303db00ed31738d6ef2ecc809f,bf379565285dadbba252c4736b68ec571e09ae1e,[],['packages/mermaid/src/diagrams/c4/svgDraw.js'],0,4,0,0,0
+9238deaf0080b71d9c42b1d193ef492b9aa14022,00a14ee81164b1f7fb7119cdc497c191779ce8d8,33c81d557ee41dda9aa2326b103bfd69b1bdcff9,[],"['package.json', 'packages/mermaid/src/docs/.vitepress/theme/index.ts', 'packages/mermaid/src/docs/index.md', 'pnpm-lock.yaml']",0,182,0,0,0
+ec62c2bf5b8c316abf643bf7972d00e07c1eb360,b9e7ba023f3a9969166c54db577c0e4f9ad85633,56ec1ab52ce15ca7dbe76a3acbe1cb68acb13b2d,[],['pnpm-lock.yaml'],0,122,0,0,0
+95d8e3a5df42df8721b73c30abe829afd2ecd234,204baa45865d62a3865181f33311e567a13846d4,56ec1ab52ce15ca7dbe76a3acbe1cb68acb13b2d,[],"['packages/mermaid/src/diagrams/class/classDb.ts', 'packages/mermaid/src/diagrams/class/classDiagram.spec.ts']",0,2,0,0,0
+5c6773a47c7cdff83387c2c8e85ae17fd5e1e834,5634c6ca1a7bf8174ae4019f29d6587328e5f41b,1c17f4c770bd3a66b521a8ddaad0c799c668427b,[],"['package.json', 'packages/mermaid/package.json', 'pnpm-lock.yaml']",0,47,0,0,0
+204baa45865d62a3865181f33311e567a13846d4,b725b69fda5641904a5ec89ef75533093439a874,32d553a28fda9130417591403d2531cb56fa8626,[],"['packages/mermaid/src/diagrams/class/classDb.ts', 'packages/mermaid/src/diagrams/class/classRenderer-v2.ts']",0,2,0,0,0
+aa5c1a5f7832bb9c3104c402f1a1e65cb832d699,da7725f38e448f51f4326ec0672abca0c45a9058,d9ebb0d49262bc25735643e766ea3d55473ec720,[],['packages/mermaid/src/dagre-wrapper/clusters.js'],0,10,0,0,0
+917a54f3cdc6f3cdacb9ce6a690e29b496d302e4,471c842a58204d19f1e71492db09474b6025ec2a,7e610d13dc7e62e483f6d248a3cfed14f2df9084,[],"['docs/config/setup/modules/defaultConfig.md', 'docs/config/setup/modules/mermaidAPI.md', 'packages/mermaid/src/Diagram.ts']",0,3,0,0,0
+da7725f38e448f51f4326ec0672abca0c45a9058,4515c58d42fe776de01fcd28c055d21af15b89a1,7e610d13dc7e62e483f6d248a3cfed14f2df9084,[],"['packages/mermaid/src/Diagram.ts', 'packages/mermaid/src/diagram-api/diagram-orchestration.ts', 'packages/mermaid/src/diagrams/flowchart/parser/flow-comments.spec.js']",0,4,0,0,0
+057c9e4b81882039d71e41ffc12a22940c38c0a0,15af3ea5855924443cc2453bb248234ef581a19e,c4e4efd4b84c2c24935a9fcf5fcec8a4982db7bf,[],['docs/config/setup/modules/mermaidAPI.md'],0,1,0,0,0
+89eec225ce48ec1284a434b0f80fd78167a4269c,63160293c72bc7ca9cce8af4bf0add625ddf049b,e4a2c74b1b830ad64d14f42b5fdbb5f8e9763fd1,[],['pnpm-lock.yaml'],0,1,0,0,0
+cbc2df1ff62a8c3729ae2cea757a5861cddfc08a,ba1c5dc6c779fdd17913828290cb1074cf4d5075,e4a2c74b1b830ad64d14f42b5fdbb5f8e9763fd1,[],['docs/config/setup/modules/mermaidAPI.md'],0,1,0,0,0
+4515c58d42fe776de01fcd28c055d21af15b89a1,0dc6e0a0d9a254c53199eb3bbfc95246af78d8ae,8b37ceffe1a4c182f3e0bbf06c6b35622a0fccb1,[],['pnpm-lock.yaml'],0,1,0,0,0
+759ab0c0f99d24cfd57f50f6c0c8f5f70a7f19fe,328f3968d1e9211d2dc6fb2e689694442af53bb8,1a7b8d38970f367e273b61599e6c4f75a8635158,[],['packages/mermaid/package.json'],0,1,0,0,0
+328f3968d1e9211d2dc6fb2e689694442af53bb8,c7bcd74d56e1233f4d20c88401b2a7e6eccdf6ef,c965e4c4564441975b71f0996e3a7ec2167ae21d,[],"['packages/mermaid/package.json', 'packages/mermaid/src/diagrams/gantt/ganttDb.js']",0,3,0,0,0
+1913aad03f7ac371954e56a50699e0aa770e32c4,f7f6cc73f52fcedbcfec3010c6e8af7992509e89,b80da0daa168ceb5edb39b0fe3c329c35f924298,[],['docs/config/setup/modules/mermaidAPI.md'],0,1,0,0,0
+fda0c8d0a9c1158016f61084c35d4db5b9cb6f4e,733967f65a5b2ad3a87fc604aeee2d6db9d2b98e,b932cd0930303d75578bb914867076554b4c0a38,[],['docs/config/setup/modules/mermaidAPI.md'],0,1,0,0,0
+7cee8cb6dc8553da1bd6fbf155249226698b3d40,275a54a562f969e9db61d036f0027696c07c961e,3f93edaaf377f3fc46bc2fcae23aedd8e3e67626,[],['packages/mermaid/src/diagram-api/diagramAPI.spec.ts'],0,1,0,0,0
+8c2dbafdb5f144903bcdd6ee6e9f25d499b2f057,1495ae623a27fcb7cb98a6e458e436dcb48fe1e7,f62c4831ad457016d9692ff0cd1eb7883c7b20c3,[],['pnpm-lock.yaml'],0,1,0,0,0
+3b2d55efec12ad3bb895b1ddb5bd71095844013b,bb8bd111f8cdc63804259409272ed5707369007d,870550bd7ea8894adcfb017c8ed60822e69721f6,[],[],0,0,0,0,0
+638362baea769fb1e296e26709229c1df22bef78,15cfa5d40d515c85f017698720426b1c70159703,e22171c5bcd3ac4b554e5347424ca33744e63bd4,[],"['docs/config/setup/modules/mermaidAPI.md', 'packages/mermaid/package.json', 'packages/mermaid/src/Diagram.ts', 'packages/mermaid/src/diagram-api/detectType.ts', 'packages/mermaid/src/diagram-api/diagram-orchestration.ts', 'packages/mermaid/src/diagram-api/diagramAPI.ts', 'packages/mermaid/src/diagrams/flowchart/flowDetector-v2.ts', 'packages/mermaid/src/mermaid.ts', 'packages/mermaid/src/mermaidAPI.ts', 'pnpm-lock.yaml']",0,25,0,0,0
+c1aad5975cedb2ba0c47deedd3334d432f09cdb5,631ff8fb9e286285f9b510e7301b785d53087dcd,31629fe93f194b2051f0299e9c16023a5246cc45,[],['packages/mermaid/package.json'],0,1,0,0,0
+2c062d648ab86887f4f5de64732805ff0a2e8411,ea8128e881e2e1beaba5af094c59be5e79a639d0,fec193ebaf85403e3bc8031d79b4f593a5db1c31,[],"['package.json', 'packages/mermaid/src/docs/vite.config.ts', 'pnpm-lock.yaml']",0,4,0,0,0
+17238c0326614938f955f2f04cdefdc1dd0a044b,ac231949f036d75e69823c12ee4af34c47c25c62,d543bc0411baf64ad9754bdb7572101287d2635e,[],['pnpm-lock.yaml'],0,2,0,0,0
+a1a252cc2903ced49f303a132b60b53771e99a13,533bd7da3c1932f87d9970588b9fa93d57ddb6c7,62f7fb082e2da605858cc093a87825d01e983c8f,[],"['docs/intro/index.md', 'packages/mermaid/src/docs/intro/index.md']",0,2,0,0,0
+ca22e85e55f279ecd65a5ec584ba3d70a7d4f852,652a42fe1aed7911a781a84716940a973b995639,e573be4afd3d53a3f64c3e59492c6b96e05f65c9,[],['docs/config/setup/modules/defaultConfig.md'],0,1,0,0,0
+fba3f8481ec488e38306bc1f1041d59ead7ffb50,ae7c9475efe9340b85b519db7f686b2651cb715c,f0e3bcc37b515a6a288e4459e4452526d1c7a722,[],['pnpm-lock.yaml'],0,1,0,0,0
+05d1fc44e8d2d758bd9c3e431df9816081a15a4b,ee056e1ac388b26279b00a1f4db547f3859c07f7,075f55418bde9f7d408c434c4cbf59d17606d59c,[],['packages/mermaid/src/docs.spec.ts'],0,1,0,0,0
+68609fd8d0c798ad6cea0b3790426351014b966d,61ef4692b0ecd5cd9255212f266652b42ce6595a,1fca5131c3cb80a12df520b7ef7620398c4ff1bc,[],['packages/mermaid/src/docs/.vitepress/theme/mermaid.ts'],0,1,0,0,0
+094b97de123bcc78a137ab69230bd0813b51bf52,0e3dadc53c7b5eaab52753515186e01210488dc2,1fca5131c3cb80a12df520b7ef7620398c4ff1bc,[],"['cSpell.json', 'cypress/platform/knsv2.html', 'pnpm-lock.yaml']",0,5,0,0,0
+a58b41a38e7b67857902d6f30296965bef9ca375,accba3f408d1f1a9a68a05fff9899e2d51627fe7,03c5bc112947eebb428e1d540a665392b5eb800c,[],"['demos/er.html', 'pnpm-lock.yaml']",0,3,0,0,0
+f17f81d12c9cbff16dcd0e4139fa53e002a8ec84,1b0ea981f9415ae1daa987243bfc90c79c9a2ec0,95e4443ff20ddae3a2ff9dd22d607223fbcfa3b5,[],['packages/mermaid/src/docs/.vitepress/config.ts'],0,1,0,0,0
+7b13b489c2b705f5c1fbfa55f455e299011a967b,d6ddf9568ef3ac93e23c546cb59168e0a38feb84,d841ad8f3ecc34e4091bc8c1eaaa981e6d7e2c2a,[],['pnpm-lock.yaml'],0,24,0,0,0
+1495baac2c74db7809461bc863ae3e92648758aa,992d1623a7168d98894452ef4932dca9f7e6e123,ff7ed7f49f589a4cc91d7530e2a8957e90bda40a,[],"['docs/config/theming.md', 'packages/mermaid/src/docs/config/theming.md']",0,4,0,0,0
+f036d58ec365f07965aaffa9aab0991edfc0fa2a,2bf753a769ed816dab2a2ea81860ff1d02934134,bcbf68b7e1f514665170518b7dbe9c36331a7b30,"['cypress/integration/rendering/gantt.spec.js', 'cypress/integration/rendering/requirement.spec.js']",['docs/config/setup/modules/mermaidAPI.md'],2,10,2,0,0
+41033008ec780a9dc04d478a672ab550753d330a,650ee31cd100dd400b7c44c86e7c5802ab045592,e2a0c434cc087a960e5368a9cdf0a7aee4ec7189,[],['packages/mermaid/package.json'],0,1,0,0,0
+8cb6fbfab0301cf2510f2441d7c1bf407cbc7bed,650ee31cd100dd400b7c44c86e7c5802ab045592,e2a0c434cc087a960e5368a9cdf0a7aee4ec7189,[],['packages/mermaid/package.json'],0,1,0,0,0
+f884b745dcb99203dfc522ef1d1e466fe0054af2,4cc3b17d362b3c8edff9ac0ab7d7248a309fa988,650ee31cd100dd400b7c44c86e7c5802ab045592,[],['pnpm-lock.yaml'],0,1,0,0,0
+15cfa5d40d515c85f017698720426b1c70159703,bf53a03c9d494dcb464e637df664f55430ff1533,650ee31cd100dd400b7c44c86e7c5802ab045592,[],"['docs/config/setup/modules/mermaidAPI.md', 'packages/mermaid/package.json', 'packages/mermaid/src/diagram-api/detectType.ts', 'packages/mermaid/src/diagrams/pie/pieDetector.ts', 'packages/mermaid/src/mermaidAPI.ts', 'pnpm-lock.yaml']",0,23,0,0,0
+1f147b6b630dbc3d1359693c730e07597ce16c80,e302ee383a41443183cb8dde0eb890c514123628,b949da9ae402ae2b4f8036f0886138ce0ce56820,[],"['packages/mermaid/package.json', 'pnpm-lock.yaml']",0,3,0,0,0
+626a4741c03ef68134d2deed535b106e757a59a9,a9c337302a5204dd3413659aa9ebacf34ecf779c,3e4dc306d4ef859df01f0cac04f387a50b2af290,[],"['__mocks__/d3.ts', 'packages/mermaid/src/diagrams/git/gitGraphRenderer.js']",0,4,0,0,0
+ee0f872b5be00c17fb71240e93713c7a1d1f4635,bd5b5cda060ce7fe5bb51fdc4da446ab148086eb,3e4dc306d4ef859df01f0cac04f387a50b2af290,[],['cSpell.json'],0,1,0,0,0
+f425a02cf9853adbe1b35c7264ab67f5a97b12c7,7201c014e3c8284cec5964e58eb7e432006a7f3f,3e4dc306d4ef859df01f0cac04f387a50b2af290,[],"['package.json', 'pnpm-lock.yaml']",0,2,0,0,0
+a4fec411bd848563e6fadf272d745915b31b9961,ed6fb15c38967ac713b62dd5759d27836b9480ab,50aab5617701275b9150f6087ad1ff95a1489d6c,[],['.eslintrc.json'],0,2,0,0,0
+ab81b508cec09990ceeab7d6422704be67bff39e,a88a467d4569837f491e67a97f1a70ca570e087b,f2ed2551374c9be612100a108df58622e43fa3a7,[],"['package.json', 'packages/mermaid/package.json', 'packages/mermaid/src/docs/.vitepress/mermaid-markdown-all.ts', 'packages/mermaid/src/docs/.vitepress/theme/index.js']",0,9,0,0,0
+338d83d4a557e51f760f7c815f3d64e089d79914,c3e054c15573bc413aae98074cf019eb48700597,828e99d4b9268b1d7ece754fb05fa1217e35f67f,[],"['docs/syntax/stateDiagram.md', 'packages/mermaid/src/diagrams/pie/pieDetector.ts', 'packages/mermaid/src/docs/syntax/stateDiagram.md']",0,3,0,0,0
+a686255d9e80ff12632da1e4c808afab9b48df95,b75ce7af45c94f23409931d760c5a0d9d1d89565,ffb95b4fa994d9b995e072fc08488c457a896865,[],['packages/mermaid/src/utils.spec.js'],0,1,0,0,0
+3b32f44a60cbd4b163be6312364e8efce7f5df93,a8cd5e675dd21fb01274d6d381f687f25a7461d7,4ad99a25d09c698a947ff0234c9899bf89835d55,[],"['.gitignore', '.vite/build.ts']",0,3,0,0,0
+bc269a966db8b048594a9e5e50716f4c3283e07b,d39606cb47e10e90593adea86e85ea444388dbc5,7306b5ac4587197daa88a9c11634cb97d498fbd6,[],"['packages/mermaid/package.json', 'packages/mermaid/src/docs/.vitepress/config.ts', 'pnpm-lock.yaml']",0,13,0,0,0
+024ee4213f4a11696061dcc779fd4c10090ed610,e861fbb5170a5ade38db52320f55dd580547e522,09ed41b7d2cd5c8ffd50c7544bc88bd213d3c601,[],"['packages/mermaid/src/diagram-api/diagramAPI.ts', 'packages/mermaid/src/diagrams/class/classDetector-V2.ts', 'packages/mermaid/src/diagrams/class/classDetector.ts', 'packages/mermaid/src/diagrams/flowchart/flowDetector-v2.ts', 'packages/mermaid/src/diagrams/flowchart/flowDetector.ts', 'packages/mermaid/src/diagrams/state/stateDetector-V2.ts', 'packages/mermaid/src/diagrams/state/stateDetector.ts', 'packages/mermaid/src/mermaid.ts', 'packages/mermaid/src/mermaidAPI.ts']",0,13,0,0,0
+bd5b5cda060ce7fe5bb51fdc4da446ab148086eb,fee63d83ee56d3b65732260f5ea8a2f0224e2bed,0333bc172c4bb6c2101ea7d665a33099dd428986,[],['packages/mermaid/src/docs/community/development.md'],0,2,0,0,0
+ad6eba452c155cffc83b77b8f189815ef5be8e0c,eae88c51d2c62bce6b51a18dbcc4b58e6b28e021,752cc3a52761aa132dec270028dad946c69f84ca,[],"['package.json', 'pnpm-lock.yaml']",0,5,0,0,0
+c354d9e1e3e2e774cdc92d0935771ed575511266,77a326dedf4f57849e3d4b54933a649b36ff9581,292cbd75a8becf9890381ee2d4c861637df4a19a,[],"['.github/ISSUE_TEMPLATE/config.yml', '.npmrc', 'docs/index.html.todo', 'package.json', 'packages/mermaid/package.json', 'packages/mermaid/src/Diagram.ts', 'packages/mermaid/src/docs.mts', 'packages/mermaid/src/mermaid.ts', 'packages/mermaid/src/mermaidAPI.ts', 'pnpm-lock.yaml']",0,212,0,0,0
+2d9bdedaf5fc06183ea8c6821ad120f3a2c0ffd4,a83f88bdf17ad7d999afdc3181c8fe9d96a6dd83,0763590c24f1984e987741b66f8699720dacdac6,[],"['docs/config/setup/modules/mermaidAPI.md', 'package.json', 'packages/mermaid/package.json', 'packages/mermaid/src/mermaidAPI.ts', 'pnpm-lock.yaml']",0,20,0,0,0
+750029f557e35feedee0c6fdb0cffd96e5f331d5,607fe88d43078c083e76ccdc8a55dba075e0a49a,0d8f09cec5d6efe9dec88de14a99cd62dc042ecb,[],['cSpell.json'],0,1,0,0,0
+aab8f9273f34deedc93da3cc364dbb3d51e5c6c1,166dca4924edf7b5ae81d5851aab30561b8386ed,f41e34e61a50548af789ca467e86fca6d5a86afa,[],['packages/mermaid/src/Diagram.ts'],0,1,0,0,0
+c6287b640ddd4aca638bcdb64ba8c9157495879e,d4cc366e8699af351cb7c2563f060440f00cce8f,603b537ee1de5285b14ece11a53368f6e2b938cf,[],"['packages/mermaid/package.json', 'pnpm-lock.yaml']",0,4,0,0,0
+f29542408700934356e89ffaaff68d9989588273,daa85b4279ac62de19ecea5c3c3c84f20e648900,b63828f88dba831c25a55153c222bf96c0696def,[],['cSpell.json'],0,1,0,0,0
+607fe88d43078c083e76ccdc8a55dba075e0a49a,794b642ff8329ed595e0922b1069f6f52ef18d37,b63828f88dba831c25a55153c222bf96c0696def,[],['cSpell.json'],0,1,0,0,0
+794b642ff8329ed595e0922b1069f6f52ef18d37,6d2441dff676a9d1f67f31181ff854e4b3d9ce17,4870d3702772359851c8e8bd1a5947f33a308613,[],['cSpell.json'],0,1,0,0,0
+6563c0292ac839d1911761e2e2c058f0b4ceecd8,c41311906422fcaa01550cf7c741a767601f70cf,7c07bc02af38cd3271169762f3347584df165cab,[],"['cSpell.json', 'packages/mermaid/src/mermaidAPI.ts']",0,3,0,0,0
+86f835cfc8afa20ce857cae7e640f8d73ef9d80a,4699ba3e71ea50be9d3134701c620787ef31299c,7c07bc02af38cd3271169762f3347584df165cab,[],[],0,0,0,0,0
+c8635c0b9bf236e954ba02c7f486b175fd795820,7a47fcfcbce7150f97f830632370fb26b3bba7cc,e78ac9b92a75223df728b4a1866a8d7d460a4691,[],['.github/ISSUE_TEMPLATE/bug_report.md'],0,2,0,0,0
+24198ed63e078f7980e6b03148f50377b603e16a,450c308e4f6a458ba13214f906d32bda2c112d7f,77782fdbc705f687f6371e7cceeb05898972a1d8,[],['pnpm-lock.yaml'],0,20,0,0,0
+449dfe8b8ef41909eeef65f2adbd8a0411b36396,fe9a1c59cb16f4ec495df042f46cbd3c33d3f363,4adf79451ea76bee82d17b1b492f811ae79c3d57,[],[],0,0,0,0,0
+4adf79451ea76bee82d17b1b492f811ae79c3d57,38fb926ea8daada99bb5772b4f20be804e348080,7a47fcfcbce7150f97f830632370fb26b3bba7cc,[],['.github/ISSUE_TEMPLATE/bug_report.md'],0,2,0,0,0
+6e5adbf0bac66e832c82230923bc7a7c8b6513c8,61e20ce48a5e997173cb07cdd2399e968e7e84d1,38fb926ea8daada99bb5772b4f20be804e348080,[],"['docs/CHANGELOG.md', 'docs/community/development.md', 'docs/community/n00b-overview.md', 'docs/community/newDiagram.md', 'docs/community/security.md', 'docs/config/8.6.0_docs.md', 'docs/config/Tutorials.md', 'docs/config/accessibility.md', 'docs/config/configuration.md', 'docs/config/directives.md', 'docs/config/mermaidCLI.md', 'docs/config/n00b-advanced.md', 'docs/config/theming.md', 'docs/config/usage.md', 'docs/intro/index.md', 'docs/intro/n00b-gettingStarted.md', 'docs/intro/n00b-syntaxReference.md', 'docs/misc/faq.md', 'docs/misc/integrations.md', 'docs/syntax/c4c.md', 'docs/syntax/classDiagram.md', 'docs/syntax/entityRelationshipDiagram.md', 'docs/syntax/examples.md', 'docs/syntax/flowchart.md', 'docs/syntax/gantt.md', 'docs/syntax/gitgraph.md', 'docs/syntax/mindmap.md', 'docs/syntax/pie.md', 'docs/syntax/requirementDiagram.md', 'docs/syntax/sequenceDiagram.md', 'docs/syntax/stateDiagram.md', 'docs/syntax/userJourney.md', 'packages/mermaid/src/docs.mts']",0,34,0,0,0
+6b3892baf16b7952a9d3d721f314552f9d6d4df1,ec5568b943b18652f3aa9334e29cd9b6478f50c6,c1529bb7fc1f825a572e1c02d42844a6b7a28b89,[],[],0,0,0,0,0
+455839c0b950dc9e61bca3463f0fa788127b37f3,47e1f611d89882be8eb9e0c6d428fc6c4557f2ae,fb9127ecc6c1218dadfe878951caadc6d294ac34,[],[],0,0,0,0,0
+b62873a1950a096e7ae88c7504935816a9156122,563aff2d723e8103c088752d48be45ada9c1ff41,10ba3b612ef0434d4da8213f971c2c197ef750bb,[],"['package.json', 'packages/mermaid/package.json', 'packages/mermaid/src/defaultConfig.ts', 'pnpm-lock.yaml']",0,88,0,0,0
+c41311906422fcaa01550cf7c741a767601f70cf,3e76edcbac7659181a66be1a4a537a5d076dc5e7,10ba3b612ef0434d4da8213f971c2c197ef750bb,[],"['packages/mermaid/src/defaultConfig.ts', 'packages/mermaid/src/mermaidAPI.ts']",0,3,0,0,0
+599d035daf79a6f7591c0fdebcd3c14eb53abe98,589dd7035655d2d93c9eca056781e22178e3548b,10ba3b612ef0434d4da8213f971c2c197ef750bb,[],['packages/mermaid/src/diagrams/state/stateDb.js'],0,3,0,0,0
+1a0309fb8758518b9f99dbdc406094db85e3885a,56a8068a7f0cc9784f875a6d385bf9414eeab98b,e793aae0ec31899ef1ce03456f0ee813128dae8e,[],['packages/mermaid/src/mermaid.ts'],0,3,0,0,0
+fc829a4bdec6e8301fa0a53bc752c03e4d47222a,f2279d48d84921d64463bac4cefc14c96ef6dd58,6f27363862358088a5234fb97fce36278e3199d2,[],"['packages/mermaid-mindmap/package.json', 'packages/mermaid-mindmap/src/styles.js']",0,4,0,0,0
+f4fa68031e6e9615850d830c5a9b0a28f48dac65,377b22e82bbea7fee6f9188c734dd83a1e57ff56,4838d6345593e09fb227839675caebde86dba8b4,[],['packages/mermaid/src/mermaidAPI.ts'],0,4,0,0,0
+d17aa6ecddc88b6b1c0a14e17235999eb2124f0d,4c311ea4b1a34db0a3d15eaa52e04242c7ba70b6,6f27363862358088a5234fb97fce36278e3199d2,[],"['packages/mermaid/src/mermaid.ts', 'packages/mermaid/src/mermaidAPI.ts']",0,2,0,0,0
+bbb371228483cf39d163f814e0f810323dcb5bc8,97a842e651b3569322f837b85aaf98da77bc69d4,2ae8bf29877a447aa0e62c845446681369525391,[],['packages/mermaid-mindmap/src/mindmapDb.ts'],0,4,0,0,0
+c71b6e31f71bb3938c86003207c5ced923f292ae,8b64ad971a430862bd4d913bbe5b7248422f7b85,111354dd1003d7d874ad028db87e56aa5df1791a,[],['.eslintrc.json'],0,2,0,0,0
+338e7e83cd4d3b81fe8daa6273a5c01d26b8ade7,fde3964b5058643295e21c0abe433cdaa0926ee9,aa43cfb5acbaccfe1bd05f5fa67b3e70e54eb39b,[],['cSpell.json'],0,1,0,0,0
+aad53f9e61f26161f89667fe7c52e5cf8937f6b2,478c38749139bd636444cad4307c0792c6dfee63,17b72d565de595c94c1e339da37fc81676c4b200,[],"['package.json', 'packages/mermaid/src/Diagram.ts', 'pnpm-lock.yaml']",0,6,0,0,0
+775fb80c43ba989f240c2c5e0e21c978ec814bc5,b486177ca7089acb03765614d1726f5c57f3ed47,aec1d809665b4b64d9b79e98c0284895fc744c9f,[],['packages/mermaid/src/logger.ts'],0,1,0,0,0
+1f642ca9b67f6457dc87517b49efd64b46d5ec02,478c38749139bd636444cad4307c0792c6dfee63,9ac3992fd2e9b679d79b9e798c0918253d42f608,[],['packages/mermaid/src/Diagram.ts'],0,1,0,0,0
+cc10e62ebd1f91318150f2b1c0a0931df83a55fc,d348f2847cfe6171d307d6223822f9eda0757df7,bed95c77a982a247bee7a4e38c43cfd480e14f5b,[],['.gitignore'],0,1,0,0,0
+238b15df9d9b439104ea0087f105caccf4c0340f,43f3784c838de0d3b416bc15288d20b1dd4ab712,6e2deb1fa7d73b9d2a41934faea7e0f6005cecc6,[],['docs/index.html'],0,3,0,0,0
+069437842bb5cf2538dba091b80d02375d24a83d,6fb92f6f3c6ee8ccb6bb3851483cf3af3e5160a2,ee13c7666d3ade48d185183195cd29ab10b90302,[],"['packages/mermaid/src/config.type.ts', 'packages/mermaid/src/mermaid.ts']",0,2,0,0,0
+cc55a82b6450e5a2f462f75023c981771c1db4d3,1615c6d9f996b73cd8f17b205da386cb4b00c88a,931120f73c338d0035ea3d0b8e6c1b05c590c793,[],['packages/mermaid/src/diagram-api/detectType.ts'],0,1,0,0,0
+9468bffcbb2bb44b2b0989ef2a92d045d8432017,bd4495730231bab9e7bbc01674baeb49ae20d2bb,9901a73a2a141a6d88ac0cabbfadac993ace74fc,[],['package.json'],0,1,0,0,0
+9901a73a2a141a6d88ac0cabbfadac993ace74fc,40a319fc5badba021bf116e5b711f9a18881b899,6191bb5f1b10966dc8758ced0a61895d7be401e0,[],['yarn.lock'],0,3,0,0,0
+972d025578619e74c8bba4aa4756d0f69788f6a5,693616b00dbfc065d656ced67817d2f576813b56,09bc7e0acdb400430a207fb29dbbb98c85a6ae4c,[],['package.json'],0,2,0,0,0
+6191bb5f1b10966dc8758ced0a61895d7be401e0,d858cd677eefc7b96296b1fc56835789127ec719,80c68d847cc56b7575d2fac4203c5412d02269e0,[],"['package.json', 'yarn.lock']",0,152,0,0,0
+f60c7fff65458f39f17cbba30127dacd21a982ac,982c1b497960fdf48ee1606343e53e3162a3100c,6292bebcd35227b086671a4bf0c589ca095ad26b,[],"['.github/workflows/e2e.yml', 'cypress/platform/knsv.html', 'package.json']",0,4,0,0,0
+ef527cb0fa483eb32784d7a610eb91788e50a19a,ddc35fa9ce784ffdcb9f6282ae46f2db8169d835,e1c63139b2ce5804b627ec2224666d645bc83333,[],['demos/er.html'],0,2,0,0,0
+edb30c9feb324ea4729d90115c0555c0b92bb6ac,777f8888921ded80b67a73d09fe1483a60b25804,66809ed9720b00b77b8c3f981efb69ddaf2df912,[],['demos/er.html'],0,1,0,0,0
+ed0f22b03742e8a4c4db806a59d541a823a0a49d,eb1c6894f58eebbd2216b05a14a75af47d184d0c,1a46582e1edbeddf417e75d2296e51ccab6b563a,[],['yarn.lock'],0,2,0,0,0
+913468a7b5d389537647630a13ebb4c6b426f603,ad49564ab5ae3114e44a7cdf50c3500b48e4a6cf,1e71798467e3fa2e1483873d9b33d93016fe6b4d,['cypress/platform/viewer.js'],"['.vite/build.ts', 'package.json', 'tsconfig.json']",1,7,1,0,0
+bf25be7cf058b0695a2d5987d17207086b6097db,404b718677d496c270082b5a0a0c3a78e48fb540,8a489176c3831280d94dcc78afaee6fa5d0b9dcd,"['cypress/platform/bundle-test.js', 'cypress/platform/viewer.js']","['packages/mermaid/yarn.lock', 'tsconfig.json']",2,4,2,0,0
+d6245fdbda97dafb4adb07427b3dc4aa0abaf1ca,aeb31fe1aebf481878c78c6e9f2bbe964053f2da,c93c7c75c97154faaaf2e989fab16c0d200baa8f,[],"['package.json', 'yarn.lock']",0,22,0,0,0
+5d085fd3f665fca2f12e8ce3ef6ccbcf148182f6,30e2b0802822987472e0943eb9eff658468eaabb,146c2e2dd9cfbc6b199366934c362627ce6fc344,[],"['package.json', 'yarn.lock']",0,2,0,0,0
+533da475168fd8abd6cb82ffe18e3775d45c1644,6819fc05da0f88349f2bf52f683faaddd3d6b725,01ca1cc8c77fc07d348e505c08d071bdfb0d8311,[],"['package.json', 'yarn.lock']",0,45,0,0,0
+0c308134a9fd44cdf250d28ba4cb6256c914c3bb,98506d888c5331ecd32413ca0627877e6eed7ae0,71d252f706531982fe2249991ddd609364f92ac3,[],['yarn.lock'],0,1,0,0,0
+d7093c4891bdf83b63d59dc0249880b0280e0309,506e427d56a61bf78ef559c0bb1f17d3ded0bc47,59f8f5f65e1916201618751d357aaf461782196d,[],"['.esbuild/util.cjs', 'package.json', 'yarn.lock']",0,5,0,0,0
+1ea546a0a59754138d91906fd11f3031ae3c2291,48d94568ce20c9ff4fd894a5d5566729e377eaf3,71d252f706531982fe2249991ddd609364f92ac3,['src/diagrams/git/gitGraphParserV2.spec.js'],[],1,1,1,0,0
+bb824f1147115253afd3404d7977c2a14fe6db62,817a89df70c7656774c9070e85e9a2052c68a254,22dbe4994575c66125f6e30e016fc2799d1ad185,[],"['package.json', 'yarn.lock']",0,7,0,0,0
+817a89df70c7656774c9070e85e9a2052c68a254,827b3d47b7a36a642bd96d78732e3a392b1389c8,00c1732b9b87eb7162ef03ee949e775ee33da031,[],['yarn.lock'],0,1,0,0,0
+c7ec44da09b2b5204073d0f8284f5b0fc59df1c6,e06a7587acf73a552fa616dc613044a7be6948fa,e8eb2ab03fbc264e8f710e133d046b2d831dfea6,[],"['demos/index.html', 'package.json', 'yarn.lock']",0,6,0,0,0
+22dbe4994575c66125f6e30e016fc2799d1ad185,790922b9381b7cbb643b98a294d4a7916b447a73,e8eb2ab03fbc264e8f710e133d046b2d831dfea6,[],"['package.json', 'yarn.lock']",0,8,0,0,0
+25ed9063f27484119dc2b32e3e4fa1a794c43edf,94868e48cbae69500c0a0d7418468154f9551e64,e8eb2ab03fbc264e8f710e133d046b2d831dfea6,[],"['.lintstagedrc.json', 'package.json', 'yarn.lock']",0,19,0,0,0
+5a2ca03fff1bf6725132a30c351a83e0f9e3f92b,407927c8ec544333bd4619abeab8e9c8bf220e26,bb413d555e331db108f20ababe30e035d49ace41,['src/diagrams/mindmap/mindmap.spec.js'],"['package.json', 'src/mermaid.spec.ts', 'tsconfig.json', 'yarn.lock']",1,33,2,0,0
+08af10d4397014fc6639f2f5360194c8c2e61a26,811f838a2d3c922f595c9340baf2875472e8b5b0,73d02b25829aa2895d14b848f2859c4c60d589f1,[],"['package.json', 'yarn.lock']",0,2,0,0,0
+73d02b25829aa2895d14b848f2859c4c60d589f1,a7fa40ecdac19c2fccb77c1a4a0692ceb7033553,064c3134e5a3c67c005f5ac69d2c8bea3c41184a,[],"['package.json', 'yarn.lock']",0,3,0,0,0
+d83c9f5a7028f80bd920327e3bfeac110bc3ea56,a7f0b2ba216eb06674e71debaf0efd53a9d07995,539ee4959477ebb727b8b2316ee02eeaa534a47f,[],"['package.json', 'yarn.lock']",0,10,0,0,0
+539ee4959477ebb727b8b2316ee02eeaa534a47f,5c51ce13938a96e877015ff4b6bc64406d87e92a,0c0468123fa1ca08baf69716eeca0b8872075b5e,[],"['cypress/platform/knsv.html', 'docs/index.html', 'package.json', 'src/mermaid.ts', 'src/mermaidAPI.ts']",0,11,0,0,0
+a7f0b2ba216eb06674e71debaf0efd53a9d07995,c5bba0b1533296dcf0145e8a2df4349b7954ce3f,3d32280c49125c135cf08a3086e184971a1c6f85,[],"['.lintstagedrc.json', 'package.json', 'yarn.lock']",0,8,0,0,0
+0e504f30b9b305e72642492ac2cda2133e36d6ac,5148acb20fe0ad0e37ab458e0295eee21a1c049d,9d0901801b0cfa2c14afda256e70bcc08b91038d,[],['src/utils.ts'],0,2,0,0,0
+ad56a2227749e6fe4a147571da8473429b6883f2,8ca91d6303cc2a9a16bebf94411a9fd563fd766a,9d0901801b0cfa2c14afda256e70bcc08b91038d,[],['src/docs.mts'],0,1,0,0,0
+5a1e3ed5c6e4ab3f02a3212a817a252b7a2fe71d,d898b8a7e76e85cdfbaa588041bbb0cf624ddacd,d78adc6fb94cac4af2068af49b027514e2d43293,[],"['src/config.type.ts', 'src/diagram-api/diagramAPI.ts', 'src/mermaid.ts', 'src/mermaidAPI.ts', 'src/utils.ts']",0,9,0,0,0
+6e81ee9d970ce553be470bf90ee6f48f4d0630e8,22d20cc76e670ec521c191519a2ee117dde15784,3986f4819947183f0c51df9b53882b837271ec8b,[],"['.eslintrc.json', '.github/workflows/lint.yml']",0,2,0,0,0
+86cbf853586ac1a6fdc792443c11c59c3a81200d,a61c17c1a9b6d2809bdd05bbb5f17060c711d9c1,e310af76736f31d6e98103ea3d77bc949bb134dd,[],['package.json'],0,2,0,0,0
+d2df7173e30809cb00c91058e2f1991bfc1c3764,766e111ac1138749f1ee639ac77f2fa7128701db,a61c17c1a9b6d2809bdd05bbb5f17060c711d9c1,[],['src/mermaid.spec.ts'],0,2,0,0,0
+004ea9872bb44495e4d24f3fe161ee4d9384ac15,bf4607cf08835ccda68f5641807b7799c24a214c,c0dd6f9e35d89c37c533f77a9deaec9f902b7d2c,[],"['package.json', 'yarn.lock']",0,8,0,0,0
+a0fa8df0f1bde406c5ba35e22242e60240cc0b29,f9bf53551f34a34bddd6c77245e860ec650d0d04,8020ab9f78ca8bf24f8e6318103b5e0bc02ccbb3,[],['package.json'],0,1,0,0,0
+f9bf53551f34a34bddd6c77245e860ec650d0d04,99923fcd0ff851badb6220f14e3bd821fc566fe1,579dbc8f63383b68e9b58da14c2b24c82e7c9cd0,[],['package.json'],0,5,0,0,0
+d898b8a7e76e85cdfbaa588041bbb0cf624ddacd,f28c86326de32218d35042cd9ea1b0bcf5614c9e,579dbc8f63383b68e9b58da14c2b24c82e7c9cd0,[],"['.eslintrc.json', 'demos/index.html', 'package.json', 'src/utils.ts']",0,5,0,0,0
+5e9db250bce99a3234d62c607de6d0d984469c7e,a95f46f51351c61f406e291a2d693ad45c5fde20,d52c1f09d510502a0662fe0f000d8da977b97dcc,['src/diagrams/sequence/svgDraw.js'],"['.eslintrc.json', '.github/workflows/lint.yml', '.lintstagedrc.json', '.prettierignore', 'docs/CHANGELOG.md', 'docs/Configuration.md', 'docs/README.md', 'docs/_navbar.md', 'docs/accessibility.md', 'docs/c4c.md', 'docs/classDiagram.md', 'docs/development.md', 'docs/diagrams-and-syntax-and-examples/flowchart.md', 'docs/directives.md', 'docs/entityRelationshipDiagram.md', 'docs/examples.md', 'docs/flowchart.md', 'docs/gantt.md', 'docs/gitgraph.md', 'docs/index.html', 'docs/n00b-advanced.md', 'docs/n00b-syntaxReference.md', 'docs/newDiagram.md', 'docs/pie.md', 'docs/requirementDiagram.md', 'docs/security.md', 'docs/sequenceDiagram.md', 'docs/stateDiagram.md', 'docs/theming.md', 'docs/usage.md', 'package.json', 'src/__mocks__/mermaidAPI.ts', 'yarn.lock']",1,142,1,0,0
+df7b5965c2e7acb5c01e982bc1cd030879b9a8f7,8ad5f728c028e738609b729e946f2441e64293d8,d52c1f09d510502a0662fe0f000d8da977b97dcc,['src/utils.spec.js'],"['cypress/platform/knsv.html', 'docs/Setup.md', 'src/Diagram.ts', 'src/config.type.ts', 'src/diagram-api/diagramAPI.spec.ts', 'src/diagram-api/diagramAPI.ts']",1,27,1,0,0
+7aeb60f42a67b59a942ebcba2cc0c85ae43f8604,d67e2723c69d6ff4f21c1c17d8a6e2fc4c3da192,5597cf45bf3c971fcd1fd35e303e418fe421c5c2,['.webpack/webpack.config.base.js'],['package.json'],1,2,1,0,0
+e46d9c117309de4fee4c87cd90ec7da7c6b40fc2,2272eb66445da5e1740df11b409789b675366a33,ac76fb73a81e178722285ef8fb86c50a865469e7,['src/diagrams/common/common.spec.js'],"['package.json', 'yarn.lock']",1,4,1,0,0
+68f8010ab91c2eab7ce0c707d38f82fe289fd93b,654dfa6b3d762650ffba2f0a65715d46ac2bc7e2,98b2febe304251f849c56104cfe1e3687dccbea6,[],['package.json'],0,1,0,0,0
+9b319a55f65238aabe59dd37712c83855ef7aabc,a3dfc4c0e849b20eee4ddb271e9f27a0e95295e5,5b632602404d266ff04d10008123b56088bf1e94,[],"['package.json', 'yarn.lock']",0,5,0,0,0
+d2aaf6aad94220ac36cfaeb31d5f6d8177e5a904,e542339ed10c0dddb4079b9a91688f865c6f7951,d7e08888013841300ce75266320a5b3176ed7117,"['src/diagrams/git/gitGraphAst.js', 'src/diagrams/git/gitGraphRenderer.js']",['src/diagrams/git/parser/gitGraph.jison'],2,4,3,0,0
+f350ff9852356ece680fe4925b31773adb5d4917,d32c8534cb87da7e819f518808648105f4871378,d0d5739ab09e59db86d810edd4f95ddfecfec513,[],['package.json'],0,1,0,0,0
+6ab0eef6f304c408810d742d1d3f7dcf6e5beab1,d0d5739ab09e59db86d810edd4f95ddfecfec513,17ccd1fd0bcdbfce8a0432af99a7ba7c95910ac2,[],['cypress/platform/knsv.html'],0,3,0,0,0
+d0d5739ab09e59db86d810edd4f95ddfecfec513,9b54feab84fa24960fc889726d5617c66fe4fa6e,0779c39654abbca3764fd3c2e79936b8f9082587,[],['cypress/platform/knsv.html'],0,3,0,0,0
+60651fdfe0cbb8726ebb7a398eb023da54b7b591,1efd5c7d58853cd6d88bd16adbc4592e9a09aa00,fd70b862edd34874c0e2b46bc51444ec23d6e914,"['src/diagrams/common/common.spec.js', 'src/mermaidAPI.spec.js']","['docs/Setup.md', 'src/mermaidAPI.ts']",2,4,2,0,0
+a2469b69848e3593c147a040dde4420f1528aa31,1549eb20dfbf0698749ab50b2cb264e63d2015b5,6e16369d85f6b8c21ebec17f32daa0428ca505ec,[],['docs/Setup.md'],0,1,0,0,0
+9b54feab84fa24960fc889726d5617c66fe4fa6e,afe343e94fafab754e6ce9e8409700ab9766d8a4,680a06a60eb14ec526d5ca80898f39c76bdb0ad0,['src/utils.spec.js'],['package.json'],1,2,1,0,0
+56c4637d1e88db80194105ee277e04d7c6f5bad6,38d243c63faf439487e0d7403517860826f44a85,ee1ec3d6d01ac34cacf550cad4b892f5a7744537,[],['docs/README.md'],0,1,0,0,0
+e1de0873cd1c1369a8ec3d7157c4b7c0316ee950,4c30e03f1ea1a26292a248794b207e596615593e,ce1507c29665145f70511b6ab4dc367e31ab05ac,[],['docs/Setup.md'],0,3,0,0,0
+0d6109c7a8be6d2ccac4ad610e31fe1a63282fdb,4d4b77f39fd4fa0914b5c13d30e2d03d373a0dff,ef5c753e325a478a161f27e629fdd13d01cad47b,[],['docs/gitgraph.md'],0,1,0,0,0
+ea58bb3359e1b29d987f1f24f013e62aa08e0842,18114ab9ceef0a040345b80a7e0e085a7a959645,5a9ec30803398464688f7e460fc66a008814d7a2,[],[],0,0,0,0,0
+7d658403c2d2841b78c9ccfd4693a31520fad099,015c112103fef2fa457bc2afbeb09ed76f2b4d71,a1ef3f0f4a0ab93df90edd70204767ec0f83c7f1,"['src/Diagram.js', 'src/defaultConfig.js', 'src/diagrams/c4/c4Renderer.js', 'src/diagrams/c4/svgDraw.js', 'src/mermaidAPI.js', 'src/themes/theme-dark.js', 'src/themes/theme-forest.js', 'src/themes/theme-neutral.js', 'src/utils.js']",[],9,19,19,0,0
+e306fcc795c237bfa74e0895563cb105e8b18208,20c4a68aa84190d280f01bb50c4d2eab3705be30,3a2650dc6dc2b0e6fb78641656b3d99cb106ba54,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map', 'yarn.lock']",0,5,0,0,0
+20c4a68aa84190d280f01bb50c4d2eab3705be30,4fabf91e1687d43ee235859f0396b512430c90b6,8889b05d29442062c9162458fa595d5abd3903d4,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map']",0,2,0,0,0
+3b9485008437c9b4654c146bab2c2efe4247d6aa,d8682cfb5f3ed5608043318fe5103215f364774e,160275533078b628cc4e06cb8c4b46ca021f5ee2,[],['src/diagrams/git/parser/gitGraph.jison'],0,1,0,0,0
+be36e83b5ac7d4601e7fdbad0e91dcba8aeede26,2b6646e38c0e089b2bc1879f2241eb12e6b4721e,8583c7b9a5e949680d036771c4d58b05049df6d2,[],['README.md'],0,1,0,0,0
+386f3c7ce938cc0c535cf1b832c1218743799086,4c93870580f31e7d9a44248de2e0e05d1a46bd88,7c25fb572e8047c6969cc12577eecb170986992d,[],['dist/mermaid.core.js'],0,589,0,0,0
+170ed89e9ef3e33dc84f8656eed1725379d505df,c0bdf9d99bef0bdb6bea13b9e619711121b6eaf2,611370c6445048e991330da4b5903de8e8d39e3e,[],['dist/mermaid.core.js'],0,4,0,0,0
+cda21c50ac29830ede429a56c12875eba756224b,a7527e6f8838bd24cfe7067010a2913f4a11b5f1,7aa037ee6028feee1ac1db7d77298a616759821e,['src/diagrams/user-journey/journeyDb.js'],[],1,2,2,0,0
+6052636a621e8ba50d65d83eb6161757f21d71e3,5452cedc517e40f46ac61e43e544800c7e71ab6a,7d2e77a1b384dd9384ad31d4020194557bb96640,['src/diagrams/gantt/ganttDb.js'],[],1,1,1,0,0
+0c5252594ec97e592e53d3573c04b83bd3725515,380688c16af37b79994136d3dde5a26d2fcd3dd6,ca256308f235202c4922fb6d132d87e87e9d159c,[],['dist/mermaid.core.js'],0,4,0,0,0
+1f175d2d846c515691240eb7a5adb4cf3dff97f0,b1105675179932d9e6abe43e0bc0ed498a765bb3,bc9ff496f2952c9a8e538026219c1969b3f349a8,[],['cypress/platform/gitgraph.html'],0,1,0,0,0
+14464f9fba91959f0a6788b5055f6e78cfdc071a,933efd0ddaebef8a470f9ab975ebb49681e7b5e3,286f6e52f0775dbe8d0921461a44987fd2ee77f1,['src/diagrams/git/gitGraphRenderer.js'],[],1,2,2,4,0
+43854a2921eeceb74b2f782d8ef3cfadaebebbf4,3b9900c1e08551c861614df92021d7f2b7371338,ed39de8426f92920cf2660e197d5ba334f1caf85,[],['docs/Setup.md'],0,1,0,0,0
+0185a74e95296db483d55b4a4433a3f99e4a5fb8,eeccf1c56b25ff582952d1dc83db36b36d237fa4,222fafe686a797e23ce6e6a7c50cb287282ba64a,[],['yarn.lock'],0,1,0,0,0
+4459eb5c87cb3693c13a4b1956118ef3f74466bb,3ea974709f8a5d0aa22c9aa8cfb7863e4658b4a7,1e7a56b6fac00426a4a9a043a94e2944041a2636,[],"['.eslintrc.json', 'dist/mermaid.core.js']",0,4146,0,0,0
+bf716de8860012bb5073fecf5ea3e69b6f9f1f46,80b14d1d7f12c9404c4c6643b15e90f9ee7945ab,db537f2cb4467a7eb6ad334d808a5689f5eac300,[],['dist/mermaid.core.js'],0,32,0,0,0
+36b4860ab5da8e6d89e0ea77c0b85e7e324fdbf9,ae5e15c04610f4458465d0d4d42eeefa80bb87e2,6a457010426896513d78c1ada1fbef55f2daf12f,[],['dist/mermaid.core.js'],0,16,0,0,0
+e0a05f83d18f15b69bf17f4ca23427d03067b8b7,0b35f9c24ab20a1348aaa48c7f6fa9eb6cb9ae6c,be0dd22fa57af888d49a2d839a2d0651bcecc5fc,[],['dist/mermaid.core.js'],0,1392,0,0,0
+59e0a8e1b504771a384a3ab75921d70e3b2570c4,c232bee95f172b8b2e5ee0671fe251e05004d896,3426aa8b2a5cbf826fe99ecd2708c2556217d133,[],"['dist/mermaid.core.js.map', 'dist/mermaid.esm.min.mjs', 'dist/mermaid.js.map', 'dist/mermaid.min.js']",0,5,0,0,0
+9e8c03cb49b775c65c9430f6a5ace8b58bc72054,5fff8403a84c49867f7d3a9ec37e228db913f893,17a23a1103bf105cf4709b6bd019ab614d56f213,['src/diagrams/flowchart/flowDb.js'],[],1,1,1,0,0
+0b1b3538bc6e5c2685720ab2f2b3e14eb62a1146,d84be0d792217bb6972723d211bf6809d6932431,17a23a1103bf105cf4709b6bd019ab614d56f213,[],['dist/mermaid.core.js'],0,6,0,0,0
+9d1f32cc0a7818460433d90b7abf6698f22c8510,6318eee07eb57a96942dac0785511d158f28a00f,5b8a4a0b7a6a478fcbe650c187d3441aef5deccf,[],['dist/mermaid.core.js'],0,2326,0,0,0
+2368ba491468551869dd66501b60e0512eda454b,57671b2b786c77ddf544c6282a34157657cf8097,857f6c892c915eb9786ed048f7ed9f8c7ba000c6,[],['dist/mermaid.core.js'],0,104,0,0,0
+0db5f9fea79e395631f15020967c2c1d6f84de22,d140a9df8f0534cfd1e36bc081bfcb3054fe4956,1fe31dac7d26d930b4438ababfc8f5fd3a6981b7,[],['docs/sequenceDiagram.md'],0,3,0,0,0
+0fb25ee749932c03c987a1f1a6313e2bd9d1398a,d2d8c9bc8e4bdade2b5db5a2b73730aad47c2f12,a2e618014371893c51a9bbc020745ac27d308f8e,[],['dist/mermaid.core.js'],0,42,0,0,0
+69ecb0237591bb1bb515c8d8c510062787f350bb,bf378b76f4145656547a132e750c2802ab49cb18,caeeca77221bb8d4fda2075fc780038789cf4afd,[],['dist/mermaid.core.js'],0,2153,0,0,0
+5661b43168c1d9585376cb21a1c3df8deec1cafd,aa666d1829b2cfbdfb81fb345219dd9b87eac75a,2758d6477803dd9e5e8975b0d93b33c69be7b377,[],['dist/mermaid.core.js'],0,7,0,0,0
+5d5808880f1d1a81703705d74b479748807dc3ce,62cc720607d4a71e4c9958519edae492cd3e9d7a,029042393c795b4b3ef9c91ae66564610e4b0c89,[],['dist/mermaid.core.js'],0,7,0,0,0
+35d8f33542d1c823954304ff3aef23312a31ee58,75b79e1b23f288e4706f21f62925c17c676cf4c0,f91920ab90e102fe69a87e1b1c748969504ae9bd,[],['cypress/platform/xss7.html'],0,3,0,0,0
+004e7e376d66e3cc71c5b721aa6456ff86e538ac,96977e70b3fb503aeb9e59d4c8e23645fcb083e1,549011edf485e3c4c2302ffb5a9ae1dd2f4ca0f4,"['src/diagrams/sequence/sequenceDb.js', 'src/diagrams/sequence/styles.js', 'src/diagrams/sequence/svgDraw.js']",[],3,4,4,1,0
+8bd830c99145ddafca098a6a288b8dc2101c7802,5997227997a8fa8e604fb338c317e8163edf79b7,b6ba4b2fd8bbfed9253e5d3dfdb418159697e2c4,['cypress/integration/rendering/classDiagram-v2.spec.js'],[],1,1,1,0,0
+ce6d8576aeed03207394394571311718295e1a99,291bec7e902765117fb6f956609168efcae46ca7,48b6a32fe19af7e600fb0df900aa5956159e52d7,"['src/defaultConfig.js', 'src/diagrams/sequence/sequenceDb.js', 'src/diagrams/sequence/sequenceRenderer.js', 'src/diagrams/sequence/svgDraw.js']",[],4,10,10,0,0
+8af36b742ee81fb4894397f1f6b60fdbc011a7fb,61a401b1191d35ab82e55eff75d0190fdb1b63ca,a670b678445f2894844ecbe7352f994396caa518,[],['dist/mermaid.core.js'],0,8,0,0,0
+eb4ac5c1033b4ed02fcbd4134e52b1d8c8030fd1,6fa6503515381fddd0b970544b742955eaca9a9d,a51bfd6a04c658c7068843bdd5189e33b0a90cb2,[],['dist/mermaid.core.js'],0,6,0,0,0
+6a3991bbaaf6d4239a9f8b2488a9901fd1354a77,5d2a9fe2675a32aa7170c19a6f0d8a5a3b54a70e,52a40112a22721834c2b3b312eb44ae945eeb7e1,[],['docs/n00b-gettingStarted.md'],0,6,0,0,0
+30a02adfe3b10a5dbe205fb020acf96d7512c778,ed6abb6d920fee27481488365ebd83a6b789fe88,ea6102e123428de5254464dada4cdbb4239a2536,[],['yarn.lock'],0,1,0,0,0
+ed6abb6d920fee27481488365ebd83a6b789fe88,862330a5764249a14a00f753850996d8dd3fb444,9cc4f73cabb441641fd4fad7f3d44db0d67a9442,['src/mermaid.js'],[],1,1,1,0,0
+a55777c62b8e0872e7e8a2bf01f0513b350359c4,70899ffb87593583f704f731c4c0d4f1bc2c5313,ebd2cb6f25831fe78a89c22fe5476db86c301a76,[],['dist/mermaid.core.js'],0,45,0,0,0
+cf6476c1fc4c1010423b548405a274f189cebfae,d75f950ac49a6b3b17a76411c2ea2c3bb95ec3b0,f48cb652843e1f8b827e6930d5c83c499aa6861f,[],['docs/integrations.md'],0,1,0,0,0
+4e7ecb3f308392a8d244319e7c39baf02ba4dd39,5f841d98bc9e97713f53385f8d0c8280a9a5b3af,b9d90339ac4799596bcb93ac66a414de95e8a830,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map', 'dist/mermaid.min.js']",0,6,0,0,0
+b1d21b0e3fe19baf8f55fac69a2cf3e303e431b6,30b265a425287effb8774c8be2f6241837a0d4be,0646b4314434e0b445fe42ce2181a08f33e75ed3,[],['cypress/platform/knsv.html'],0,1,0,0,0
+c0d0e80fe0deb31f12b5953d0444c9b4587e142a,693de2996afce999d71a2c49acce749ff098c6ab,0646b4314434e0b445fe42ce2181a08f33e75ed3,[],['cypress/platform/knsv.html'],0,1,0,0,0
+bbdeec5a5022e7a28b27b5148962cf7ee6d2c7cb,62e196e802571bec11e320e2ee583eb863907e01,be95b93a2d91d62bc8618b906356514232b4343d,[],['dist/mermaid.core.js'],0,26,0,0,0
+0728533676f55a7e72c82cf68dd52137507e8e50,7019a1149d2423ab4d896285deaff61d0ebb0694,b4b2a5b5a66ec453bd1b0a3c58be787f6430f0f8,['src/dagre-wrapper/nodes.js'],[],1,1,1,0,0
+a6cfb315f27ea64a4a9ef2702d1cc8e51ba2dc4e,9ec76f7ecbebe31ee0a77908d0c923c604bf8da8,03edd0001436d362e19090501395c50609c3ff4a,['src/diagrams/flowchart/styles.js'],[],1,1,1,0,0
+7cb46ffa18c0a2adca1e38a9a1dfb44e9354fb37,d9293afd359dec7d1758457bba25859e8b64be83,ea9a893c246d0a83b07efaf3c0aef8dbd0656045,[],['docs/sequenceDiagram.md'],0,2,0,0,0
+1c0b167c9594dceee981c8538b23fe440dff1329,36589ad8329aeb6df87cfab7cb649d9ad350d5a1,0fe1fb76d1c36cf3398c7ad6f465e80739eb1d58,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map', 'dist/mermaid.min.js']",0,4,0,0,0
+96ac13cdac47f2e0c269526eb97fb0bd7f79e1d9,d409006a44074fcdcd191bd3218b0a22d3764e7e,2e7452f0674574f9e55f953adf72c24e1b92f357,[],"['docs/README.md', 'docs/directives.md', 'docs/entityRelationshipDiagram.md', 'docs/index.html', 'docs/usage.md']",0,6,0,0,0
+d409006a44074fcdcd191bd3218b0a22d3764e7e,68410b9c58dcacef936191c9a30dce9cd5e8e461,ddc31870bfbfe3f6e11e9b895f9d27a13d22adea,[],"['docs/README.md', 'docs/n00b-syntaxReference.md']",0,4,0,0,0
+d54f3afe2561ab65b9775daf90ceb8846180674f,46d41ba67af2acf97d1161444e96e960f8125351,cb41569a5a7945189df77694f3f92054410a8c61,[],['docs/n00b-gettingStarted.md'],0,1,0,0,0
+997257ff79aeaf07ded22db9f0e8cdfc201a1c22,a679d2a0ed6cda6c497c20a698933daf80cb4233,153da3331172ed259638b84bba878c8c042a15de,[],['docs/flowchart.md'],0,1,0,0,0
+8870ba3b6513236e23185fc735a0551a801082fe,0c38e014d7d190d1c827a6dbf3a2789cc9f1ef1e,26e0283fc71637b38da17405ffb15e4c83a2e36e,[],['src/diagrams/er/parser/erDiagram.jison'],0,2,0,0,0
+b435171aa2fa6523154e66f94331d07215c95f65,911d97c0a3bdeb6833969cf461da445eab0fbfcc,8e342e1db7b3569894b3de85177b573e7d11d53a,[],['docs/diagrams-and-syntax-and-examples/gantt.md'],0,1,0,0,0
+5e0f2e857289e65b5949b20dd0adb733fa0fb418,439399b9f17a6dd0c42c42f5cd4ec435f989c7e0,350732d8dd46edad15833aae1966ccb08e5fc77f,[],['docs/diagrams-and-syntax-and-examples/pie.md'],0,1,0,0,0
+c2c5cc45fa5ca98a61e49f0b777b93f1cc781c07,7404e436d20dc28f1cb9d4a8c49cb1746eab0926,53933d934d3bd011407fc605f9d441f84a0c887b,[],['cypress/platform/knsv.html'],0,4,0,0,0
+acc4f31c3a52a10e32e4e04debf45db24f6933eb,bbec2c54ed6fd10ef3192cb8cead58df1ec2271f,2e4d1a7b44d17a565336fe8afc23929dc1957a93,[],['dist/mermaid.core.js'],0,6,0,0,0
+28c01f647676d9065bdbe2fe0fa9e3f450f1f303,c95b9ffc435f16c00141b99300300cd286da8f31,117988d26d5c0b2773eb4f93a3b8959b896ff29b,[],['cypress/platform/current.html'],0,1,0,0,0
+455cd9c69605a1465bb0b0f717117c5ca91e8bf0,060ac3bb4aca4ec73e17028b59478eab7b8194b2,51f0a3f42a53767ec469a55d2f52b9540dc9283f,"['src/mermaidAPI.js', 'src/styles.js']",['cypress/platform/class.html'],2,5,3,0,0
+62260aa30b4ddfe3b8cce10bccc06d55eb2118b1,9223173ef2e15c76832ad3857d3c703ac87d7b00,5e724164788efd385c2f8ede9cc39e26f80a9aef,[],['dist/mermaid.min.js'],0,1,0,0,0
+cf70678188b763b0d36ecbcbbb5af1fd5088441f,71e4ada39a315d63b3999c07c17b43e0f74500fb,b23988c947680a618dd4bbf2d6a9f745c8fc7bf8,[],['src/diagrams/flowchart/parser/flow.jison'],0,1,0,0,0
+4ee65822aac6e9a3659411ceddaa8fad863b6d74,e7ca6c16ffcd716088b6450ae886f2a28bad3e7d,b120c34177726ec6fe97e87bac6a0c7d7c6f2631,[],['src/diagrams/sequence/parser/sequenceDiagram.jison'],0,1,0,0,0
+6bef35d8efbb8b6b9474c3c1de14e5ae077ba84d,ad1266001915a5a516e48173607d83d01e03dc1c,a955d8f890d9cf78f01b37d417eaeabbfbd0fe21,[],['docs/directives.md'],0,2,0,0,0
+01d7a3323004ab67157a0bb29d1df9aa213136fa,06d80032fe47fb6afa4ed2abec3068a2a775c971,d92f5621aaa92110b32a185262a9c54aff5a451a,['cypress/platform/bundle-test.js'],['dist/mermaid.core.js'],1,13,2,0,0
+a2932a0393cacdf41e85c0635d03b14860594c81,0f575907c75600f5945bb11bca01e246f921e0bb,f68536357415d16b239e04a98e6195227399557e,[],"['cypress/platform/current.html', 'dist/mermaid.core.js']",0,21,0,0,0
+575c34467f2ef5f65651ca82fc7ed78587aae1f6,dc8c27b1f97fe454295596b2923f9003c94dc264,a6ec038189cae851250a7eeff25f5c738b72bbb6,['src/config.js'],[],1,2,2,0,0
+936d5821f9757de67d4ec6379b88717492d76258,04493035cd433221ead57a223321ac4e8cf573d9,062126c43d898f27d568b9d41d8eda9ef7049da8,[],"['cypress/platform/current.html', 'dist/mermaid.core.js']",0,22,0,0,0
+da8e75f98a15aa51decc455be2cda0e74b081b83,fec155304101c660eaa693f5a45ec57b44c441ad,a1d2208bf3dce4b364d44ac6a13732e7113f1d18,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map', 'dist/mermaid.min.js']",0,5,0,0,0
+a1d2208bf3dce4b364d44ac6a13732e7113f1d18,661553da68df3b78d1a1ff321d043c045af82605,b6b76eb137cda6d03a25e3de5da1f2a6f7d77138,[],['docs/README.md'],0,1,0,0,0
+c655cfaca85ba95aa0233d56c48c0237ab8674b0,b3a465dbca7eb34f3c4f98a7dd9439b64da51f9f,33d3bc53b44e798d6f440a010a2f90794e340205,"['src/utils.js', 'src/utils.spec.js']",[],2,7,7,0,0
+b3a465dbca7eb34f3c4f98a7dd9439b64da51f9f,35a47093ab9f7cca66bed2007582e7787f617546,be9da3928b6225357a40ec4193715d95745b0ffe,[],['dist/mermaid.core.js'],0,36,0,0,0
+18254392abddc5f28b36bc345619ee920918c07f,5646518352be28a471b9edf1fdd81146c38a666a,98a7800fae73218d03a0d08c5f92a37744b541b7,"['src/diagrams/sequence/sequenceRenderer.js', 'src/diagrams/sequence/svgDraw.js', 'src/utils.js']",['cypress/platform/current.html'],3,16,15,101,8
+b3f9bbe50f005582bee27c1a4eaba7b2a35bb600,60586d8ce034c376d40c42076c9f0437ae854387,e37c7e58cf08aa312d085da89d3203675729f96d,[],['cypress/platform/current.html'],0,1,0,0,0
+5f257119d6779d007230170353680fbba5a84aa9,3c72d28511be9b5a7ddbc346ad63c27d17a4cc41,e6df4f24f4f1bc25832b5a0fd715df181a94093b,[],['dist/mermaid.core.js'],0,15,0,0,0
+6309dd13504600b4683280c87dd78875c8d28e12,0ae001ed6de10394c3335130dc2b6f03ae1e04eb,bb8efadb98fc97181fee26d0352149efec68a72f,[],['dist/mermaid.core.js'],0,6,0,0,0
+4a253a776017e2758c3a8db0d2a1d600255a54ef,bd11663e0a19fcc4a2e4104405ec4fddb2dff98f,7c4bff567bb22914f02b0c2c10e1861b9e0b9b08,[],['dist/mermaid.core.js'],0,14,0,0,0
+7c4bff567bb22914f02b0c2c10e1861b9e0b9b08,df2a5e97f8c7ca6e39e618443106589d89ddb6d6,e9e5c75decbd5f5bdcf6c9d63c8f8f553263f6e2,[],"['dist/mermaid.core.js.map', 'dist/mermaid.js.map', 'dist/mermaid.min.js']",0,5,0,0,0
+3bdb9f289ffb155d3fcd3b07331205fb1bc5c71b,8958b2aa1b18981a28fb6a48fc3aa658bcecc583,c1fd7fdad004e20c3c32889af081cc013cdc6a7a,[],['cypress/platform/current.html'],0,1,0,0,0
+1fc6603f41fdb4c98c4270cfd8dfb6f2cd5ab3fb,28ea68fe7f796487ef4669c63192f26f0f5d0a7b,d36a233cbfb65300a4a2e74e674dbc1e7fe80285,['src/diagrams/git/gitGraphRenderer.js'],[],1,1,1,0,0
+5c902001b9b2eb60de65458b80ce60898613dc73,5f6887b3164b0aae6c185463d4b68e27b0bf98a3,45b96bd56867eddad42bd0f4d3e6623de6c0466e,['src/diagrams/sequence/sequenceRenderer.js'],[],1,1,1,0,0
+599692024934e001e69dccb24e667a8fd4723d2e,6c7b7b796e51552172c3aa72e4b74d65fb384fe9,f0119085e427aaa347149b75e20c6f8f9dcbf354,[],"['docs/index.html', 'package.json']",0,2,0,0,0
+35ea4d1a009576a8899b63bae3ff2e3de72d1951,ad288be2ee3f74ef4be793f6dcb875b77bb11241,10583610bda772ce82645c333bc8ecc8ce09f379,[],[],0,0,0,0,0
+33ea1d44fbf80a87c4e03caf31255ab0578facbc,26c43667aa705eb1875f15bb0cb9802cc34c012f,737e95c3f938a9daf8d3beac91fb094645a58698,[],['README.md'],0,1,0,0,0
+963a0fcd77f95130462ea8d9268706021912bcd3,4a2e0bfa00e71ea8bf71138630203d0eac78a428,fbd8dfa5beab9c2c9148550d356bab7fec260f9a,[],['.gitignore'],0,1,0,0,0
+5ea6bd59804b28d6449e0fb824fa6e22172d422b,c7b46f4fbad3b01601922a02892c190929eae653,ea29b67c5c94cc4c20c1d9a6e06a884b2dc1bbe9,['cypress/integration/rendering/flowchart.spec.js'],['dist/index.html'],1,2,1,0,0
+0a5ee0634f24e6799ba6de968759953292aa6fac,ce02d1dc9866f54f49d82621202d31aaf6a1b029,d53e00ffe0e9dc12d5d2e47c8f9ccc20ea5c88f4,[],['docs/classDiagram.md'],0,2,0,0,0
+5716d163ec6c94b46fb0212ff5cde6ef42f8875e,42ef0352417268a48e0e89d70f348f3c48a8db24,b6157195b368b792a84051a15450105dbb5b340d,[],['cypress/platform/current.html'],0,1,0,0,0
+de8c6d557292bec267b3cb1324b70d865f7e1794,5b2f9351c77b26a539fcf323d239d93de0aa5d38,9406bda93d2ecba19823d0e67cc6607754efd41c,['cypress/integration/rendering/classDiagram.spec.js'],[],1,2,2,0,0
+e313625ccbaf119f3805f5c52c868bcdee28ef8a,5b5be40dd59b8a861f25787fbe6fc7eb15f475fe,aac915b285fbc87a3b7bab49fb1ffab389d07a6f,['cypress/platform/viewer.js'],[],1,1,1,0,0
+a3017b8456cfafb446aedb9ad549328a69e24984,1f8480f0af379d09a2e8e0b320746f4038e591c2,e4486420ce7562a1608e5ba9acfc78e76aeeebd4,[],[],0,0,0,0,0
+ae7852d9b98f7c982c8c44fb00af582cfe75921f,c6efddee87135f7451d2dacafe585300165915a5,4ce523f33badf6bcc9fa08b4fb24de82874d3d20,['src/diagrams/sequence/sequenceRenderer.js'],[],1,2,2,0,0
+8345134d2a1b821f6963fc81016339598b4a811b,ec5627a44cadfb56a14958ca4353b768607ff7ce,0730f73f73e3e328906c406c878e24c1fbb44a2d,[],[],0,0,0,0,0
+e8835429fd0aaa54eac5aa4e1bac07906e9e2ed8,ba01e3778a3caf2da7615aab0c0830793987e215,bb372751f70ba42f9c775531e0d41fd48a95ac0e,[],['.github/workflows/stale.yml'],0,3,0,0,0
+b3dac15d572a74e7de9d1596462e70ea655e9259,def4ca699a700d5f3547de96d20db49de37f2b78,f98fa821349074cfbc9c9ee57114b26845e1f0b2,[],['yarn.lock'],0,25,0,0,0
+c4d2be7a0de8230e2e07b0afdeb07d50e0b68adf,ef51f543a33c657592a4d15cce090b96477eeaa6,abdbf2cb8afeefa509e62308839f4da78fc7aa38,['src/mermaidAPI.js'],[],1,1,1,0,0
+533b55bb687f80845893463c4df8478dba3749eb,5b85fe9293493bc68d105cf78192ac475c9c6d0e,1ac126fb7ad80aa566200709666c7dead9a78760,['src/diagrams/sequence/parser/sequenceDiagram.js'],[],1,1,1,0,0
+5fd803d4792f078c1533ed22ec240e92c4c8b7b2,1241664d8d9c9f4e8a80bfd97df3691224de7544,0fdddfe5481b820bc5a5ee5c96e44a8aa1064e1d,['src/mermaidAPI.js'],"['src/themes/dark/index.scss', 'src/themes/default/index.scss', 'src/themes/forest/index.scss', 'src/themes/neutral/index.scss']",1,5,1,0,0
+3e9e5acdabac0558ec12cbacf629ecd54c8be106,40d10ea7413145836d26a8a7b3420fe7905993f8,03abeacea452515dc2a02f994ad91ae7335ce478,"['src/diagrams/flowchart/parser/flow.js', 'src/diagrams/info/parser/info.js']",[],2,12,12,0,0
+24600355c82d2674edfcdbb3f7e366643eae2c56,db2a21cea1ab82ec387d39df2357aa49919b73d6,95967151ae61be7db104564dbf29db81a4415f11,['src/diagrams/flowchart/parser/flow.js'],[],1,9,9,0,0
+e64d2dcadac51a8e381ae350401a3b3a8a520e36,f057bd1e89a10dc3fe373e671fd69561d2afc928,803c12877c78d8f9c3d7fefae4ec7be519b5544f,['src/diagrams/class/classRenderer.js'],[],1,2,2,1,1
+db5be3c28a3d882ec0c4f3fb51513d1149070b0c,434a0334118213c5421280cfae058b1b9856c8b6,752a12bda4b22e739dce779ae0a932120c308386,['src/diagrams/flowchart/parser/flow.js'],[],1,3,3,0,0
+0816591cf9be588321d2726b1b2abaa4c3c9c740,836d02d0b927b2a83695f5849002f4d77e38159f,fa9cf2b3458e0b094e3e1af2252a7426ac796359,['src/diagrams/flowchart/flowRenderer.js'],[],1,2,2,0,0
+e0a70bd352ce46086cdb0b3fa6f19db7a33d30ef,fe913ec10f1dcc2ebfe3b3030bb592341c536234,0a7b8840a4219bc65457a0630d706b23be3eb3d6,"['src/diagrams/gantt/ganttDb.js', 'src/diagrams/gantt/ganttRenderer.js', 'src/diagrams/gantt/parser/gantt.js']","['package.json', 'src/diagrams/gantt/parser/gantt.jison', 'yarn.lock']",3,17,11,3,2
+3e6396cc4b9919e7a2e71fd1cae8d14b69b3825b,a8d9b269ff8060792e6fa1a4a5bb0b71c13b69c4,7ca9df9357c2d8e62da8d67fdec8a896e4483e0b,"['src/diagrams/gantt/ganttDb.spec.js', 'src/diagrams/gantt/ganttRenderer.js']",[],2,3,3,0,0
+ef07012359f131024d0e49b11896f1a01996eaaa,e3585a7d6679d4fd1a3eb59ee7a21b175410a6f3,952fe4923cc0803eb697d58cdcc363e03634b92e,[],['.travis.yml'],0,1,0,0,0
+e8930e7dede6bddbf397a4335709a985d383899a,22ad97734991f8d0a3172aefbf19aa7da133ad47,1a3d37d8a52a9c6efcdb24eaa404bdc714bbee1a,[],['.travis.yml'],0,1,0,0,0
+8596eb6091fb5d1bafd8323b22684e76c30e9181,8c6cfebc1c77c76d08d5d6aa0d7d2d2b894dc519,7ff87fdac9bc448ceb89cb45750406f5f628a32a,['src/utils.spec.js'],[],1,1,1,0,0
+2de974f71de3b1bee23f41cba4d444f91bb1a6b9,bda1aaa5db1517f1c61878fd95c5684adc06b8d1,fb500ace8a54e8bdada53a0dfb5db99d69f95f28,[],['dist/mermaid.js'],0,5032,0,0,0
+325d0dd0756fdb2f9e4e6812150fcf232b8b9cab,2c90034d39535a15517e8bad088aceac4b6c2e7d,6c621f243dc30f8f61437f4a629f751d521e812a,[],['dist/mermaid.js'],0,2,0,0,0
+241774128307f50a8b4bc5638636f1350cfcf082,658ed3d7906249fbaf7500689dba5ae0f86ef393,e0033965bc2cb49eafbf75a7e2eac239dfd3a194,[],['dist/mermaid.js'],0,9,0,0,0
+9face453575168974f17471e48bbe484886f03d5,824a43f537c30db950078a0961105b42545d8723,82dffe0a1d51b1611e2caf97fb7751493f521441,[],['dist/mermaid.full.js'],0,6,0,0,0
+ee6ad012090bd55ce1175e49cc932c8216d55667,33973354ed4da2b710bc21fc55a4074086773d8d,699d3bca52b62b1c8907f5be1dd09a10254d41c2,[],['dist/mermaid.full.js'],0,28,0,0,0
+73f567f3e2e9a97a6543513142e7eee075fe4567,1033a74970b53b003fc57a5683ade50243fbc193,9b892ef128585dbaca450ddb54be65699fb7806f,[],['dist/mermaid.full.js'],0,27,0,0,0
+9f970ed953bed9da46a9b3ff0e1e6e298c9bc191,cbd7393d36d1b68cbac259fbca8f685857a73bed,58659c4d856f5ce1f38db198b0bd75b4458c8289,[],['dist/mermaid.full.js'],0,26,0,0,0
+c50178c640a4f6c99539bcc64cf029e94263fdb4,96b12e876ea2039f00fea523c457db1b46dfe35f,d4b35b5594f3a3d42e2e128862cb97c2e9ab50e0,[],['README.md'],0,2,0,0,0
+e550ef9e250ba7cc8c79df875ff5ba87abf15e3e,429b901e7aa64354d10e2d7b168883838df7e49d,eb7c3410460c69166988966c9e408da06065da6c,[],"['.gitignore', 'dist/mermaid.full.min.js']",0,3,0,0,0
+92439fbdf3e45494cfffaa446d0f9fd159b9d068,09553050768b784768941648f7106014a9a930ab,fcfbce8a97b99c7c7a8c3429491f252d112e6bcd,['gulpfile.js'],[],1,2,2,0,0
+c067b31a573ef07e61f89aeb117c04f5ec6204c8,15023461722117d1429bbc0eb6030ca35aa51d53,225560dcdf826dff4d53a07d409ebd19018f3a63,[],['bower.json'],0,1,0,0,0
+1a7997cdef01882ea7b46948d58625e904a09094,8906ee8097f9f2fb4038304720b5d5eee15e5bc4,3a65cd1df38b838f1ac5e87e847b4c03f03186ec,['src/parser/flow.js'],['src/parser/flow.jison'],1,2,1,0,0
+8906ee8097f9f2fb4038304720b5d5eee15e5bc4,fc4f6e617f10fee482cae64c1ace187ead899301,8261429afbe37f184c9999ca27d461989e96d61b,[],"['bower.json', 'dist/mermaid.full.js']",0,6,0,0,0
+20d927ce66c15f66b4f075d81f8835b66b12eb9d,c0a4cfc2d768a7fe0a5d442635b7590054577eeb,2274c925b5727745b3325b8866ba839561974f23,[],['bower.json'],0,1,0,0,0

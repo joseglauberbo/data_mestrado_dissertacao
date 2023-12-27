@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+f3a11b371425c56eb80271a39e3bd64602d80402,6b150042f3051fe6b599c90c6cd1b37d17b46c25,a0fd26a73850737c1ae3b23db35cc6055be0b323,"['lib/reporters/html.js', 'lib/utils.js', 'lib/runner.js', 'mocha.js', 'support/tail.js']","['.gitignore', 'package.json', 'index.md', 'bower.json', 'test/runnable.js', 'History.md', 'index.html', 'mocha.css', 'Makefile']",5,27,10
