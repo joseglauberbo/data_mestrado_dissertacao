@@ -1,0 +1,10 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+736d3cfe7abab93155cfccf0359dcbe928edf294,ce2528472b5f498d15a7a0c535c234e8703a96c2,28670fbf2a4aae1530fb047869dc7de3f8ddb0fc,['src/promise_resolver.js'],[],1,1,1
+d8a988953c2377d8bd40b89c0de5f3f137dbda81,b8e7896cdcf28ee4467e18999e2404863c54df7c,39a650dd58abf8b6cb931da98f8949acc9ad6f6a,"['js/bluebird.js', 'js/bluebird_debug.js', 'js/bluebird_sync.js']",[],3,3,3
+f3859912cddfddf8929dd08022e4f7614086948f,d9da63ac4370c8e9419318fea44bcb8b473f4b9a,471315cfb9530e7485f64219c9e58da7045666f7,"['js/bluebird.js', 'js/bluebird_debug.js', 'js/bluebird_sync.js']",[],3,12,12
+728e62e5e5e23c41b40268169c5c282285736566,178979a46e5a499f04c7e5ca3617eee34d0f1dec,aa728cd14e5fa28b01cf1a9e19abc4b922131097,[],['.gitignore'],0,1,0
+7261d7cae81448ecab4cbfb70c63064b4a6fda33,060e2b78400cefe184d702a0ef4e1830213b4f7d,0f87c28a4e1c81f5f62c42d6d89085699dcc0f6e,[],['.gitignore'],0,1,0
+714b6811043b52622ee6355c13f312b460c8e5b3,9074a9f872bd9a567867f6cda040457b7136fff1,c2f0f4409264aac7d10304085af3c26ed86fa93e,"['js/bluebird.js', 'js/bluebird_debug.js', 'js/bluebird_sync.js', 'src/async.js']",[],4,4,4
+11cbe0cf03fc03cc74b65c760bb6a5bfc2fff8a4,274305593a1a85a261a8137ba83e7dc5f48be69d,b4ebb10dbd44f13b7991c8ec2ca17156de09bb6e,[],['package.json'],0,1,0
+1d690230bc2f34968b4a821f5723e215d21f54b1,0a5cbf28ef608922c6b55c5e87f451009ad7c760,60f5e1c33a425090bf4f0ac85ff58a84f454cf91,"['js/bluebird.js', 'js/bluebird_sync.js', 'src/promise.js']",[],3,3,3

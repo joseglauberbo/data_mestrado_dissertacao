@@ -1,0 +1,4 @@
+7ec046f797d132760dc558164cbc9434c7ebc3b7,RENAME,{Function verifyMessage at src/message.js:53},{Function verify at src/message.js:48})
+7ec046f797d132760dc558164cbc9434c7ebc3b7,RENAME,{Function signMessage at src/message.js:30},{Function sign at src/message.js:25})
+30e8b572d6e841987612241138644f4b7521edd4,EXTRACT_MOVE,{Function import at src/eckey.js:106},{Function fromBin at bitcoinjs-min.js:1})
+30e8b572d6e841987612241138644f4b7521edd4,EXTRACT_MOVE,{Function import at src/eckey.js:106},{Function fromBin at src/eckey.js:27})

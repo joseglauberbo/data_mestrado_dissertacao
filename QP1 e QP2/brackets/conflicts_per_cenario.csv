@@ -1,0 +1,626 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+2422097f0975f064e8a5966741a60bb8ac2782a3,b4c5fbd7224d6238bfb338529f1ed2fb0fbad145,18dd43112e70acc351804127c8b9a0bebde72062,['src/brackets.js'],[],1,1,1
+ce778776761ecbb501428f59fe1d145a423ff007,6ac21ffbe51dde2256fe6c44be007f3cd1390e7a,189f6d39abf1651454feabd8ed01d371eadf2628,"['src/nls/fr/strings.js', 'src/nls/ja/strings.js']",[],2,4,4
+afd8042c71b334e9c66ebad03924a6c079f81d01,bd293bfb6168a2b0b50a8d1aa6d770c2198aab4e,1e5d906d2e0c9cd96d3a22325a8621aaec3f3800,"['src/search/FindBar.js', 'src/search/QuickSearchField.js']",[],2,2,2
+ad915c721ffe379d47e95335eaf2ddd1f6838a6f,fe9237e49e94f864048c559f2c89274991ccf01e,aef78dd0e0cc4dd72fa935cdf9d7dcf00e586ea9,['src/LiveDevelopment/Agents/RemoteFunctions.js'],[],1,4,4
+a25259d817abcdf978a50fb9b547afc25e28d3e2,c5cf0d5d8ef1c452b6d5e091e0e7421205bce875,fe2ba27c47a69f80d91d78efc0b989ac597c6890,[],['package.json'],0,1,0
+710181a8272c6507d9e40790fe3e4573cf0bce81,e1a1e6d575d98df329bd9142fb3da36805c28ff9,7732d934c3da9175f44b97a51a69c7fb2623959f,[],['test/spec/SpecRunnerUtils.js'],0,2,0
+af423b416f9db82e72def4a987c62ceba0308394,ad8e1edaaca63c6f47b3e39e6e5d5bc4ceee74fd,219f8565346c3c3c913e4243434ebd21844ff374,['tasks/npm-install.js'],[],1,1,1
+05f11522b739e9ed95a3b6ba177106528c753506,870f633805387d5e23fc3cf1d7d8193eb56b2776,34a6e79aa23668916f2228507bbe93e63add72ba,['src/extensibility/ExtensionManagerView.js'],[],1,2,2
+7d4c87d4f3c99413a8c5b27fa0fc38546e2e6e12,8b43056a03aa014d071c1393e3edd793fa594180,51582db1932617e4c1faf8a91fafacfb8681c47b,['src/project/FileTreeView.js'],[],1,1,1
+4c1c82f35c86f7df4c432b62c9ed47da6630012b,a0ba41dc89fb202f160fb8af9347015eab019ee2,72f9b1d67709800497f475141adff3e839364a3a,['src/editor/Editor.js'],['test/spec/EditorCommandHandlers-test.js'],1,30,3
+7a4c64a72fbdedaa459eb31a333719cdc29f2f96,c20e9e26ea8edcb13fabdd39337829a0ade48a42,ebd613be5d49d269476445417270e3f01e1c579a,[],[],0,0,0
+51808468d9b71c04c05525964d8dff4e5ef6fb50,cbc51901638022ac712563f581ac7cdc85cf7987,ebd613be5d49d269476445417270e3f01e1c579a,['src/extensions/default/CodeFolding/foldhelpers/foldgutter.js'],[],1,2,2
+8c9275678b0f0c0002b8ce14e6ae61d8545ff585,c4e924e764e8df6fdaa22bec83853cdb5b01b6d3,270319508ce1bd7ed4675f17c1f92173e1a6babd,['src/brackets.js'],[],1,2,2
+1e5ba8f612dcf983d3cbffbbf1bfe455a90788c8,cad238225a4a317bced78617f2590cf86e1d2ff0,6c74071a2880004f9beb20015f6322215c256c9b,['src/nls/root/strings.js'],[],1,1,1
+faad1380213106dc6ba7e901afdaec865cb76887,5efe7a82a8565c8798d960fb26ef3965f6bd2d47,6a20586bcd278508a5bc5c5d3aa44af57799b9de,['src/nls/root/strings.js'],[],1,1,1
+3bceff49902bd21c1bc57aa4d48e385abde00875,37a605c3439cc460bed61f0f54908a3a4d1ef005,725129d88a9ce9ef22674acb35a10cf75b26678a,"['src/search/FindBar.js', 'src/search/FindInFiles.js']",[],2,2,2
+06427a677506d00b05ab8df71848e59759459845,84d96d2c2d4a9b944f550acd91c35373d9e142ee,43dc3f5fad69d6b9b5001bb9847e9fd201aace41,['src/search/FindInFiles.js'],[],1,1,1
+cfe89b32773f7dae498fb2b1aa173757189bce93,75f3b5362f7c1bd7b427022fcbcda22c17ac3f4a,5d4269ca359fc52095d5e7704a6b8a70c74dcd4c,['src/view/ViewCommandHandlers.js'],[],1,1,1
+fbf6d925ab8048f2289e16503e8d95b8f9bf3a52,ad8fd2dd20ec525e095f6faa77a8017f781429f9,9ebc91ba36077aa8ee9f2098e836124ef9ce20d4,['src/brackets.js'],[],1,1,1
+58b7e79f5d22e0fcd87ad27aea69a11ba741890d,4482147fdbddb71c9a5db85593593da694bf823b,209806170d0d71aa9265fe69cc84c7b295bc495a,['src/nls/root/strings.js'],[],1,2,2
+d6262f1bd5f687baa91450fbf3e335130bf0d520,db0bd43969aa60d4984bda24aafa1304b9596c02,16c448363ba4d05f69f6f5cc06c3d5ebf00e7309,['src/nls/root/strings.js'],[],1,1,1
+16c448363ba4d05f69f6f5cc06c3d5ebf00e7309,a3661700657fdd93c04487970abe12d0ee436169,fd6c8acca823e3cf197e6d3ac0ab9adea190843e,['src/nls/root/strings.js'],[],1,1,1
+f341ff5af15add9f0e54a7cf4c1627c09c22fd9c,7b7670f598c9886d80c00c0b98613595bf78798b,240347fb12bd6e752a738a3346857c7caf0794e5,"['src/search/QuickOpen.js', 'src/widgets/ModalBar.js']",['src/styles/brackets.less'],2,10,8
+656a13f649b6d6bb397691c840300348eb24dcbc,1a3b9850994e7318d20fb11615cbbc93db2e2505,b8f92c1b36c2a15396e36b732d7f3fe52e8f4a8d,['src/language/LanguageManager.js'],[],1,1,1
+720d1fb6f197745ad036a9ac3b34648266631cbb,8ae613a3c280d8ef96d64b8da450a8eb4f890b2c,075e05ca2228386df90664cae32bc2829d707064,['src/language/CodeInspection.js'],[],1,1,1
+8ae613a3c280d8ef96d64b8da450a8eb4f890b2c,5af3533b65a8e4ee6ba0277e0c3f655c0c63e7ff,105a2efa4c154afef4792b6e81837b1012aca5b6,['src/language/CodeInspection.js'],['test/spec/CodeInspection-test.js'],1,2,1
+c4157e87669d93673f3f5636f10536c2f218d596,f9ab33b0535aed2390cf1b748370a09fd7fb42e9,b8bf73893bc71978208fa82ea354ab31adfd6da1,['src/utils/AppInit.js'],[],1,1,1
+7bf5da1b8d67e241d1706333019b1bcb37c667b4,881427ea17c048cbff3e0fccf4bd6c2ae15d42d1,f60b243281f0a48ab315cbd375217464321d65b1,"['src/document/DocumentManager.js', 'src/editor/Editor.js', 'src/preferences/PreferencesBase.js']",['test/spec/PreferencesBase-test.js'],3,5,4
+d3ee73750187b5fab26f537a05eccd262dd08fd4,84dde86b4b8331040a4dfa876427a6d3d6a6808f,a39d1d28101f932fe6df783f83ee7a65adddc33f,['src/command/KeyBindingManager.js'],[],1,1,1
+297e6a77e25541a95cfbef7877107de507877089,e9d958a4104e872db585edb436bd535508d9698c,72001b06f57381de31874106517244fc8f967353,"['src/dependencies.js', 'src/preferences/PreferencesBase.js']",[],2,2,2
+22d106f2c89057297599172ee30825b9a194a275,d99cdaff5fab3612b441ef230e7c9d4c459a5697,2f71680547749585262f64c540b3800a715924d5,['src/project/WorkingSetView.js'],[],1,1,1
+18750d748fd81922bd6b1837b4f2790d54c456f4,13c5e0e773c55defdaf67ce960a4a6a2dfc6a896,b7e59f03bd23fcf7117563ff883663b1578319ce,['src/project/ProjectManager.js'],[],1,3,3
+1a84c95288964be40f78c58e95e895e1f1d9148b,90b5d23586ab57b0280ad2b8217013a3c8a6ddb9,985c4bb0a851eaf2dafe53733a507224628dc241,['src/project/FileTreeView.js'],[],1,2,2
+dac3572b4aebd296e3c7b17b49823f7b1475f818,de617d69a590cd601bbf967cbe23730e510db9d0,4cc43b3cc9637ee63f27f1d9b4e34908c231e813,['src/project/ProjectManager.js'],[],1,1,1
+c4e15a621aa065ce2051568e53b2e0f87cfc96e8,326b4ff5efb7dffb9efdfbe8a6b0ca0d4dd65642,0af32ae211d37de293942063041311c2365671f1,['src/project/FileTreeView.js'],[],1,1,1
+0ff81fdb9d09166e76400e9396804aaaaf691812,55fa0278546695a4e03bc2d79d3020b26cedf045,42c04909a49dd4cb9e7d8810d24b03cc3e8dd8d2,['src/project/FileTreeView.js'],[],1,1,1
+f6c3d0cf08cde2146a4a9b39fbb4e4b776c0da52,0845338fec46b6c233943b8ccdde68a465bb801e,42c04909a49dd4cb9e7d8810d24b03cc3e8dd8d2,['src/project/FileTreeView.js'],[],1,1,1
+997bf2c30b33ad600a3670acb709d40a56554488,5b340ee16225650c854f480215756cdf5173ee91,063545e73d290f5148a996b1d4d2824d53d46fa6,['src/project/ProjectManager.js'],[],1,1,1
+cab3e4bd642c0bf58ebb7e3114c0455b24ecbd5c,d280821d679b81fc3999563a79d129ed180031f2,0d9f093cfffa3107fef53d91534b3a78f0f00dd2,[],['test/spec/ProjectModel-test.js'],0,1,0
+0ded69440bb232ff3bd8e447988e6b2d9c45797e,a3f6730a93c4752a538922f805a001c220130759,e2d1a596a94bcc1267570fbf93e46348b74f96e3,['src/project/FileTreeView.js'],[],1,2,2
+a6d4601e856caad81e1dc9610fc145bf6770b348,be33f391c86e2d77d1289245d3e896e0ffa8a10a,bd219be1c9df6f9c4d807a7e4611808385d4975f,['src/language/CodeInspection.js'],['test/spec/CodeInspection-test.js'],1,3,1
+c77e248f95b7567378f459f26fbe4e7a3e3f2e7d,c9326d277103a879062a759169116b7f0d107a0f,3c953f037f8f8c82895aea1e89131e6029645814,['src/project/WorkingSetView.js'],['test/spec/DocumentCommandHandlers-test.js'],1,7,5
+5c59fbfdba157ccc867ccaf20d3ca190a9fd4fee,7a8893faa59c7e4fdb9526ebe791212b0918ddf4,d224f53985e41b1db7d1a16a68f36f9b581ea278,"['src/search/FindUtils.js', 'src/search/SearchModel.js']",[],2,2,2
+f28091ad25f2deb5a69bf33ea17b257174519c02,3da9e298e490cec6a463b12590243f0a10bf80c4,6d74bdc06639e6274c88c425398e53bd6f0231e1,['src/document/DocumentManager.js'],[],1,1,1
+69130cde282c13d7fd94759ce756bf8eb654ba1e,e6411724d23591482482a3c5bf248f633c04b235,2ccdb428871ef70854bdceff3ff21be16b0ca91a,['src/utils/DragAndDrop.js'],['test/spec/DocumentCommandHandlers-test.js'],1,3,2
+5ecb33548d76a3469b14b48ef3cd708a630931e9,5086d34bddb2bd66e2f127ea25f43b6289ad6e42,65dce3de35137334393369664326a52db0e3772a,"['src/project/ProjectManager.js', 'src/thirdparty/immutable.js', 'src/thirdparty/react.js']",[],3,112,112
+52959c77fa6350fb2a5d3f171297a3f6a9a4e165,13f359435f921533cf65094b1309848897eed8e9,60198e21742fe413911f7be40f01175f46e790c5,['src/preferences/PreferencesBase.js'],['test/spec/PreferencesBase-test.js'],1,3,2
+e97946228343d035fb13d5ac19687535a28719e4,24c0768dd143cfd355719a494ac20fe739291ae9,6eadf61fef17ade7ce1d11633c05592886c33a38,[],['test/spec/FileUtils-test.js'],0,1,0
+af77b22c6c91a4c0c614cc2bf7c7a1cf8a73526e,258535b58c69e5cedd4ea484123f3b0d678b6ca4,6affa7907fdc820f7b9083bc0ff7c9fb87fb3e57,[],['test/spec/FindReplace-test.js'],0,1,0
+927fa007076af9fc27467fd859655667192e1f75,fc6e602743bfaee63d4b7af31a52b798af3fb831,b62de0a29268d5f98e65822acb07aea5aa9fe6d8,['src/project/SidebarView.js'],[],1,1,1
+03a5533bd0a1206d608892236b55d3c71de5eed6,750a4ef4cec5aac1fe21f6cb88040339eb09feff,b62de0a29268d5f98e65822acb07aea5aa9fe6d8,['src/project/SidebarView.js'],[],1,1,1
+e6411724d23591482482a3c5bf248f633c04b235,ee2344d12f9e2e1c6f3d1b5e23c7a75c76dba630,ba3db255174747f953f661b730e2f06c44060f10,[],['test/spec/DocumentCommandHandlers-test.js'],0,2,0
+4c4c1911a816ab45c2aef6b6be503c7150e4a4bc,414c6c8348b843d77edeb8e56151a1efa70aee84,d205287f9de6c82ad7d855855e06ee52220300ac,[],['src/styles/brackets.less'],0,1,0
+430eaa6e1b9f4c10478ed1f9366287b18d8745bb,1cd7c5fd98f2545879eef219f3553fd48c0f7e61,ea7199c10ea9c8c5bc6bb92b475f4c7555e122aa,['src/project/ProjectManager.js'],['src/styles/brackets.less'],1,2,1
+55e6a28f745bd1a24e5b164fa44cb6ce8a3d62b9,4b5eeb453268a23a9bd060bb0427df318736803b,ea7199c10ea9c8c5bc6bb92b475f4c7555e122aa,['src/utils/ViewUtils.js'],[],1,1,1
+6d6e38dcfa32548757a4be14d0cc8d8ce0d81bc8,966d9d29690a0bfcd09fde6b7d6d4280032b2cb5,b9e05706cfe0cd5495ab34b777ddad9eb683bbd3,"['src/project/FileTreeViewModel.js', 'src/project/ProjectManager.js']",[],2,3,3
+2471089801600f224959d7a8fbed4f199f98cd68,55c37b1baa57af7cc899fec060235d11db8e8a5b,bd219be1c9df6f9c4d807a7e4611808385d4975f,['src/document/DocumentCommandHandlers.js'],['test/spec/DocumentCommandHandlers-test.js'],1,6,3
+4b5eeb453268a23a9bd060bb0427df318736803b,7c3c5c9f6c6a72b7127a3104f33c566a007b4d66,bd219be1c9df6f9c4d807a7e4611808385d4975f,['src/widgets/StatusBar.js'],[],1,2,2
+b58c48992c2a8f2cb2aaa04de9bf4e8291709741,61940bd9c03a21581fe177d64146b219f17b3d66,c3e15dbfb039e4378553b3894a211ea79dbbc012,['src/document/DocumentManager.js'],[],1,1,1
+7c3c5c9f6c6a72b7127a3104f33c566a007b4d66,07db97cb9d52fdb679a7aea552bbe40937df8e4b,b5267847137d29c5dce6f2c9701e6505b8bbee1a,"['src/search/FindReplace.js', 'src/utils/ViewUtils.js']",[],2,2,2
+8d7be8dd7814219d1dfb25c472e6eb938c0a1752,08427ab287bdda93e4a44cfd9a8914817f2dfaf2,f7b27b8b6674a1cbd05dab5fcf616074a94e7344,"['src/project/FileTreeViewModel.js', 'src/project/ProjectManager.js', 'src/project/ProjectModel.js']",[],3,16,16
+756349872a2de964a3b7f4c1913f109c816e036d,ce242f82479b9c55b7be6f4e7bb09e2cead4860c,ece9bbf2f204f61d18aadb8260e8f9ffb3c7a1c9,['src/document/DocumentManager.js'],[],1,1,1
+98a79c13a477294d6a836d63c3414b631ebff142,3c2859a74092efb478412a941de75073ec642012,60ce7afb491daa0071fba7e0e44e19f2078b4377,"['src/brackets.js', 'src/document/DocumentManager.js', 'src/editor/EditorManager.js', 'src/editor/ImageViewer.js', 'src/extensions/default/JavaScriptQuickEdit/unittests.js', 'src/extensions/default/UrlCodeHints/unittests.js', 'src/language/CodeInspection.js', 'src/project/WorkingSetSort.js', 'src/project/WorkingSetView.js', 'src/search/FindReplace.js', 'src/search/ScrollTrackMarkers.js']",['test/spec/FindReplace-test.js'],11,21,19
+55c37b1baa57af7cc899fec060235d11db8e8a5b,5a74b820debb299e04027abcc0c5dd503359e078,3d5c963e2830a52dabf9a561947435cb563fdc51,[],['test/spec/DocumentCommandHandlers-test.js'],0,1,0
+b7525221f057f230e7c770b2338ace39a9e3c113,2e18e11a41554c16a51f12f91636e44e379f660e,e5e1f46326187f4ba1c7fcff09c6d13d68003775,['src/language/CSSUtils.js'],[],1,2,2
+340c7f0db2fa3fc5409254ac6da4057ce3f218bf,49ccbc4d84eeb5ffbb45e16286aa1de871f1050e,bcf91c521574292ac33c4d2b2e7c1cf2c72f8ecb,['src/utils/DropdownEventHandler.js'],[],1,1,1
+de15c23ffe5f196ea45cc932bce857b01eddb7cb,c535591111ed264e534781be62ee831cdf2fc723,e5e1f46326187f4ba1c7fcff09c6d13d68003775,['src/search/FindReplace.js'],[],1,1,1
+add4086b8a19655622acdbe7f73373d8189089d5,452c2efa2aaa849dd6af1c1ea1de3238a824b0d2,e5e1f46326187f4ba1c7fcff09c6d13d68003775,[],['src/styles/brackets_patterns_override.less'],0,1,0
+a92fdb1e56369495c885d1dc1d661dfe6c3b16a6,c29cb0443d736bd41c82719c340a9e7b8aba44cb,d50e023f4f7183b0fd4c015b93acac303870f104,[],['src/thirdparty/CodeMirror2'],0,1,0
+e1dc1bbc4b630bd6a2945abc2bb77131b317f8fe,038a60fc0154a67a905ba8849bd084673e0a25bd,0cf058ea92e9494b4375cbe8c9ae13add6f8c5e2,['src/extensibility/ExtensionManager.js'],"['src/htmlContent/extension-manager-view-item.html', 'src/styles/brackets_patterns_override.less']",1,3,1
+9831cfc1b3cb75029a7713bd90a799659f6446a8,f97897767137b08c0600c5d822e0e9a14331959f,f940f7966d3f5ff1ff99820f0ab35e57bce9ac06,[],['src/styles/brackets.less'],0,1,0
+11486c6ad203d096f0a0527e53c3fc7b5974220f,3d28b5be6f4db0bd4c58a2f6b17adf1a36e6d8e7,6ebab8f85d12f5a72fdd09e0ff4460999d7102cf,['src/view/ThemeManager.js'],[],1,1,1
+61940bd9c03a21581fe177d64146b219f17b3d66,7f37928adbe4353265f330865225094b81eb6158,b409212b59bc20e67975dea722ac9676af91a056,['src/document/DocumentManager.js'],[],1,1,1
+c8fe5e4c4cbf81ba8b11130990e44843cb5bcfa3,07c35cc4c1328125b9cb311cedd736b13f3c3818,91a6b4dda128570a57d03f6375a2378dd7390cf1,['src/nls/fa-ir/strings.js'],[],1,16,16
+3d87d68a30e5224f36c82486e56aa1774bf24d8d,f7144a86663d486be17f99bb9201db76b9a53282,91a6b4dda128570a57d03f6375a2378dd7390cf1,['src/utils/StringUtils.js'],[],1,1,1
+e8695be0d2fbc78f09d9bfeec4fb762d5db05dd2,91a6b4dda128570a57d03f6375a2378dd7390cf1,c2d26f2e04f250778c9127e9a37012118066d5cc,[],['src/thirdparty/CodeMirror2'],0,1,0
+d30243493c02312c433961fdeb980efdc9c97804,e14f151164d813f00073d5a3d9ab2c11ef6b7e7a,cd785359894b9eaf69105d24fcaece588222f6b8,['src/nls/root/strings.js'],['src/styles/brackets_codemirror_override.less'],1,2,1
+12112abd060b893c2df83ba550fdbc40f9ae2b2e,aab004f571b12ccde558d94ec2cc8fbd7ddd458c,0d3603e62750a94a8c66ac95e327e0e4a93cba62,['src/search/FindReplace.js'],[],1,1,1
+3df7680560f7b3989345529e7141b8fde7ac906f,d54da79bb494f1d39a367c236cc2270f93f12681,c6c6ccf989be44c16be4cae78def1a692fc1c94a,[],['src/styles/brackets_patterns_override.less'],0,1,0
+96125894967f622376d8409e15bbde5ef4de4373,9df0482ef4e429b16246a9902012cf9eadaec02e,dae45b1e7b24fc7939982bfe9e4390d3644b692d,[],['test/spec/FindReplace-test.js'],0,1,0
+c76fbfc6d0ba5027aa55e55f1dd462056a766591,c8707938d688b80d9b4bb4229920e7c03a4294ae,7994d2b1cd59681a9f2e632c00708ffbe08e0706,['src/nls/fi/strings.js'],[],1,1,1
+78296b7bc21511231ef91a80c2970a95aec0fe84,467143d02170c3fa16eee1406160530be083cc7e,f809fe015f231e70c380dd18c936eaf885b3aa76,"['src/search/FindInFiles.js', 'src/search/FindReplace.js']",['test/spec/FindReplace-test.js'],2,7,6
+194d3f64771d26dfafb97e3fc1e3c697ba69ee20,f411f0cb20069a7caf5c129874af5f3053308bad,e4b58d46e01fd66c2cd056e33d4aefc55dc9c528,[],['samples/ru/Getting'],0,1,0
+c38e68d04261b72d0b966d1578bd86872a0ba538,2c06fd2b4f5b0887f917ae6464af1e43cbee4095,085893af14d77c2d414aad7c0ea723c84b9ec3f6,['src/brackets.js'],[],1,2,2
+b2d07028fb5174fa9503eef8017ad9bf4846d45b,e46a93d827ad17c84e54b25c8d5a307d6119a583,143aac5dc44a3e285bb708870b41d1cd0e2b1a64,['src/brackets.js'],[],1,1,1
+cda467adf07d34d417a47dfe40e1e78cbdd083ab,ba02433761fd961d5bce3881fa57aa2449fa124b,32ea44ffa65b90078f211d0935815e20eefa03d2,"['src/search/FindInFiles.js', 'src/search/FindReplace.js']",['test/spec/FindReplace-test.js'],2,23,15
+ca1cb40be52a3e2084487fd1c6bd7dfe0beee39a,ecf33f1010a93a7cd9deab310d5274ab84ab080f,3b1d4fc547e1b5c1539656c6f2726de9e84892f4,['src/utils/UpdateNotification.js'],['test/spec/UpdateNotification-test.js'],1,5,3
+eaa4d38b188896eec364e85ca8b2cdbf4856add1,2ca021ee12577198e95beedf0e9692cb1cb484cc,251962005717e7320732b4dbe5db577889f00113,"['src/search/FindInFiles.js', 'src/search/FindReplace.js']",[],2,15,15
+331ccd352705af6cf5b37372e7b652af6244f9de,193bfa8c2609b285d6c6ac9bf5552cd778e321dd,5aea3d7724e52baaa6eb7b05db136c6e524e3aa8,"['src/editor/EditorStatusBar.js', 'src/language/LanguageManager.js']",[],2,2,2
+ede8d8aa430b3354bd5ba61c9a395fb87b15db75,b39084f566b9bc8fda7b15ee3f5eefc2c290785c,23f4531238fcefed98885d5cc1b3c8401b1ac4fd,['src/editor/EditorCommandHandlers.js'],['src/language/languages.json'],1,2,1
+5f95af75ed80f42098253e476ab14661144067c7,4d4968c37aa4dadf69df1648aa0dd685b0e001e2,b254d6cdab893e00040b68a87ca0f230af3eeb3d,['src/nls/it/strings.js'],[],1,4,4
+c3411bb7f686f98381b18e729c097b6c5e270694,a46b9df1672f0a7da7dedcc3c4e168b32220af89,377b4e22e24eba13c93edba4e7d785e6629802df,['src/nls/root/strings.js'],[],1,1,1
+58f34bec44a6e8087ead406a0cc4a9cd691e4734,a910f2593e36187260ffca3d1c8a6e5e90ced6cb,e84e8eafdb774037a747ff4d969055d9bd47f260,"['src/extensions/default/CSSShapesEditor/LiveEditorLocalDriver.js', 'src/extensions/default/CSSShapesEditor/Model.js', 'src/extensions/default/CSSShapesEditor/main.js', 'src/extensions/default/CSSShapesEditor/thirdparty/CSSShapesEditor.js']",[],4,16,16
+563263d9c3db8903dc3234754d51cf3bfecd4208,fecb54327fd610744b71a0a5a626e010c48e930a,8c6d3825eeb9a6bcdf5d4954001c2beb407d9d8b,['src/nls/root/strings.js'],[],1,1,1
+3c1a8f2b2d0b83d37c5d2cd78684bdb9b7237c22,9e74dded27208649b3ad2c70ca1be7ecb696983b,cca59d7e2682921a973e1c22a3df3b93ac02e45d,"['src/search/QuickOpen.js', 'src/widgets/ModalBar.js']",['src/styles/brackets.less'],2,15,14
+9883d3ccbe3fab67e2b0706bd831b1acce6b8483,d2d4c72808707334ca9d3fad7c4c1f116484aa5f,d3ffd967172e70543d2fb24a8eb8622a0f628edf,['src/extensions/default/JSLint/main.js'],[],1,1,1
+a845bab9ae09ec60fb749fa5684e2fec92f6d9e5,bc71a608f736a2cb8e529888842793752954f951,994daeb9a7f9cefe1542d1d98b0f5996b57a2a58,"['src/editor/Editor.js', 'src/preferences/PreferencesManager.js']",[],2,2,2
+ec373abfee0cc5a65b59fe944c58ee266169a2b2,408871c9be459b12b3f9f1fafb84768ad9273fbe,0e8b080b53b199ba9f6577d04fb4b71471026dfe,['src/editor/Editor.js'],[],1,1,1
+9014ac7f6d0b076f791cadb578e58584e76cd144,fe1a4110e7c2f6caf1da256a21e8d189ca517b17,86709073d27aa046885672843aacc5da4864ac2e,['src/editor/Editor.js'],[],1,1,1
+3a158faeadd7667b297da9b7b48137c7beb78941,b6fb768b6168902fd6b897c0a61bcda0d384eeff,da1f4a592d299a2e98024776df15ef0ce9684eb1,['src/editor/Editor.js'],[],1,2,2
+b39084f566b9bc8fda7b15ee3f5eefc2c290785c,0fcb3d0ae68e0919666ccc2a7c9ccbfd9cb4ba5d,8971aedafd32ccadda8cf91f0fcc278319742990,['src/editor/EditorCommandHandlers.js'],['test/spec/EditorCommandHandlers-test.js'],1,14,13
+941fdd27817f2ddde936d62dd711d45d10360cca,510fd2e07277cbd8760af72913f09a440b5e9c49,8971aedafd32ccadda8cf91f0fcc278319742990,['src/brackets.js'],[],1,1,1
+2ddd62c08ee3c8d6e53799236176e3e38d33ed00,eca77f066265d5f3c20ec4871e69a125f0045ae0,ed78415e4d27be4c90128568310530ed076c4d29,[],['src/index.html'],0,1,0
+99c042c1ec77d941446536a367ba6088e494fd4a,2274521a5da0e9601163af00342170aed6e190f6,eb9a95da579796899471d72460c482117ca98535,['src/nls/root/strings.js'],[],1,1,1
+b64a2a15b5fa58c1a3e5e2cc94059d9f17cad74e,bc21f6330628ed626958cf0dc723d0daf2d5e8d0,d2f58a31e4a978fab1d29820a49b44a7340510cc,"['src/nls/root/strings-app.js', 'src/nls/root/strings.js']",[],2,2,2
+163ffc215eb8ca64b046bf655c2e706c65254a35,25bfcbd1102884ec962b4407fba22f53dc2fdfa4,f4fed7967e9b70bde96371660758bc075895478b,['src/LiveDevelopment/LiveDevelopment.js'],[],1,2,2
+5e500dbc617d13411e857c8c08281d2d054eddf8,b35d821651b89dba844353b4dca081116c2e4f75,474a8a0bd1483e9707aef05cc3d81d708e6286cc,['src/search/FindInFiles.js'],[],1,1,1
+a8477982e2b94274fb4945546df0fad1df993dc2,5a2b81e0531dbbef937117e9e039a0844e01f2c1,5f014fabab235e47c02cbabfecc0efccd8b51bf0,['src/editor/EditorCommandHandlers.js'],[],1,1,1
+5a2b81e0531dbbef937117e9e039a0844e01f2c1,3ffdf0a46fb0f83aa242c1b17e9f93c249970f4c,8affe4adfb099d58c80c8f5f34231f59267248a5,['src/editor/EditorCommandHandlers.js'],[],1,1,1
+e5501149b9ce37a558dbbabbc90e5f1f9520d3c9,dcf75aa3aa61307fa4630c173083876cf900ca46,e3e168b525f2ddbdbcb630e3c563e46cf36151f9,['src/nls/id/strings.js'],[],1,4,4
+c4ed695a59e37bba471e736ba1e93e88f9d1a200,34e10ec7aafe1c3644923c63db3dc5570c109e95,04a369d9c5ca9ec7fc3a40b1fb15f5076dfbeb1f,['src/nls/id/strings.js'],[],1,3,3
+ff4ebabc47a5f414c8484cc85e44d2407bbcacc2,feda20a4e2bfb263dfc92feb3db5b9b16c326b4a,d8f817712c77af814c8c06ae9ce818037603ad45,['src/LiveDevelopment/LiveDevelopment.js'],[],1,3,3
+439ea34fbb74625b25395a549e9fa49ab819ceb4,b0ea1541b32b0e71b4e8ec21304f7fe89f64146d,8572b1d8dc01aecaaf79ea9b942c67dab5c3ba59,['src/search/FindInFiles.js'],[],1,1,1
+917a46c6aa64b73e8e836215a29d6ff081c7fb70,141e42e1aaa1ad94477dc9f33e5b65bbd4c540a3,93f22d8cb5b541c5c58b0c1ed90ac6c1de5c812a,['src/editor/CodeHintManager.js'],[],1,1,1
+904180af6fc9883b0c927a2e3cb90d0984ec71bc,6a9b29223137d09241d611d009508444b3903d1e,8250821d8115da9b8b6ec35e7e08f7581d013114,['src/project/ProjectManager.js'],[],1,1,1
+7dca9786ea9e3a2fbd4d0c59fb9054b977b0e2a9,f8a2b968e82c89452a83a0cbc4d19254b8e7440f,b408b5170644d737f9c36f1727cf193985147174,['src/editor/EditorStatusBar.js'],['src/widgets/StatusBar.html'],1,3,2
+62933ce3f837b7a126740773f77eca81ecd7cf08,9fc042559f959aa22fa1f9804096bab753a60560,b408b5170644d737f9c36f1727cf193985147174,['src/language/CodeInspection.js'],[],1,1,1
+8065e6c763f14383838c0d04c03b5b956b71e9d1,bc4f1f4006f83a4aabe5b12f00bcddb6b241a2c2,c768cc47bd37a96cdfac48838017d4095061b08c,"['src/preferences/PreferencesBase.js', 'src/preferences/PreferencesManager.js']",[],2,3,3
+870a9ef14c856419fa13b75739b1c99bcf7ecd9e,690fb9cc2e40ff5348b75ed0afe5b42f850bb266,c7d08d7cdc7bca99e54c677a3a3287e69167515f,['src/preferences/PreferencesManager.js'],[],1,3,3
+3cf873e7833e37c87aac6d683f1b7354e4019fd5,37382846bac5167fa667d2f2dd939cec7b237e23,033321181e4233f7b5dde85cb2239e5b9f4ed694,['src/editor/Editor.js'],[],1,1,1
+a51d79d96746c8ad850e6fd21cc0671db0ade1ee,752856d58d2e9dde14e1af6be615bb7080727b7a,0f196f37753429c2061d7168b810835d64fce5f7,"['src/nls/fa-ir/strings.js', 'src/nls/ro/strings.js']",[],2,2,2
+235c462d73e7abd8f6706bde5ba9fe679429e56b,9db136e3125e0eea9c0a16c2fcd991ff4037813c,3a12c2152f1e486793215a1dc3f44620b9771f0e,['src/preferences/PreferencesBase.js'],[],1,3,3
+e27f3e00889d2bb948fdb7e2aa4bfac43d0f3e7f,a8324bd69204219e1b19c93a7ddc1d5b67acd1b6,f16b648fbf86c96482ae8066169f0ecfdf1d54d8,['src/editor/Editor.js'],"['src/index.html', 'test/SpecRunner.html']",1,4,2
+edc3da8426b60567c80d0c278a3cf06f2a77872d,29799011c2b56f276349998fca3d10cf543fc872,3a12c2152f1e486793215a1dc3f44620b9771f0e,['src/preferences/PreferencesManager.js'],[],1,3,3
+9db136e3125e0eea9c0a16c2fcd991ff4037813c,5b53948ecb9ce7e76a694c9f650b5955ab2d336d,a23b7fe3205c62ce6f9a55a62daa0fe5b3d5736e,"['src/preferences/PreferencesBase.js', 'src/preferences/PreferencesManager.js']",[],2,9,9
+eac83e27930364617e691a42dddaaea0041c80c6,7690afae201714c705e12bee921b226e4aa2af20,261f310899d97ea0544b196b21baeeaa897c1233,[],['src/thirdparty/CodeMirror2'],0,1,0
+9547277cf678f422f4080126a12499ad742f3718,429f00fa22104041432ef8f1c09c0d21eb7a6f3c,261f310899d97ea0544b196b21baeeaa897c1233,[],['.travis.yml'],0,1,0
+1c98d354c55f67742e847559ef4a84c506de0848,ee35535fba25f4262a9d3d124b51855abd550062,9001a875dde06bec83c23c441aac2a991b3eade5,['src/search/FindInFiles.js'],[],1,1,1
+aba95efba1f7a78d30b9611c109c0646976432c4,eb0d64836e8e06c2e78bff66b6fbfc0b2c0571b0,49789f55eccf54ccb41606e3914d9d8015f18f89,['src/extensions/default/JSLint/main.js'],[],1,1,1
+219eb3b5d3ff21d7b48c5891032dca3c69470ce1,ec24b14380da55bac9c2315baa915524dceb4385,b616b2808ffc775655e2b0a86fe1d03074168eb7,['src/search/FindReplace.js'],[],1,4,4
+dee49c727bfa353859502c7f9a98b709f98f1088,8789ce0d9877b88d3eba1d62a05e483e362cce7f,3c57e5099e9b4172895a48f16ffce15b118ab1ea,['src/editor/Editor.js'],"['src/index.html', 'src/thirdparty/CodeMirror2']",1,3,1
+1a889432048a28d8e16f993ed8ae3582f0faaf37,83c2b42aea55cad22f379118b3a80e7a5c1ae952,734c236cd091527c7f5c99f87e3c699422df7415,['src/nls/ru/strings.js'],[],1,1,1
+c07769310bd2495dc0a13189c38207a477fb399a,ea8767cbd7451b526584511361a8014906a259fa,14a81e13aab692859c9d19c2f51a81c9b181085b,['src/project/ProjectManager.js'],[],1,1,1
+a9327dd39d5055a2820fd61c66d5a0796d4228eb,473778b6183522eac84d40a5619c340a724b5656,bfc6c2cf80515a4916f476a4ca491a1af330b650,['src/document/DocumentCommandHandlers.js'],[],1,1,1
+829d231440e7fa0399f8e12ef031ee3fbd268c79,03132ee1983d97bc222fe2a9ac204930fba1eda8,401fd7d84dcffdd74b30033e089df26a6a226917,['src/extensions/default/DebugCommands/main.js'],[],1,2,2
+4c57493ee37db431e0a8e202ff30bd8277d43982,c178edf8d69841b3c3adf52c37f101a922f1b385,7e6b15cabacc515ea3d24179b65021947f593089,['src/project/ProjectManager.js'],[],1,2,2
+db33c0fad4ae6147b3a17e6df3e76d2339897062,af8146aa7d8fe6ad6fce0305de04c3191fefd1d8,835b3af17a9c3cf3fde8e0219a9c3444f959362e,['src/language/CodeInspection.js'],[],1,1,1
+16ef9f8ca006f9d2814c4051427853095bc6c18c,ba340fecf8ba8b8827ef60b7a869a4f02848745d,8bbe88f260513fa7539caf4971f36047117d19a4,['src/preferences/PreferencesManager.js'],[],1,1,1
+f3c30fff0f8812626ac08940044ba2fd7f0bb65d,84debd1629980253d7d3f6f5074c7194e4d05a51,c2bd6acc3c80f1fea27e1df41b112d6fad897b25,['src/language/CodeInspection.js'],[],1,8,8
+fe94d19c1f1e81470ea4e868c331cc50b8d6641c,12d33b998806ec10f791602a30359d32271c0ac0,f36995ce7ad35e519c4e67596a4237a4aa6bce75,['src/language/CodeInspection.js'],[],1,1,1
+758e492bb5e32aeecc973939b5b50deb8e857001,ae535136f053243f0c921fcb0b9820632e0b6a7c,e1e3a7794bab78d1b7d834c2a091bf4f823cbdf5,['src/utils/ViewUtils.js'],[],1,1,1
+7dc8ba269fd553b017d0d5547685cf3933b34a9c,cc93db0cc0d1d2ba304a44fa089ce88fef41a0ce,57ac5d0fa23ee1312bcf2aa7d02cf47c42e35cc1,['src/extensions/default/CSSCodeHints/main.js'],[],1,1,1
+20e5d5fe8fa1c8423a548749a143f4648ef15a53,4160ab4f806b1235ebd410fa5102f42e7743f511,57ac5d0fa23ee1312bcf2aa7d02cf47c42e35cc1,['src/nls/root/strings.js'],[],1,1,1
+c3fb961347fd6bcdea749f7726b4acef2152dd6a,8634380479724740e52fc6571fe76c945ddd7f25,24025e2af1e79bb245f081fb3e7076fb6587224e,['src/filesystem/impls/appshell/AppshellFileSystem.js'],[],1,1,1
+f3d831be1f36f8aa2904bf739dd14348ff7d1331,e37614d3ea8c889298c8b275ae77ddf097231a6d,33ddb1953018ad9f7f9167e7a7662be0d474d5db,"['src/nls/root/strings.js', 'src/search/FindInFiles.js']",[],2,3,3
+c8d0a0b8968b37330dcad523f3e936592a41b832,cabf229bccff6521edabce17fb61973c115b95f3,60f9b4772cfdb891230d071165a27c56958bb736,['src/search/FindReplace.js'],[],1,1,1
+fdf0bddc4259695a083ba13a7db4abc1d4e5f53d,d1de0677a599390e76f961a96d54f754b84ff947,1c9d5b012a827a86a9ce05e9729f254894af6ac4,"['src/filesystem/Directory.js', 'src/filesystem/impls/appshell/AppshellFileSystem.js', 'src/project/ProjectManager.js', 'src/search/FindInFiles.js']",[],4,5,5
+ef1bac2c5f7f9d0f32e00290840b27f5f0cc46bd,fe09112eedf6ffe9cc68da4c00ac61699359a932,e169aee97bb9e323640fd3c49acfba8cb1c86018,[],['.gitignore'],0,1,0
+33fad8eff431239965c7014b8d62218c5002216d,e2f7eeba5cda3e8f834fd3e3607341a8bc9c0f9f,6a1a200808f633c204f8fcbedff21d748b88e5c2,[],['src/thirdparty/CodeMirror2'],0,1,0
+342d42d198e7a2e0286f69bb68efc29bd6b28b66,f51764b3a147de40a661e08503a40e11dee38f7c,f42aad1d400996546a328e640f0e1ab25e108c71,"['src/main.js', 'src/utils/ExtensionLoader.js']",['src/index.html'],2,5,3
+20a94bcc50550a710fcf26d93577cbd2de99a59e,986fa9c94a4aebbbdc426006a81f3fec7ae77a4f,e1bc7b66678fa3b0a503620b479b41b8423170b9,['src/editor/ImageViewer.js'],[],1,4,4
+9e92cf0b6e7973df63f66a3fd75d83aea86cae68,e5f497cc9e3d63facaafa3cddb6bbe27b86ae54e,6838dbc0e0cf46c251673b9546dd88dfd1551778,['src/language/CodeInspection.js'],[],1,4,4
+bac09cc2cf8116ad809a4ddb9ee9d9e39487c0cb,d58c351b254b190081102ee664064fdf921452f2,5b550eec10690a29f9dbd62addae0cfec007e132,['src/editor/ImageViewer.js'],[],1,1,1
+fe4d5a484e1a7ecd60a4ddd0c971603690342204,d9900481634a62ca0490c55afafb979ccd2d87dd,e318fcd6c47560c62d7ce685f6429b8744985b81,['src/nls/root/strings.js'],[],1,1,1
+dc6ff3575ffc45b162bc647038e4f1b9a2aa7c30,0712ede8503a306734cf64b29f35a1ee26a8c5a9,1b20157fd69473c6e5d381122b1d505d81844b4b,['src/editor/ImageViewer.js'],[],1,1,1
+dffad5fb42e30bef9d8f1608a69ec2b9037dee3b,0fd2e149dd70bc7ea63f494a6cd641ea8b20d16b,4d6c73de5163538fcde0d634e9739a130f0b8a42,['src/project/ProjectManager.js'],[],1,1,1
+f08078b9ac27d8a225b195c3e2b79f24d8be1e98,b371230e30dcfb9bc606cab175ccd7e6c9ea9474,c76dae19166bb6a0021d3b5d95ea4925a1e39da7,[],['src/styles/brackets.less'],0,1,0
+5b03280b1cc9e70eac25fe7b3aabdb37ed6c2d0d,a9712b8b0c86aff0f2cde3aa6dc5234d54680b5d,0ab2b09663cfcd6bb61cf9f8fbb865f8abd02530,['src/nls/fi/strings.js'],[],1,1,1
+b5602d603e928d470d804fb9c64512641f003a68,b35c9e8a6e034515c15b3579642fd5151c7080d6,0ab2b09663cfcd6bb61cf9f8fbb865f8abd02530,[],['src/styles/brackets.less'],0,1,0
+ce60edc6973366a207ba7b048af26cfa36db0c2d,7c1a45022790950c5e9c2987f4c043723989bada,22873522e1e57044487e8c75f6ad4cfc89c7ca4f,['src/editor/ImageViewer.js'],[],1,1,1
+7c1a45022790950c5e9c2987f4c043723989bada,7561f75b39892fabaa2097791f433f1e459b9e3b,5967e2f2211a305b8e10d2ec7939f06f140b51b3,['src/document/DocumentCommandHandlers.js'],[],1,1,1
+004ff6931b0c3c79847dab97a044423689106da5,f04b2d24ac13dfde85d3174a3f70aafb819f356e,13076a00e579975945ba267da585b66e783bce4f,['src/project/ProjectManager.js'],[],1,1,1
+2ff9e58deeed0a3c842af91b1a77a2e9ae574edf,8135d46abd0862649966440061e7f7c94b8b50cb,31a1cfbbc32730d27be274778a60f8fecfc2df27,['src/nls/strings.js'],[],1,1,1
+0942969d8415604cde87127d0a91d8f273cd15d6,ac5adc5a1b0ca02e8611ae3d8d71ff7dee86c0f1,5785df6c4beb259a4ca23f64fcfef425f4bfc7ed,"['src/LiveDevelopment/LiveDevelopment.js', 'src/document/DocumentCommandHandlers.js', 'src/project/ProjectManager.js']",[],3,3,3
+73c57712bf6fbcddf4fc5a28afb99d23df76831b,247aab941d320128197c69da1060727551cc92f1,4a840ecc16386b46ec7b6c25f9d07f56c499d70b,['src/preferences/PreferencesManager.js'],[],1,1,1
+70c9453260506225e229372746c0a27653ebc574,04e4c6c6eaa724e3f979ec802364b946abcb60ae,2886b5865897b0720e40e55afcd9c8ce0aa65d9a,['src/project/FileIndexManager.js'],[],1,1,1
+4a0929e91676a3ee962f8832d53e59f8265eefd1,3e67b04c56e123851a02aacc4cdcea23ee3c8d84,992bdaae546170a379a359f6a7b73ca5289c13c9,[],['test/spec/FileSystem-test.js'],0,2,0
+980acafdb8fa1c10fc6d1d743babf18fda2332cf,dd69c94f80ad3ab1a4de9b20d7b93ed7a0a0ffa1,d173e895c9340f0728b917de10c07186eee6b458,['src/search/FindInFiles.js'],[],1,1,1
+e9a5a6b57a814942bb1bd9be876534f4ee6cf2e6,400ed2761f12ddf6a7e897a99c386d3d6610b734,8b1cd0ae8f64d31b5673076f64a742d77b3b7a2f,['src/project/ProjectManager.js'],[],1,2,2
+098b74108462203eed7ad0292cf3b945114b2492,d3dc33adedc831cbd623bb7f4e7d4d4a396ca51b,4c0e1ebe196efff07d7927597f1e1c1889278549,['src/editor/EditorManager.js'],[],1,1,1
+67c19d026694e519e372a5bcda8a32de7c7f2318,2ecc22fd54643c3f80448ea044dc31028785e4ec,536194107b7259f0f4131e64bd5c7d1a2d03ed06,"['src/document/DocumentCommandHandlers.js', 'src/document/DocumentManager.js', 'src/editor/ImageViewer.js', 'src/utils/DragAndDrop.js']",[],4,9,9
+148b66f4bca906a8ea5b012febd97bc9ccf866f2,3c586a7fdaa83acb5f050cf1cccab280757ef7a7,7af0ab0b6b77d3e04f45970d126523a6e2b42234,['src/editor/EditorManager.js'],[],1,1,1
+ea9196daa58d5f6c235854d937938663806ea67d,858e452b77fe60c4bc44f46567afa177a660d325,4ef1ddd562367573bc7ba578d8dc2bc5b5b0dfcb,['src/LiveDevelopment/LiveDevelopment.js'],[],1,3,3
+90dc3978002eabb62915f5fb84457007b8cb0453,012de0e91bb512e1feff7b0dcdde73ba8a9c5c52,7b2e99538fdadda7a9e2368a49d742c729adf47c,['src/search/QuickOpen.js'],[],1,7,7
+d6e24867e75f3b85d5f77fa28a39d6526998b22b,f8c86db7fdbac85c5c48d40d10231bd1e6e04ea2,e0ebe14cb63d291bc8b8bff7b6b5301c90100555,['src/project/ProjectManager.js'],[],1,1,1
+2ab57c068b337bbf6d6d91b3787b05a47607db1f,955c6d3f3838ef45111d45bd7da502ba257e82a1,f244f624b105dcd253881a4aa8767dfb77591e65,"['src/document/DocumentCommandHandlers.js', 'src/document/DocumentManager.js', 'src/editor/CSSInlineEditor.js', 'src/file/FileUtils.js', 'src/project/ProjectManager.js']",['test/spec/DocumentCommandHandlers-test.js'],5,9,6
+c02d051f149a00a180ceb7edf286be6fa98f9a5c,3f9b657d2d18528b7fa6cc72a37ccc5ebdbdde98,cda83efe4c41e21c486d597c7ae0a9f2a30ab0d2,['src/nls/root/strings.js'],[],1,1,1
+3c7cd9f6b20fcda724ebf10664a2994e7b964e6e,153ad359f4ecf1dd6c90223a018b73de199b6ada,028263d8648757f12654bbb71fa30074fbbadf81,['src/editor/InlineTextEditor.js'],[],1,7,7
+bfb113d5a9084f342a188f69595afa477956edc8,00b315a43a64844ddf42c0fdee91def32b6fcb1d,f0983c436174616bd8dcc498f59d3f5e730ef79d,"['src/document/DocumentManager.js', 'src/language/JSUtils.js', 'src/project/ProjectManager.js', 'src/search/FindInFiles.js']",['src/extensions/default/JavaScriptCodeHints/thirdparty/tern'],4,8,7
+247aab941d320128197c69da1060727551cc92f1,6f363c93ece9fc37e757bba3e9aded5f66530ec1,a855576b1352401f31e0fa6a703a591e72b1fe16,['src/preferences/PreferencesManager.js'],[],1,1,1
+0304ce1cabcea396680f4ce084ef87fadfa3e657,1af2a17ee29e51a3abd552c4fc2e86af51b2c77c,86c4cc802d383315c42ad36eae1d975fd9c26c61,[],['test/UnitTestSuite.js'],0,1,0
+a29d37b2db1b762888af56631e25718932280f3f,290da888da7b28b99e668e3c10cbeaee60b63f19,413fe4f2c7490005bb2f16396e22e59bb71ca024,"['src/extensions/default/UrlCodeHints/main.js', 'src/project/ProjectManager.js']",['test/spec/ProjectManager-test.js'],2,4,3
+9b50dc0521007f67edc8252fd5585da32a7dc982,ca2931f4dfe23bfe4ab7955f4631cfb91f97454c,b826bc8219f2ebbb8f66e1a3cfb9eb5f381fa167,['src/editor/MultiRangeInlineEditor.js'],[],1,1,1
+ca2931f4dfe23bfe4ab7955f4631cfb91f97454c,ca11256e86c9ffb85534f9ae673a293ec80429b7,36200fd1749f617d8be9425bfc856ad71f930ad1,['src/editor/InlineTextEditor.js'],[],1,1,1
+825fb1e6dbfb059d02ebc3228562c774ba4e36e0,80c862ac126023eee53e049dd0dd38e21e022ecd,91811fee9e89c7648f9406979703007651131a3d,['src/editor/Editor.js'],[],1,1,1
+4222ea4c40257b240433b3fe3de1c1a914910815,2b3c591fafa92e353af0b978419ac4403cbfb681,91811fee9e89c7648f9406979703007651131a3d,['src/nls/de/strings.js'],[],1,1,1
+21fc0bd5eb0db8c42f36d9c1738cd88ccdfc53c5,b9dd8b827adb7ef7234686ea43be8adaaa1e5650,b61fa5844051a3bab4ccd9e2a21c2206c9de24ee,['src/editor/CSSInlineEditor.js'],[],1,1,1
+af1ea12d21c88d14c811f82c9e123c959f353150,c89ed3c5c61a297f0df81ecc7a9a14b066277d31,3f580cdf277ed38a44802eac1669f681c68ccdc2,['src/editor/CSSInlineEditor.js'],[],1,1,1
+ecf5c50f45adeacd98662d1a575d4dfeeaf440e0,ded93989ee6863bb6e9ad654f23b1d6759d5caa1,1e0e4bc164680df29f35b6d3419887341649589a,"['src/editor/Editor.js', 'src/project/ProjectManager.js']",[],2,2,2
+f56648ec001e5879501240877d4bdcb97e552071,3189d09b8fa6135691cb5f2ed4eb7e4b88a2c096,fc26245371dee079be1527627514f3dde5a33eb2,['src/nls/cs/strings.js'],[],1,4,4
+4d8924c7ae8c7acc947b11d51db1ec5f0c77973c,0fb6c87605331708dab80222f3e4540380399a43,d7fa08d20533766f77609c9969f3976500786fb0,['src/editor/Editor.js'],[],1,1,1
+0bf02a4b1f1489861b6efe56a1df2f020e078460,3078fcfb8676cfba20b1e7a6370d7e7c784b422c,c06e73dd6054fd233a833da023addfba40f9259b,[],['src/styles/brackets_patterns_override.less'],0,2,0
+bc1b29dd53217b17769ffc9cfe3106c067e2e2ac,36815e01ffe5f7d58b75571a90c65d334510af0e,8b5a1ff8f8fab6c9085a31f686b627f405d291a9,['src/editor/CodeHintManager.js'],['test/spec/CodeHint-test.js'],1,4,2
+2640846bef26e1ba601ac38ce0b2c9e703b9e13b,b10bb355469ae243f5b1b444d2fa6b69fb904d8d,40bbcb25b6deafd1121e753dc1745e070f9affb2,[],['test/spec/SpecRunnerUtils.js'],0,1,0
+b124d1b454c0fec974a10c0d620e7a170969dec0,b25285951b6c26ebbba1173d8ad9b56d12dfe8c8,0e35b37b582bf09a1a6f61b7cd00f4e15fc244f4,['src/search/FindInFiles.js'],[],1,4,4
+0d2b8d5911c0fa90b60fb57c1834c87dab82f3f6,6a9b2d0de9e78cc0f29fb57d01c438fcefcc27f5,0148c19831fc0c38241fe52df9fe277e94161af5,[],['test/spec/SpecRunnerUtils.js'],0,2,0
+41b71aa502071fc3608c1303abc0791323af42cf,aba8da9a9d76fc435a5b2589bda4fdc58172cc43,d90fd5f2f821867776800bbfabee2bc982133d32,['src/search/FindReplace.js'],[],1,2,2
+6e056a643024d91251a50ba3f633a03551c29445,0836483c22efc6801cdf68bd942bb9cbc6b4db04,6ecc726dd62bb985559ebe3aca05b91bb7ec19de,"['src/nls/strings.js', 'src/nls/urls.js']",[],2,2,2
+ada68e2b1f540b6122abc9cbf02a2dea5ec3b146,eaca879d2fd6bb3139b78bd9f7183bb094771401,11ab793b7ce47e7357f221bd769a3c64c93fdf55,"['src/extensions/default/JavaScriptCodeHints/unittests.js', 'src/extensions/default/RecentProjects/main.js', 'src/language/CSSUtils.js', 'src/project/ProjectManager.js', 'src/search/FindInFiles.js']",['test/spec/CSSUtils-test.js'],5,11,6
+4ea4a12e24740ec2c6cf30bed08e5898b241f2c5,4ef575241167cf28c9e07d608ef8cb5065413ef6,9bb0aac5edbfa47b19e580b43feadf908a3b6e0a,[],['src/styles/brackets_shared.less'],0,1,0
+36d924015263a29041ca5f34a3d610cb42b84935,3d1237d50f2c3e4adb202ba4420a6d33b11f9609,f8622944c3dd1fa4bfd9009d15c304e7dac750f5,[],['src/styles/brackets_theme_default.less'],0,1,0
+df09d3f9b198b759969dd80b338f49d6fe911869,574b63c3d1df976760b143d04e853081f97662f4,f8622944c3dd1fa4bfd9009d15c304e7dac750f5,[],['src/styles/brackets_patterns_override.less'],0,1,0
+3dd1b3fc6e188174d164aa632c0263aadf7509e3,820b4c6f488c3dbe901b636c2d4e369c06c04a8d,786f29cf8b1bbcdb716c74205af0496f55bf1be1,['src/brackets.js'],[],1,2,2
+350148d2ab7d9d074e838e84f3e6c7306336c568,f2aa82c858b70a9ae6394f2748b4f9597c1d0652,0ca6887b79d442ff1f58490fbcb0db9949e3160e,['src/language/HTMLInstrumentation.js'],[],1,1,1
+28e5f2062968091f46569bd0d192280c13bbd882,31ba80c443c27acb31ab59234b42ae21dea52909,47aba51c815bbd54e2b93b8ae29037309a6d5078,[],"['src/styles/brackets_codemirror_override.less', 'src/styles/brackets_patterns_override.less']",0,2,0
+6defcbf308eec05d3f8f879852ca318d0eda95e8,8ce827bf204a964682e7f9b0e8133e310b0e34f2,72aa6c04aecbf3fa48ab8d2eb0b3fc3f72a0bcf5,"['src/nls/cs/strings.js', 'src/nls/de/strings.js', 'src/nls/es/strings.js', 'src/nls/fi/strings.js', 'src/nls/hu/strings.js', 'src/nls/it/strings.js', 'src/nls/nb/strings.js', 'src/nls/pl/strings.js', 'src/nls/root/strings.js', 'src/nls/ru/strings.js', 'src/nls/sv/strings.js', 'src/nls/tr/strings.js', 'src/nls/zh-cn/strings.js', 'src/widgets/Dialogs.js']","['src/htmlContent/contributors-list.html', 'src/styles/brackets_patterns_override.less']",14,27,25
+dc012fcf5a36940e495dd7204337edcebed2008c,521d73b8c5f9233b0038427f41b8bc5315423e56,72aa6c04aecbf3fa48ab8d2eb0b3fc3f72a0bcf5,['src/widgets/Dialogs.js'],[],1,1,1
+c96c054444fdb6c2610e9012468c5a97678a9c52,e9153193d5abd90715fef6f95a5246f795d0bb60,60dc6b72ff1ffb22b3382475a9ffebacc1364fed,[],['src/styles/brackets_patterns_override.less'],0,4,0
+5005c271b1aac16a7bd1ef877b6239330de13561,977f4e45431cd3380a45df681f81784d3c984046,3f27929539670f5c190ed6bc18ffc7028262d38f,['src/LiveDevelopment/LiveDevelopment.js'],[],1,1,1
+977f4e45431cd3380a45df681f81784d3c984046,3ad4fd3aeba8c6a451ed72fab604ef2887036733,ffa467e39b499d8533bb8c4e8a7af79eca97da87,[],['src/thirdparty/CodeMirror2'],0,1,0
+1020043e4c82d64970a6ae24f7150ec95f44a370,7b53bfb0723d11b7e520230a35aba6191bf0d5da,dc1aa3ecb0386bfa13fd26a192eebdaaeaaed154,['src/nls/root/strings.js'],[],1,1,1
+d8717a2b5033a459db710dc65ded8c71e6b25475,09cbf2ccbbad540bc315d401c4c0bef4fb581e04,b2625f817e0d44b4026f9cc0b81e75e7a81f76c2,['src/LiveDevelopment/Documents/HTMLDocument.js'],[],1,1,1
+c225ef9a1d122af3f5b2c644d550641c519d9fd5,9f3a66a3f16113d69e4bbfd3eb606c7b0715d8e0,ca551ba7e52e6dce6ecea0a1afeddfc0b39b7b1d,['src/search/FindInFiles.js'],[],1,2,2
+c4329f9cc020617a7375b3b8d890a099fcf67938,4d3b5337ad4224bf4a407b4476d7296de7f385c4,06a7b30042bc6cb6490459ed2e4e843a932c9283,['src/nls/de/strings.js'],[],1,1,1
+c1e0ac6649801afdcb3ab3d872c1078ab11a4c1d,9fce8846a099cf62551dd6ecd704f9f4ae971e30,bc848b6504386c4ed0f79068e34adbf0c20297b0,['src/LiveDevelopment/Agents/RemoteFunctions.js'],[],1,1,1
+e144b2aa7a2a27512a48c80e06bf0042fb0ece68,9b7797f13e6a1370ea1f500f9e255ae51bf39e8f,04531952f6845c4e4771d8ce42665b3bd5119ec6,[],[],0,0,0
+71e0f9e3650a6658a292f95a37b2655a4c7133c0,7b4b2ef8dd7291b87b1963ba0ae3fefb5269fb8d,62d810e0b737ecec6e811e8d4544f524ab0169cf,[],['test/spec/HTMLInstrumentation-test.js'],0,1,0
+329581f3f408e8ec44f99837cfea0a81fd18a80e,88061a49d0577dffdacdb0f9a601dcc96935c4a5,f5218846fa81a0a785920ece3909508b02e17716,['src/LiveDevelopment/Documents/HTMLDocument.js'],[],1,1,1
+7f1ba486c901d18e5c85a1c5e433607ed388bc92,1776519cf7679ef5253db122393ab44639dcf407,006b360f6e7c75f7efbd07a96c887079e4ca3446,['src/extensions/default/JSLint/main.js'],[],1,4,4
+7e2175d9c7fcba4218413c73193e926d91c836b3,006b360f6e7c75f7efbd07a96c887079e4ca3446,476e43a453bbce6721997a076743838742b6f633,['src/nls/cs/strings.js'],[],1,1,1
+6149bf31675821064d809c6894a7ea68405a7a19,5ee7dea735993597e72008ad78362157510c2cad,0e7e0f53ef34d278012464524701e719374eee9f,[],['src/extensions/default/JSLint/jslint.css'],0,2,0
+b13dcbcc707d210175b36fe4624d60b5194deaed,8bee847fb3b5999d99c73144e6284ca33f5e4d62,0e7e0f53ef34d278012464524701e719374eee9f,['src/utils/Async.js'],['test/spec/Async-test.js'],1,5,2
+12ec275e0c6d77f554ea7bbc4a18be36bac5443e,1f5b8e8e6000f258935a82ad99cc259225d0cc49,68ad3b9e9088ebe863d47cfc7412d1868d582c73,['src/LiveDevelopment/Agents/RemoteFunctions.js'],[],1,1,1
+700b5a0bc38fee61545f4c8ce1b907c05ec10962,e02bda45c1bf2f7b401a587345680f3636e6c034,766eb367091abbb922f5f8496ad4091e26e4c7e4,[],[],0,0,0
+6f2aede56cdbc0a9d8a6230729ae45315713df8f,b277f67848a5b51503aa019fc1b96be3dbb347fd,25b9a3e3ac373dbe55755af8eb1633d3d73db90e,['src/language/HTMLInstrumentation.js'],[],1,2,2
+e0945e290bc2497dd359aa353199fc9dcba4badd,76fbcac9469872a7a4e7aa822deed576d2fb9196,c2af2b63922e0b1629a6e93f73d7b181df49f162,[],['test/spec/WorkingSetView-test.js'],0,4,0
+9aa780d9d43c9f464b0d431ae1ee3d5496d14a16,878a23cc4407a5c49850d183c79edfe6dd26bdb7,26e40edc3e3458ed9fbeb4dd4cb957aa6d7a630a,['src/nls/de/strings.js'],[],1,3,3
+a57289b9c7d4d6de6acb9d9b4780028ad3c7e35a,7cc31912df5d9e23bc550d396bbac22590ce14b9,eceea1035d1803fe1d39df00eccbfb91cf3ef8b4,['src/extensions/default/JavaScriptCodeHints/ParameterHintManager.js'],[],1,1,1
+14c5c2f30a821fed420422d32f01f6d15907e4ff,55defb5f0529250eae892beb8c3e2d2c324d05a6,e00c91257e4e418389eacaabe1e86e9fc499c448,[],[],0,0,0
+c03ecafb07f961c2c60553c7cb8ff8b891fbed1f,d775d282e2b2cc12bc09ca76d9154afeed419907,dbed6ee679b745cd58c276d8f699de7a6109fd06,['src/nls/cs/strings.js'],[],1,5,5
+ddce6dec997f2dd0924f7a0311bb90b884b5dfef,dcabd39c314003f6398e4d29b6cb9d32fdc328dd,0f93238a949acfa10e1fb6faf7074251f252b290,[],[],0,0,0
+8f121f91e40419e61363c8d4ebe09f0d24066e7c,657a8bcadaa425af0e3d6bf17d533ccbdc4ac462,a02f49ba99f526072071a2db73e35efea25688cf,[],['test/spec/SpecRunnerUtils.js'],0,2,0
+99c35cf661f5d0d389236645baa7112020aa1489,0f5580753eb09a9a24a46cbc6e598d9aacc13203,c211ba55b186e9c627937f9e552b5443f9b2af55,['src/language/HTMLInstrumentation.js'],[],1,2,2
+f59be5aa0ed11c820d862913bd7b2e6c6281cf4f,045fae6fd2a841b120c481308a159f3950ab2faf,adc97221e67e0974461fe68a4c583f3cb1255738,"['src/language/LanguageManager.js', 'src/widgets/Dialogs.js']",['test/spec/Editor-test.js'],2,7,2
+f47e5b2a0b6470d5a30cc6b0c3152853643ab603,b5514c864438f4aa60afe3b1047cef2f365021e0,2fd3caabe9d08219579ad969e83bcf74fbffaaee,[],[],0,0,0
+42e7e443d43657b008aba065984cb35bfde712ab,8bd2a57911435af37509ed1b50c5e5698a2bd8c4,1dbf4602de885c4993b3bbf3ed3f985abbcb05cc,[],[],0,0,0
+45deea7ed5de6ec70c59cde45fba1d9564809136,0133cbf6383262cc4ced5810b38cafe7d4dc9a66,d50a30f6995d797ecb15b3479961d62e808c0a25,[],[],0,0,0
+9331dafe93da480df08490d44cbb95fcb18f5842,a81d8c387034d6b0a54c360239d51e10ee9feb84,1d16b05eea62f16eaae5094bd19084732f537738,['src/file/FileUtils.js'],[],1,3,3
+6f7b3e440f59594fa3d9ff3dfdb2e93722dd4b3e,84db339496caad3e622f3754d6324a04e9eb0a43,1d16b05eea62f16eaae5094bd19084732f537738,[],['test/spec/InlineEditorProviders-test.js'],0,1,0
+bef0b2822701c4b0b5227de2203591986aa08d28,926589ba7c39d355ad13ac9248460bc8654fcb2f,6a65fdb539761a9bebc6b39bd5441f9d4ab360ff,['src/search/FindInFiles.js'],[],1,2,2
+7551908c0683df0020586e698a39ce70f1562cf4,b87f6a07ba96ef31b69cbef3858cddbbba4c6dcd,e532b742a616c8afd92d6525ddbd7844f04dd5d0,['src/file/FileUtils.js'],[],1,1,1
+18b52e5b17b350630baad7d174c65a39bcc4341e,48121cc3c75dd88b15479a7b31c066d3ff60089c,220fae62dc4df76c5266e1cd98a313591dbdcade,"['src/document/DocumentCommandHandlers.js', 'src/document/DocumentManager.js']",[],2,2,2
+ef59b708190a55959da59b2c4cdb5c4ddf44690c,8bf57ac6bfb6de9427f598a0f363b24d2efad1ef,97b957e80859009f15debd4f6cb443a3ec9b1039,['src/file/FileUtils.js'],[],1,1,1
+231d0db8856a9db7f88c708f33899a753f1f6a8d,d5ea90b1e36afa46c5eeb9e7abdf11af947889bc,75721fe5fc594bddce6671c0c231633317f0e8b6,['src/preferences/PreferencesDialogs.js'],[],1,3,3
+8c1b1468ee1ad1f36cfbc02d432aa6a1e493b634,439835c468ba1655e412efab92bb7370eea223ec,75721fe5fc594bddce6671c0c231633317f0e8b6,['src/search/FindInFiles.js'],['src/htmlContent/search-results.html'],1,9,8
+adac403f5f4f2afecbe20323c6dc3d4d734d1bf9,c67a0325e0471feb1745f7ea8c21168ff6e0752c,4658994db2282270f33a8ab26e81ef606d451d96,['src/project/WorkingSetView.js'],[],1,1,1
+8df8808553ac5ba7a9c1b310753be371f3a81d06,37f4ffd3240e21661abbf758af1efcfc04ff89c1,3dfead4e052bb004b4d756510b2de749cd9e4bdc,['src/extensions/default/JavaScriptCodeHints/unittests.js'],[],1,3,3
+79f799a216f98d9ed701754c952348351864027d,bb5a7f15bb5eec5e11af8172e26cc42a63c6d3cd,69198e6bb596cde42682a9e19fc8b28b0f9a7bdd,['src/thirdparty/jstree_pre1.0_fix_1/jquery.jstree.js'],[],1,5,5
+476bc5d41c52aafb9f07bd44d256142c52b51901,13a8fd0f6866bf12b279003588bc4798041556d6,8c9709ac6d20cb42b36dcfa52605420853ab8a41,['src/extensions/default/JavaScriptCodeHints/main.js'],[],1,1,1
+3da4dcbc03825023f7f22611445e2a6f4abecf71,d8b9421ad57772e42dcaf0e8c18944459adb3bd0,fd77d76a5bb418f0f31f5e9aa1db72db8ac18f2c,['src/thirdparty/jstree_pre1.0_fix_1/jquery.jstree.js'],[],1,5,5
+180ad2aecb71709f0ea5c56969619b6ac42953c8,ae950bdfceb1cd437bff9542bdee46396f4a1919,43d5435b2e4c8811d18fa0001b4f070502bd020c,[],"['src/htmlContent/about-dialog.html', 'src/htmlContent/project-settings-dialog.html', 'src/htmlContent/update-dialog.html', 'src/styles/brackets.less']",0,4,0
+8d3ad50cc210ad6fbc6ee7bdffb20028651967cb,4440bb41d6c41f89775e91c538e98a185c513c0c,46392d8127d74bd267c0130edc7ff821b091a4b0,['src/extensions/default/UrlCodeHints/main.js'],[],1,1,1
+d2e8b0254061c88609103df77296202e3c50939b,bd08117111e0a846e4b272e7ce450da15e3f2050,c6a53314e35c64ed8d36a760b9f6fad06399e642,['src/project/FileSyncManager.js'],[],1,1,1
+c5c9f0f85e7d073f4ddd166cbf45c866b0dd72bf,53d868a838a2d05a2bb6ef37e89d447ff19b591e,c57a7bd0dd30720526d7738ea83c37fc6f970cf9,[],['src/styles/brackets_patterns_override.less'],0,1,0
+130c44b1570f230a5a4d974bd3b9c00c854a5f1e,2b59570432d6fcddccf341db570ea790ec07e9d4,e664a00d092a6618361b99ec5eadd4f4d018440b,['src/extensions/default/HTMLCodeHints/main.js'],[],1,5,5
+a70ca3edd25c26eda948316ea91b2d60625780c3,1f00dec98124801e09124cc996b87e1abf68cea5,ae9d5f19b8638e6fc3e69421be4cb66f95b82550,['src/nls/de/strings.js'],[],1,1,1
+a58515b43ba09bd0beda9306fccf57735701432f,e95df02482d691c41e0e470551fcfab4d3312a50,b33d64fca277bb24a6dec0fcba5a301cd93d9dda,"['src/document/DocumentCommandHandlers.js', 'src/widgets/Dialogs.js']","['src/htmlContent/main-view.html', 'src/styles/brackets_patterns_override.less']",2,7,5
+0d3b5973e712bb10bc2a047da324283b9883d672,338c68cbaab74c7c3dce1be0f1c624618d2ef082,b33d64fca277bb24a6dec0fcba5a301cd93d9dda,"['src/command/DefaultMenus.js', 'src/document/DocumentCommandHandlers.js']",[],2,2,2
+3a848a7abf292a5af8dae66c410ef988fcdb88b1,9ee9d1f6d30919309d6c1503cf6e89e984203998,b6c5880b4312cc21c130eba5ddd56fa5dd5ea655,[],['src/thirdparty/CodeMirror2'],0,1,0
+a637bd0575228e5f0a798a1b60b517a763a5d17a,72b366976941957dd4d24a6ceeb90f3d00ecbdce,6530a8bcd1a09cb6dee18eaa2a54ddc3a8facc01,['src/extensions/default/JavaScriptCodeHints/ScopeManager.js'],[],1,1,1
+cecd68d55342046190bd02abc0dd9d6cff0e3f32,6bbea72f596cfa83b8cf50d3f546fff1bb3ff900,29bb4dfe1972138e62c809de375a34edbc868ff7,['src/nls/de/strings.js'],[],1,4,4
+0875fc27cfd51c98e9e1901d281f85dcda9de509,8e8b4b8abce99ff6f51fb28c7890c9cb37c1140f,454a14f24f7c67989b6de34977ce13614faa8965,['src/nls/root/strings.js'],[],1,1,1
+96fd52207b91bb3511257ff8bb61775616ff3f68,96ba63cf23c5de40d5b2be6bd302b0ba4d6a560a,432ae558b99e22e93a552b3d81c732bd25857129,['src/extensions/default/DebugCommands/main.js'],[],1,3,3
+432ae558b99e22e93a552b3d81c732bd25857129,2bb2ddfe09d1d4c02dc7260a46cc135756303082,6e5bce81b4a4d8d39b1078e914452c8a727094ef,['src/extensions/default/JavaScriptCodeHints/unittests.js'],[],1,1,1
+b7c06ac9385c06f16d94fb0697dcecdf92a6ee9e,3ee5786c4529b0ad0c0167275e36de31669a1a8d,589dcb07199e328bd108f93356e14f855887c09e,['src/strings.js'],[],1,1,1
+89ba0925e92850171c5e6020f9692ddd4475fe49,0178539e8591b52f254f44964bc3d2fc7461d002,589dcb07199e328bd108f93356e14f855887c09e,['src/extensions/default/JavaScriptCodeHints/main.js'],[],1,1,1
+3850c5ba2f5587114f4c9cd9cfa40e87ee4390b6,48bcde70834a3017d46a126ecf91683cfb5e0257,589dcb07199e328bd108f93356e14f855887c09e,"['src/command/Commands.js', 'src/command/Menus.js', 'src/document/DocumentCommandHandlers.js', 'src/file/NativeFileSystem.js', 'src/nls/root/strings.js', 'src/project/ProjectManager.js']",[],6,7,7
+9ee9d1f6d30919309d6c1503cf6e89e984203998,180252ba9ae4dcf7989d3d63b838823ffb44f43d,1bf853064225361aecf3e9cb3c7a5855556fb013,[],['src/styles/brackets_colors.less'],0,1,0
+cc37dbbbc54ae784e27257547da9d9739d0c72fa,1773043be5c042adfda8dc06d3b161c71f65ddc3,4fda143869e9a5ba1a2c3c8a46e6ae0d34f350d8,[],['src/styles/brackets_patterns_override.less'],0,1,0
+d6b991be380be77768c1aa5ed08f51f307d2a603,049a7afd5a5d6b1c8860dd7370e6f2794095a42e,03d0c0766f3da9aa30834e8607ea8277fc633bea,[],['test/spec/InlineEditorProviders-test-files/test1.html'],0,1,0
+1b23186919309763ae28bf1df801a66d5651aedb,c14007779d17e5dd7aeb6f800efb5b37ede24e81,03d0c0766f3da9aa30834e8607ea8277fc633bea,"['src/nls/de/strings.js', 'src/nls/root/strings.js']",[],2,2,2
+dc9aba5fcac6cc39a89ed324fad32f871a0eebc7,f2ba60c17f213938c0d4557684196f6c85ea8c5b,c27664b8fc608ecd6e5edd02736c1ea9b997b063,"['src/extensions/default/JavaScriptCodeHints/ScopeManager.js', 'src/extensions/default/JavaScriptCodeHints/unittests.js']",[],2,6,6
+68280ddb63c1737ad39319680d706e42106fdba4,77f2c6ea9398286782b8c5f5bf4407dc851f7cd6,544dd6da40b5e15613cbbc2f362f4ca236fb7b1e,['src/extensions/default/HTMLCodeHints/main.js'],[],1,1,1
+ca0137fd73b4106b76d63d20a8b09a307ecf51b9,dc6ea6fe4c0638b560ce4b5b773ab31597c46985,8b9267f9ecb3d8c21f1ce6763cddf8b435acd7f2,['src/editor/CodeHintManager.js'],[],1,1,1
+b624d60f5fd9f53dee2ee24bc423ae9fe6f9baef,c81d79ad4a609e04828d829cd7aeb12a0f4b5a39,a9e27717f46c851144ae2456368251448be8633d,['src/extensions/default/JavaScriptCodeHints/Session.js'],[],1,1,1
+84c239cf3995f5480b5dde98833a12a1bcb59733,5d7dc76dfb63722ccbb6163f5916882d3442829c,60dbbce5fc5dc06504ea46c649360577a08a3787,['src/extensions/default/JavaScriptCodeHints/unittests.js'],[],1,2,2
+2af6b67a1a28181dc36f0e1b112cc751664b685e,bec4454d75f2699659dc820e39b8e236ed0af12a,f083ad3111741770d2424ee33acece57cb8b3a17,['src/nls/root/strings.js'],[],1,1,1
+70c72105c5c02e6192d1660977eef9ce91956ae2,92ff2c3ddb5a30b9e6b9c2fbc82381ccf438f480,f083ad3111741770d2424ee33acece57cb8b3a17,['src/nls/root/strings.js'],[],1,2,2
+6cf1b4f6ecef1b4055bb252e180c497a6d9aa73e,c2cd07946f92804c2a1161634fbe4c316890952f,36a1d7766b0e739f69b8e2128df4cf46f345ddb4,"['src/command/Menus.js', 'src/document/DocumentCommandHandlers.js']",[],2,3,3
+3ee5786c4529b0ad0c0167275e36de31669a1a8d,6374108e7e39d8c410214d365987e8da2706d004,a38bc91a7aedd626e1f40183d4cccf43e85f5b67,['src/nls/fr/strings.js'],[],1,1,1
+34bd5cc320ff5abda1f7c1ac47247a669990dc8f,32dbf306637a04c018b94158a55cba0f9dcf11cb,c2deabe8a46f64948e0a39944a9ab10c1666712a,['src/extensions/default/InlineColorEditor/InlineColorEditor.js'],[],1,1,1
+fa0573167cce07285e94c7f7e3c4b8923b9bb598,2168df13c8c2da6b1caa32aa0495efb54a88eaa2,3c045b31a65a7367bb0fcccc9fcfe2bb34dee19c,"['src/nls/fr/strings.js', 'src/nls/ja/strings.js']",[],2,2,2
+38bb465fb6bbae64342aacd2cd979dae50a56d13,b042a5ad8a333e41bc7d07135fd722f6e9f0216d,983bb660f727818228de753a80baa6f17a78c980,['src/extensions/default/HoverPreview/unittests.js'],[],1,2,2
+3553640e445b6b2c2e04421df1945cd5b9c90486,fae197bccbfdc63a05db82bd0c9718cb8dfb6d45,3292c87e3cb02f88f3c363e047bcafd5e2d834da,['src/extensions/default/HoverPreview/main.js'],[],1,1,1
+ac46828810923030e76fa8c22c9fc87f686379b0,4e806502e2ccaa8b39fd9f8884f5859166bd2a4a,3292c87e3cb02f88f3c363e047bcafd5e2d834da,['src/extensions/default/HoverPreview/main.js'],[],1,2,2
+3f63e8f83ba5cad15ad7fe1c4c840028dc3d2182,01cb931a848bf2a6671c84c3705ca45b0373c388,3292c87e3cb02f88f3c363e047bcafd5e2d834da,['src/extensions/default/HoverPreview/main.js'],[],1,1,1
+36270893857d3b2d98a3dfb6a36a91bcc9aa24bb,cfad4c965888ebd446e06aec2fcc8a54a6ab48ff,20184f2342a0ba058c05ce54bce080bd5a6c6714,"['src/extensions/default/HoverPreview/main.js', 'src/extensions/default/HoverPreview/unittests.js']",[],2,3,3
+68b0c30fc389527c10ab309b67e66bbe8724b288,86fc4c35b92fafbef7deb486327d106a511bc0d3,c5947a9efc66641b9871e856905aab261813d16c,['src/extensions/default/HoverPreview/main.js'],[],1,3,3
+83e5c2de59a60e840494bfa1e0f039a7ba08ba2b,9bb2a46dbf72defb6da0433d29d92606ddc04f4d,84ec53ac5959a8758d46b8023db04a67a19f6e83,['src/extensions/default/JavaScriptCodeHints/main.js'],[],1,1,1
+ef60bd9f9bc9828dc54ca14eb4c3a90b0a4398f5,3d4c1b6ff2e721cc9f746670518f561baa5c953b,45e957172658fc95e60803f7f905f2300aba2f68,['src/extensions/default/HoverPreview/main.js'],[],1,1,1
+c9dc37de89b9904199c8c713bd80bbbd0ff4b55d,440df18489220ebaaa4f736926edc73d5d6d09ea,45e957172658fc95e60803f7f905f2300aba2f68,['src/extensions/default/HoverPreview/main.js'],[],1,5,5
+2e357e63fe32737881276636655f8b66c2f77450,ec9a5afa83249e81e4df74af13dcb22c95bc9569,60dc63f300cee774337b75299a200d10e036f822,['src/extensions/default/JavaScriptCodeHints/ScopeManager.js'],[],1,2,2
+4c7d10bd4cfffdcf097f1138df3d0d6c6595b0ff,40d618058c2817e6d046676381692fa45c961eeb,ce3ab99518583a7686a0f02dfb0ff458cc31287e,['src/nls/de/strings.js'],[],1,7,7
+3f2b5402eab8e24e2e07d6f492878f5f69e64509,f507b868a0c77dcde0859b46bb77cd5bb3bab227,3551e40a9971414552634c1b15b354dd434328a3,"['src/document/DocumentCommandHandlers.js', 'src/extensions/default/RecentProjects/main.js']",['test/spec/DocumentCommandHandlers-test.js'],2,4,2
+6bff6dc8c07f394dbab324364de7a8020a0f8bfe,86f33cda2612c809ae5e7fee7fb9c70c8360241e,d2cf66e673a774a879f8267cf58b2b79b753ad9a,[],['samples/pl/Szybki'],0,1,0
+56c3ce827474e2868fc582ebbde8530dbde1f997,9d46a41b1417a740c4895b8f7eed0436446c3541,398b0aebe2ea496ef8453d5ddbb5b01ed5d2828b,[],"['package.json', 'src/config.json']",0,2,0
+98e37b1d1efb7e2d049451ee454a3762180c1bd9,63c89f4d62c7e3c1b0d13cf90e00bd746b078406,35fcc66cd59860a969ca1e666e73eb9ee8ae87f8,"['src/extensions/default/JavaScriptCodeHints/HintUtils.js', 'src/extensions/default/JavaScriptCodeHints/ScopeManager.js']",[],2,3,3
+1a68330c925eb91112ced2f843b21278d6f3015d,3d005678639cc63d7733a56d9e9603edaa39ae05,8364e2b36a63c86a80e7d7b975f5d1c7d8f2e42c,['src/utils/CollectionUtils.js'],[],1,2,2
+a296488e549740753d6ca675c2f8f33874cadca9,8fcee49d298bd3173a10f318d37c3394d471e48e,9d951e453eff9aa00070b3693818a7729f7db186,['src/LiveDevelopment/Documents/HTMLDocument.js'],[],1,1,1
+c6fc7f118bf5d1da4e205bb6f41178e8af354f65,3efd03db087625c1c4b0680f87fa75f015157634,318bec2da542c56d17ba999b9fccd0d1b73f8612,[],['package.json'],0,1,0
+f9bb81f5787eb5d60c6c24669c09603f83855d84,3d253d894e4cedc6a73a34d279fcb48380ca5b7e,412dedf91988316b58646216d4854b268e8dde27,['src/extensions/default/JavaScriptCodeHints/ScopeManager.js'],[],1,1,1
+736158914519d7dc55aa4ac568463cfaa077bf1e,f4bcdfc13cc78abfe4bc91d9d46e4e3729241ee5,46365a6e2e99b5ca64ac49111c67745b25ae296b,['src/extensions/default/JavaScriptCodeHints/ScopeManager.js'],['src/extensions/default/JavaScriptCodeHints/tern'],1,2,1
+e5efc27703b64de824562db96b774619a7399245,bdad83430c3a164ba6655136b0c42352fb064a88,2c1616a6346dfee29a8321b5ecc9e0f636ec42d8,"['src/command/Commands.js', 'src/command/DefaultMenus.js']",[],2,2,2
+23ded30dcb12bc1ffe50128a4810c24d941d7c15,c7ef1ea57e43596ba977ee9dd6850f43859889b8,2c1616a6346dfee29a8321b5ecc9e0f636ec42d8,[],['test/spec/EditorOptionHandlers-test.js'],0,7,0
+049a7afd5a5d6b1c8860dd7370e6f2794095a42e,36dccec86e3096f3f99f7d4ceb144a8b1366e48f,2c1616a6346dfee29a8321b5ecc9e0f636ec42d8,[],['test/spec/CSSUtils-test.js'],0,2,0
+3ca6d9cbabde74419b334a961964312eb098c217,6817b4f40f9e526a3165849aafad74593d9aa6bb,051f2da0c8d535454569ad6c3a1dc2c01b394461,['src/editor/Editor.js'],[],1,1,1
+cd4954ea3d3d282a1e876e1b6800cc3554130c12,4015c04355bb081052752e85dce51223fca58fe6,48cd426fc12b4d865f86f790adecfd9c8bacac86,"['src/extensibility/InstallExtensionDialog.js', 'src/nls/root/strings.js']",[],2,2,2
+ec9753c8d0702a111372796f9e5947d042182cd1,9e20a8c61ecfd8483fc142d94cc74a3eb67472da,2ad7c7be913cf538233a4ab3493b07b38b1c781f,[],[],0,0,0
+5488286f59898cbcd42b034cfdc02def3a7d3e27,314b29f51e34261124ae09550e3715cec51ac7e4,f3419c1ce75018cbbf16115e934a78191b9daa97,['src/LiveDevelopment/LiveDevelopment.js'],[],1,1,1
+97a9774df342d99a7bf2911ac3958943b8cd85a5,5f5ef09b8dc1f4705c088faaf75190d85684ca41,e0e0edcc556bbe560bcfd8ecfa344c8a6a691118,"['src/command/Commands.js', 'src/nls/root/strings.js']",[],2,2,2
+42cd57aa5aac0b5e9a78ffe2b87f596fe797efb7,6cf215ce966e5f40b7e717b323eab531789f04d7,3910368df6f5ee69f67107aeb304f60e932e1c3d,"['src/command/Commands.js', 'src/editor/EditorCommandHandlers.js', 'src/nls/it/strings.js', 'src/nls/root/strings.js']",[],4,4,4
+a3352f278a18a058b4e5bd5c7b2c2bc5d49e51df,a07aff9f8d6586d45c5a4872653d15223c96448c,ea58ccad75f476f4a842dfbb75bcd64a75b0350f,['src/language/LanguageManager.js'],[],1,2,2
+4d0ea8602ac4a504c7fb6baf58b443d33035ca34,f1c782495c17c4495b1fed8766bd941a6217f68b,21bbd9eea4c4bded5181f573203f25d4cbc6b719,['src/language/LanguageManager.js'],[],1,1,1
+ca752e8fbdff6b6e9afac370f1091756a42c7f73,cf60f0cd01543175d0bf8a6e378443abc0786917,45e069263775b6d6a633ebafc534cc992914dd4d,['src/editor/Editor.js'],[],1,1,1
+974ed1e46e7a897edb795acaf224491a4e889f23,ccbcc25d0a549741949ed2be4fb46f469cfc171c,8bbe82dbe37b122c47ed7adc8a8bc65398b9bf04,['src/view/ViewCommandHandlers.js'],[],1,2,2
+a7264e84ed10ddf9a0dbdd49a8878155feaa460c,e04355f7ae126da5a88f42221753fd3199fab119,718a00651db990ad33777522b1c8ffbaaf30de22,['src/editor/Editor.js'],[],1,1,1
+9700bf74120d166bd178f46402de7b41484264fb,44c388ab43daa0743a027910f0f16dc6c2f5958d,d1569ae61e89e5093bae656e1d30ddcb95b78920,['src/editor/EditorManager.js'],[],1,1,1
+085613cb445784ec88d8385084a1cd438975b791,b590be337b3aaf32390850a06d3bbbb567a4928a,0cc3e5f411264c94dea7b0c7d3809a5259deb609,['src/editor/Editor.js'],[],1,1,1
+ec23bb67dd90f371d0314b76df1dbf10712dd845,0ba38e8510bcf7dd3916eca9b2d63eda9505e1f1,9304d9b35b8e03b6c9283203d5a8a8aeb94c7199,"['src/editor/EditorCommandHandlers.js', 'src/editor/EditorManager.js']",[],2,2,2
+ea110a31945f048cddb06f4faaf61af7a675f89f,6fee2100fe84abdbcd27598c573ae55c5babd403,c040482c35ac8aed1e9c685415bfa13f68c48df1,['src/language/LanguageManager.js'],[],1,2,2
+51e3bac49815f047b50ace81f95496be4268dcac,2e3102ecbbd9d6d4b7abe89baa2311de8bcc401b,8d3915acfd87582a7e75f78053f6d4fff1cc0a0b,[],['test/spec/SpecRunnerUtils.js'],0,1,0
+f200050f267c307f7057df3a0d494fb277c8503f,2dc566b840deaf38868f62d664df161e26ee360c,86594b480d18306f97c176de1ff6a16cb3b22fb7,['src/extensions/default/StaticServer/main.js'],[],1,3,3
+6cf215ce966e5f40b7e717b323eab531789f04d7,a118ef17bdfba99cf5797365872d86713e16e666,ce157e90d24f5945732eb79476c2a8efa71fb8ce,['src/editor/EditorCommandHandlers.js'],[],1,1,1
+fe09212997a48239c3af2a3ce639d9aa261e3f2f,908bb1a38522e2cfbd54c1764ce442fae18e06f2,ce157e90d24f5945732eb79476c2a8efa71fb8ce,['src/command/Menus.js'],[],1,1,1
+2eaf9564c029643ccab9aeb13ad39aff3c829b1e,b5826558052c1660f4ad7125a0351950b736fd72,88cf9c470931cf4a9ed8024e79a940f663b98169,[],['test/spec/Editor-test.js'],0,2,0
+904b6dd8234743387441e82671e24c2c4a10a98a,8cd4632c9c5d1bfd3e4df32c5dc925df482145b7,09240b2d839086b19f650da0e2d8d5b8b76341e7,[],['src/thirdparty/CodeMirror2'],0,1,0
+bebb6cf93794a0c800ddd12e1bcc295c7725fb7c,1c8a15da7f3a752d01183284005ce9df48b13e93,30c2751a8d0d562b16d1df5f860eec50f6dec0a5,['src/file/FileUtils.js'],[],1,1,1
+0ef8e00a9bf7650cfbcfe5772608a6eae335ffdd,966739a22cf671ab02ea4c3ee79dbe7b1464fe89,f50c02e8ef2f7d975f2be6e03ee1c5c4f1b63a8e,[],['.gitignore'],0,1,0
+5938c3326dc23a894bea0b247613cfadf79c9a3e,1c333cee0050a63dfbac14b560a8d962e8e6b24f,84e4a7a49f19bae78a724e85dbffdcd84b4579b2,[],['test/spec/JSUtils-test.js'],0,1,0
+dabd2e20d5358a7ab650b9df558d6af9b366ccc9,ed6c2ee50f6b3b52a7f47381f2351b3b1ea23218,89f70f3e3b9e93ccdac8b960f5aca7417810fda7,"['src/editor/EditorManager.js', 'src/search/QuickOpen.js']",[],2,3,3
+a5ea47c7dd9c9e265452f56dd5580a4dd4c3dccd,7dc72a27d64f14f898d6348225ad229e3ac4e9d9,dce04b60829a94937b869e4af779db1cc2b9796a,['src/editor/Editor.js'],[],1,1,1
+c6d82fdbe7f1013100beb7c2ba3e5c8765306060,0fbaa2fc940a1db8fd1be35f92952e82434fc280,01a2afd7c94db208a320312aa700274069b12b5e,['src/search/FindReplace.js'],['test/spec/FindReplace-test.js'],1,6,1
+1e60395dcdc3516f2d94b5f4b7f1b67e793a04a0,108af218dca2c9b92777ca7a5f7bddb98786ce99,94748575269e1bcb66a9aa6219f5515bc65f8473,[],['src/thirdparty/CodeMirror2'],0,1,0
+b8b6c318e1ae739309b6c56a967f8ce448bd281c,57f4875c23a2eeffef7fbc00d992b75683602f10,51005dd3f41f60f68e9ad35c10f8b94827504b8e,['src/extensions/default/CSSCodeHints/main.js'],[],1,2,2
+64ef283ba66afe1f9498695a7f471b8561810686,99ed227e2ce51fd091fd16059f7df6504b3329b8,b1a631da861d86d2fedeea54328cfa94a0d81b60,['src/editor/Editor.js'],[],1,1,1
+1ea111a348054dad3badd97f36a2e93c755f06b1,5653f4ceb3059dae8b78cfd2abc8366b7923a0ea,b29a743c676134f228a6d02d75b54a7c7f0eb7f6,[],['src/brackets.config.json'],0,1,0
+b032dd45bfbc947c28d80a1b7493e08c24ec2c6e,3f6eebc70ea3a250f3edd250af38f2dc23b61f4d,8e43cd8d8ea26a69cb5baa6cbfdaabfff975d74b,['src/nls/ja/strings.js'],[],1,5,5
+be0c6d51b937a1cdb5dc7f8334f33fe33b544d5c,e5ecec441c967f4e171c2e7aa18b6357a88cf0d1,ef021732df50d6761f599622ebc9c6b9dece0e68,[],['src/thirdparty/CodeMirror2'],0,1,0
+15d5ca27d5eaac3e3b104fa5d5e4b821e246cc58,55b381dce83b2eb65cb6a427900d4f9630999f96,c87ec6f9af2918c82f597253511b834ec67946ad,[],['test/UnitTestSuite.js'],0,1,0
+bbdf4337aa58d9f6c2cdd221afe4d314c38c34c9,289489d5d5ccc80c42382b2446d771e2069fbd0a,2bdd2d089d2cafb78340e1f6e4da276206764759,['src/search/FindReplace.js'],[],1,1,1
+6c9ba1700080ae0fe80ecf86482dfb29ae6cd6b5,b012d8c270ed295359b9a2a66a44a302a1ab6e43,e116980b8a339fa109b5dd45b1db085330617959,"['src/search/FindReplace.js', 'src/search/QuickOpen.js']",[],2,4,4
+12e775607603dcff5c3a5b0b4dab4a489b2921b0,104b3f1f8801add4891cfbcab36463bafc57d18f,ebdc69f42ed53166b7db98a89d1e926a7b213448,['src/nls/strings.js'],[],1,1,1
+1bd19a54ddd2f2bd8a2850ce213b077a5f969807,bfb4fdf1ba2e02b84114aea047e68bb57de4b7dc,407ff53afbdabe04ae09bed462a1d73b8f5b0b8b,['src/search/QuickOpen.js'],[],1,1,1
+9c8e42785c3b345349c7b652392a52626c2acf53,d5fce8d4394030f14ceeb5e5fd22b6e4fc25a1bb,912e5400a07d7079ce3de669fd25bc29683f7f15,[],['test/spec/Menu-test.js'],0,1,0
+59be3e3ba695cf1652b3f3c963a572de1389cd47,79dcf03add1d0ae9c0a14334ea3843d4322f5798,68f94c148b6574f57dfb02b25a0c234102545f30,['src/editor/CodeHintManager.js'],['src/thirdparty/CodeMirror2'],1,2,1
+0dd63c63146f3ebe8be52c3428c994b83dbccbbe,c702da445214c139dced8a451488f61c9f485c2f,ec3b502df341de4eb842aa31501391ccc2df383a,['src/editor/Editor.js'],[],1,1,1
+5efde20c659c8a8974a818e79c873b95f009dfbe,b9873b3b67622e4438f0e2845b3db96c6bba6c61,9025ba7684dcec0cd4dc83153061cf9aa9821e61,['src/nls/strings.js'],[],1,1,1
+8f4503b95cef3cade8fceada627b38ca02dcd3ad,2e06e515514b2d669471b55ddbd163554d809ebe,7c7fa35e62f179328a691393ff3486af5a6f53bf,"['src/brackets.js', 'src/command/Menus.js', 'src/debug/DebugCommandHandlers.js', 'src/nls/strings.js', 'src/strings.js']",[],5,15,15
+d67f8e7c6c81a9a7ada5f194c6ecd7f31f7356f9,1162eee4aa0abb649ca1add0154fc75ab2fe832a,812dab2c286d5fcc799230e85771a55d13775453,[],['src/extensions/default/InlineColorEditor/css/main.css'],0,1,0
+7867a19cde81a4f0cd48638e85b8c36b9de2055a,95adbd7565b8f16f007e9292b645b4471ed11f7d,31895c79bd66a468f72b2899192ee042c8d749b1,['src/help/HelpCommandHandlers.js'],[],1,1,1
+71d40c348e91e409650dd6f0ed5c547f2c29480b,ef508ee4437195a402f05598a8a7d675473d0437,4a1a96288726c351aa29e66a51247fe3ce5dc062,"['src/file/NativeFileSystem.js', 'src/language/CSSUtils.js']",[],2,14,14
+523cab26b1bca59745a9b9d2691b8108a79f9c4e,13da359cafbc6113c32dc193074cd4b8a0037fd3,99c76056d06d0011c793dd519f0e719e3c9f3298,['src/editor/Editor.js'],[],1,1,1
+c079defc1a4ef20acb48a304ed38651d6ebf9ef2,428e9c050cdcece6c060e61512a0d30642a1b6ef,00c5e6d8000204425af83033411ff7a23afe6ebd,['src/search/QuickOpen.js'],['src/index.html'],1,3,2
+59993ebfeff91e83b60506dfc60d692ee2028641,3bd7dda5b20aad545e91fb22324842ad7d214010,7ba8722fb7e931f30136d96c370f0c9eaa497990,['src/search/QuickOpen.js'],[],1,1,1
+0fe2e7161c974bb9248f414284c926243cb6ba92,1cd358c05369290594c35c2ace71b3f6327862d8,7ba8722fb7e931f30136d96c370f0c9eaa497990,['src/file/NativeFileSystem.js'],[],1,1,1
+00dbca700ea141a98419a76c1de467a3f75f8672,b11e54933f096caeeeb8394a634a1f2174359530,8f0aaff5d4ea62d0f1788d5340b5d19c8f5e669d,['src/file/NativeFileSystem.js'],[],1,1,1
+0586c28a56b7c81d7839d0ed8d55c1650268f33c,96b9a8aded06faae967a91a415eaef897a2100f0,9fb68fcdf71333d37120dab6482d74c6bc954231,['src/command/Menus.js'],[],1,1,1
+30a49a2e518549fc475a607cc42be7b7e52ec864,4d60594bf04a7d914dfc5f7df23196f26be0a871,38c939ff2018eed38b61f701c2db9adee735a2d8,['src/nls/fr/strings.js'],[],1,1,1
+a3cb3fb5bf78a6854ac3a3691809dd3d3f6f1b6a,603629b78719b7f2283dd99f9ad66c922b1a4eca,d2029162c76e3179556f44283dc75c2f691fcda7,['src/extensions/default/InlineColorEditor/ColorEditor.js'],"['src/extensions/default/InlineColorEditor/ColorEditorTemplate.html', 'src/extensions/default/InlineColorEditor/css/main.css']",1,7,3
+c9f3352a1031d0159ebf9f90297cda6279bb6647,693e8cc410d3f4b4b068edfcb77c80d2cf2e862e,84ad494325784e4621e5324685e062ce60543e04,['src/command/Menus.js'],[],1,1,1
+1a16c5f7c9e4c42e58d152f3975a74e8af3fa9bc,352ce3502344a334825c574c559f030827bbed3b,132d4fd8b0eff0c978f22cd8503fc4e2a717f01a,['src/extensions/default/InlineColorEditor/ColorEditor.js'],[],1,1,1
+89957f7297edbfd5e6409d90c249038f3d89b3b1,00c5e6d8000204425af83033411ff7a23afe6ebd,4cf43a00fd9e4e8d8dc557343aa2e067ff2c3d87,['src/command/KeyBindingManager.js'],[],1,1,1
+150d5b06597f3dd7a43e7eb8c8a0fe35c66fac58,e05bf1c91a7a50a6d6854fadfe5e3595467c31ad,b7953c6f6d4199438c1f5292e3fb30f25f6cfa10,['src/nls/fr/strings.js'],[],1,8,8
+b46c88326369b706d0c6000c52816c934af01fcf,e06b0a84d98a95ffbfdba7fd8d930079c050e2bf,f419f460339b0162d6a6d02fc9b8c4ecfb239f63,['src/file/NativeFileSystem.js'],[],1,7,7
+8deee96bd4df5d6c4fba953a86f7799fa1ec845c,ec62c30b5fd49834b2924b716b0df02bd61ea3c8,f419f460339b0162d6a6d02fc9b8c4ecfb239f63,['src/command/Menus.js'],[],1,1,1
+f68324d81fc8bbe1ac7a927031edbc8ade68c75b,b1e356cc4bf03f7f0ac785468726148a3af74e21,32c88f363b449a02ac98823d85ea7045736296a8,['src/editor/EditorCommandHandlers.js'],[],1,1,1
+1488ebd8feeedcd3c638592f77a8ebc80aa6d518,76dbae85d1d95587c6afd180e845ade313235041,c13722f1a98de4e3fead35d572f28e1ffa5ea9e3,[],['test/spec/Menu-test.js'],0,1,0
+fc953262cfe60fd53b9e11a3237aa3ef0bcaff76,e7095225580f27f74ac5d38e51a09c8a24c4d58c,a90176f9e1ca49f119a3736086f52422e5b5101a,[],['src/styles/brackets.less'],0,1,0
+14c201e8af62d57ed8b7535f1e78cac8a039c7e6,4302db0e47757150859edac0cb6775f07f4be44d,22df3358a382144a976d81e92137233ce732436f,[],['src/styles/brackets.less'],0,1,0
+2bc0bcbba6b67140af777cde42a3beda6ae8c04c,6c4c4d3fd407b8575ff6abb9577a6dd61a0aaacf,a420f4052c1e7506ed87678ccbe2552594497e7e,['src/editor/EditorCommandHandlers.js'],[],1,2,2
+c3f3e690998cdaa79cd5672c7a07a8dd5022f2d8,97cf253a79c26bea3973f3daf4a79e0835e3cde1,0cdc53866eb6144b983d24548f9722d6548cfc55,"['src/editor/Editor.js', 'src/editor/EditorCommandHandlers.js']",[],2,2,2
+610b8fb531374388021528662cae38e390c85276,07e1d40d81a6f783b47a1f2d7b4093503c06fcb2,e7f0feea1ecefb67de126be5eb3d2bb2da3a6baf,['src/brackets.js'],[],1,1,1
+4acd64b723920810a8fefd8a7c75d39248cf43e0,6586752dd514fe7c85bf571a835e7f5006fe1d0d,da7502eee1b051b2be648a088286b7ed1b237951,['src/command/KeyBindingManager.js'],[],1,1,1
+173f1a7b2ef84d4c1022def6a88925b860fba810,d9933e52de0129eda40bfddeea49d505c12624ab,4b066afc2bbe42ccea844e6b96df1c973488a708,['src/LiveDevelopment/LiveDevelopment.js'],[],1,1,1
+1d88b4bfcae6395e80e250e25b1a89dc385dedd1,23a7985ed5da8efc0e79d93705472e905e529cc6,7d7db97af722b2c99ff8dd3274635b9a374c78c0,['src/search/FindInFiles.js'],[],1,1,1
+9937d13d39d52a09586cc7d00fe7cd1132f63424,971299191885c1c9029f84b32ef2815bb4717e88,3158bc96b0f77f9c5b29aacf8dfa78571a522313,['src/nls/fr/strings.js'],[],1,2,2
+e2581034480c5ad61be1e80b545fbb181445a546,3c2aa36f0bb7f9c247c34d31e9197db666a1087c,3a70f8d39bdf0dfb7e3fc62dc36d7b292c762203,[],['src/styles/brackets.less'],0,2,0
+1824ee76490455d065f065705e33a10e996fa3db,781e7aa3dc0e5b6c66d9fc8e5399bb3adeadb90d,5bfdca59f870a28f240c4e4f97c9a09931de56d4,['src/search/QuickOpen.js'],[],1,1,1
+1160a529381b244ad9343509bc6747c879c7a656,8066bc4f5020b88d23b4f43167961b9392d80b7e,1c2b9898c45993f9dfe958b0500fda1d21e6ccaf,['src/LiveDevelopment/LiveDevelopment.js'],[],1,1,1
+aab262d0a626973a4539bff27bb236198b2b847a,8f1cfb2377d6b2ccd1bf48e4bfba66cf6d4dbcc4,82ef833dd4df1d57123c0a903be7b887c60d24f7,['src/search/FindInFiles.js'],[],1,1,1
+6a9046b4919e784218718633e6ed16197ce384f1,c5f005e987ed928d79bb61b7ede1299dcd475bb5,d2cbe887237c4c51e4106d6aa73103d7efdea5c5,"['src/editor/EditorManager.js', 'src/widgets/StatusBar.js']",[],2,9,9
+2044846064bbd75d401e8ec30b3e0a644d6057fe,c561ef0b0b6c67560d04b8ad87a1b5afc0ccc299,4c7b77561269da4cce91412cb3198e6477dcf46f,"['src/brackets.js', 'src/language/JSLintUtils.js', 'src/search/FindInFiles.js']",[],3,4,4
+87ab2468495d006f3552f75e24e3c31f54f9d209,e331203bd1ac69d0d9ac93b83285da4b8618ae9e,238f3ecf690a031be71e8a91a26f61777e9a9792,['src/search/FindInFiles.js'],[],1,1,1
+6932eae67899af9df035687270ddb1193e2d0a0c,06bf62f7d25fd6f4d510c38bf3554672e81c8172,f262bd438117b0b01e2e9ddc977882a5b8d0d429,['src/search/QuickOpen.js'],[],1,1,1
+22855c01c0e36c92150fb6672dccf0b31afc4204,19fa897774ecd03567e4dc3c483df212d60c53a0,b2822c709e3db0c9168246c816e1de6a84adee70,"['src/language/JSLintUtils.js', 'src/search/FindInFiles.js']",[],2,4,4
+bbf47e5c2807f94041ff7c6ae95b1556b65dc3e7,ce51302affec75647826e6e72290c413eaa3e15c,aedbe4eadbcd7a084b1ee7a5b5286a2662a1e6a3,['src/command/KeyBindingManager.js'],[],1,1,1
+25db5d65857fedf6a07f0373ad68b4c7b1fc7850,4dfa3c97359c3598601573e15a30c423d5ef9203,b19f826068c30082a031a0d52e7ed5863eee39dc,['src/nls/fr/strings.js'],[],1,1,1
+f53edbdc15aac5fda6bfe8eb9b359c475e8127d9,d91e0511d04a71cda1aad1249a79e9de54017b94,6f6850faf491637c395719549f08b9c8c5a60d4d,['src/nls/strings.js'],[],1,1,1
+bc4b04234758d76e4f4030f25234e95ebee7d1e2,ba615e917d3ef65aac9dda4e6714bb3372687961,42339e97b7b53e0eb0ae71eea84c6b094905cbd8,['src/search/QuickOpen.js'],[],1,2,2
+43880796f6c5e3af4b3bfeee7a43a85cd0b8749a,b2672f6c89e6c593dd466524e6fa745a926d2200,f2769f852cfa674cdd25801f9224dc49020655cc,['src/extensions/disabled/LocalizationExample/main.js'],[],1,1,1
+22146bb38481131c6832adf9df1f3ec1da5bf60c,a34f46762053174150dcc962ae4cc701c379195e,4c10e24b9f991d24e2131d6aaa532e2f99ebdfbc,"['src/LiveDevelopment/Agents/GotoAgent.js', 'src/LiveDevelopment/Agents/RemoteFunctions.js']",[],2,2,2
+2d750f606a9a9f742a2a19acae503bb355482f00,08c903dd4c7f229cc44a8bae985212bd04f3b1da,cfbd108d88c24fd5aeaa3014ac13b9c24026e631,"['src/LiveDevelopment/Agents/GotoAgent.js', 'src/LiveDevelopment/Documents/HTMLDocument.js', 'src/LiveDevelopment/Documents/JSDocument.js', 'src/LiveDevelopment/LiveDevelopment.js']","['src/LiveDevelopment/Inspector/Inspector.json', 'src/LiveDevelopment/Inspector/inspector.html']",4,55,8
+7a067493eff608b8ead765e4aed5b219650c65ed,95c3aeda7f7031617ae72722fe105670d592767f,8b318bd634bb478d3ca6b3355712600601c667c1,['src/nls/strings.js'],[],1,1,1
+b379e87dd1257413c215bbab20e82ba56552ac8a,c993d22be8268f1bd6dc245fb27624d39d9c18bf,6b9833ed5f1a44be82ea0fd537dfbb446f463a78,['src/nls/strings.js'],[],1,1,1
+95c3aeda7f7031617ae72722fe105670d592767f,6d5eb34861b32071346c6d9a8790eeb44031b67f,f8d113a5a6a1bbf55f927e2395693615fb8ce89a,['src/nls/strings.js'],[],1,1,1
+c8fc4f1407868057179f1812fc2741f6f5b3a9b2,662f94fad337e0edcb3050bed4e39bfc8c6aef57,f8d113a5a6a1bbf55f927e2395693615fb8ce89a,['src/nls/strings.js'],[],1,1,1
+bdd46a114d148bca4d279dba84a64902426ed964,d7e1aca24c4eb5adabee0eb2eb04f98b04922b16,b58b1f782087827a1ca21eaa4558d92f0cd0af46,['src/debug/DebugCommandHandlers.js'],[],1,1,1
+69d11baf5d13bc3554dff1c676b61effd96acf6d,ed5341d3aff74b3b19506387a4caff8ebd3127e9,816b155a33b3b153b6fa840d23c7b4bab27b9239,[],['src/index.html'],0,1,0
+cb74555f9cdcfc29a395f39d444a28a34feb01a9,1e2c63dee776819d71071dddb628fc6964133104,bf7c36b7ae13742211081b9f73cab726654f383e,[],['src/index.html'],0,2,0
+1e2c63dee776819d71071dddb628fc6964133104,ea0ba01bbea427450ab5075ce43aeaf813c76a75,dfe29086a404d6f037bf9e6bafd268a49b03e8b1,['src/strings.js'],['src/index.html'],1,2,1
+bf7c36b7ae13742211081b9f73cab726654f383e,ea0ba01bbea427450ab5075ce43aeaf813c76a75,dfe29086a404d6f037bf9e6bafd268a49b03e8b1,['src/strings.js'],['src/index.html'],1,2,1
+8ddb10f94cbff6d7ac7ff823f65417fdfcf8c3e6,6483e575a116c35141bdc7a23736975a0e7fad05,f8349ae79f1eb0b1d12782b5c193916be458360a,"['src/debug/DebugCommandHandlers.js', 'src/strings.js']",[],2,2,2
+303e19b514a61a3cdf396a2baeaee825549d9156,fb3462e77060938760a316f932ff4cd2f9f398bf,e763215238d78f849e9ac80a0e23b27ea8271e76,[],[],0,0,0
+fe08d74feaa53d1b86d3a9b001906628411d8f0a,ba4510d77546069c9f2a07a0be7e66fb9b745e22,de3dbfcb1c992de2062088141fabf9e0592ca2bd,['src/strings.js'],[],1,1,1
+4d878910fb38271276ab9e6890b10cdff2216ebb,3cb092ef0a06221bfe9c390adf7eef3ed672fc6a,650476de20619493cf88e888d11e0a98f5efeb05,['src/widgets/PopUpManager.js'],[],1,1,1
+2630cd8d7515673db8e5e38e9c83176c19a342ef,a4378aeb326e2e7cdb9863f6e02d7e33deeeffa6,2b136fc360f06845d4631bcad789def0a7c0274b,['src/document/DocumentCommandHandlers.js'],[],1,1,1
+06f34c6404146cdcd8264e2054f166714dec2672,03f5c63ffa3bf8bc13eeefe46e6889c1918e6dfa,7917d31926c21274329ea2d28ccdce42d33e2bb6,['src/editor/CodeHintManager.js'],[],1,4,4
+458f055e6a1c4cfb5d9734c939378a7366979301,3553acbc1c86ae491e600e2529add8a0abbe1373,44226e76d70e2646b83c5731c79f0b9e7487063b,['src/editor/CodeHintManager.js'],[],1,1,1
+cfd66159c5fd4a264d4134a0a90fa6e3c6cbfdc9,3d9aa377ec4408ae1d88668552b65247b6b02c23,caf79e75ff8eb482830507f44d1a1975e7782b08,['src/extensions/default/JavaScriptQuickEdit/unittests.js'],[],1,1,1
+305f6d8d3efd72b378da81e926708e3ccc31193c,89d164927f47df9ce96e2c06cbb4a9c1aaf0cccd,caf79e75ff8eb482830507f44d1a1975e7782b08,['src/command/Menus.js'],[],1,2,2
+6b4e973c84b476d57a9ed3a0fdc18055b9d9c461,e1faf0c7bb78de94f60d749834d9118096fad6b2,6243c2240aad7f3528bcf87f7c0aab95860d3c5f,['src/command/Menus.js'],[],1,1,1
+8ac781651149d982ef17eeeb5df1f33e8f9ed9ab,8812a074ad0f2d2502d4999b07208e9e7e547482,17f78276f264d2a650335e4d00a4e66b8e53ecc3,"['src/extensions/disabled/JavaScriptInlineEditor/JSUtils.js', 'src/extensions/disabled/JavaScriptInlineEditor/unittests.js']",[],2,7,7
+b6f106284b042288a7043a4f86e041c8aeda9ea5,4e77700cfbd7565c081275587b90bda5d9f5d794,202743ca642e9037e526e4689a63f7fffb5b6c64,[],['src/thirdparty/CodeMirror2'],0,1,0
+4e77700cfbd7565c081275587b90bda5d9f5d794,30ecc246e8c7c922a41e3b84b9c7ac4b5bf9a6d6,9057502f921475cf595a3a4851d021c0f12f14e0,['src/extensions/disabled/JavaScriptInlineEditor/main.js'],[],1,2,2
+3cb90ff9865a9c7338be4af502c6592a66462fc8,1503b63676bb5b576174cf032278258645334807,9057502f921475cf595a3a4851d021c0f12f14e0,['src/command/Menus.js'],[],1,1,1
+2f4972e544bb2e5c8c00aa426b8565bea9357918,bf024992f417fe15d5109fe1cbe45bfee147c58c,34e5d39724878d1882e748c47d998b675e5fb053,[],['test/BootstrapReporter.js'],0,1,0
+1f05be387254143e9a666685310e3f8f0d579a68,4db3e085deb2d1d76359a0254fc8d309ed6da83f,b7ecff2dd01fd2d177ac8e3fdc7d776fac1b2124,[],['test/SpecRunner.js'],0,1,0
+3e276067152d210da258b9a018c03b30ffc3bac2,da61901ff8abf064b980bd9b75e0dae97ac87f66,bc9fe3aa35ab7ac7b224e9ad224a17efcb530676,['src/command/Menus.js'],[],1,2,2
+da61901ff8abf064b980bd9b75e0dae97ac87f66,a931ca471f6e5ecb386a6ea30aefcdea4391ee69,619422868f8a96c01f2f7c992ed7661e4939dcbe,"['src/command/Menus.js', 'src/utils/StringUtils.js']",[],2,2,2
+0b823cb32cb0bc986a153362a7e11db8a4a41c06,9312bbc850f44eea6de4e06e71cf95f325815157,a8fb4984e6eaafc0b387f892b0064d5d68f4e983,['src/command/Menus.js'],[],1,1,1
+76c143508f8869ade15001212eb2289849e6de53,9364496e2dbfbc1c5417eeb4dd03ec10b161b132,5f3c9c2cf834727039deb90cc07a41241af27356,[],['test/UnitTestSuite.json'],0,1,0
+f55ead58b24b94cca706f8731d4322d82cfe9f13,e859989873c16bc810ebf23a2cdfa4c655bf571b,3d4d82ed0ac9d5c81f75872a3f2ce3aac0c86e6c,[],['test/SpecRunner.js'],0,1,0
+bcf52e144da716962ac83ba4af2ca2ab8c9d2bed,415cefb23042af1f15d9fc947dc589d57f06285c,a82dbab53452c96640b8a967e839777c2de7829c,[],['test/SpecRunner.js'],0,1,0
+415cefb23042af1f15d9fc947dc589d57f06285c,1d78607bfec592f27b4660d2da795e549849cb9a,abf249317f173ccc40ee986f3a64324c86a9c0a3,[],['test/SpecRunner.js'],0,2,0
+8dfe99a5d0eb903d41e7f0daa984f0e4b28fa598,0ba57a96b8646b3a7f8395ee13b08fff9e263a8e,cdcbaf5b76a7a80a743bfa85fcb512b9da31a67f,['src/brackets.js'],[],1,2,2
+84c916b6a15854894f498e7b6ff1dcf9ffd6b3ae,001d7b53c37d378af52186255dfface930394766,6c5ccce17ba102b005658a9226f43d58eb5fb414,['src/brackets.js'],[],1,1,1
+5a2af13c67c7670c641bb2c07649ecd2d0a90118,75531743698d41e8cfcad808f1bd2be41a0479f8,eeda6ac511933ae8a176d3514f4ed8e92f97fe40,"['src/brackets.js', 'src/command/Commands.js', 'src/document/DocumentManager.js']",[],3,3,3
+90b64d6281a49dbdfd20b6807afe31de2836bcdb,ae97988a8ae16fb2ce4211fac3f8438b7e89e9ae,b8271b28ba3dbd13e74730587e9236fac0fe84a8,[],['src/styles/brackets.less'],0,1,0
+12722d7a04eca57829c9eb8dcf85eb3d54d362c5,7b8835aee91ec8eab3faf726715c09f3dfb726c0,469c1d0c1dbafb9f55ffbcf94af432bf3d71b125,['src/project/SidebarView.js'],[],1,1,1
+bed2cb7610b73e69d95722badb406f07dc63a427,2ec48eb9b47c3171df796b2a9cf18bfb1cbec670,c9c4f9d0efa7424255ed3ec0f229065ad1dcc1a4,['src/project/ProjectManager.js'],[],1,1,1
+860a2787ccc0f659a7238750dfe02dcd26bc492f,48cd8c53065e7fb8d181ea97251132c1d4a07e6d,4a50bf85edddfe314161ea963f333d333c5e39d1,['src/search/QuickOpen.js'],[],1,1,1
+ec2e9092d68af772aaaef4bef16b0643278230ea,f21e6ea1b81599fa4b19e3cf017357b9fbd9e510,4f24f3b939bd129d4c8f573803aab8df8fbff966,['src/language/JSLintUtils.js'],[],1,1,1
+7c571b16bf0d984093df8064e903fbc5c3a84f36,7320bef91d58fd9981756730286594bf73e584b0,4dad77f32847a06a9d204f083f8fc37b58e77499,['src/brackets.js'],[],1,1,1
+e6bf430dc71afb06f8c7d92929abcd34ac12fb3f,89679dac3198abb180df93d11407bd719a84a8c6,4dad77f32847a06a9d204f083f8fc37b58e77499,"['src/editor/EditorManager.js', 'src/utils/PerfUtils.js']",[],2,3,3
+7dec20d708695eafd69398903796f8d1ddc8d15c,a0b2f6da1f8dbbee0398a89bc88945b672f7f8bd,7bf07cd2207468367e11f340848abe58874ca008,[],['src/thirdparty/CodeMirror2'],0,1,0
+bddd5cfcac63de9a61350afac6cbc6591b14cd41,7d9e1d5817fb956f7917b41ac82f61f474fcff8d,810a4b99b10ff96ddb0c670eca53727cc61b6643,"['src/brackets.js', 'src/utils/ViewUtils.js', 'src/view/ViewCommandHandlers.js']",[],3,3,3
+1837ec167f79ce2ed111096d8096bc54a7420afe,e82dec100681106780cda197d6af52212a86a233,f81397e3cdaf74dff95194b64eba9128426bbd42,[],['src/styles/brackets.less'],0,1,0
+23228d42ace4a3c8fe4098295a29fdb24acb9c70,5e3653ba2bd862a1600f04d149af5aaf37bd1d28,d62d77b6720ce8992913c7201af3abc002c8657b,[],['src/index.html'],0,2,0
+7320bef91d58fd9981756730286594bf73e584b0,7acea9e595974ff5c510c01e36dbf14b0452cae6,d62d77b6720ce8992913c7201af3abc002c8657b,['src/brackets.js'],[],1,1,1
+d62d77b6720ce8992913c7201af3abc002c8657b,a72d34b6d21537ea91a414fbccbb296704132113,c4a0f9187b7d050be7d0af198a8b91efbe2d05d6,[],['src/thirdparty/CodeMirror2'],0,1,0
+15d1a13cd1877b3fa66ce67aca6c0e45d7e618a8,68dba5fdf50c23197ce57b3329813493c759aae2,abe66e080dda69f6145cb72b5bf354ea33d0c82b,[],['README.md'],0,1,0
+404e468ebbb902ecaf8019c5ee89d2a8b17759ca,a157df31762ebac8e52706bf24e81d58818dae84,f92aa7dbd7ebcaf4e72d01f5566a3b9c4c45e066,"['src/command/Commands.js', 'src/search/QuickFileOpen.js']",[],2,5,5
+be599a7730ccc16110e7e5b94c4127830a9a05e2,b2338e5956e446e8a033f06594bf551c7a22caf2,fbfe3a97a87bb5c8698ef2837b4509926fb3101a,['src/utils/ViewUtils.js'],['src/styles/brackets.less'],1,2,1
+a84e1334834d080a8411c54e38c6eb1d959ea247,f91dc454645b289c6e85a30ba46c0fa76ce2c63d,4ce734f86761ab5367dfe9ca279deac969e7acb3,"['src/editor/CSSInlineEditor.js', 'src/editor/InlineTextEditor.js']",[],2,2,2
+4fe8ae837c984e0cff17ba79958220082e0b8545,2d48260a29bdc2f5e199486d66d17857aa4befd4,eadd1d3b5e0648c12360f2c16cd13f1b6c025ddb,[],['src/styles/brackets_fonts.less'],0,2,0
+5b5245c02eb953208186d623c22c4d362e31bfea,5ad08445145dccfedd6c21f0c72f964afdefa04a,938936ad10be293d0c1a75b933da6e79921a6131,['src/editor/InlineTextEditor.js'],[],1,1,1
+2d3cd288df9889fced8515ef6070421027b356c8,1f321f5f35d2d06c24813ee61858a0603d59b315,bd7fdd8d7f768f96eb231a7718298bd3db1ced5e,[],['src/styles/brackets_variables.less'],0,1,0
+1e9b23d92c68a224831c9f8f9c9c2e99965aebe9,54b4e4d3ce66484a71bd5f2c468877b28e0c4eaa,938936ad10be293d0c1a75b933da6e79921a6131,[],['src/styles/brackets.less'],0,1,0
+0218ce3da70967e71b520b1375424d2a4ee0bd42,eb76e2beeb146062aa5da14b71eccfa4375815ce,63503adddb6b7bd6c086f37ea838bcd8fd846f44,"['src/project/ProjectManager.js', 'src/project/WorkingSetView.js']",[],2,6,6
+d1677f5e967075d2fb6f8743270e371d812f671f,1d0fe0c68baebc947d4e3a907f3a4375724aeaab,6a38733683dc4ebff0696d77021530ee445fdf83,[],['src/thirdparty/CodeMirror2'],0,1,0
+c6de0e5940a3ffd5d3019bff7f9bbf8d56c21c29,804e290ae6629cbee707e4fc98c3705320ad6d6d,ef4cba21c443dad9a5930b3a49f112d85984c176,['src/project/ProjectManager.js'],[],1,1,1
+606afc0bd50f05211c61409cab1cea48e387c7b4,d67a45e2d81e49a63cf3cca474832474f26bb700,387ab47e4f553a2968f5b3554c20a59d886342f6,['src/project/ProjectManager.js'],[],1,1,1
+bd9ae5f37f66c31f302dd3b0bd13a7601cd26680,d426096060a74c4a66d0fd7b88e9110267652f25,8f5b243b7a0d52a4c441cbe83f2828b39119a98c,"['src/brackets.js', 'src/command/Commands.js', 'src/command/Menus.js', 'src/search/QuickFileOpen.js']","['src/index.html', 'src/styles/brackets.less', 'src/styles/brackets_fonts.less', 'src/styles/brackets_patterns_override.less', 'src/styles/brackets_shared.less', 'src/styles/brackets_variables.less']",4,18,5
+612846eaffacac9b02c4ba14e770d3bcd01a3185,4e9ecf43caa64143a2e04646dbac97959e36f1cd,f93305feab362f5c790a22128df0d149143e8011,[],"['src/styles/brackets_fonts.less', 'src/styles/brackets_patterns_override.less']",0,2,0
+76e0602a1faa2a0421d88e47822c1b18c1804364,186b5170461e65f00773a46568fb14d13d092d95,f93305feab362f5c790a22128df0d149143e8011,[],['src/styles/brackets_variables.less'],0,1,0
+0f119e7b72225b4f853d1a9caf21cbf6369a3070,8addb5a60a11181748f5b26b5971c7a6494a9f37,cec541ca35885b2c59c75334dd242fc645b584ab,[],['src/styles/jsTreeTheme.less'],0,1,0
+1b143387936fed62a3edf3dccb164e4df1933154,a49e9c84697ec5a2e2f13dae54daf9247e8a73dc,69e71a6f9ff90212a44a2e4585ed185579ec4498,['src/command/Menus.js'],[],1,2,2
+e462a3b13d38ca743cd57c5964d5d527e0d83912,2d08222ead5c689aa99409b8b423e8241fbc700a,03868149632e35ff5bca414a705cd715e279dd4c,['src/editor/Editor.js'],[],1,1,1
+250604f71cddcb8dd236eaea175b6bf3ff6b06d4,3d3a641f2ed8d6ff62e3c566185b99e37b267b5c,67dd76c23ce0101abe098b371babd7633759d46d,['src/LiveDevelopment/main.js'],[],1,1,1
+aefdc516ae38db98d349aa77fb6e7f8d8c9740b3,39b46c36b3bc2749f8388a6bf7f168d11de4defd,97dec9c91334e7deb8980a158f95c3be44d1c67c,"['src/brackets.js', 'src/view/ViewCommandHandlers.js']",[],2,2,2
+39b46c36b3bc2749f8388a6bf7f168d11de4defd,eabff242b8a32f250557106f0d46f0e6d092814d,67dd76c23ce0101abe098b371babd7633759d46d,"['src/brackets.js', 'src/command/Commands.js']",[],2,3,3
+36f85366989d881158c42734bb38e903a5ef9be6,392754a55ad0df50e25f3cc8dc68b1a46021cc8f,01feda66df37f175830b37b9ccf9adff16da1725,[],['src/styles/brackets_mixins.less'],0,1,0
+e03f578fe4747be17a11594b68e2b817320102d0,02798c1678586337135606d90f3177635b6ee557,9557b4616b219021e7b36b9104cbfa424818f9c5,['src/project/WorkingSetView.js'],['src/styles/brackets_fonts.less'],1,3,1
+65a8dacf92f7b52b7ba8ea1352ba5c3ca5d2015d,208a88ca925c364dd027a1ba167c60803cb5b538,9557b4616b219021e7b36b9104cbfa424818f9c5,[],['src/index.html'],0,1,0
+ee695d120ac0dfc6839977a59c18a11ee2bbc37f,8f568f584e00137a5f9d93b08413c9a1873d8779,760e25ce89aece75784c687443c333bb782abfe3,[],['src/index.html'],0,1,0
+a1356979045ebfd2588cdef0c336b86ec1c3726f,79fad742a1db23fcc56c0e008835b8d2bf62078c,760e25ce89aece75784c687443c333bb782abfe3,['src/editor/Editor.js'],['src/index.html'],1,2,1
+e35755a3e787b308dc5c449285ad78c0f4ce463c,e518d298bbcac1ebf2fb18556e0406fe4635f8f7,bf43a164fece79c1d1bad11d471678c14d6f3bc9,[],['src/styles/brackets_mixins.less'],0,1,0
+b08665b4c88bf734a853706b4208e8c1977bffbb,a79fea6db715feb08170c4e6607b58be09f4c3d3,9412ce218cd9ba260d194e094d3eaee94744185b,[],['src/styles/brackets.less'],0,1,0
+e8fc03ecdea28059645f070e2e2dda8b4586692d,f3d4cc67d2d62171d53cd7042b360a7ae4d51bcc,8cccdbe0c8911cb3ab3510730427c156b41afac1,['src/editor/CSSInlineEditor.js'],['src/styles/brackets.less'],1,3,2
+f6debfdf41e3b74eb947bd6f3577a74b4112f37f,0e6a324175f8d85ebc111d32340f9a80f15bd728,404ed490bd6a1a835ff669a245698c8cf7ac9788,['src/utils/NativeApp.js'],[],1,1,1
+f6381edd4996762922f5af4488f01b834c6a9e08,af0ee817a2fd3ee7aededfc5493cc9488f484c58,e2590eef7a8d12a031aa177e9eb2639c47444b50,[],['src/thirdparty/CodeMirror2'],0,1,0
+be73d50d5fcd046838f30740be4b9f6a0cf64ba4,bb849d2deb4e37d69fe236f8882d7e7163c60180,c432890ea333e69f6fe05ce64910b619571d5aea,['src/editor/CSSInlineEditor.js'],[],1,1,1
+f284bdc09b92795b2c55ae3ae42c7301b7d1d405,edff3298d1f85468d6bbc941cb7a83efdd6e8df8,0fb1bc826616d510285b587ff8847652e8bfe729,['src/editor/CSSInlineEditor.js'],[],1,1,1
+d091347847bed6e6c53464c81831af13f274f88d,2372a694d15e28a1e95cac070c896e42043ecf33,11aa799f07219bc8f42cae4add9ba6f1f8e0253b,"['src/editor/CSSInlineEditor.js', 'src/editor/Editor.js']",[],2,3,3
+df083b03ad90d3906f07973830413647dc5efde1,9961a1946a6bf8bc64988a4eb9f42f12707db044,11aa799f07219bc8f42cae4add9ba6f1f8e0253b,['src/LiveDevelopment/Documents/CSSDocument.js'],[],1,1,1
+89651d26e3b2e1dbd507e74b94e88b98478d5055,1d612190d5f574ffe95828f5c8396de8fead0286,11aa799f07219bc8f42cae4add9ba6f1f8e0253b,"['src/editor/CSSInlineEditor.js', 'src/editor/Editor.js']",['src/thirdparty/CodeMirror2'],2,4,3
+bf313fdc8d3c1ee4d261494148ef7767b820348e,ddef3013de6aac7efe18eb57cf18a6ecafcf7104,7afe9f0281ab7117a48b4b89d3bb9ec0c0c2e35b,['src/editor/CSSInlineEditor.js'],[],1,1,1
+398338683fb6c34f03da3423384233604afaf694,a832e09f28d1b7b14fe9726bd9435c9221c74554,30e6c5d27d4af2dad4b6e74db603d8d579ad6b64,"['src/editor/CSSInlineEditor.js', 'src/editor/Editor.js']",[],2,2,2
+11617e0f1a0ca20a53cfed853a3feb71fa17958f,0d08fbbd9caa3c82c18c727f283d4e166e7b65c5,f3c1e60058686349ec62961b5e02cefb50d5eb2d,['src/editor/Editor.js'],['src/thirdparty/CodeMirror2'],1,2,1
+409416e7299090314a1f6d702b121e429768c1ce,3d23f64ba821d62923e9a82a87896184abbc722c,f3c1e60058686349ec62961b5e02cefb50d5eb2d,['src/editor/Editor.js'],[],1,1,1
+e24f32d7b02740841f4214be57eb6301cbc35444,8f15329c5ceee91bd1c6aa6ead915b30f6b41a34,44c4cf23f2fbf743020f2ffebc27a2ba493763c6,['src/editor/CSSInlineEditor.js'],[],1,1,1
+dad27001e324b2fb5553f9d855db105018d8f90d,bb99b5051574571a7fac3f913463b645008816f7,44c4cf23f2fbf743020f2ffebc27a2ba493763c6,"['src/editor/CSSInlineEditor.js', 'src/editor/Editor.js']",['src/thirdparty/CodeMirror2'],2,3,2
+7de9108089338aa406e2363b03a522145e6b8b2d,343906f8712b0cebe7376181b59e81501d2e4a2a,05888b1e69efcf7fc7b42a30131ed2a01bbe79b2,['src/language/CSSUtils.js'],[],1,1,1
+f92f7f6d58d5a551469db382f0899c61b2c271ae,7180aac94128c79272014bf8e8efbf85cfb87b6b,240858cde35f01e9beec2d08106a60d1ad522086,['src/editor/CSSInlineEditor.js'],[],1,1,1
+1f44754aef58900e3d6adbf62f4f472c85a33646,b97e8c29da3dda2f2b3414649cd31e6bcb16adc4,b326bef34dc0df907f9aabf7ecd2c1a492abcb7e,['src/editor/CSSInlineEditor.js'],[],1,5,5
+7b7f97b487a23fe8957f6d5381d5aa09df4d9c94,284ac87a3f470f012e5dbd9725471c4fe6f5dd48,0b4eb97a9b5a8e0891f51fa03a7f25989c6623ec,['src/editor/InlineTextEditor.js'],['test/SpecRunner.js'],1,2,1
+66e58e5f673e99e5840fee7a5d55cd57aba48a08,4c14327e95d8b5db1403576c389198e5e18776a8,0b4eb97a9b5a8e0891f51fa03a7f25989c6623ec,[],[],0,0,0
+842bdc21d36ebe353091f7c015093e01c05ed0bb,92cd898766e244ece147babca89cdfa655691fb3,360285f1ea1d60babe18a406aa3994eb3bf2ec01,['src/editor/CSSInlineEditor.js'],[],1,4,4
+1d30a1d7e09ff1caca1b0810e76a290b976cc0f8,92cd898766e244ece147babca89cdfa655691fb3,360285f1ea1d60babe18a406aa3994eb3bf2ec01,['src/editor/CSSInlineEditor.js'],[],1,4,4
+1fc25dabc70ff2fc5734e9d7ac0c2e8bf1d56c4f,a0d17d34fc7f8b28130f8a6ec6a85383891ed0e0,360285f1ea1d60babe18a406aa3994eb3bf2ec01,['src/editor/InlineTextEditor.js'],[],1,1,1
+5a07141549c3f931cbe8b84b07af743ac46dc3dd,419c4dbb09a85870893d600c11db9645fc7acde5,d44106971342de49354f7be255c82c0f480745d3,[],['test/spec/InlineEditorProviders-test.js'],0,7,0
+419c4dbb09a85870893d600c11db9645fc7acde5,faed21948b00f676e374cfcde667f81b76ef53db,f6e42dbe85cc6a0d94bbd6be8d98d95a66a9a6d1,[],['src/thirdparty/CodeMirror2'],0,1,0
+7ae2027fc398d8b22a06dfed21aaa9dc8de68c35,c33abf9c555ae7addf5442e0b01fea6de16651aa,740c9c9bef3ba42cfad06884f32ce34fea611718,['src/editor/InlineEditor.js'],[],1,2,2
+7dbf710b51753cd59772bf8a8d4875fd9199f73b,18a4b66f824b83a901d4317c12f6f22d0b3d3d00,740c9c9bef3ba42cfad06884f32ce34fea611718,['src/language/CSSUtils.js'],[],1,1,1
+670d24f678ad9975ae9c92268b30d230f0a765f3,3224397afd2d746596e25351de0bfc926f92de54,c33abf9c555ae7addf5442e0b01fea6de16651aa,['src/editor/Editor.js'],[],1,1,1
+25bd08dc2477c00cb07c5854b9069eabd1d5bc20,830064c22ee6713547b0a7f5158cd9793a04630d,b67bfe5dfa008db1c442e96aecee5180d3e641ce,[],['test/spec/InlineEditorProviders-test.js'],0,2,0
+2bdb3fa8e210d6dff173a26e2109fef804b99461,78a8c0c70567fc50646f245e113a79e6db7bbbb0,b6c70c21930d6cfd0b4ae340f4db1a9e26e423bc,['src/search/QuickFileOpen.js'],[],1,3,3
+96a941510ad0a3c21665e34195c3bffb8ca4a222,00d19fd9c3a674de8bc74dca40a15e8d94ed5e11,3decd2bf1cbb4a9b632c57cc66484fbf6025a397,['src/LiveDevelopment/LiveDevelopment.js'],[],1,1,1
+0c9a7a087df6b4477825d910b74cd97c1f183b1a,52126254509b0a4f2f7b4768e81d4c0608f208a3,e1145c0eee8db91fb1a55480e912aa115cf9418b,[],[],0,0,0
+2179a00cb52ff62d368f9de99e0acae86ef336fa,62fc9384d0eddb3a23dc329605d880edeb7ef682,680f45d9b3cbf0eeed0ee9fbb4b2bd66ca524112,"['src/LiveDevelopment/LiveDevelopment.js', 'src/utils/NativeApp.js']",[],2,2,2
+0e15289687dced178ffd588480459e366c2d81aa,5720dcdc5c3ddefc67a654e3823bde4bb8db7a66,1a6605a4efcb571eed70e5afbf457335d108093c,"['src/editor/CSSInlineEditor.js', 'src/editor/EditorManager.js', 'src/editor/InlineEditor.js']",['test/SpecRunner.js'],3,4,3
+d9a697218fab37f70304ffedc460e5632956bb0a,5720dcdc5c3ddefc67a654e3823bde4bb8db7a66,1a6605a4efcb571eed70e5afbf457335d108093c,"['src/editor/CSSInlineEditor.js', 'src/editor/EditorManager.js', 'src/editor/InlineEditor.js']",['test/SpecRunner.js'],3,4,3
+1a6605a4efcb571eed70e5afbf457335d108093c,9b8f43b9f952dfaeedd9dea6e1c4709a63e4c8f6,4c670334af1545cc08cb17df2ba49ec8584c23ed,['src/editor/CSSInlineEditor.js'],[],1,1,1
+602e0aefd142c47b810568b2d140588e313559b5,4f2af6c141e69452d52996840ba570926f25082e,78ea3d91a8a0b3b10245f47a9d5f838a6bdf46a6,['src/editor/EditorManager.js'],[],1,2,2
+f4a460928126d78f7f258ea2b03228ad5a0979f8,bc64cc2a08e7bdee79d8af7efbc3ebf2efad9fe9,a01d27114a282e2eb7726bb8edd86e6675d83e3d,['src/editor/EditorManager.js'],[],1,1,1
+d6e62bda77774db86f19e6f0e1e8e509ff392e54,bde3faaa6573e097d10907ba53d2c0cc38062257,2e90137253f8b6802a2414c0527bd1e51e1a4ff5,['src/editor/Editor.js'],[],1,1,1
+4f2af6c141e69452d52996840ba570926f25082e,2058b720aa66dfd34bc92865bfc89ec14219ae37,33401f3390ea3225b93076edca53c7a245d06161,['src/editor/EditorManager.js'],[],1,1,1
+dd806bff914cb2216cd946386e13b4d9472b3dec,43f24434dc717829d5f67e84fcda6956b3568018,f442d02aded6b66399434b78a05cd6092a7f6b16,"['src/project/FileIndexManager.js', 'src/search/QuickFileOpen.js']",['src/thirdparty/CodeMirror2'],2,3,2
+33401f3390ea3225b93076edca53c7a245d06161,b6f7c70aa22e2b88a6329bcb14d952aec866babe,f442d02aded6b66399434b78a05cd6092a7f6b16,['src/document/DocumentManager.js'],[],1,1,1
+5d15121b5c3fb14f0e20a59b9b2f6e4940ef5851,f78bb134f8d606edb3d875391b41429eea5cf7d6,d1456b1fb6ab80c5a623aa24ccd582a0649dae65,"['src/Commands.js', 'src/DocumentManager.js', 'src/ProjectManager.js', 'src/QuickFileOpen.js', 'src/brackets.js']",['src/thirdparty/CodeMirror2'],5,6,5
+672b4224b5e37738a33ff77ef6fe6e60bf3c2279,b553dadee0a1d3a46df4bc584d0c7179eca26f80,f42ecc6646f9f12cc563e959634c22b1889c05ab,[],['src/thirdparty/CodeMirror2'],0,1,0
+52833f6d78dcb610dd73017a7304f4c774268bd7,6cdf5abf486c4b1bdad7a0bd0482aafc613dfb8f,832601534af49a1ffaa8ff9a5446eb7b07cdd8fd,[],['test/spec/InlineEditorProviders-test.js'],0,7,0
+60301c0a5a3e08c14e715b564f647518ef729992,a31e1c1f05d9b1c34224abd382d08175a14d9b9f,8f113ff73621e99b4e809911c6d7e283c829a4eb,"['src/DocumentManager.js', 'src/EditorManager.js']",['.gitmodules'],2,3,2
+6fac1d6dc6a29239ab688fb64119289250812238,5ea2271d9249dd1273f1dc41ccf45ef08a132b56,8f113ff73621e99b4e809911c6d7e283c829a4eb,[],['test/spec/SpecRunnerUtils.js'],0,3,0
+3f486a765df82e5b300d68c88e88bba0942eff49,0a64e622e3e90b5da1d1ce83f71c2f99e5dcc84b,9c019efd7d026eb36df511a10214993beb7715a7,['src/InlineEditorProviders.js'],[],1,1,1
+735c141fbf9d74165507b2ecf881433a897ac4fe,56321e483c03d44c8232321241115b8a70e4f357,b412beb3c285436bd74f5cef3f440c90f9905918,[],['src/thirdparty/CodeMirror2'],0,1,0
+70da2dc313a9e5b09b97f5e96a805de874c2e3b3,b580a53fe585f7ee7d9a5bb84f06280170cf287b,dbc029c2f92f170e39eda91e22285263a70ed59c,['src/ProjectManager.js'],[],1,1,1
+5b0a915c0ed6310de95f4398214ba1c3c75df82b,660096815dbd51e49f8027074282d1038785e43e,0ffd1339142e7196782c486d873d66bcab329167,"['src/EditorManager.js', 'src/InlineEditorProviders.js']",[],2,2,2
+34d96d940850f46deaf350151e9b5ee69c0b553e,7e94a30a166b4471855f294e4024c520731a87af,3b0a063dfc512cd28d92283830c93065175b19c2,"['src/DocumentManager.js', 'src/QuickFileOpen.js']",[],2,5,5
+59f701dbf374f9cec60431a0250142ba5001eb0b,141fef7121b9dc922d51e7e81ce8c5533af419ad,b1672423df8ec704b7e0b831a26550336de978aa,['src/InlineEditorProviders.js'],[],1,1,1
+e727a22cce91c1d344345849c3d3c140747cef36,a1d3f96b77fae7afc800fe943cf6b319a85f5e7b,8c4ff93c0f4de0f6bed504c1de1b898a58da6df8,[],[],0,0,0
+1738643bbd6b4e779d4cb1110fb119dce0daa151,062bd0a7f52c657c491de85541c16725e294e2a7,326c37ba706ee1c904d514e8b32a0422fa0849bf,['src/brackets.js'],[],1,1,1
+7d6163490f50cdff25f02c7a1d081a09337bca45,511d5fa3455544e51605bcbde05503326499ebfa,e71b0291d91363c125128d6ac02b4f3dce1d0b20,['src/CSSUtils.js'],[],1,1,1
+983d88ede51eff8666fa99ff198f9b94971b2148,29056a0a2040e6c568ccc380ebf9e6a78ceb7051,e71b0291d91363c125128d6ac02b4f3dce1d0b20,['src/brackets.js'],"['src/styles/brackets_codemirror_override.less', 'src/thirdparty/CodeMirror2']",1,3,1
+18ee95b74fc046b6d00b951f4c782fc9746a3516,2a074cea5cfef4224083877fbf942e313b85af4d,eaa827ade09a3c6304e91b67695bcaf281b25e4d,['src/brackets.js'],[],1,1,1
+fb7967d892c7f15f7c9c6ec126fab6389c4c560e,d293b5c9ade429a9010c05b607ed7790b406673f,a71c31eaadf18b14f0943d3e2021c8619ac5e572,[],['test/SpecRunner.js'],0,1,0
+db45d3b159a80d4ea813cc7a95a023bc85c2a3b8,625c1b6a7ebcdd8dc211cd5a42dfb4a1199216ed,af06bff61dfc9c782213d8e86cc7388a23c3e8d5,['src/InlineEditorProviders.js'],[],1,3,3
+7168cffcaf75dc306f7ea5adda550766c5ca8bab,e36db5b215453d3cabfd85ff8c22cb9b918be7db,44617873bf9dc86facc62bc5c26f738af1b74adf,['src/brackets.js'],[],1,2,2
+b1ea42e44b86ce59b7668241749691ac0f149c78,8900e6ccadeb777b48f7ae59b50bc8e61b44b402,44617873bf9dc86facc62bc5c26f738af1b74adf,"['src/FileIndexManager.js', 'src/brackets.js']",[],2,7,7
+b85e4f49d5c0017dd6135b53560f55e1541aa7b7,ba0c6d10f4eb6e902d8eccea636a3b5c788390b1,9fd00f0bc7a48b2158c4831480353816085383da,"['src/EditorManager.js', 'src/brackets.js']",['src/thirdparty/CodeMirror2'],2,3,2
+7ae9366963a575c9813512c9f3de522aac2159c4,f51a783c074f117c1e124502e1eae72e57d5981c,1bea6b4fb23c795e8016639ba055b959eb9696b3,[],['src/thirdparty/CodeMirror2'],0,1,0
+f51a783c074f117c1e124502e1eae72e57d5981c,813c8e9e26a19aa8ce5b01b77924d04e39968a1b,2e12ebbe6b51608681026b5e5f0ac90c1bf71c12,[],['src/thirdparty/CodeMirror2'],0,1,0
+c34c24a80676ada0d9dd2d585be5e5ea3a7d7074,2a53a4fe0153b043bb949701b9994dd9bd558afa,1bea6b4fb23c795e8016639ba055b959eb9696b3,[],['src/thirdparty/CodeMirror2'],0,1,0
+1bea6b4fb23c795e8016639ba055b959eb9696b3,0e679a195990ff9ed0f233b8898588af5e68b68a,915c3a663e245d0ede6d522a36f0c55d9974b663,[],['src/thirdparty/CodeMirror2'],0,1,0
+f116f7f616569c14ffa78439ff2fb1884e8d90f3,f7ed3e91ad38ac1b82a4ee4c45dc3e15f859fde6,9570a7d77ebf120c0e492ac93b0247fef80bf265,"['src/Commands.js', 'src/brackets.js']",[],2,3,3
+58ed53feb55def5deea1257a94760cb937e32f30,7568720fcaa3086609b31b2749d5663ba3eeae9c,69d8cc0cd8ce9830f7c61f9cc98e8786f9579f32,[],['src/thirdparty/CodeMirror2'],0,1,0
+2a53a4fe0153b043bb949701b9994dd9bd558afa,9570a7d77ebf120c0e492ac93b0247fef80bf265,6017e40c8051b226717531309e56f3baebe406ae,[],['src/thirdparty/CodeMirror2'],0,1,0
+8d655eb23af3df59746e9b7b4f567f178b58c0cc,61e565fd6b675ddbf169b5d1681be4244d85ca28,9570a7d77ebf120c0e492ac93b0247fef80bf265,[],['src/thirdparty/CodeMirror2'],0,1,0
+ecbe729e0acafef15ee8ff0549cbaf70be9b6196,880f49536c48f13dce7e2b12bd8c02a16d8dd3cd,2ffd0c054c00989a08a65fd2b6b52c4f5bdb0a4f,['src/EditorManager.js'],[],1,1,1
+51b73d0e1acf34166394010e35354c3d4409708a,f459e996308a3f7902c4a54fb91122dabfc1a4b2,6f73e679121dacc3ab5e62c9f1344e7951969b9d,['src/EditorManager.js'],[],1,1,1
+5cc86592406ec83eb67a84c1f0bf15fdd82fad09,18b4c4d22a482f16803a42f9b4608f003e35f079,56111537257fc5318a48014a9491be384d86c68f,['src/CSSManager.js'],['test/spec/CSSManager-test.js'],1,2,1
+403517067716f297ddb8b63de2a2a856a5e139e8,d6c76df4f6e6abac65ba762e4530b242917d9fdb,54bd27f7da5e0b878a72b80cc0a9adeebd70131f,['src/brackets.js'],['test/SpecRunner.js'],1,2,1
+db82e234aed6fa3407e2c85fbc4856c52e270433,cbee75424fa3ac37d180d2d8ce34ca3c0fc62213,54bd27f7da5e0b878a72b80cc0a9adeebd70131f,[],['test/SpecRunner.js'],0,1,0
+4aac1a804de917bff7cad7e80b099bf6775cfa7e,6e50a4f222ba7b7388a05d68fee942ac0d51154a,43b2fe09598997ffa271b00c190ca62ef85bb269,[],['test/SpecRunner.js'],0,1,0
+9edf16e5eeeade086dad7f7392cd8f91a3e4dda8,3bccff9a7e0a684d0ce26daa67858c99ed69b94a,535d4296dd85b25cf9d42869d5836fd371044338,['src/CSSManager.js'],[],1,2,2
+7f73bf7c4ecb0148f95a2c383e45adcf2831fc20,17da77cc235655c040103cbe0c3070afe44f61b1,328b41185d1963ff41e9dd6902760dc7cbbecd11,[],['src/thirdparty/CodeMirror2'],0,1,0
+3bccff9a7e0a684d0ce26daa67858c99ed69b94a,2d26da4cd39cfeafcb203b4cf9576609a024b95f,35700d325084a1af97092dcec2cc779e348b8a9c,['src/CSSManager.js'],[],1,3,3
+e289939e6d34044d45715945b5e6ee8680d8b099,80eaee856b794809e0ae3c79ee6c06ac1a0c70af,dd73b9bdad9bfa7bb5fb9de30075f92caf9bed04,['src/brackets.js'],[],1,1,1
+f0e959f5e4a508814036e6f53020d8cddd97bca7,63d122713f2225d21a3790960bc304a1a39a666b,6cad6d05e4910fa278607b6ae51f1cc485fb4317,[],['test/SpecRunner.js'],0,1,0
+a59b8bbfeaf60a34edf01405aacabe8406fcf005,362f65c82af636f093180460940c3992c8028f8e,dd73b9bdad9bfa7bb5fb9de30075f92caf9bed04,[],['test/SpecRunner.js'],0,1,0
+1996a29d794f5c1a8d18de3439529357bebc8507,d2b771d1af9071252ca0c488ed9feeb3264c586d,708864c9aae27f1fdffd8acfc3facf7201eaeb0e,['src/brackets.js'],[],1,1,1
+9378533806e00b7fea46f0174883f76b2b09a691,b7ecc13532a6004cd19a8db5af1d7597a5abe8f1,0172cdb8600257e045cf4100c5c317396747076c,['src/NativeFileSystem.js'],[],1,1,1
+5ae649c47e300dc080e5770088fa3f735bbf63cc,7eefda70ddef00686f2c97f801acabbb8a656011,187786dac39693258d850168448b5164af7dd5f7,['src/EditorManager.js'],[],1,1,1
+0b98426de8e1d6ece5f88ec4cc64c8297aab292a,9d33f726134c5bd1558cad4b864ceae9e6da6770,187786dac39693258d850168448b5164af7dd5f7,['src/brackets.js'],[],1,2,2
+a44fd45293e63b00a29bb4a7ed2a219a05a69b6f,7df7788e7ded8b180db6e76dc737d3625759d274,187786dac39693258d850168448b5164af7dd5f7,['src/brackets.js'],[],1,1,1
+4d47ac29374a6aaecc2d04de323d873b6c5464b5,ad614a82b5f2c7ab10836f8b253b8b37b3b9fafa,5538e6a18b4b25e2efc631bfe2a0579858f2ccb8,['src/FileCommandHandlers.js'],[],1,1,1
+7bc131705fdb30a8084457ae77c71c2df917e9e2,20420d2ea47f188a3383290aac00fbe08b389c76,6f03d7c39545357764d0d324e7ca061ce59042c1,['src/FileCommandHandlers.js'],[],1,1,1
+0b5b3b71b20e9d24a3cc0660537ac81d799604f1,e1776b671b3ffbf4eb3972296f7069f996991e55,f69fbfa563003c2c7d3bea0ab8bd8ee28d722ffb,[],['test/spec/SpecRunnerUtils.js'],0,1,0
+347bf396823fe4e9f2712cc37bb45bc8ae70acfe,4ec455e1b46ca4dbcde449f12b1c89f77ee7b327,5700caffca854a2e2974512aabfe002f050e3ea5,[],['test/spec/FileCommandHandlers-test.js'],0,1,0
+7b7e676b630736208022d85323cec194ae460646,16faf8867d6951ca09b44eaf1a2ac089435194e3,08d234e56cd367b96ea3b78a4bab98be36ce6996,['src/FileSyncManager.js'],[],1,2,2
+8696684a78198ac7773d5480933d1933bf51fba2,ab5de7fb6c8106aee6bf7f7e2e1f87fe3317f05f,baac10b6356b76724381370aab6aa35b80e21bb8,"['src/NativeFileSystem.js', 'src/brackets.js']",[],2,3,3
+08d234e56cd367b96ea3b78a4bab98be36ce6996,327fee3566eb1e7299cdee8b0a469fbd53ba2d62,298cb9d4fb86cdca42c6a0d5c6627efdb9f018c8,['src/NativeFileSystem.js'],[],1,1,1
+65cabdeed0ffd7c1dfc168329c142713a78b034f,8ab19c6c9d6b79648fd2ec937c8660a33e6a2945,298cb9d4fb86cdca42c6a0d5c6627efdb9f018c8,['src/brackets.js'],[],1,2,2
+16faf8867d6951ca09b44eaf1a2ac089435194e3,0f9a4210a6a45258ed95a7225c0952aab3b0fc9f,49954180c97265a79b810544137e52b0ec601640,['src/FileSyncManager.js'],[],1,7,7
+6e70e007364440aca7dbecc90cc2ce565f57f25f,eb76b843601841d3533a66505f5f6b75583b5ee7,7b6532d3f06994f812ec0b6b685d42fa1276f997,['src/brackets.js'],[],1,1,1
+061a6f7ba9eb5ebfae50dfb4799ecf00abab7a40,8b3c9bcc5d150205f75d4286adb24d7affe33713,f057e2f3b58023b79aa5eddc1808bae3e8216d63,['src/brackets.js'],[],1,1,1
+9fbc30b8abeaec6765464a1babfbd2132e0739c9,d2fbb5ef596b91274ed4d4c0bf6c2d3dbde4278f,f70bbf21d244d07aace080da5c311c07383967ee,[],['src/index.html'],0,1,0
+37e47f5cb5d24de1a3990250d161c504b0d5fcc6,f836a6525f1044e9c81d9a9f0f4c72ab8169159c,4a82c1b043eec140b9d4d14c020a07a4ac5949bc,"['src/DocumentManager.js', 'src/EditorManager.js', 'src/NativeFileSystem.js', 'src/WorkingSetView.js']",[],4,14,14
+202516ef78893d59b8c1b1211c6881de99abf8cf,9e6cf0209ae2a76ff9727f0cb19e7188627f9230,4a82c1b043eec140b9d4d14c020a07a4ac5949bc,"['src/FileCommandHandlers.js', 'src/NativeFileSystem.js', 'src/WorkingSetView.js']",[],3,11,11
+f694438333c0099547eb4ef23f513116e1f840c1,eb6d7a3f40f223e6691c0af8769a51a980bb30ef,4a82c1b043eec140b9d4d14c020a07a4ac5949bc,['src/EditorManager.js'],[],1,1,1
+ad90bcbe598665d59437d6e891d7934058c6594a,c7a6f161b2800e03d92a121bf1fc875f255f11d1,402f615b7672291e89886e3da5911270f55ba4d2,['src/EditorManager.js'],[],1,1,1
+333f6a2bc582e95c1f2566179ac78f7ce092513b,e48e444d1456366a711ae337bd59e8eeb0a68c59,0880e475bd1f868c1225cbd4acb58dddc4d1c884,['src/NativeFileSystem.js'],[],1,3,3
+047ed7ccf009804df94919da397399f50c9fb79a,edd7cbf7d98a7f9163288a9cc9a64f791531ff5f,1d08525f061d4d873f68da5ce43ac1f43cef5b83,['src/DocumentManager.js'],[],1,1,1
+4d6d99d4f7f410835b2804caa704d49cfb4790bc,31b13ca576541f9be359004afa2b3954e3a04955,ca08e75c2684fb6f776fa969e0220eb869035026,"['src/DocumentManager.js', 'src/FileCommandHandlers.js', 'src/ProjectManager.js']",[],3,7,7
+624d1f4426400981294e3e6dcdade6ad74db190a,8a25d0d739b8012ec13f9907ed651d9a1b02dc42,6b332d67a80119bee96c30a1bc4803e55f0a6ad8,[],['src/thirdparty/CodeMirror2'],0,1,0
+5d2a8fc36044d6f1b2f0987c2653a2ad48a1eb34,e3026c1e43138b90ff61dd9bd86a90f5289463b0,f048b53f05afc0374ac859b50eb5038968a1914e,['src/DocumentManager.js'],[],1,1,1
+f451fcf7183e9ef5dbdaef01db97fa36ef14bae5,340f53da148140dc0d8494f5163a3104f1d59436,e76bfa3b457231c08f5fa73d37f9f0aa13b64610,['src/FileViewController.js'],[],1,1,1
+2ca66879edb28d256eede55acbb7b62a434f5c16,3314ebef654e3758fbdd4355431ee26baf66f442,fc8ac1c4456457b5d37755fffd3d6b1187e86611,['src/ProjectManager.js'],[],1,1,1
+67e330e3f1fc03898b9251ce221b606418b42c75,ff47611d4077987fa69e7bd0a3366f8b655573fb,cb7e1c96a1558f1c1af06e28e1e0bdf1afd5c6fb,['src/EditorManager.js'],[],1,1,1
+bc29fb7de269c10de2aef795522f3a5301f0e1b9,c7e6860cc4c42cc2e26528386698829d27f31a17,14b35d8c90483fc8713c69eae81344afecf79c48,[],['test/SpecRunner.js'],0,6,0
+7ddee82e0709c66a35330e1a5d8fcb42e16adcd4,da895175b36c82912c2583b2a2fd945e80927087,21bc9415f3787adc76a304ef5416995208a8df67,[],['src/index.html'],0,1,0
+5637e06d5224b4b9fc1e9f872ad4307da768ef95,59294ff69f5f4d193201762bf6d9e12df965dd33,ffac9b9e1688e1738b2a47fad2389d4f9c8dde4a,"['src/Commands.js', 'src/FileCommandHandlers.js']",[],2,7,7
+c5edc9d58d309e0f3261b964c9d0c5cc0a6a4ed8,7871a95da5632152d2f32e839dff388e96f45828,3e748fe0e762b04cb401753e2c23f8b0c501b09d,['src/ProjectManager.js'],['test/spec/FileCommandHandlers-test.js'],1,5,1
+dbdada82b700ef74bff55cac7db8805bfd806f78,197d17a12a5f737cd3cd398266e55fbcaf907138,35b680d1946dd4b9d5d54a93f57fc101091e2dcb,['src/FileCommandHandlers.js'],[],1,2,2
+4c9f90fe4d1483e360985f428a027bab8725bed5,9206e66909fa0b3042f2734b8deec5d68a1011fa,8cb3d854b56c78a9a949eb82e6467803bec14f95,[],['test/SpecRunner.js'],0,1,0
+9206e66909fa0b3042f2734b8deec5d68a1011fa,4051b6225db82628c124f23cf62dbdc7605f57e6,b5d0a56f6b3ed333dc331e9e14bc71819c80ef14,['src/brackets.js'],[],1,1,1
+28afbb007d3c57746e8bd17e351b23d5f9dbe1c0,31f1d2b3acb8c5b83897a5f49a86f60d99ec4110,32dc7a6dc34a7a94cb200c026e0012b4f4d2ed67,"['src/ProjectManager.js', 'src/brackets.js']",['src/brackets.less'],2,5,3
+214a20553f8cb91227af5b44ba4d77d5a22669c5,8a3a8c5823c6be2d23a4d08b12154f5479af0cc0,5c115d0a79d1819f75a729005bca3d29d8ef79c7,"['src/DocumentManager.js', 'src/FileCommandHandlers.js']",[],2,4,4
+5c115d0a79d1819f75a729005bca3d29d8ef79c7,27c7c79d832e0ab076dd5ad09327e817b17bc2ec,04c8718303c9da6585e2f286854b4528936372da,"['src/FileCommandHandlers.js', 'src/ProjectManager.js', 'src/brackets.js']",['src/index.html'],3,8,7
+20ca0d635766d4ac9c1a144176b3f8405f822fe1,81c2d520d615b10a303d19448170a17587762f3a,c1081a5d1277f2b73d9d9d5f411ca35e773a55ba,['src/brackets.js'],['src/index.html'],1,2,1
+71a6851ab329c127b839e72ece6b19d52b0d44a5,177ee1a8847a53a2d3e4d3e3fba344dc32236680,69bf39072dfa4131c26dcb9bd9b4e1662b72a7cd,['src/EditorManager.js'],[],1,1,1
+7d04bfb3b7080115aa338496b593cd486c953233,8a3c820975a30de2d023d50bd4507be64ca814ab,199c172e55fd86b494073fc5a90855f0f9722396,['src/brackets.js'],"['src/index.html', 'src/thirdparty/CodeMirror2']",1,3,1
+c44dee458e2e4037eedb9c122d33b5dc90ed255b,c94ebc139b7ca8ae681c71d28e051f4270d493c4,02d7e77a70cf9485c247555b346ef4c7d37985e8,[],['src/index.html'],0,1,0
+10a90802ecac8a28a9363c4cea7e9533f00b4372,3d169a854b3b30e37def3d0eb62af385504bde8f,775bf63f0567a424b8d3091d68354ddcde8ff9c5,[],['src/index.html'],0,1,0
+0af490e9859dde1dd90b4753ebc9e7383bd8e247,254becc548d739defd9883c06e8d9373e6d438e2,2b4a7b92743dcba353b00dba1bc653109d1e7eee,['src/brackets.js'],[],1,1,1
+2db80337fe7c282e6445000ccde348b842f02346,5bf82e477daf7df29e97a08f4e3b483e95dbcca9,775bf63f0567a424b8d3091d68354ddcde8ff9c5,['src/brackets.js'],['src/thirdparty/CodeMirror2'],1,2,1
+2b4a7b92743dcba353b00dba1bc653109d1e7eee,33a3e866fc8f7f154e1b305cd6553b2b8813ca27,8e1d532524498b694b180facd675e1abf3853b55,['src/brackets.js'],[],1,1,1
+7564a18fed1d0d8b6e0488803de6aae16bc749f2,43736484ba9add62dc552d5cb78b55f04c522645,8e1d532524498b694b180facd675e1abf3853b55,['src/brackets.js'],[],1,1,1
+220057669335899c6fc64c799068e8f3b197714a,fb732cee02f1fc762efdf0a69b6d93a8db422015,8e1d532524498b694b180facd675e1abf3853b55,"['src/ProjectManager.js', 'src/brackets.js']",['src/index.html'],2,6,4
+bcf8085819abaeac3e881141167aa88b1ed84a3a,666d46f6000089daef66bf34796706cc93f1e19e,bea067effbf33fe38cae844b84e7ea12ad3dc070,[],"['src/thirdparty/CodeMirror2', 'test/spec/LowLevelFileIO-test.js']",0,2,0
+5a8328391da8e72bca5a1b21e9f7aff0247f8e17,a7e7399c17a0b4fd52488d9b46d9d4b76b65c2b7,3c6530dd2862aa62b8e0e75ecdcd4291f1009ee4,['src/NativeFileSystem.js'],[],1,2,2
+0ac2e8c15e417e6da49174fce1a78a0d8934528b,9fd86aa5c43e26a2dcf093bcc76255ed0303b63e,01eed34f67dc178914846f1eeef067a0b38d14c6,['src/ProjectManager.js'],[],1,1,1
+f45e29534d1ddd3e5c9b7aad8ec0f93b0d514927,36f71e1bb8445404390ca38fb50d3f0ddfb24811,4ed358f23751bc192889a2fdece7afcd84eb49ae,['src/ProjectManager.js'],[],1,1,1
+f5c38d494a6d48f0ae17d65020aad892e626d03e,1eee2282c4dd81aeb3741f9b28cc2fccfe5bc9e4,d277b905e3677f137b9dc2b743ef8aace7a99e78,['src/ProjectManager.js'],[],1,2,2
+9cde8333397cf5cf1f56d064e1cebbc58a3a4e8b,a6cf747276674d61ba61eb15a280aa9b03809de8,1f20c094b573166a698a021748eb75cfac7ca12b,['src/FileCommandHandlers.js'],[],1,1,1
+d78610effe92030e1feb29b7c8da32c0ac161a47,41252ce46a7a662a1f14a3f667a7adbe9a6f12ea,59513f3c424e6ad5e20f334bcd88892f7b896c7a,['src/FileCommandHandlers.js'],[],1,3,3
+1e86cef189a29356a83f916dded58e79e1dd38a0,e1a15fc85be210b499deb5e73e6fcafe3f02469a,a7417d87b28ff086f6b8fc484cacb3331ae61ff0,['src/FileCommandHandlers.js'],[],1,2,2
+ab3951c5eed885ba55ea12b2d00984f6e1da53f8,b01a80b685f0fbc4d6b07ef7490879e32ffb9819,9e39016a15df23e0bb8a42d2df873db76f92afd1,['src/NativeFileSystem.js'],[],1,1,1
+a76da126e84c2da5eb6344a61b284df81acedc21,503a3e0de98e47895fa9bb64d90c2c3720b37cc5,5a9d18977dfaff3d6322e6d572595311d9a9af26,['src/NativeFileSystem.js'],['test/spec/NativeFileSystem-test.js'],1,16,10
+5701dd6b39f81b5887fa46a0f86bb412aa318890,2a3832d4142e67efe6bccea80eac5e3d5e0c28c5,c38918f1ba0ab597519c70c094699943b6b3eaea,['src/brackets.js'],[],1,2,2
+2c707fa0c6206e943f3dff2455d752169ffd868d,0ad40b82d8e0e6646ea95ca16843fd737bf63dab,ea0847ea6d8bfb36036e60beeef074c70f38c63b,['src/brackets.js'],['src/index.html'],1,3,2
+bc46cd0ddfc3d5af91d927f2bec6aa29e822b415,c8dc80b0edc02ccf479c4b2e78c39f6a0664b4ff,f2f2596effedd5c3aed3745c87c5bda6119cd3c1,['src/brackets.js'],[],1,1,1
+8b769baf0d7126d7f30bbb7e60deb3be32047ba0,8941cd9cc6583a0151f3b9f0e61ab946fb3babd0,08627207ed5bc8657e75920d99540e20d25ad4d9,['src/brackets.js'],[],1,3,3
+c3930e8fdcfb15abae974cedd4822c8c7cc74ec6,7d60cdc25237b9cd2e1532faeb210353d4a9cacf,9884b04481db620ed3577a3a96137d68a3cf283d,['src/NativeFileSystem.js'],[],1,7,7
+bfe6aced50fc9d909c1c145414a58ccb7442b818,f75376ff951fd4c6b26db392e584d9bc71b03d8a,1b489bfcaf455c36d23c08136b7dd694cde818bd,[],['test/SpecRunner.html'],0,1,0
+ff3ed779ec41a90af71591cc9385bf6d7ab5b0d6,754b3542944860b6fdc5280c607b9558f415b717,1b489bfcaf455c36d23c08136b7dd694cde818bd,['src/brackets.js'],[],1,2,2
+7b7569d96952a9c441be092e894939f16b8121b6,fbbdc2a8a58c279a0ffdc65aa2b183e6dd63d79e,2df3ec86218be280f3320152f2e6e5ea93fbfb7a,['src/NativeFileSystem.js'],[],1,2,2
+834ba881acbb0ce08ea6d6aa5134a2f1cd6af417,d9f3e9e7ae6c83d4abae2c69089bde234d942ad1,465e7d11dda69b9113219b266b30a8245912a03c,['src/brackets.js'],[],1,2,2
+d9f3e9e7ae6c83d4abae2c69089bde234d942ad1,ab5d5f9d7859af2cf742ad4710a1c1d8b4a57b5b,19cf1843c472663df49faf5470204256b4a66b9d,['src/brackets.js'],[],1,1,1
+0bbeca6f50b0433906bb59cbfea9a00a1b5d4a28,39bd4c1d7d7222e87d76aa9b704218b1459358fd,293c2c2e0d59b5e1b9ab64d0000edbe469270184,['src/brackets.js'],[],1,1,1
+39bd4c1d7d7222e87d76aa9b704218b1459358fd,ab5d5f9d7859af2cf742ad4710a1c1d8b4a57b5b,b1f1f4dbd2ddda413bf4c5f40f24e1626c6f1c0c,['src/brackets.js'],[],1,1,1
+719b9ddbe6cc51201145df7e1cb726105ab8fa85,b2f1f3b241c8d8f9c6ae21335c11f99283bf56f2,25d55b303b42875390d3e12fbe28dc2f05299aae,[],[],0,0,0
+b2f1f3b241c8d8f9c6ae21335c11f99283bf56f2,5289361f659e99bf0e9a6bcde1579bfce6bca998,88a6b592f3f9f44889eab2454ebefb4e7a2d9988,[],[],0,0,0
+ab5d5f9d7859af2cf742ad4710a1c1d8b4a57b5b,0e15e9377d99051ca0423b269cb9beee42147def,81cc9cbba5b6d3c4cdbdf32f6bf525958b309c30,['src/brackets.js'],[],1,1,1

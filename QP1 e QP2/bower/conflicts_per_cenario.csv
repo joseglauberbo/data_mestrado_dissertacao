@@ -1,0 +1,22 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+7f801319bfc298965999378396e22a43027257c4,944a328f30255285ca96dccf7953f6cf323c2ed8,1a990f4563c6d2733b38792cc0c140d38ea57d12,[],['CHANGELOG.md'],0,1,0
+f1e04e5629a0ff51b6abae5bfbe60200e556497c,cc913a728a442651c68e40190f4eda79d73d4a6f,f8c179b153689976f424c4be0a350aa7f869ec5c,[],['packages/bower-config/test/test.js'],0,1,0
+a1154bf383e8bc3c3591798871fecadda5679728,ea60442fd6b86b14be725c0c4908063d7ccc2125,c9cf6d157bb4509ff9c17679bf7b569ae4cf0515,[],['README.md'],0,1,0
+0682df3801f686f86b9eccd214dc9153c897484e,e5c4391900348da691be3c8196ac44a4dd983354,b0800c7e38ff6a140e739fb6f28f18498654b258,"['lib/resolve/resolverFactory.js', 'lib/util/copy.js']",['test/resolve/resolverFactory.js'],2,5,2
+4d63bddaeffb61d22951ee297806db171e00dbc8,81a80c68fef8c6f4e82a33c0ce94769eb189ce33,a27cc6ffa73137f332a6ad2dc9df640925403944,[],['CHANGELOG.md'],0,1,0
+81a80c68fef8c6f4e82a33c0ce94769eb189ce33,cf42f33c6924767addad35ee62478e393f60c825,8b03585d26ead3fc0669a0791c8e72aee519ac3a,[],['CHANGELOG.md'],0,1,0
+3b0d8b37e7291770c83b3df383de06029388088a,f026c6238d4a8b6227bf11337d150fead823ca91,42f090840cf5e73f3dd3149ece83c82e8c6e2df1,['lib/core/package.js'],[],1,1,1
+eb9f6aca032ba51c059da3049525391232935cb9,82f5ad4af2978e54469c0ad16e9b146096f7ecca,6812883511b616b675a18446419e14f1bdbe4a1d,"['lib/commands/register.js', 'lib/core/config.js']",['README.md'],2,3,2
+9c34adf2dcfff2cdf1fd65ac1feeb0c8f21da8fe,26503f8ee314d10b87277cf794094baa264a239f,b544425667e20c21b4fc63c3f1e3ce96afa5c043,['lib/commands/register.js'],[],1,1,1
+a87b86b3e4c9fab33e50042a4285780b03e83ca0,c9e0abfdf30e6833411db84664ff4deb43a7f0ab,7ba28d5c2958731beeb511dd62faed61a72c7eb2,"['lib/core/config.js', 'lib/core/source.js']","['README.md', 'package.json']",2,6,2
+8a4963026a1b057e374deb985a8fc24555a9bb8e,d53878c130155992737e37aa4974f77601674088,341ad5c10c36e1056d8b8ff45e8cf7dc0df82470,"['lib/core/config.js', 'lib/core/package.js']",['package.json'],2,4,3
+59d49166c7fc8e17627f40a09931ba9d3b587dc0,52e72b466a31c440e3debe5cae2101eec81f8f5b,0ca0ac07822b729e1a896be334c9f0c87eb62349,"['lib/core/config.js', 'lib/core/source.js']","['README.md', 'package.json']",2,4,2
+a7e464a9025a242c58bf7f9274697b24191369f4,faa14a079c9164d126083d04ad0231f8588045bd,b7c3aa59a736d137be914e0572221db860baf350,[],"['test/assets/project/component.json', 'test/manager.js']",0,4,0
+b7c3aa59a736d137be914e0572221db860baf350,2abde5539d3ccc14085e93151dbe00040407cbc2,a134950f858a5a9055bf6b80a4823ab9fdc11597,[],['test/package.js'],0,1,0
+3f79247ac28d725341eaf0198674261f6727fa1a,6ef92b0c959d3b282842badba89c0108b9fb1703,a2e593c06c125ab80066ee347f7b1f9cd10c3a4e,"['lib/core/config.js', 'lib/core/manager.js', 'lib/core/package.js']",[],3,3,3
+da9d5538994aff8796c80d4cc9bc362c47825842,bf371acc4104b294cc21843181cc0e126e37ba67,5cd8dd709430bec401c88b3df3933508fe947a2c,[],['test/manager.js'],0,2,0
+6823acd0ffc62b447628340b5a2ddd46269717a5,cb2cb7ea75cfac0b38c8ee252c4291d4716c0741,6bd00a0e8e4ad339b4f31c3b19d70e8bb0f09177,['lib/core/package.js'],[],1,1,1
+03e55cadbb3e364ccf9a148da9c524608a960a80,2cad76d6ed2727681cf83e5b5a54d8ddc4e8036f,a134950f858a5a9055bf6b80a4823ab9fdc11597,[],['test/package.js'],0,1,0
+2cad76d6ed2727681cf83e5b5a54d8ddc4e8036f,058524ca530fd38c00f6712138ad6ed1f9ee425a,b0bc14a75e355a14d1812b37666a06deeed597b2,"['lib/commands/install.js', 'lib/core/package.js']",[],2,2,2
+f0a9e4c3844aa2e26a6025989565ffb078390a7c,fdb78d8179b1cc833f5777ced0b703ce76b7a7fc,020303910ebc0de2a998a5bf13f1a2d41102bfc8,[],['test/package.js'],0,2,0

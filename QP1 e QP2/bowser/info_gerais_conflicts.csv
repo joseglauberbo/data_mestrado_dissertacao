@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+3817621cc09f7f9b6b900da32f1b8c41d3e4dfec,cffc0c8a00be5c3b6d678610351b709d3ba69e9a,0ff5acd06f865553c903a68925c7fee86f5db01f,"['src/parser-os.js', 'src/bowser.js', 'src/useragents.js', 'bowser.js', 'bowser.min.js']","['package.json', 'package-lock.json', 'CHANGELOG.md', 'README.md', 'typings.d.ts']",19,79,38

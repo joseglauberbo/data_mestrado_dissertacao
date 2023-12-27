@@ -1,0 +1,31 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+6e9ee1f137828fe68a567c35a4d89ce38d770de1,88371521d776248b211862ad29429f3d6d08abb5,57f2d7de58427a413c406ef0a5a4e120e3351620,[],['docs/04-Bar-Chart.md'],0,1,0,0,0
+924a5d0abcc6d2889cd499ff2cc2812b438c873d,d38111723676d51d6a2b49bd3eec71b675d508ca,b197fdae42e6a8d8540bb14792aaf76ea4f6259a,['src/core/core.legend.js'],[],1,1,1,0,0
+76d284c4aeefe81216b2e00f4e356f69f6d308b0,d9c335c860483faac7dbbcd60aa84e74cfbd3e3b,e856dda04f7a594f17032302f2ca36669b5ec427,['src/core/core.scale.js'],[],1,2,2,0,0
+148c66fe957e1211d65f975b72945a66118a514e,5fae4dd3050fbd51da13ec1f5433d7f487758763,76a64930a3e253ec306eebbfb8c4398f21f893cc,"['src/core/core.controller.js', 'src/core/core.title.js']",[],2,2,2,0,0
+8e8cc5b61f86fa9a29e26902c024af7c003b513e,6bc917c8e3168aee488f1b716bc1dbd174c52b95,6667832392401605b6bd38ffbc5bbd69674aea05,[],['test/core.tooltip.tests.js'],0,4,0,0,0
+14021069c39814f0dba119acc1ca03f36700ff22,ee383ef4a68abc23353108204bf89409f4b8208d,691a7c6a4bef0c6e0b8d1c82bafd4e2807239fac,"['src/controllers/controller.doughnut.js', 'src/controllers/controller.polarArea.js']",[],2,2,2,0,0
+8c209405e9edf33264b8eaea9cb1f48280fae2a5,41c043dd239a5e63009ce13c705e589e64d5b29f,8b3d079a5008e80097829a9c52e24139de689883,[],['docs/01-Scales.md'],0,2,0,0,0
+41c043dd239a5e63009ce13c705e589e64d5b29f,6de81a3580b03db432b9e05dfc860ebcdcaa5179,47f770c3ef78b5e8deaae3c79bf55be187f338bd,[],['docs/01-Scales.md'],0,1,0,0,0
+a8df9d9891b243d18204f95f76661b34361d6414,05bfb7e964c9de92d050a016d8e1f09dc1c55a4f,44cc68d0ae72a88d9644af4a0be102aa39a521c8,['src/core/core.helpers.js'],[],1,1,1,0,0
+6df9b24ecda2f739192435ac5d4ab9da8b9c716e,99c2d67813667be5117cb5dc4f23d10cea10847a,f613ad5c0fde5730f3942ee4cd6d8284c6008d7f,[],['test/scale.linear.tests.js'],0,6,0,0,0
+b4a06f6e3408beffb18633be1eb08b0f24c41146,47552152c3e1b53baa51735ea11fec0ef7f4eabd,c1d7725ae09d9dba5c30f579d697af7655ad875a,['src/core/core.controller.js'],[],1,1,1,0,0
+af1adf6b84f6494f8b448a58df6d49f2bdff9165,67625063a3c1242ca13858aa629668007b5b8106,98a995dbd2c478edf950c978f0202bf14cdf8b14,['gulpfile.js'],"['.gitignore', 'README.md', 'bower.json', 'docs/00-Getting-Started.md', 'package.json', 'samples/bar.html', 'samples/doughnut.html', 'samples/line.html', 'samples/pie.html', 'samples/polar-area.html', 'samples/radar.html']",1,26,2,0,0
+e9c18f603d130011ec7cc71d0d4123f480884cd0,ada4c8eca348bfbd77eee611acd9e8a283e5c29d,eb7241cbc91172025ca7b2192a24f0a63cfc7783,"['Chart.js', 'Chart.min.js', 'src/core/core.helpers.js', 'src/scales/scale.linear.js']",['docs/01-Scales.md'],4,51,50,434,9
+df218ead824497edfd75220f5b8bc67c03ad1fd6,ba6afa7257bfd3a1497acc2f549821caf4648fdf,e7df265c7a35d073302bc20c776dce8a127fc6de,['src/core/core.helpers.js'],[],1,1,1,0,0
+95332e39f517dbb312dd2518c3f87460a0be88a7,d689e0fc47fa3b7e475ec328be6a9c9e50e4d79d,ae3025a2e178049d3e4d1ef76323708f8717398f,['src/core/core.controller.js'],[],1,1,1,0,0
+819f8657239dbdb1af0479ff6c1d99db7dbce5ef,4f8f182d216b4eb4fe4bfb0bfadd884d9771670d,3b750e7f270f1332dc4695a766bae83fb2871887,['src/controllers/controller.doughnut.js'],[],1,1,1,0,0
+dcc06eb3bb221620b268617f80498b07e562aeae,37abe74d4302c646d4ee34ad08791d91b7958b8e,62bc4e42ec6dd33866b245f01614e9ab96c4a2dd,['src/core/core.scaleService.js'],[],1,1,1,1,1
+e5ee242dc60fae2b6a52f903e71c3b3a89e44862,9dbc5650ed437350eeb97eb7264f32fe165f1772,e91e6be851705eb97bf18bdf495a4f62705b535b,[],['docs/01-Scales.md'],0,2,0,0,0
+2a9b3e52217ac21a743f23ebace266962ac6c844,29002b2efbdbbc4fc452b8d820722d31c9619e53,a888aba61e8f2aae8c49d7b5ee199ac1a78ff642,['src/core/core.controller.js'],[],1,1,1,0,0
+b22f569e4da4470cb6863dfc5b76e29628ac6061,1f0ee92992b996f7338f04cbbdb68ce9a8436cde,d1067f956cadfe0cb3c474882abe132f629c4c1b,"['src/controllers/controller.bar.js', 'src/core/core.controller.js', 'src/scales/scale.category.js']","['samples/line-x-axis-filter.html', 'samples/line.html']",3,12,4,5,2
+bcbd9a85e6398137ea646f997a5f1499043cc5a4,e6220f474b8f6755592ea72860cb953db6197fa5,723c85320ff2d3045e33a518eca5ba3ae45e7b72,['gulpfile.js'],[],1,1,1,0,0
+7fed38f1abe18922512416aa2c74b8046837b6f6,92f1c65c1c2651c23f415d70b10e5210b2fca78c,2a49e226f9f442481e73d47c1c003227a2f765a6,['gulpfile.js'],[],1,2,2,0,0
+7d4ead51f7c4fca00590e5f12106a72fad06225e,bcd834c084a2f5b0dcb81fd969873bbe7a99122f,d05d29aa66fb394361f4becfbecd01912904ee3a,['src/Chart.Core.js'],[],1,1,1,0,0
+1163efbcca13ce9eb4d079a678fc206a336d8dd2,3a32144d899f2b047cd341e5130450cea367fdfe,e3519f5bd4e7b5e356d7e085d28ab9cb9daf83d5,['src/Chart.PolarArea.js'],[],1,1,1,1,1
+12e2ace03904ac07a8929f34884892b74d14c2fa,ed4b9945f8e428c46c303f5ba6b2228e7485f715,951e714e779bd96ac4f0a7bc04c75685b7b68616,['src/Chart.Core.js'],[],1,1,1,0,0
+460399f6516465cdfe11e867bf017227f0079645,132272d1400291cf47b5bf624c0909b1c0de6bd5,e13ada2b431a8bbc4f10a2c1704c5e07b3b0aa62,"['src/Chart.Bar.js', 'src/Chart.Core.js']",['samples/bar.html'],2,5,4,0,0
+889c9de7796633a36038dc32b214187bd5d137e7,c7f52f516c59e5146223fc57b6c2581f9a9ecbe9,a7712e8c71aef8403836fbd27dc01995c033d4ac,['src/Chart.Doughnut.js'],[],1,1,1,0,0
+99bf85e91335a3656c7739a7aba7a008c79db6ed,e0c208be581f5ef25653092dec951d0c07fc1a0a,26eca2370609204bf58284e382123a21973f52ee,['src/Chart.Core.js'],[],1,1,1,0,0
+30777e4a87958e83cadd58a59d912efad16161c1,529d582f03eacddb49091203d70ff9bc15dff757,14e72759eeaa0ac0a46f24df3a0025d44414c0e8,['Chart.min.js'],[],1,1,1,0,0
+58657d65cb139299786072df1692992bcf3610e9,8d587de9706a07546fb4cc898c9123e347ea6462,bf2489425b5588447587696aa265a76737125ed0,[],['readme.md'],0,1,0,0,0

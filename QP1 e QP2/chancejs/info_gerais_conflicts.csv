@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+73018c6d8e59c0275ac8fa491a2674c8b49d1f1a,092ce528cb1c9989123e479793fa949e9e53fed6,edd2937615c1e3e2ec8b5aeb1f0fd95f133f9007,"['chance.js', 'chance.min.js']","['test/test.basic.js', 'README.md', 'package.json', 'test/test.mobile.js', 'bower.json', 'component.json', 'test/test.helpers.js', '.gitignore']",16,53,24

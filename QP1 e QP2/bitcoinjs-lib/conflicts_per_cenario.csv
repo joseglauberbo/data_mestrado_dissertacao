@@ -1,0 +1,16 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+17c47e910235cca399fca140eff8086d0dd872e5,f87a20caa7828f6f8c29049c73efd369ff81c57b,cd4577432fafcea3c2a4a6aa808ebe0033568f42,[],"['test/psbt.spec.ts', 'ts_src/psbt.ts']",0,2,0
+9f96fd097b9c729018963d463fbcdea3e94643a2,e6ac7c16ce350b6c43689cfaad7c537392e28bbc,94872f9bfedf0a441842f95586116582b94c004f,[],"['README.md', 'test/integration/csv.js']",0,3,0
+9aa28421239eff9ec517ae9e6209ff39bf820f85,04b1f50a2f9c53716b942e43ec4e3160e81db539,39bd08002b13cdf1974a3eb8e9b6455eefca31fc,"['src/ecpair.js', 'src/transaction_builder.js']",[],2,3,3
+41d88f8baf718f75a319a9aed89192dd24a4c025,e28e04427e0ba072cf4af5b08300eaa45aadcfcd,88cfdcc0f1f8fbe46e817247b3286da1872be619,[],['package.json'],0,1,0
+6c3e30e948e89f00122e21fb9678894c9d3d5d90,352e9ef0a3a2be01f9c85a077d85563812890ed4,88cfdcc0f1f8fbe46e817247b3286da1872be619,[],"['package-lock.json', 'package.json', 'ts_src/ecpair.ts', 'types/ecpair.d.ts']",0,7,0
+b788786b97929daadc1fcdcb79bfe81bda45b345,5990ece108b00ccd0d0f61c0b5fbbf3b1fb4fa38,014318fc9d27a9c1aadce04f33b4916ffa42a192,"['src/payments/p2ms.js', 'src/transaction_builder.js']",[],2,3,3
+8220e33d76d0e8dfd44603b72080f26721d58394,d2ea50b296db672e24e8d5619c807e0a3528f7a3,d78bf6a2b979faa31afdf0a813fc3717b237c28f,[],['test/integration/crypto.js'],0,4,0
+024c541d7e176b6fac00313320f951deadfbe468,5af87c0c496cf0425b60a3d15b5c836be10960c6,6b3c41a06c6e38ec79dc2f3389fa2362559b4a46,['src/transaction_builder.js'],[],1,1,1
+8e00eb6855099f6cbf8371dbe42954f739bbcf5d,07a0beee904a7aba727bf59638bcd1d15137d8b5,38a2475bf518ccbdc05deec867b843713730c5d2,[],['test/wallet.js'],0,2,0
+161127d65a8ac8c197dfa47eac60165bda09e69a,66e04fe701464d5369e8558b0170115fd8dd9021,c521add619df4ff77f89073ab423adc7355e1422,['src/message.js'],[],1,2,2
+66e04fe701464d5369e8558b0170115fd8dd9021,06b6112d58825182ce3e96dab13a07926b8c0f1c,bad2f769ff0719354d9882c8a616e40ac5ffeb07,[],['test/script.js'],0,2,0
+a74c878b590b1e7c3077bd5da3e7ecc14afa6ffb,d16ea7f2a6a47bd2bdc13743f390f696490840e8,a96dfea1f421b2186219559b9fa21119fbfee638,[],['test/eckey.js'],0,1,0
+d150b7acc62f52aa34f059bc822a34b29c50b9a3,6fe8d6fa939ae6d686262d8932a710f0c000ead6,3b8d53b7d105af286b8adfd2d2661bc48cedf7b6,[],[],0,0,0
+6edea532baa7899acadb9168ea2562c55df5b55b,30e8b572d6e841987612241138644f4b7521edd4,2a16cd939194e994b308ecad086ae93f4c2b294e,['src/bip32.js'],[],1,2,2

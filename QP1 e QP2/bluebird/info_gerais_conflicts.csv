@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+1d690230bc2f34968b4a821f5723e215d21f54b1,0a5cbf28ef608922c6b55c5e87f451009ad7c760,60f5e1c33a425090bf4f0ac85ff58a84f454cf91,"['src/promise_resolver.js', 'js/bluebird.js', 'js/bluebird_debug.js', 'js/bluebird_sync.js', 'src/async.js', 'src/promise.js']","['.gitignore', 'package.json']",14,26,23

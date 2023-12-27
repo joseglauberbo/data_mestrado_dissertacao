@@ -1,0 +1,7 @@
+6f3b13f9fd8084aca1ce9f1c08f00b138111cae5,MOVE,{Class Bowser at src/new-bowser.js:17},{Class Bowser at src/bowser.js:17})
+1f572ed8f4b7405989a018fd99f97414144d957f,RENAME,{Function constructor at src/bowser.js:28},{Function getParser at src/bowser.js:29})
+745c38b758bcf2f5ccfb5befaa4e7a74301ed208,INTERNAL_MOVE,{Function getVersion at bowser.js:19},{Function getVersion at bowser.js:20})
+745c38b758bcf2f5ccfb5befaa4e7a74301ed208,INTERNAL_MOVE,{Function getVersion at src/bowser.js:13},{Function getVersion at src/bowser.js:14})
+0da898f90694e901b9faa1a3e3db73a028b21df9,EXTRACT,{Function detect at bowser.js:19},{Function getVersion at bowser.js:19})
+0da898f90694e901b9faa1a3e3db73a028b21df9,EXTRACT,{Function detect at src/bowser.js:13},{Function getVersion at src/bowser.js:13})
+0da898f90694e901b9faa1a3e3db73a028b21df9,EXTRACT_MOVE,{Function detect at src/bowser.js:13},{Function getVersion at bowser.js:19})
