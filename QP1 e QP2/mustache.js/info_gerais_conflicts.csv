@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+2d5b7e2c8189b34664c1fd7fc53fa37d888b5f41,093a5b84dac564c1debc31fa714b149dcd825f84,c8c378c4f58360bd9c7c27910b020625ef6612ed,"['mustache.js', 'examples/dot_notation.js']","['package.json', 'test/_files/escaped.js', 'CHANGES.md', 'README.md']",9,16,12

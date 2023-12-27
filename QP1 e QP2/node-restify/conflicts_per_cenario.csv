@@ -1,0 +1,13 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+643c86ab6883a3686d5898ac2a19f22b9fbd88cb,4a6da743975ab625b7a13c45ab02e3be2c2d9344,306cfe6f62c8e3d0ed5a733da0d29d9c526da21f,[],['FEATURE_REQUESTS.md'],0,1,0
+4e9c327d7749c52b9fcb6e5026b7d2b4936d834b,465ef6ab698ee5ba26c4fcbf78b3acadb0384a0e,c56d42c22fbcf250a536def4320183438a7d11cf,[],['README.md'],0,4,0
+599cf99697b93a2acc7022c14a606aa73375614f,44f1aa594f02124f35a04fdb1b75f8c38d7b1be7,a13bf904fb7c3f57f8d7bf4cd84fd99e77fa7976,['lib/response.js'],[],1,1,1
+4c7fb1f18a151539ee627714327b3fe9298ad230,39581fbb66ef17bbcd0e6d3a50ed47573b1fc391,75f9a6913b0b8402f663c371f3ad304f6f21d271,[],"['CHANGES.md', 'package.json', 'test/formatter.test.js']",0,3,0
+2714b2b1676069b94b33f90cf9fc9b828d57bffc,415da99cae728cacbd032c3f5de7cd0bc78ddfab,b8cbb352db641c2aaa8d9312c4c17f9054c562ff,[],['package.json'],0,1,0
+4e38bd79ae7d0ce7bcebf44fdcfae2ba5e8f8cea,51496aafc115b243fedaf801771d05dd46286d9e,37cbbcc8c85f45b27253555d4a09f21bba13e6cd,[],['test/formatter.test.js'],0,1,0
+2729ef7bfbbd4d55e7d675f31df389b2dd18aac8,d50311d6f848ceb2438807d331e1acbc9a819de7,0dea11404075bdc8421b390ef85a07d53eadcbb2,[],['test/server.test.js'],0,1,0
+82d9d86c654fe86209d4897ef6790173792c3cf1,51b7245c696dd0fbf4108f478807c99a690d857a,12043546d496e2031bdf51706fede67f1c718494,['lib/router.js'],[],1,1,1
+091ce7de1af805675b9b2bc25c7214ad99e8d53a,3d64a31e799291f79f3fec4efd8c5a50592ed70c,8f89746157a0f4bd0065509cdb41bfc0b9925830,['lib/clients/http_client.js'],['test/client.test.js'],1,19,8
+e6f367ac20d5cf369f3110697c29bb9d55e102df,c14daff8c2b88e6ba0e3144faea26a5af1425bb2,9f84a8542d6d502ef3e094c0b321173c13780094,['lib/plugins/static.js'],[],1,1,1
+318992b566f5ea90d7c38025ede70c29df2190ef,11b20a1219e651067378b580e243ac45e48048ff,b0873cde8654755df6cfbd410bd2ec12ba2cd597,[],[],0,0,0

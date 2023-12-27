@@ -1,0 +1,2 @@
+evolutionary_commit,merge_commit,left,right,local_node_before,local_node_after,local_refactoring_before,local_refactoring_after,region_conflict_before,region_conflict_after,region_refactoring_before,region_refactoring_after,there_are_refactors_file,there_are_refactors_region_conflict,refactor_type
+65768051904ae8c594314599a63140186e4e151e,11265157fb78834f954ba604d3ae42c667e90299,ef5f159c315bc9b678faa7556660dd53027c7a22,4ab53ee1559160b36d086d90c67f458c221070bd,page.js,page.js,page.js,page.js,"[253, 252]","[274, 290]",218,235,True,False,RENAME

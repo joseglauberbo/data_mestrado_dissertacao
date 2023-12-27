@@ -1,0 +1,8 @@
+32cc983a1ee99d4883a4fadea4f790a63688b936,EXTRACT,{Function Nightmare at lib/nightmare.js:52},{Function handleExit at lib/nightmare.js:161})
+fa35007bdcec939026899110529e859e73bfc445,RENAME,{Function done at lib/runner.js:184},{Function cleanup at lib/runner.js:184})
+39d921dc09c98c8b3be416cbdda0778748633b7a,MOVE,{Function waitForFrame at lib/runner.js:267},{Function waitForFrame at lib/frame-manager.js:60})
+39d921dc09c98c8b3be416cbdda0778748633b7a,MOVE,{Function receiveFrame at lib/runner.js:279},{Function receiveFrame at lib/frame-manager.js:38})
+39d921dc09c98c8b3be416cbdda0778748633b7a,EXTRACT_MOVE,{Function waitForFrame at lib/runner.js:267},{Function subscribe at lib/frame-manager.js:25})
+85aa38c1f99ca504b513e58f75ae474c6a9edd6b,MOVE,{Function plugin at lib/actions.js:525},{Function plugin at lib/nightmare.js:368})
+85aa38c1f99ca504b513e58f75ae474c6a9edd6b,INTERNAL_MOVE,{Function queued at lib/nightmare.js:357},{Function queued at lib/nightmare.js:328})
+

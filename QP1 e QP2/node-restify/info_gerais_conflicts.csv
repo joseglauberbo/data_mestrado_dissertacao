@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+318992b566f5ea90d7c38025ede70c29df2190ef,11b20a1219e651067378b580e243ac45e48048ff,b0873cde8654755df6cfbd410bd2ec12ba2cd597,"['lib/response.js', 'lib/router.js', 'lib/clients/http_client.js', 'lib/plugins/static.js']","['FEATURE_REQUESTS.md', 'README.md', 'CHANGES.md', 'package.json', 'test/formatter.test.js', 'test/server.test.js', 'test/client.test.js']",4,33,11

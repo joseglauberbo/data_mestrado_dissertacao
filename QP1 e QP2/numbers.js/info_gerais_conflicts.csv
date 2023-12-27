@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+9e8c75058f58847c772fc09bdc00bc76e8588f2e,858896df0b57aeae0f22d40d542ac924d470d75b,a363e153394a019359ec89ee797eb7781f79f916,"['lib/numbers/matrix.js', 'lib/numbers.js', 'lib/numbers/statistic.js', 'lib/numbers/prime.js', 'lib/numbers/basic.js', 'lib/numeric.ly.js']","['test/random.test.js', 'test/prime.test.js', 'test/basic.test.js', 'README.md']",11,28,17

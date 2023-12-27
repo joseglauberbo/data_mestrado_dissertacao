@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+57e38ca2d75eed0092a0299a6365270ecd2a84ea,dbb06730b58489a1669527839de39f1b76f3d1b4,d0f74a2e81bb4a9b923eeb1af9e8128f6c32daf4,"['lib/runner.js', 'lib/nightmare.js', 'lib/actions.js']","['test/index.js', 'Readme.md']",16,38,21

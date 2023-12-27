@@ -1,0 +1,5 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+d21dbb67b2ed1312cae9066f21ea44f11ef1fdd6,dc3e4eb657772206f482fb965757a5fe17bfe024,105c8536b507f300adba455a95c8763e79df5222,['mousetrap.js'],[],1,1,1
+6ef8fb175bb84b8e44c172daae3efa8c9b6f8b01,98a292e76297e9899cc5765f1b5c02a2caf798fb,a406a1163423b436ebd75a9e5bfeaedf57e2c721,['mousetrap.js'],['tests/index.html'],1,3,1
+58e17ee654aaa39472354ce6443837a4363da631,0cd46f0f4e77834d37b1847b43da0e38011f4124,de814c2641f963068662092fcc1e90d5014c427c,[],['test.html'],0,1,0

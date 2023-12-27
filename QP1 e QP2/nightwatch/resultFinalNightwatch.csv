@@ -1,0 +1,64 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,0,0
+merge,left,right,"['bin/_cli.js', 'examples/tests/google.js', 'lib/index.js', 'lib/queue.js', 'lib/request.js', 'lib/selenium/commands/waitForElementPresent.js', 'lib/selenium/protocol.js', 'runner/run.js', 'tests/src/testNightwatchIndex.js']",['.gitignore'],9,38,37,0,0
+0fcf12e4bc8da0e4a06af6dc9da9295a1124e0dd,ba5352b8eb0a0f508957e916e53f3b9945f36e36,7c2cb17fef5e08080d02703220bd48650e7e1b94,"['bin/_cli.js', 'examples/tests/google.js', 'lib/index.js', 'lib/queue.js', 'lib/request.js', 'lib/selenium/commands/waitForElementPresent.js', 'lib/selenium/protocol.js', 'runner/run.js', 'tests/src/testNightwatchIndex.js']",['.gitignore'],9,38,37,0,0
+a1cb244821b0da0bf48dda7d8bacc337b5102f67,262ba96709f27cf1c33038f3f246a473134193fb,3795f98a3b89611ce3c85dee88bb9a0584283a6e,[],['test/src/core/testCreateSession.js'],0,8,0,0,0
+715fc2063fcb7c573b4d13f2c590d69c9c0132a4,3d06e9b731bbbe80f931d5f5799f035a3f047918,3dc73c7712b469fec442b1214b9d50c51fb3f36c,['lib/utils/logger/index.js'],[],1,1,1,0,0
+0fc7c96d67e1e207a7ffcdec1dca2089e24566d2,258c17c12287f7b162046e6b7469cda1a554bbe0,e9e38c27c510e762a4badebc167ad0a7fedd0660,['lib/api/expect/cookie.js'],[],1,1,1,0,0
+c43e9ad7bf2147ca838cb9894381a05da73d2847,5c896c82d7d952407d0b44ac2519ce2d79e5c5d3,9c7379d0b5383e1f46f3457cb5c2e25940e4a5d5,['lib/reporter/global-reporter.js'],[],1,1,1,1,0
+2f08f69b28b587cb32ef82e951d8388a6dfe8977,d5e532d049af8ca56b0bafc7bc2f7332c4522f98,84c5d007983def322c2c11bbcf4f11f469b09b48,['examples/tests/google.js'],[],1,1,1,0,0
+cfdea8c49bbd95d46b9710641111471b20d255a9,bb3ac87678a3277f6c545efac86ec9e88d7b70d7,652d164608d50d1698175ba263283b1ab6ad2d5f,"['lib/api/element-commands/getFirstElementChild.js', 'lib/api/element-commands/getLastElementChild.js', 'lib/api/element-commands/getNextSibling.js', 'lib/api/element-commands/getPreviousSibling.js', 'lib/api/element-commands/hasDescendants.js', 'lib/api/element-commands/isPresent.js', 'lib/core/asynctree.js', 'lib/transport/selenium-webdriver/method-mappings.js']",['test/src/api/commands/element/testGetFirstElementChild.js'],8,18,11,3,0
+28e952e4dbcac5d4273ec5d46b5d688785b834cc,76ef83078f7c8a7a313a345ccf98e536f9b59144,fed573123e3f3d07e87ed4e4c94e98680b6e14ef,['lib/settings/defaults.js'],"['package-lock.json', 'package.json']",1,3,1,0,0
+ad830a5afd53479875a7f31cf6fb6d588ea1ca64,0459dce3ea6cd2de4eaea89c0016ea1a4de92808,35ce79a27fdf563e7ae403da547e13b6c3310ad3,[],"['package-lock.json', 'package.json']",0,2,0,0,0
+28bf5b5974fd2e79154b289a04aabea617c000a5,127760130341328010b9001598812916ace92363,3bdbca51e8c1547dd878cf08649db43a94be9b9c,[],['package-lock.json'],0,2,0,0,0
+a592660cb1387eded4fa567af412080abd7d106f,3741b0a42ad878e5ca49144b7847223cb61ea927,fdab42bf50cc42cc0d98cda2647b763e3888057a,[],['package-lock.json'],0,9,0,0,0
+0e013393c1e0549ec9f30362cfdb7d201df81a5e,3bdfc5ac59078746b6b6d29f1345ad2dd729cec5,cea8af0aa57188b9e8b26ac56840b0dc4c57ba21,"['lib/api/element-commands/sendKeys.js', 'lib/api/element-commands/setValue.js', 'lib/settings/settings.js']","['package-lock.json', 'package.json', 'test/lib/mockserver.js']",3,43,7,9,0
+269ceeede69e41d1bc289259dd9eda6bce04def8,7acb3ea070cbb018982f14b1d4e0199ac1011a7c,1b06fac02c3794183dea034c0a377430c63e45b8,[],['package-lock.json'],0,8,0,0,0
+f9525f7d196e5cfef2ebdffd7f7a29f8b5e89455,237f221feb6f7ffb35cbef02013718fef1d06f93,4d37db68caad89fdd49fc950aa25987092cbc0fb,['lib/index.js'],['package-lock.json'],1,15,2,0,0
+b708ff35fde01f329f4c8dc65e425d7c306c0006,4fe723abff8f3fd5534d0523257eb5383cd2e229,1419cb7fcc1c318df05c4002e5dd95764cd90dfe,"['lib/testsuite/index.js', 'lib/transport/browserstack/index.js']",[],2,2,2,1,0
+0955ff5729b9baa7d3ee5a3bdae774761690d365,011b60c444fa60a85db00f91b6353dd5dd8ae1d8,85e0cbe9f686288948d79eddbe2301ac773032c8,"['lib/api/element-commands/_baseElementCommand.js', 'lib/api/element-commands/getLocationInView.js', 'lib/api/protocol/doubleClick.js', 'lib/api/protocol/elementIdEquals.js', 'lib/api/protocol/elementIdLocation.js', 'lib/api/protocol/elementIdLocationInView.js', 'lib/api/protocol/elementIdValue.js', 'lib/api/protocol/mouseButtonClick.js', 'lib/transport/selenium-webdriver/actions.js', 'lib/transport/selenium-webdriver/index.js', 'lib/transport/selenium-webdriver/method-mappings.js']",[],11,18,18,1,0
+7ab6933b0f30872d65aa3e2b97060c51a6e617dd,7ebedc49b85c454c5c6aacd6b8c162bbda29db0a,7781786c037ed307d9af2fc74b2be2df0c2992e8,"['lib/reporter/global-reporter.js', 'lib/testsuite/index.js']",[],2,2,2,0,0
+d3cc7e08a3dd2cf4967824a02dc0425fd1473131,a7cd4669de4b8473a6100cb6594e7504e6617bc2,872efffc5b44d86d88f27cb6ec7e624041f70aee,"['lib/api/_loaders/_base-loader.js', 'lib/api/_loaders/assertion.js', 'lib/api/_loaders/command.js', 'lib/api/protocol/_base-action.js', 'lib/runner/cli/cli.js', 'lib/transport/jsonwire/index.js']","['package-lock.json', 'test/src/cli/testParallelExecution.js']",6,14,7,26,10
+44cc27ff49dc576cae8e4302b094aa5cc2ded9c8,bc52611422a822fa50d5360fccf0f2d41e72230c,9be2f564ab207bccc1da5d5198208f27bf4b70ba,['lib/testsuite/index.js'],[],1,1,1,0,0
+e1b381fc09029e1d0fca95a1d12eb525ef4193e0,3cf859de3f4ae21c4c37e937b4dd3c71ca27b2db,f522d01882424fd22c3f899b723c1fd1c1d3e343,['lib/transport/jsonwire/index.js'],[],1,1,1,3,2
+963a6f7ce31a40cf44e0d6e5d208404e3427556d,eafeabf94f919b59bb8a27d1e7a36f03a5be188e,e279ce0e3d668e5012c263a8b33d958053c61c5b,[],['package.json'],0,1,0,0,0
+d0e2411f0f7f44d5b0329f23d70f1d2764fa5a2a,81c4eee41d9d2b666f01e4484ffc46a0c748a951,142f84f9a8fc2072a9ade51ac32ec6637d7f020d,['lib/page-object/command-wrapper.js'],[],1,1,1,0,0
+142f84f9a8fc2072a9ade51ac32ec6637d7f020d,b3e2fa618f31f45f3a654b51b481a7a87182581f,99b47c0e897d73e82d4da5a220a225692be90504,['lib/page-object/command-wrapper.js'],[],1,1,1,0,0
+7b38c8ccba15dbb2acb4fa2a1e8fea7928cff1b9,1e045300de498d8836a98134fbb02769cb472af4,e4e8bc10cd68d3e7e835dd476001f5af4a767452,['lib/transport/transport.js'],[],1,1,1,8,2
+67e069af85d96be8c3351c4b4fbfba12bfb2ac12,6523de7f9282b5115b955da7a1423f4ea128e8d1,ebe802f2087478e5bffd6ae73bf452bab1991417,"['examples/tests/github/github.js', 'lib/api-loader/api.js']",[],2,3,3,0,0
+e1346dc73435c7ef1eacd977b75179b6ad3414f2,558fa5bef718817a32709b4e479859e6c8961de3,ec73322613290b43a93831d1a038195716b7ef52,['lib/api-loader/element-command.js'],[],1,1,1,6,3
+54754984f9d0a2205a9370995a9f537af99860d1,5d6515231e27c3a57e0ad8b02cb244ad155b7bdf,5c02226a2da80264459c77626a1e86e7db8e7980,"['lib/api-loader/element-command.js', 'lib/element/locate/elements-by-recursion.js', 'lib/element/locate/single-element-by-recursion.js', 'lib/element/locator.js', 'lib/transport/transport.js']",['test/src/element/testCommandsElementSelectors.js'],5,13,11,113,12
+b85cec52fdbba67d1b30ce90268fde6910a02be2,5b28e888e531755cefcee2eb72cc6e7da09ed520,4ec316e473ac9a39a976c84a40ec5d13684c1323,['lib/api/protocol.js'],[],1,1,1,5,0
+641f6e1756cd8b1cb19bdf66e42aadfffdca19ad,d4ccbae57e7a26d7c9ef174fa5e202808226809a,00acf85c6b4c018512170b2bac68c3c00d92a645,['lib/testsuite/testsuite.js'],['package-lock.json'],1,95,1,0,0
+d8368f8e876ffc15c3a61586b5259e2d44adc00e,b09447e152c7aa302f933bd2c19edcf00cac6b06,78b2652f263f9a8a86b7c8da4ade7c4afe7bcb1e,[],['README.md'],0,1,0,0,0
+49e5bf38d2ddbb3d872b89dd9c98baf21ccffbc6,a1b81ff991dbb6b1b85fc5ed1ae490ce4310efa7,27eb4c0a5782367c4f402f7850bd333ec77a75c4,[],[],0,0,0,0,0
+36aa074111b6a40ad06ea717ff31a1b0972f96d3,85b3ce35c67c9bbfd44d930bb5f38318aec745ce,a6235c5ec217cad5d92e434367bd36ffaddfd6ae,"['lib/api/protocol.js', 'lib/http/request.js']",[],2,3,3,0,0
+a6235c5ec217cad5d92e434367bd36ffaddfd6ae,e28b6a8b59f54e69cc40cd7a4021695cfee17d9d,375f578509e0d3ba819b7f1ef466159874d58086,[],['package.json'],0,1,0,0,0
+6fcf980ffb18b95859da7e2d8ba1af62bd8ed103,05d5b3819fc30f268dae5262c12d0275d72ba8f9,3f9ea4c2636fb25826875224406c403d884f10b8,[],['package.json'],0,1,0,0,0
+ecd1909a2f12d8b3dd2e7102350dc994f7932e9a,10f94de0e92de8e79e08e7493e57a36bd90c4dff,f568f7bbfe7dad646d707c124f6a26c6e8c7701f,[],['package.json'],0,1,0,0,0
+bc761f278b2e27b3a85f7887b25c5ce31d4d4b1f,dea01d0602ac902c70d61362dde4fdaece486ceb,f3bc41c0987c544ea77bc2ddaa61d4f393ab437d,[],['test/src/runner/testRunner.js'],0,1,0,0,0
+9d603d1988332c36955d04c82026b18beac8ffed,d4df722a1e38da1a128e73278a6262565e07b4ee,21d8f233c3a256e65c3b8805baa652908dd7f25e,['lib/api/protocol.js'],[],1,3,3,0,0
+c3fc536d04e6793cf19865dbe8b69859e2ad345d,2158cb60132fc0b41bf16af2c457a3db622abfb0,99955bbcd4c8fae397caa776d007cbcad89356f3,['tests/run_tests.js'],[],1,1,1,0,0
+69d8e137d7731eaff31fb769047c69fd1a55223c,b0873e52e2279b379ccd3c733beb9d3aacc64ec6,82081ebdbbaa915f679e0bdbb9dfc951af4c26dc,[],['package.json'],0,1,0,0,0
+a0247d398be61ca7b24d6f7b3593f82d0f6e8a53,fc32c216c097cff784da3fdff0f663bfe76b6bd2,364ad925714c6f017981c21b1baf0f6e071c502c,['lib/api/protocol.js'],[],1,1,1,0,0
+dd24dbc3c91ee6f2c886c1e49901849549a2b315,c553013d4bcdbb759c36ffbc0402074718e5bb4f,7177d179033ef660ab2994376a7727540ee11dc2,['tests/src/expect/testExpectType.js'],[],1,1,1,0,0
+6b1f2b901426dade637f32cd944b72257faa0a79,cf8de08f84ab3f0275ee240b94da3bb285dd757a,36853558d1878b872787e03dd366b4721e05971d,['lib/runner/cli/clirunner.js'],[],1,1,1,0,0
+15f68e4bb20ad38c107b324e510192259e39b702,d79fef5e34f5e92ca4c9d150c23eda49f4ae7c5c,03945002f967a021479bdbce9cbf10a35194eed5,['lib/runner/cli/clirunner.js'],[],1,4,4,25,0
+dda79284d3082fed833a0d0591c5b9ba0b277c1c,f0cb33db4d323030b1ea72c1318f91fa58c848c4,fa1b8614b27c9e5bb323c1da3f008137adceaa8f,['lib/runner/testsuite.js'],[],1,1,1,1,0
+2f1bed3e6183eb517bb77078818dd83c7d434a88,46120af41c804e694e90b5d7f55f681376babb7a,398c3adf8d5b8c32087caa5560e8ac61e7524880,"['lib/api/element-commands.js', 'lib/api/expect.js', 'tests/run_tests.js']",[],3,4,4,5,2
+fa1b8614b27c9e5bb323c1da3f008137adceaa8f,bd476ec127c8c6c624929d4c365b72731d9bcb46,56b791cfc41fde9b68253b9fd5792143acf6012b,['lib/runner/cli/cli.js'],[],1,1,1,0,0
+c0926e5d1cae610fb068ff5ac197c05b74316b9b,bc3b36167f3be15ca26856f45019fd748ed10d37,b05ac9328567516e60dc41fe2bb00e865301dc23,['lib/runner/cli/clirunner.js'],[],1,1,1,0,0
+da18e6a8e6cdf649f44f1b73c388271036a02026,80d76ebc39cc0616c2506488dc9fd85a6c4cabb9,bbf92ef8e582979607445a74891e07c64c0fe02f,['lib/runner/cli/clirunner.js'],[],1,1,1,2,0
+91b0d5d4130b8ae4fb12d0426c1c61b25abb3b62,f503ee12a9625536e47029b258cac224a829b6e4,b790ae2977772583e6b67790838b333c5236eb6f,['tests/run_tests.js'],[],1,1,1,0,0
+bef7516bc6f853e793a80e7ba055645aacb4bd0b,bb261bf93d7762baf1bd86d679a511e0bfad87e8,59f7b37457177c33c5fe6c0c6d4dedabd2bd058d,['bin/runner.js'],[],1,1,1,0,0
+6659854524de46b74835f8f94a315635a23196dd,887eddc7bde7e81d044ee440894c498aa3bbc9e6,ba8f47e27b87a05aed2c89d47856f24049762db0,[],['.travis.yml'],0,1,0,0,0
+f00b09262114d46983558032b20797d9d7aeb2f4,913ec30ee841683150e1e78ff8a679fd7168048f,636d906d4e8d0ca7af3366f63e0f95eb78711d13,['lib/runner/run.js'],[],1,3,3,2,0
+6b053584a70e14499999904b531f020e3a7789ed,835568de0f5cfc21e0527a7deb72e8832f8ec9fd,d072f5acf8585b57450742af7d52b74ccebb85a8,"['bin/runner.js', 'lib/runner/run.js', 'lib/runner/selenium.js']",[],3,3,3,4,4
+221cf3bd1df4143d34c3609017e5980384bcc326,7d344d5a2700df89fcaafb0adc29717a14215994,4f3520a71cf210b49a0d78a8b67fbfc72e456e04,['lib/selenium/assertions/valueContains.js'],[],1,1,1,0,0
+48ff1f63a17ec155ffe190a9d0e89d002e852dda,71d4a91d151d953faef996b47ebfe948aa077066,599794156831cc433cd92de4d713a0170ff2def2,['lib/selenium/client-commands.js'],[],1,1,1,0,0
+f74702e8ed9f68abb92a3cfaa8801a32dd96824e,8bcaa2db33a2c3a099ea3a04fe82afde7845d031,a31802471b7fb6b3737c40791c7b6358884a5c03,['lib/request.js'],[],1,1,1,0,0
+be41313e73fee9c835fbff6f62cab4bdea72c643,296bbc295482f0f4b435925a48c486f23edd2b46,08d49ecde7feba367500312eda9f86f2fd0230c2,"['lib/index.js', 'lib/queue.js', 'lib/request.js', 'lib/selenium/assertions/elementNotPresent.js', 'lib/selenium/commands/pause.js', 'lib/selenium/commands/waitForElementVisible.js']",[],6,24,24,30,9
+51386c2fdc134358d496e6508a3388d49f6717a8,4332aa3ee9ba9c64f7999ca3d4900dd10563221f,6348c4b74c2248d17f453545f08b9eb2e1a5be0f,['runner/reporters/junit.js'],[],1,1,1,0,0
+797b5640a2256423adef536f488d70fbaa76b691,157d438e44562daf000f669b0e46183cfbab1d60,d0b7475a31ba79493a92f61faaf0414b0721ea76,['lib/index.js'],[],1,2,2,1,1
+b371e4615252fdc27573096a75434bdf9686202b,ff91157f306a2945695660558bb0ecd8ce349d76,9993a54051434a8edd660def2107a14a97bc7baa,['lib/selenium/protocol.js'],[],1,27,27,0,0
+6569d1b4f5357eaee5871b37e8303eccf26b4bae,2d2bf26154fce3c01a2e85da19908280e7f04427,ab64705dfa29264d08e3afe0989802d065c7fed3,['lib/index.js'],[],1,2,2,0,0
