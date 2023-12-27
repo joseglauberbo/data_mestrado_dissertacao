@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+f6385d92529c0374d7057e91824904fd76a8b59c,8c0b160205e94271f60e0939173729b8eee7ba16,6eadc4ad31501b52c271a016b349857c908808b8,"['intro.js', 'minified/intro.min.js']","['introjs.css', 'minified/introjs.min.css', 'docs/docs/getting-started/examples.md', 'example/index.html']",22,56,45

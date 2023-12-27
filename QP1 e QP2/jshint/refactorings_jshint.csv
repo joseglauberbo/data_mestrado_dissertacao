@@ -1,0 +1,8 @@
+72f5f371a68d8be0ed8bc53c5499a62ea2e2cc76,RENAME,{Function parseCondAssignment at src/stable/jshint.js:2741},{Function checkCondAssignment at src/stable/jshint.js:2743})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function addlabel at src/stable/jshint.js:482},{Function has at src/stable/jshint.js:3610})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function block at src/stable/jshint.js:1571},{Function has at src/stable/jshint.js:3610})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function expression at src/stable/jshint.js:790},{Function unstack at src/stable/jshint.js:3597})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function block at src/stable/jshint.js:1571},{Function unstack at src/stable/jshint.js:3597})
+cfeff166a14420117e30e927862394c870fe0f3f,INTERNAL_MOVE_RENAME,{Function getlabelblock at src/stable/jshint.js:3686},{Function getlabel at src/stable/jshint.js:3602})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function itself at src/stable/jshint.js:3603},{Function has at src/stable/jshint.js:3610})
+cfeff166a14420117e30e927862394c870fe0f3f,EXTRACT_MOVE,{Function addlabel at src/stable/jshint.js:482},{Function add at src/stable/jshint.js:3613})

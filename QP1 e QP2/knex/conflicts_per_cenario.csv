@@ -1,0 +1,25 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+40b84c066d4d20b61f84db3b431f8427d3b91213,dd82b7951c14d05277a265151e58461660f02b7d,ffc7bd4ae8b285cf48704df3dfba5f32b67a6247,['src/transaction.js'],[],1,1,1
+e7a42abbb200aaad3f6ac0324c28af75931c0583,2acd6e5daa15e5c18a3525965d113a15187bda8a,c39f6298d204c82f2c91a49e4c8b64c4d990ce25,"['src/client.js', 'src/dialects/mssql/transaction.js', 'src/dialects/oracle/transaction.js', 'src/runner.js', 'src/transaction.js']",[],5,7,7
+dc92ff2b711c180df0808ca50e37378817ec583b,4985a65bfc3844c1fd9ae8d5d95bc9538c57961d,32fec2bfc1da475906b33c4a9702b98b5090d149,[],[],0,0,0
+d25c87a9419eacc3c421cf0650314826902b0b58,2317279e8c8cc566037e079dd329da559d1da8dc,c27abc740b64249d516cecf53522e5c69766ebea,[],[],0,0,0
+b130ad66e23ad491b08482480a252911d7a19883,4b2c0efff1da258e48f4bd6c399e06152909e2a2,c27abc740b64249d516cecf53522e5c69766ebea,[],[],0,0,0
+aa6cb2eb9c1ffdbedddccbdbb18feb89dd809dfd,eed0004031450d3865964f09c61dcad33ab2b671,43dbdadb907687ba2b2d6966c7fc9419a9b4f507,['src/dialects/mssql/index.js'],[],1,1,1
+aa8df077118e50d588ef11de6544c11b3a31df02,10b415ed7dac7eb46592159824643e52057eacd0,c22a51e5ad85f457d0982d72f2dafb9dfd37a963,[],['test/unit/query/builder.js'],0,1,0
+c8232d11d32ef9a841c2cf8ae6c0a9b1ac29ab4c,34b6bd4076e64cccf6f31244d5c157846da0c919,f662bca81d10a4763c0e0f74392216c88e06c69b,['lib/dialects/mysql2/index.js'],['test/index.js'],1,2,1
+26726c728b06b4883da0c765ed449d3a925eb165,865fa6a1fe8fb48b46db500236c5d7ef3d45b9aa,cd3e34c2f074216e8c22224773e6d1cf8e15bfc7,[],['test/unit/query/builder.js'],0,1,0
+6b85f1d66f8258f478415015f47c27068ec3c85d,ad94518380c1e1bb90dab16353d5ef28f637a9dc,d6978a0dff8e47c181b9eb716fb568d961e709c4,"['docs/assets/behavior.js', 'knex.js']","['docs/assets/style.css', 'index.html', 'package.json']",2,31,26
+8902ef4c8e2ad9000b93a8a0f4ac0166fcca3020,5111370503b61a863a2b091e37c7dd3767fbcbfa,9580e7c7c6c8ae146dfcc4cf6df03681067be4d5,"['docs/assets/behavior.js', 'knex.js']","['docs/knex.html', 'index.html', 'package.json']",2,27,22
+f27c0e60fa518e04ff858a4ad828cf5a71c214bc,76dfc1348bae97a823222e35da1c88ae5908bc2e,6c76cc5cf0f5800bd07a568614f6ffdb4d2b84aa,['lib/query/compiler.js'],['test/unit/query/builder.js'],1,4,3
+db2f9e7f08aacf01a29f078d2a51437fd0c6ae97,0de9513a78fc5bfbc4449ab851ad9e97e7d3e819,0eb5ad8e781307ba4f15788d5b0edc90c6c13147,"['knex.js', 'lib/migrate/cli.js', 'lib/promise.js']","['index.html', 'package.json', 'test/index.js']",3,17,4
+d01dd8a9a11fee69691c63904fde4e356aaff2c3,8b2ef4eef1a7ee5c5395b6a44a03518347dd964e,17d09f2655d47e9e857851afcfc3c924f47efd08,['lib/builder.js'],[],1,1,1
+8b2ef4eef1a7ee5c5395b6a44a03518347dd964e,86a1a24a1a2475afae0d2978f4779401386337b7,354c9ea834bdd8d4d0ce2f3a04feba3d2be3c956,[],['package.json'],0,1,0
+86a1a24a1a2475afae0d2978f4779401386337b7,d98c0b1abc44b8090f426a3d62e0541a394142d8,3efa857e1734d3120ef536f4859404393cd27f70,['knex.js'],"['package.json', 'test/index.js']",1,5,2
+26bac7c12ac5a6601d471b4bf8cf07c4fde4d6a8,5e88ac6565c0d714e635ecf276cf532e4d6ccdca,b8dd33733439910700b2bcf4b6a850335df045b6,[],['package.json'],0,1,0
+56d78d71722b43faeee4b0a26fe72305748d23c2,66ea8d713786773282a466bcdfb74a31b3013c8e,a88024af8fc2f01adac80264263b25ba668138c9,"['clients/server/base.js', 'clients/server/mysql.js', 'clients/server/postgres.js', 'lib/builder.js', 'lib/common.js', 'lib/raw.js']",['package.json'],6,10,9
+0fba8b121730a47ffea65bffc87a71eb7aee7944,129fa3ebde5585e9e313b169263d6a2f31bc680b,d4b42f7a97df08b9d86bfaf7a77d4827534dd11c,[],"['index.html', 'package.json']",0,2,0
+acfd8ecce545dd51d88247b060d1eec6d7bf917e,bf5af801c9706531dc97d1a4a947911dceb83e19,1efcfdf09d057423f66aeb3d0701cf66d4e47b6b,[],['test/lib/schema.js'],0,1,0
+1efcfdf09d057423f66aeb3d0701cf66d4e47b6b,8ee495adb6fa5d0a5e3d1242410f055bf5292c56,690fae861f562a533a507b2e7e781d3f9581f086,[],['index.html'],0,1,0
+2a0074b275624706b7512328657043893aff0f03,d0573d99d9b4051393de44fe38abfb9a32df3115,e5fd8df44ab6c5d6266e2c9cc54c907c190a23dd,['knex.js'],"['docs/knex.html', 'test/lib/selects.js']",1,9,2
+bd4256de4f14b159a24d0b1f37d33c9a33ac1ad1,4ff2bc890adb54b3e7b68c93468d5fd156ec9a71,d41e19609f729dba8a96cedefcb85589442c9696,"['clients/mysql.js', 'knex.js']",[],2,6,6

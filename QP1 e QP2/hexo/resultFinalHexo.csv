@@ -1,0 +1,32 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+85d988148e269bcb383bef057e68a012f9935b24,88699eb626658a98507be303c2ec1af33d6a287a,c4aa3759af45a33f2e6caef106524616065eba30,[],['test/scripts/console/list_categories.js'],0,4,0,0,0
+17d9c8f9f016a2cc486c0457916baf791a207dfc,23437828bb0d760376ba7cc781dad3100db04ed0,2717d096dbbf0a5e03ab026b9d1b296e32130796,[],['test/scripts/console/list_categories.js'],0,4,0,0,0
+7bc087dda3a6f1c28663e5928ff98c4d4fe026b9,d7aff189deec20ad3ddafc51549ca20c757ae133,a74d8ae867c2db0c080bfe9203cc2080b19ab5ee,[],['test/scripts/extend/tag.js'],0,3,0,0,0
+26f8e27a186f2a255eaccd2032544aab7a6e3962,4c677e1a54190db305d143d11082973a6983f162,be70c5242161e7f31f3b860082dc85e2709effe7,[],['test/scripts/helpers/open_graph.js'],0,1,0,0,0
+25f44fa7ef88fc6e1aaf5b92595ec6b3e71e099d,c54854469b643a0d30442383c30a693f3a2b0bb4,e8fc2ba2db1f94efa5ef77f70a455136cfa7c543,['lib/plugins/helper/paginator.js'],[],1,1,1,0,0
+89db047a20d41502c37d47a9a1c65e84aeb34410,9a442b6d8fa0152c11c123b449f2c20c59246cbe,2ed17cd105768df379dad8bbbe4df30964fe8f2d,['lib/plugins/generator/asset.js'],[],1,1,1,1,0
+2a889338c51cf0fe9d8a9077ad3cdacafbbbcab1,94671dfe69c3e5c94a1e2762d7b51a22ca2bba44,2ed17cd105768df379dad8bbbe4df30964fe8f2d,['lib/plugins/helper/paginator.js'],[],1,2,2,3,2
+1f1275738a7b588359dc0263a31143233a4f5993,985ab5c65133e6f5b8e438ea8745af0c2000ad95,087b3fa456aa97279df61a7f05e59c932051ee2b,"['lib/box/index.js', 'lib/hexo/index.js', 'lib/hexo/render.js', 'lib/models/cache.js', 'lib/plugins/console/deploy.js', 'lib/plugins/console/generate.js', 'lib/plugins/console/list/index.js', 'lib/plugins/console/new.js', 'lib/plugins/generator/asset.js', 'lib/plugins/helper/list_categories.js', 'lib/plugins/helper/list_posts.js', 'lib/plugins/helper/paginator.js']",[],12,21,21,0,0
+32ef02989353d6a84fa806d2553930884b5e3184,87abfa5d9433cbc6e70ad8146ed60970b8659e33,3fbbe5dedb813f1415c60e7b9b3ca65284cbfb1f,"['lib/hexo/index.js', 'lib/hexo/load_config.js', 'lib/hexo/multi_config_path.js', 'lib/hexo/router.js', 'lib/plugins/console/config.js', 'lib/plugins/filter/new_post_path.js', 'lib/plugins/helper/number_format.js', 'lib/plugins/helper/paginator.js', 'lib/plugins/tag/blockquote.js']",[],9,13,13,1,0
+87abfa5d9433cbc6e70ad8146ed60970b8659e33,8ae17002f207bcfd17e4e8fdd561da63e62b99c2,d63a236cf85c419ff990ad17876b93ed60759fc3,"['lib/extend/filter.js', 'lib/plugins/helper/css.js']",[],2,2,2,0,0
+cfa50d8865aaedbac16530741fb17c0f530d9fe0,378bc9749e4de37e4eb3527493ca16ede61423cc,ce531c031ca9a0fd73587a4c9f60fc3e787203b9,[],['package.json'],0,1,0,0,0
+73b8a42395185f2c14e27ab787e3bce860c17fc8,74918fa078554e3172b490b2a4f1a143b6f13751,d558ac07e5c1c99658dbc69b849b53e21dd36fce,[],['test/scripts/helpers/toc.js'],0,1,0,0,0
+3a68eeb81b9661b44fcfc73806415f32e7fe51a1,d585b2c16d290e911b8233289ff4aa6e7e318cbc,498dc10a16922f5299ccf6f592639181691d7853,[],['package.json'],0,1,0,0,0
+1f24eaa8b12d1aa934ec2a28b1b022b0173aa02a,a22b59904de0d5de463aec953dd9da193f0e915f,92baaada795f6bdfb76ccb6c36181ad9b64a89c4,['lib/hexo/index.js'],[],1,1,1,0,0
+c253e5b60d41b1812363dc68b47deeebab1d8607,3147ef603e8f82c412b85eda188069d9e2317ec5,5aa8b518fae28e167b345416e7590e379df1c646,[],['package.json'],0,1,0,0,0
+c6599c918ecd5849ca93a5479ffc9afddfa3e1ce,4ba56970f9ba5a941da782e4cfd232b3bd7a607f,7278da6e37068444c030e9b4a7641800a30500ca,['lib/plugins/helper/date.js'],['test/scripts/helpers/date.js'],1,3,2,2,1
+04412d143340ac082274c64b727145434327df2d,d64b907ef09f151320e06ca5b4102178371e2ee0,b2fa7467499b5b9f9df2c00c77e0e383686db9fc,['lib/plugins/console/list/post.js'],[],1,1,1,0,0
+946d3dda74dfc4ab6618bc5099d0387c50f94e13,e29e7b0924fdbf24724834251c338a392e437a6a,ab0f5ec51cd19f4f1312e9fb142c3764797d4e64,['lib/plugins/filter/after_post_render/excerpt.js'],[],1,1,1,0,0
+5ecab30a8c8bb71eddf936b90feba464c9306729,0c7f90621b4691438ceb814074aae7b56dfe843c,9c3b4cf19577b3165e4da251c79286ceb4bf145f,[],['package.json'],0,1,0,0,0
+16e3ed93897f9fc385f2759f46707af4989d31ff,4e977ff0d25a556e8304ece182c53041620f02ac,16f155b4a79f5164abf86cd1c6f7f3014400e970,['lib/plugins/filter/new_post_path.js'],[],1,1,1,0,0
+0cce28a3d2ee9653a2c9e85f97d854e5bb7e3c96,390a7f677ffb70ff77d6b36042c621c3c241a7de,97b70e370eaaa3f1009d0df190220caee314bc50,[],[],0,0,0,0,0
+43b76ca9e18b85a4250d593387a9f33d8887c5b3,033b760c9961fa0831ce1f2f11c7163e0b69e6f1,6308b401f95a6d5b4fb82f18aa4c7b52d4b9942b,[],['package.json'],0,2,0,0,0
+cdfe15d2829d5d12afb1a145ced4bcc0a3f44432,b13d58275aca40fa6daa04fad88e3b7c41cfda36,9fb2d5a1ff0355431715650392c992f979d42941,[],['package.json'],0,1,0,0,0
+895d6e0ecae73f322c0e4fb66131a9dbb7799df1,75bac6496f926d695d6bcc6787c4a1fbc68cea25,b295c2cdb61eccb01b24221912304f615c51d7fe,['lib/plugins/helper/list.js'],[],1,1,1,7,0
+d58056d63a5c7f056f88148c5e9985a21caab7c7,c66ccbc6c0e7c6181f269900adb3b08c1d854584,624434039df8f9e4d7cf44f49e6619bf1c029969,['lib/plugins/renderer/swig.js'],[],1,2,2,0,0
+f9576ec0a7c2cf0e1b0648ef9fd00a976e51b502,ec2a261147b025a5e1a258adb38e38b1f77cbddc,8a9d872eedc4516e70952b339b773306a84f0d7f,['lib/init.js'],[],1,2,2,4,0
+8adb9826807b2747448d1212d02ecd07527f2aaa,a5295d231d6269cd7ffa08ddcd14b9c13bca1e32,4d10b393d8c0f685e0ed784728ecc87e687bc369,[],[],0,0,0,0,0
+02dbb4631604deb6dc1f9a2c66f2b33b19703c62,92b4e6874ee4bb40778c9536a0073ed83dbeedcc,e5059f9f516b5aa33820ed98681380102729f2f2,['lib/plugins/processor/index.js'],[],1,1,1,0,0
+f6e483a5349312d07da9896ac30d0afee7d15ec7,8cff01fd9a1a6060eb5d467694f437c626577055,c69988409d94fb1c0c57d21b23277c950c5daecb,['lib/plugins/console/migrate.js'],['.npmignore'],1,2,1,0,0
+16704b14d592abfb4f3daa1ab4666506f704390f,18384984b10430ee9a0f4b27fad1e94bfc34ca8a,c7ab9816f2b703bffd53d3575f2318fb6c6505ae,['lib/util/file.js'],[],1,1,1,0,0
+18384984b10430ee9a0f4b27fad1e94bfc34ca8a,371bb741100db623b694fccf99e3a409e25992e6,0d5724d97d74f291004d188271ae280c79838296,[],[],0,0,0,0,0

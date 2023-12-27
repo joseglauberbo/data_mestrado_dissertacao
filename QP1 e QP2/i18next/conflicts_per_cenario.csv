@@ -1,0 +1,18 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+32e775b2dd8ca60be8ba892a06b8c1ea719a01d6,2b3f3c2a8c832f2b232a0f70c17de3184a656d9f,fe5d90efcf7e3e4d3a022d5ab60a35af51c8d73d,['i18next.min.js'],['CHANGELOG.md'],1,2,1
+f2b723006f7f555c18ef22b3f4dc12cd2067930f,f2200c98ddddf7f9cf23e6f4c42ee3f31e35be83,ef424bd4b643ec5c0c6117afb32f07c57bea3b88,['i18next.min.js'],['CHANGELOG.md'],1,2,1
+ed62c425638c5c762c4f79a8faf1a2ab99656e93,6adac2248da6bc17f87bc6983394fb5f3d1354c0,dcb3b3f7b6c0d51158c916b257374c5a21fb2928,[],['package.json'],0,2,0
+6af717086ea51ecd24718a4ad70a079b6745b5ae,f48a96791304ae078a920b5dc34c8ab4aaef8f21,dfa276564dfdadf033e1c172e33df6d477f3feb2,[],['package.json'],0,1,0
+adc54ff562fd575f98897a472abec45002df4b71,5a70b4868928aa567ec64b20537b3b4839134576,6f17fcc43fb050020e3c397846893a462f7af177,"['bin/index.js', 'i18next.min.js']",['CHANGELOG.md'],2,3,2
+83ea3b97fe6972a7ebc2c5433747e3193ded2ce6,aa3ef49a7ebfdc54c8a3e1befd45ce1a57ccdf9e,3cec2fe1d25002d72ca976c410a00f2f68a8736f,[],['package.json'],0,3,0
+2ef8258fda0001e018044b54bf6fae5a1fe9e394,dcc1ba3d27d277f817aaee287283e4b8619116be,6ae54bccb6294abf8cfab2a5bedae0cac10097fc,[],"['bower.json', 'package.json']",0,2,0
+226b8894e2336a264978fa3ae5e4b762ec93563e,d17fa1028f5849d563d6b6500a4ebbf40f7c33a7,4a0bd78b5e427b5da20dc1ddc075330cd4467938,['i18next.min.js'],"['CHANGELOG.md', 'bower.json', 'package.json', 'test/backward/v1.11.1.compat.js']",1,5,1
+d17fa1028f5849d563d6b6500a4ebbf40f7c33a7,98585cbbe002c4ff717cf89234084cbde681eacf,33497edace0d9d971fb35cce39095d7f11e44233,[],[],0,0,0
+6e4f82e0a21420f658a0458a1a7bb1a4b3dd1c08,c1e5a18d1f5126304b98a3e7f0bcbe335cf52867,0173aaf3d9a7df332f7554c02bdd20d4a2bfcb55,[],['test/backward/compat.js'],0,5,0
+00568b380dbc9d1f24025a40fb822b771d12e41b,a8bd485ea9a6db3b581e2b456f7a7d2df37bb26b,e1d111253ef415a20cacafdcd7adf25969510222,['src/i18next.api.js'],[],1,1,1
+dc81eb4ed8d9a294266ed14b663ce86c146b0b85,20793e77bea8903c82afe8532de221a0e57bee5b,dae9f68f49611186bccc7005628671b2a75de7a3,['src/i18next.helpers.js'],[],1,1,1
+d56c947ee5216dde4c50357360598ae72cf2eac0,0287a1730edec17319573ecfd1a1dd1ef9a9e023,21c53898bd75597f5f06d18947469c23643819e7,['src/i18next.translate.js'],[],1,1,1
+be07f0a2be914bf35c17915799a10b5a742d03d4,61b377f2550f2cecda4c5e1d5ea2db04cb1fc0cb,9e3435e34770b8c0c2e35cfa53a8746c8c4e3e52,['src/i18next.translate.js'],[],1,1,1
+b0006a80d282ceb7d529477af43a1dfc09f23410,9383a2a42686e1f583c493846c4cc4d183f88afd,42c57a1015036bf047c764a50c157c67f7cbae1e,['src/i18next.translate.js'],[],1,1,1
+d82f9f644263aa28fbcb34b8078c9b04f19af559,5d54aa54493fe4ac3c2068e30418a7428310fdb2,1ce2c3838730d3e518b7f14e4f0b529ceed3b691,['Jakefile.js'],[],1,1,1

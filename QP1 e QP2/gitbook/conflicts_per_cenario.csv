@@ -1,0 +1,10 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+b0b143359479a479723c44137859270c85782313,17a2c0a37c0fdca92ba03c65b81eb318a47f7176,7b42719699c24a404c6b4dbe4ad6cfb217ef0431,[],['AUTHORS.md'],0,1,0
+1bf68a5aa0703b5a1815cfe4ebb731b5fb6ed9d2,d72c397f23456ef0a3e2e6f6c2642087c38a452f,e1594cde2c32e4ff48f6c4eff3d3d461743d74e1,[],['README.md'],0,1,0
+1502d65286eb36a76b8d0016f7bad64b9bf9f39f,9da10e2b25cb8ad919bb8563cfdc81d9e0612341,0feb672d708e2d73ee159d5a94b614f90c85e9e2,['lib/parse/page.js'],[],1,1,1
+a7ecbb87e4a75050a7b1fdcfe55cfdec918aedf6,1da341741b4e5f2cee3bb60fbd3b546708e2ef82,a56b559d43ddb1f0271f211dbc72eb86bfa164b3,['lib/generate/ebook/index.js'],[],1,1,1
+37fadec7874355d4f05ac376fab47b9af905f231,ada11d0b5909f6e4b9b4497677ed43326ad08ee2,2a38d33d8a190c0b4eeca98a66f4ec5b8cfb2a96,"['theme/assets/app.js', 'theme/javascript/gitbook.js']",['theme/assets/style.css'],2,4,3
+1b147d3e302046c1bb613332a2c0c18f7d8b21a0,5848f5db51fb9258ff55dc93010b2c862abeec0a,646a4513e332987bffac54e8e37e086a4031a3e0,['theme/javascript/app.js'],[],1,2,2
+99594791e0c34aee3659370b8c2072df815c9051,1b432288f041baef2ebe54c96a7a86f547b14c67,2cc23b7e3411e1748bc8a25114a7bf9185a210f1,['theme/assets/app.js'],[],1,1,1
+511fc7bd46acf682bd82a6d0d08ea2d06bd6d2f5,694afeccc5e708d5aa7c1c0071d9efaf2719b48e,959a2d830a634e9c0654cc747f5dd82ea66ef6b1,['theme/assets/app.js'],[],1,1,1

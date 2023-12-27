@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+d82f9f644263aa28fbcb34b8078c9b04f19af559,5d54aa54493fe4ac3c2068e30418a7428310fdb2,1ce2c3838730d3e518b7f14e4f0b529ceed3b691,"['i18next.min.js', 'bin/index.js', 'src/i18next.api.js', 'src/i18next.helpers.js', 'src/i18next.translate.js', 'Jakefile.js']","['CHANGELOG.md', 'package.json', 'bower.json', 'test/backward/v1.11.1.compat.js', 'test/backward/compat.js']",11,31,11

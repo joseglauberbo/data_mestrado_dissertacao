@@ -1,0 +1,68 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+33118ac6e2511614da8f55730715432f7c2235dd,5cc739d87944f9f7decae33cc7da6d2ae3a91adf,31ff9a300c96082acfcca0530af07f006bfedab8,[],"['.circleci/config.yml', 'README.md']",0,3,0
+726d35c5c595c1953ac74acaf4bfb9d005c87b95,8308515210a247d8982846b1d66f5d84173fb27b,f509078020af2445f36b4f699cf5f5d80ce7ba84,['lib/jasmine-core/jasmine.js'],['package.json'],1,2,1
+86eddb05b40cb4eb4b8dfafac9b4261535ea1563,8af55095816af8c50a41697fc5b56b33c3298d36,166e5f4d6c5018cba21fa68ff4bff329dab4b7e4,['lib/jasmine-core/jasmine.js'],['spec/core/integration/EnvSpec.js'],1,7,3
+25a7168286f7674f56515fa271356a0cc2bad331,494e81f436aa63180f596b9af95d1d09be78359e,169a2a8ad23a7e5cb12be0a2df02ea4337b9811a,[],"['README.md', 'package.json']",0,2,0
+fe6762b47096602de91a5269bdcdef5be63833e0,6ada55ff774acf636af3dec933f6515f58d378ca,fa16b745008b8c1bb97f302758b1b4089dd5ca16,"['lib/jasmine-core/jasmine.js', 'src/core/Runner.js']",[],2,2,2
+735ce6f7582985f4830a71fcf1a91a970e7d5363,7c2e8ce7cad034a7321e31e86bad02c9bf223e17,430324885bbfafdb0c59c507e3d6402d3e98d5a2,['lib/jasmine-core/jasmine.js'],['package.json'],1,2,1
+430324885bbfafdb0c59c507e3d6402d3e98d5a2,0690500a0d3b66cd935afa134fd87c07d43c076a,d4025999b7bc9e60456e3f5b21865c3fdaeec6f8,['lib/jasmine-core/jasmine.js'],['package.json'],1,2,1
+7c2e8ce7cad034a7321e31e86bad02c9bf223e17,871111424d6801f22e4b4200880acde0af6cae95,d4025999b7bc9e60456e3f5b21865c3fdaeec6f8,['lib/jasmine-core/jasmine.js'],['package.json'],1,2,1
+ee524831f45a8c40036c1e8b0629c27441a1c582,2e80ec0c22bd7d276a09fe31505d7fa8defd7614,cfecab9f792ef54d8744e29a5328f3770dfb1e10,['lib/jasmine-core/jasmine.js'],['package.json'],1,2,1
+38d102f1d15792000d8b77bca575335c9245a56e,98c2f019c6a523d6b40cd4f7e466c9543fdc1fa8,906f37fe52346a2d6dd42cac1e9a98f0f254da30,['lib/jasmine-core/jasmine.js'],"['package.json', 'scripts/run-all-browsers']",1,4,1
+6e3128c79249058a3c0b3d0c426e9896872cb03d,bd2e877f4e46c8f57a6b0f82bba4dcc6d66900e4,3234d475cd52c53ff7fb4b252d33bd76f3483b99,"['lib/jasmine-core/jasmine-html.js', 'lib/jasmine-core/jasmine.js', 'lib/jasmine-core/node_boot.js']",[],3,3,3
+6da7a32442e831b5cf11154773708fb2ac54b2ff,58d13570ac339537a4bf59b027741aa102c1276d,ff14c03a400d56df91c7213e9ac8f46e3a0db3fb,['lib/jasmine-core/jasmine.js'],['package.json'],1,3,2
+ff848c812aaed9b2c2970ac6f62dfc90b51b58d1,8444faab72ba82b75e40afabc0ca04bfe2e8f898,d963be5eec32018790d1059a28b721265405f149,"['lib/jasmine-core/jasmine.js', 'src/core/DelayedFunctionScheduler.js']",[],2,2,2
+ca90c76d1219f0a695cb1669eb9e5c5df87fef2d,e73eb18753c771c34cb74b8d2b37cc987b4b2f7e,57c294b3075dc2db121c55aa01ef9930211e9874,['lib/jasmine-core/jasmine.js'],['spec/core/SpecSpec.js'],1,15,4
+75e3e14861ba7ef9fdfaff52095ee4e8efa95a0d,b8dabf96ff53670b94d7f3d16e6fefcf43b68a27,ce7460d8d4fda0cb10fb14957fcde40b6b8401c7,[],"['README.md', 'scripts/run-all-browsers']",0,2,0
+59426548562726094aae19780cdfc0d552978ad2,871ba99a300cba5dc1b0db805ae05bc12649cd80,f3b26a0688288c60fcd927ff9d976ded909bb862,[],['spec/core/integration/EnvSpec.js'],0,1,0
+f3b26a0688288c60fcd927ff9d976ded909bb862,8804ddb8cf8cb0176adf5657084f3bf66fb80db9,c48fb0b0e740475ca441dced7b7fb5460b384ca6,['lib/jasmine-core/jasmine.js'],"['lib/jasmine-core/version.rb', 'package.json']",1,3,1
+8e745296311830915d94dfa25bab59a895baaf1b,41f5c539597b82d7306240e206615eb95f3ca6f0,b13329114caf0a5c32d138511172b9047fc73746,"['Gruntfile.js', 'lib/jasmine-core/jasmine.js']","['package.json', 'spec/core/EnvSpec.js']",2,6,3
+9c03d4d3e9704817cff5fc3fde57c6312ff2ca3f,35064cf60e394cbab60c8211edf73d5b276528dc,7f0087b80561a6a8f6878e0baf009b6c49c1967f,"['lib/jasmine-core/jasmine.js', 'src/core/util.js']",[],2,2,2
+35064cf60e394cbab60c8211edf73d5b276528dc,3a77ae3dfe79bab01dca1dcd59fcb399bdcad5aa,fb4c16b23eae8d864494250722bf34d2f201d321,"['lib/jasmine-core/jasmine.js', 'src/core/matchers/matchersUtil.js']",[],2,4,4
+1332f01ca4a64f5946eebf1badc8e57183094412,8d302d8dca52e408a0199de4a0955bcc0d00128e,64d58ed1f074e2332f6d95d60664c61fce9c806d,"['lib/jasmine-core/jasmine.js', 'src/core/Spec.js', 'src/core/Suite.js']",[],3,15,15
+8d302d8dca52e408a0199de4a0955bcc0d00128e,760f2d90030ad9318d7c82791e4bbbd105eb7e24,af5984d5d69d0c5d020dc8d6ad42d0a7925fbeb4,[],['spec/core/integration/EnvSpec.js'],0,1,0
+15f7013f855c9e9f218b028de274aed329b0122a,bbcb5ff42f180fbaaa5661fa4fcc8d9678d1a97e,be23836c9d3ee5aa0b57f2efc4243b7aaebcf4a3,"['lib/jasmine-core/jasmine.js', 'src/core/QueueRunner.js']",[],2,2,2
+a63b0b0368723af5f550f698edf5f1c0558a1a47,d8862aa583abf28a0a4ae61d6f2c1b51450a1447,de9815f436f14b4ab79cde6213b62e2828c28d89,[],[],0,0,0
+2fd9d7b13f63e9f5dbafc26d619308e2230f1c0c,4e96514634e672e3f85276b3884a87a1e0be6897,dd8a65cb603b193925d99cad606656878e079594,[],['spec/core/EnvSpec.js'],0,1,0
+2480a0a93a0462bb35ee83ac77b061b1b960db66,13dfcacbb0d1a7825eeea7f66cd858bd77996260,9c9836c5b359096cc95ed0034c1529bbf626c46a,['lib/jasmine-core/jasmine.js'],['spec/core/integration/SpecRunningSpec.js'],1,3,1
+058e77b82422edcc86cdc6f2d902f28c4956f0a8,799d9897fd2810932833066bd68871b454dbaa56,dcaac62a6c94181d89bc406bfd1040b22d920dbf,"['lib/jasmine-core/jasmine.js', 'src/core/Env.js']",[],2,8,8
+6d002d22af76fec00bcb79148ff42841ca485b02,09d2ce9bc9ab2813f017f375fd108260044c6a89,799d9897fd2810932833066bd68871b454dbaa56,['lib/jasmine-core/jasmine.js'],['spec/core/EnvSpec.js'],1,2,1
+6f04044417924a1f0bbc4f6e6ccd23d5840b95ff,ed9363f477db3f0ef40892e26cde32de29f2d37c,70d49e5b57f653bea67ff987ffd9e948f27b5657,['lib/jasmine-core/jasmine.js'],['spec/core/QueueRunnerSpec.js'],1,4,1
+a27280e9e78457df37a97bde73a35cc961dd8ce2,e3999531745620f86c049af70f87e76c6009f6ae,10601f5af6f91845849caf88baa5e3cdfdc2457c,['lib/jasmine-core/jasmine.js'],['spec/core/integration/CustomAsyncMatchersSpec.js'],1,16,7
+9b3d4a2bf2a2c85bebb13c0b17ac43d1fd54fbe1,a0f6b77c3ed43400b748fc717e1490367fedcfb2,17826cd0440e929e79db278b08241c9a8ed361ba,[],['spec/core/matchers/matchersUtilSpec.js'],0,3,0
+6cb9507f62de158c48b2268628a60c960a45412a,00c1e3d608e36903b567237e2f40f63f05f1a2a5,50c88e77741e547a7354b7232e9c1611f8e7591e,[],['spec/core/matchers/matchersUtilSpec.js'],0,2,0
+3f3fb38cf1ccce7672e8aa861df5901d0c8f67aa,e4e232864d3b4c99ec1a44c17c4387534cafa25f,00c1e3d608e36903b567237e2f40f63f05f1a2a5,['lib/jasmine-core/jasmine.js'],['spec/core/QueueRunnerSpec.js'],1,24,11
+752441a66f2e69a8c95f3512e146e6ca345ff034,1b97795684910f6134dba34840d78865b96cf2b9,3e2872a1dfa54141fa210028044aec4585913a35,[],"['README.md', 'scripts/run-all-browsers']",0,3,0
+66189d742b47382126aa79838c7ae1f36ca7e23b,fb05da1fc370520ec1d1bdeb31c9b42e4558f3af,2369c8dba765ac3e0b19c24e17d134775bf58585,[],['spec/core/EnvSpec.js'],0,5,0
+fb05da1fc370520ec1d1bdeb31c9b42e4558f3af,8b3a6561b12c5bb84e126ce66e3e8357f89cd40a,9555cb984256dd105838a1a4eaf379ad8070721a,[],['spec/support/jasmine.json'],0,1,0
+8b3a6561b12c5bb84e126ce66e3e8357f89cd40a,7a38db2e32f7e492cc82bf0b8a9b9bcc9b6c6e06,2fc5182ddcdd67456b89c92c2eedbc2443c928c6,['lib/jasmine-core/jasmine.js'],['spec/core/integration/CustomAsyncMatchersSpec.js'],1,18,4
+f7f928fdd3e3d6fdf13517376af13e25ae41617e,2745d7d51520e3e8fb3ce343922fefeced1646d7,503b653a1070ebde94a282a2210f7373ecf1f1d1,[],['spec/core/matchers/matchersUtilSpec.js'],0,2,0
+a1f1b4ae0f32127ed0654aed33073311a824ebf4,c39c110eca1401467ebf198a55212dbf1c13dab8,795651d3b6d2b49c8278d01b61ef7384443e5157,['lib/jasmine-core/jasmine.js'],['spec/core/asymmetricEqualityTesterArgCompatShimSpec.js'],1,5,1
+c2ada1af956197eb8aac07d4d6986211aa35b2f3,83b336d9d1a22caf58e0985210a623471a2001ef,ea3dd9dffc66942cd1bdf5367cce1cdcf34b7f59,['lib/jasmine-core/jasmine.js'],['spec/core/PrettyPrintSpec.js'],1,24,5
+06814769c6624213acc4bc5b5d059ea0e2271f9b,309e6df8fd61b17d8672ab0d37668754d68dd214,befb8995e6e3d3f9df424570778ee60f5c03519c,['src/core/SpyRegistry.js'],[],1,1,1
+1d130036f42b6fde5ffa769eba5e2adce62dd6f1,ac07c9ea975989c345b7fac218319f6447e7566d,e6a60a7befbd594160c9fd5982583b551a36730a,"['lib/jasmine-core/jasmine.js', 'src/core/Expectation.js', 'src/core/requireCore.js']",[],3,7,7
+83beca689972c06fbe66c57691c35fce608a013a,fa6a80b76e388fcab82c9ef88e58d4080233c5f8,3c6308f1dc0087f0c6a63ff5c135f3506155b798,"['lib/jasmine-core/jasmine.js', 'src/core/Env.js']","['lib/jasmine-core/version.rb', 'package.json']",2,4,2
+516fe6875959dffde38cd512f1b19af9a862f98c,4530f9431fbff52f8e18a984b8b7faffec39cb13,d4b76a4d3bc5e293c570d18fff5c88b9f2a7a2d3,['lib/jasmine-core/jasmine.js'],[],1,1,1
+764d58a7f57968225c37ce272ca0857506ed2377,274011ed03b3d374565bfc0d21e9a81eed56622a,9911d37f06629c2f766598ba04ee56cf9a3289ff,"['lib/jasmine-core/jasmine-html.js', 'lib/jasmine-core/jasmine.js']","['lib/jasmine-core/jasmine.css', 'lib/jasmine-core/version.rb', 'package.json', 'spec/core/integration/EnvSpec.js']",2,29,12
+274011ed03b3d374565bfc0d21e9a81eed56622a,42e00b3bc567527e96a31049411cb3ac25f0d4fa,70bce5572190047980480ce3940f6253142691cd,['lib/jasmine-core/jasmine.js'],"['lib/jasmine-core/version.rb', 'package.json']",1,3,1
+038ab872529a8ccd962292fcf74d01c67a9f9810,e2a191b1161364b5d5fe61e9f9fdbc9dd68dc098,f20f78f82b6bbaac603ad121053b46df6a6fa63c,"['lib/jasmine-core/jasmine.js', 'src/core/SpyRegistry.js']",[],2,2,2
+cf2f922e3007756c1985fb37277bdbcc6412e5c4,16e07a0e99475e0e4a8168dfc3c114321ac738e1,b943f6b736f034de3c79ee3db3261dc4328fcea0,"['lib/jasmine-core/jasmine-html.js', 'lib/jasmine-core/jasmine.js']",['spec/core/ClockSpec.js'],2,9,4
+b0ec95c47237a4033db894040de105063084b63c,a42f28c7346618c216d92dde82c66e67ad5d9f36,13b9e669bdf69bfc14f36809daecfb76874bbd54,[],"['.travis.yml', 'travis-node-script.sh']",0,2,0
+b7e9594c867863526c6afddb27c2aef798d3bfc5,6c363f11b3c7e74f501223fbf160e77e07cf7f67,1f6c91de7ce788126ac59040bc803b22acbbab58,['src/core/CallTracker.js'],[],1,1,1
+05097b3e42115d1fd2981f0befa3ebcd59ba0ed9,1efed4c15624cbecb040335f5492c6748a5ce4e8,927cc011d6054b2f3e6db0df8130f35c27add721,['src/core/PrettyPrinter.js'],[],1,1,1
+b66ffc1277e51091c7adb64dd6f9e3f8d4a7fa75,5458f2f18dd9ae37de1a3edc3746d9dc29bad509,d6f1f8dec5165a6e1a9b98e8cc3cb44937758c5c,[],['spec/core/SpyRegistrySpec.js'],0,1,0
+a999490de977ead841fdecd3b7e0f12dbe751d84,c1479acd17786a5acd33eed3bc71736f8cbee70e,b5b77b318a4919b10826f66d9aaabaf2c7e94cfa,"['src/core/base.js', 'src/core/requireCore.js']",[],2,2,2
+ba0982d89f6d2a6523e505f062638a708ac0c25e,f703539942ca3b37f452f8213868b7dd4158ae92,1290d93b6aee461d4d74d604370058b33dc2d741,"['lib/jasmine-core/boot.js', 'lib/jasmine-core/boot/boot.js', 'lib/jasmine-core/jasmine.js']","['lib/jasmine-core/jasmine.css', 'spec/core/SpecSpec.js']",3,17,8
+83227f21635e13f1d784a3911e87b28af63d9d3b,8b02bf731b193e135ccb486e99b3ecd7165bf95c,f865758124545099040564629b0c7062dbda8375,"['lib/jasmine-core/jasmine-html.js', 'lib/jasmine-core/jasmine.js']","['Gemfile', 'Rakefile', 'pages', 'spec/core/MatchersSpec.js']",2,31,10
+c0664dd6aaec0dd2e2fafcc50c814a5922aad186,b640ce6fc000dcb5df9fb2e38395dd8b0e38034f,e9af7834f5bba1aad9a7652e4aec66aeb28caad1,"['lib/jasmine-core/jasmine.js', 'src/version.js']","['Gemfile', 'Rakefile']",2,4,2
+da297d0f56cf9b828e498a0c63915beb14c4c135,7ead5388c2b008e061aede14a755c68d0040d29d,a445a62e7ca295bc38a4fb6f2dee8f8f35534daf,[],"['lib/jasmine.css', 'spec/suites/TrivialConsoleReporterSpec.js']",0,7,0
+7ead5388c2b008e061aede14a755c68d0040d29d,b02aa9840aaa4fb8314a7eb79de1079d9034aa58,d875d1d997ac02fedbb9a8fe6c431aea89d6a567,['lib/jasmine.js'],[],1,1,1
+0ef6582f73e6777e6978325410ef1f17bb49191b,d7cced2e7ceb793a7643120b276ac81d3799531c,f41af6c2d029e2a0756ba90fe18e82f15e582a87,['lib/jasmine.js'],[],1,1,1
+d8ed4156c7d54146771ebff68776bfa8ee19e3a8,1469f8326205937148a89d7411bef8af216124bb,a16cbe7e5b1582fac691fdf5fa77224417f621e9,[],[],0,0,0
+8feb285ca839cb383eb433c5660ab0f98e86704b,c21431415be01a56a4394df9f7b7d533881b0194,5dd9c53176db63762aeb396a143bab6f076d1eaa,"['lib/jasmine-0.10.0.js', 'src/Matchers.js', 'src/Runner.js', 'src/Spec.js']",[],4,14,14
+6b3bf1b3baa767c323db37c11651a7c51f44ab88,6ee8ed02a948b930f74d7ec7c17cb18bd8f3d0d8,3109e7a4bb171a07e389e7005e1cbf4b91092567,[],['spec/runner.html'],0,2,0
+724f1772b7ecbe2a48b6f2cec9fef251d5345435,2a29bb3ad9ead4fabf4f13ab233e9151cf4e3069,11f356e3759e60a1f1b3384da3a4b5ba482752b1,"['lib/jasmine-0.9.0.js', 'src/Queue.js']","['Rakefile', 'examples/ruby/Rakefile', 'examples/ruby/spec/jasmine_spec.rb']",2,6,3
+0a3358f249c4552c2b98eaa82dd967853e3d87a6,454d453207cb13818c02d4565eb71abc7b05814c,e9126fdd9b8837f3d3c15e47d92dfea37932b157,"['lib/TrivialReporter.js', 'lib/jasmine.js']",['spec/suites/RunnerTest.js'],2,4,2
+ab65914233921090209b35c78cfc6d2197d10967,8378dd95feeacc44799b872af3f651ef623a5a13,027b28ecb0f436ed3a94ad70d40d7ac64589fefe,['lib/TrivialReporter.js'],['spec/runner.html'],1,3,1
+f84c67b98aed9889db0bfe837aa5ee6ec6074f24,a1a278ee6973b30d4c6392a655906e46090b3695,19241ed03df9a5a8af1d80aa04836391b256dd44,['lib/jasmine.js'],['spec/runner.html'],1,7,5

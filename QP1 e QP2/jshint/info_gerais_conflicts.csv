@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+d73dd03e9a69ca4e2c33b9df679638bd2d801115,b25299fa8cb14ad9ab572cc60624ad03430cb0eb,2b3b1dcc9d286e11a216f9e726822d16d6d1af93,"['src/jshint.js', 'src/stable/jshint.js', 'src/cli/cli.js', 'jshint.js']","['tests/unit/options.js', 'package.json', 'tests/cli.js', 'CONTRIBUTING.md', 'tests/stable/unit/parser.js', 'tests/unit/core.js', 'tests/options.js']",7,36,13

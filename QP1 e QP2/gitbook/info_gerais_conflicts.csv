@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+511fc7bd46acf682bd82a6d0d08ea2d06bd6d2f5,694afeccc5e708d5aa7c1c0071d9efaf2719b48e,959a2d830a634e9c0654cc747f5dd82ea66ef6b1,"['lib/parse/page.js', 'lib/generate/ebook/index.js', 'theme/assets/app.js', 'theme/javascript/gitbook.js', 'theme/javascript/app.js']","['AUTHORS.md', 'README.md', 'theme/assets/style.css']",7,12,9
