@@ -1,0 +1,12 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+0a4340bba1fa3418f04b0d7119abe03a283b17f0,b0084710d39cbb72238e6af4b79ed1c69345f54a,b06ef9491f490bc001bdd387f37c0c3b98b0dc8b,[],['yarn.lock'],0,4,0
+3cb52c33036adebc8848592fe6780dcf8dcbb78a,566ec647cbfa36bd801cdd780e55319ca6127ea6,08531a6ddc52e5cbfb70b4a73b70d08fcbd88add,[],['dist/js/tether.js'],0,2,0
+559141526fece30b09afa5d29411a79d9224a0ad,e80bedb33018cca300cf82a636e2b43ec5c2632d,89a642f93aedbb4a047bd43d8183e4ff1645e481,['tether.min.js'],[],1,1,1
+f6548d66b2808d0cca1f42cb9b810c1c33550ad1,d5b438b2e36449c385ac5ff42d70cd11028bdb51,e62509f36c4a59340144620ed9a9778bc78cbc33,[],['docs/intro.md'],0,1,0
+bc5492db7f743295e7dde45ec51ae0ed08d00d6e,f036502cc5f6873a296f911757c1908f86a1f4c5,2212cb09f951a6398b3027774f295809fec52669,['tether.min.js'],[],1,1,1
+a8648ad2d1421274a4aa2ab2c68904d394b7ac9a,d5c64a48e3a9b764f6069241ff01c10a02aca538,4a13500d090485ba3a7fe6db9c48832d559fbd92,['tether.min.js'],[],1,1,1
+e189e63c32e90c11d25e02bba4eb73738e042938,54dc2802a304f27d56df15aab202def20112c76e,9ac10010f6a37bf675c7d54103c2a6514919d41e,['tether.min.js'],[],1,1,1
+688e21cd4095eea61aa2595ba6dcc4db16658809,0a47c63bedb35aecdefb66a69e102867bd1127cc,95cfedc9e2243354fe617e65cc6bbd5cb2430a13,['tether.min.js'],[],1,1,1
+c532985eba28945798b10cf06e703edaaeb72d38,6a7f66c806c80d9dd834d4c41d5cc3461562e02f,9a63be3d63fa41dd382a947381c1d1acfbca4f0b,[],['select.coffee'],0,1,0
+5bbd490b80deeff586e1b74dcb836b6c1c671b3d,ce741e9bc782dcd2e77957eca5620af80e472f35,ab08a849716d2a569d2639cf71903258795a2097,['docs/welcome/js/welcome.js'],"['docs/welcome/coffee/welcome.coffee', 'docs/welcome/css/welcome.css', 'docs/welcome/index.html', 'docs/welcome/sass/welcome.sass']",1,12,1

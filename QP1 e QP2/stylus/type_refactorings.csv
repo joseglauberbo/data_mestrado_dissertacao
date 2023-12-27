@@ -1,0 +1,2 @@
+qt_refactorings_arq,qt_refactorings_region_conflict,qt_type_refactorings_arq,qt_type_refactorings_region_conflict,occur_type_refactorings_arq,occur_type_refactorings_region_conflict
+2,1,2,1,"['MOVE', 'EXTRACT']",['MOVE']

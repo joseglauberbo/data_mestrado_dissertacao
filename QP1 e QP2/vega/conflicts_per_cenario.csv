@@ -1,0 +1,46 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+03e41f769b058ed4d8524f75226dda6362bcc877,9abea1a7ba43e911aea3e01bfd84ec547c03a609,598faea7bc83a8c6cd67e48188924ca1232b064b,[],[],0,0,0
+426736199af54394595061c5423d92cf0a03470d,4944b5cfda31e179ea24d7a54c8c969f6ec44345,e818308b4ca4bcfbaab31bd68d427a6ea60da3e2,[],['packages/vega-scenegraph/test/schema-test.js'],0,2,0
+c2bf52873c358c218dd85ab5723c48126b52c851,8ef8d704cabc251e6e0638a49adbb84da546ca2c,7327937ee79f6d9a68b18e82ade968e830a6fc26,[],['packages/vega-scenegraph/test/schema-test.js'],0,2,0
+9242c31830fc0ea86145d9f2b7c1a4581a10f6f3,88431db48e80579df26d209529ef64e5ae490599,e88a92809f39bc180524b26f60b6467ec27a8648,[],['yarn.lock'],0,3,0
+ae93aa1f55bce7212b3c3e50d79b7914cdbb6d36,80907569e29cd3f97be9077b8b9c676ec445177e,6c46b832d47abc9add97595341b32b310f75bbee,[],['packages/vega-functions/test/scale-gradient-test.js'],0,2,0
+e691500987cef744e3903ccf39efd1c1eed3ae79,91f7ae6f3546bbefc91977370996ef53da2ffea8,1d4827cda765e3c2f9cbda747eaf933840f01232,[],['packages/vega-scenegraph/test/canvas-handler-test.js'],0,2,0
+c7d01f185bb7be7bfddc43c36f0e4b8fbba0a776,ebbc0d34e619fba0896ae2986dd70616cfecaedb,e7650baaeb126cb6f9ce0ee42fc6f8e2b18dac21,[],"['docs/docs/axes.md', 'docs/docs/legends.md', 'packages/vega-schema/src/encode.js']",0,3,0
+5002c93f8278564d33ffa9ca7296004e433d6078,8520f496d7f37f79730f2d4a85aa0df4aeff3691,2f35a3f589fa7ae81ef41c0a62b69e035d77bfbb,[],['docs/examples/contour-plot.vg.json'],0,2,0
+15bcb4e73e4d4cd3928c2c0204476a9611da934a,17b11d65230c4c5439d8a25bac10340cd7004c47,a4ee17db092aaaf48af77bf524380500b99745b0,[],['yarn.lock'],0,1,0
+3c0a64eaffbd2f1f085a377cc831191d52a6a585,b1a6a7c51543bd5141fe7cc33d358ab66d60e1d1,819e796022f42884be715567f89db93dfc906aaf,[],['package.json'],0,2,0
+c5ff11b27a901081cc26b0e9366ba10d394380b2,a15b81fe12e8820c88c2717a2b85710eb360755f,f02a1a68873e58e1e9bcd94a7447840e12b47e11,"['src/parse/spec.js', 'src/scene/axis.js']",[],2,3,3
+250e51316e7326ce40e3433a7f0c32d290edae6e,62dca48e7c13e8676b7cadcb0df3c7cd8625c483,18acbd7d9d4c97483230ee0f9a40242bc38978c2,['src/parse/expr.js'],[],1,1,1
+6ae99ee2ed2f1b493e5581043835f043505dbd8a,0effe5d3a9d3f4a4e361172cd5abf538c934d208,bd5ea508ad68e2f53f71b2c515fd5124a27881af,['src/parse/expr.js'],[],1,3,3
+193baacfbe1de55ee798dd65e2ccb9f17081410e,6199417e9a3ca7f21055baa7cdcb93e46b719f47,cc4841f659b8396177f83541bf14935c740eff51,['src/parse/spec.js'],[],1,1,1
+47475c534d2909f8b605799fabb9a6d009ff8b74,91044d7b8291285ecdeb546fb956c133defbfcfc,053a99b83f2b0759388249d052335208adf294d4,['src/transforms/Cross.js'],[],1,4,4
+33ce274d523ebfb27500e7ef9094889638aace16,c3b2b8361f67effa267dc7cc6acaf63ee8e73008,6ce3e632b75d909826dff33dbbb1a6c81209e39e,['src/scene/Scale.js'],[],1,2,2
+17b0dd7486b425dec9b7a9e1c8ab0d7d9b998214,6ddf727b9d8ce57414c94cfc97489889d25cd2a2,88a597e60b2210ea473f912f82d6c72fcb44ad5c,"['index.js', 'src/core/Model.js', 'src/core/View.js', 'src/core/config.js', 'src/parse/axes.js', 'src/parse/background.js', 'src/parse/data.js', 'src/parse/expr.js', 'src/parse/legends.js', 'src/parse/properties.js', 'src/parse/spec.js', 'src/scene/axis.js', 'src/scene/legend.js']","['.jshintrc', 'bin/vg2png', 'bin/vg2svg', 'examples/spec/lifelines.json', 'package.json']",13,40,27
+6708332224ac448ad6590339f2e766140643ed2d,7f1bf81db02f3a193e73cc45e34e41fbcf5ab1f9,5f6e38d4eb270d095824332608b7d097045ff192,"['vega2.js', 'vega2.min.js']",['vega2.js.map'],2,51,49
+2ecc23a402931c46f6b3e1c40ea88000552dd66e,222268bf2e81ae10062de58737349bbda6586e79,c52ba2104459bc1fe6585c11ea87aff8e4d431b3,['vega.min.js'],[],1,1,1
+7892c6c355a7d2cde0cd6da41a8b4ce61e42e89c,1d226184eb033418912a909626ef7bfac4d95271,d3b28b6eaf603b26ca4d0258400c0021d5d6d9ec,"['vega2.js', 'vega2.min.js']",['vega2.js.map'],2,8,5
+2bc93f69b89baa59ce5bc9ac1d9a7d4c61bd8dc3,fa02886910df3e6f9ca4d63f8a07872a79230851,94c5c4745dd5db9e72aaf3d1bc809b9f7a77e09a,['vega2.min.js'],['vega2.js.map'],1,2,1
+e9e2f2b30719ab1541339cfe0f7b80ca2f7e0e76,2b65ca1483f55959618091cd1d6f0bfe16accc85,45f73e6c6032c097acb896046f18578eb7bcce67,"['vega2.js', 'vega2.min.js']",['vega2.js.map'],2,44,39
+2b65ca1483f55959618091cd1d6f0bfe16accc85,00c2026bff030e8e9c3a54b36bed4661595e642d,5d00565f1686a636abde7a0872b133655681ca90,"['src/core/HeadlessView.js', 'src/core/View.js', 'src/scene/Encoder.js', 'vega2.js', 'vega2.min.js']",['vega2.js.map'],5,1355,1347
+69816a963901cb5e102bca68065e3433cdf65223,879ba52fc841862d6cfb5f89d6a19bbe5ef0ea3f,63d32afe9629793e7d17ea4e8a098f15d76b5f09,['vega2.min.js'],['vega2.js.map'],1,2,1
+d9035c15b90a90b084f0a013e38cb3382742ff1e,e90023300445c9e34a0299c7e7b0f5dcf43e69cc,4008c8391c5c98eb9ca51ba223666fc57b0f3f86,"['vega2.js', 'vega2.min.js']","['examples/spec/overview+detail.json', 'package.json', 'vega2.min.js.map']",2,101,97
+e90023300445c9e34a0299c7e7b0f5dcf43e69cc,6f61c007338077072f7faa4647d297c08e99ff62,d07575aa03d5f2652f7012af5c933f7401c774ca,"['src/util/boundscalc.js', 'vega2.js', 'vega2.min.js']",['vega2.min.js.map'],3,97,96
+ccfa04bb56a5feb3fbeeef97746003d9af8523a1,4c2dcbf8b2889eef42a19b435152e131ead4f94d,59f0537d84bfff9afbe35b4ff25c4809e90256e5,"['vega2.js', 'vega2.min.js']",['vega2.min.js.map'],2,3,2
+e8f4471e30f674a2e55352f39ade6ff630b90d5f,6e04153f52a5982ba07ae8399dd49fa3f706712e,ab6f0e25e79b6648fbb60f3cb9b17cb733bd2c08,"['vega2.js', 'vega2.min.js']",['vega2.min.js.map'],2,3,2
+6e04153f52a5982ba07ae8399dd49fa3f706712e,6cb48353d6d0801458bf72a87793338ed57761cb,748f0af6aa87d1fe2c8194afa3a84bf7e79833ba,"['vega2.js', 'vega2.min.js']",['vega2.min.js.map'],2,4,3
+398f2534e0bfef672e32fdfef1b8e9cf1d4ddaba,5b6a6e2feba7e4d51ba4b27dc83f67823712d2d8,2b895f350c2619982203372f3c8a89d7e960f368,"['src/index.js', 'src/scene/Scale.js', 'src/transforms/Unique.js', 'vega2.js', 'vega2.min.js']",['vega2.min.js.map'],5,15,14
+9efd6ae347866f3718f1511f598221616571a82e,a861e156e0ab981d14acb9f5a038422ea8f64771,ac8a93fdb8a5125b73d30557f21cff394bdc2396,"['src/scene/Scale.js', 'src/transforms/Aggregate.js']",['test/transforms/aggregate.js'],2,6,5
+d40765918b3c9d243c3496b4de25d76846ed22df,e08a6679a23117876b47ec2b214a11a8fdd0d78d,db576cbc96c1250a311b502278b8bec48c22ea57,['src/transforms/Unique.js'],['test/transforms/aggregate.js'],1,11,1
+4b5cc0b78aafd3a088df136d04a800e1883e5fc8,3eff0a27b2301c62015542197b58ca93117ebc67,f246e10d7ee7b822e82f3254231604b4ecc287a8,"['src/transforms/Formula.js', 'src/transforms/index.js', 'vega2.js', 'vega2.min.js']",[],4,10,10
+af782217f2e5edef5af5a4d8a061eabdd8932526,506a6855fe1f6c278699f9b53b6edced4ebfc7e0,fdc0f07e0be7209f5b2a265a6f25afcbcc09d9d4,['vega.min.js'],[],1,1,1
+8675c9f6a1b4093cc09fc9a2fef2f2c725e77a42,61e6dbb3e267c3b7a355c43e6bfa30b88a268672,e18e58f9b2479fd27d623a3ee49480ec24b4440b,['src/parse/expr.js'],[],1,1,1
+604732284b7f471fff47349879c4bc63d60dd172,e68f7b4d87b290249b61b0f1b4bf5dc769f83086,2b9b465cd344b8dbefb3ba17a95b612677346d4c,"['src/core/_start.js', 'vega.js', 'vega.min.js']","['bower.json', 'package.json']",3,6,3
+88c932b6dea2f45344bbee7b48b88e5c9e09f11a,4476e45e9c3f1d516963e3ede855ef9d321b096c,646a7fdc030775f49001c07b03404ab8bf34d661,['vega.min.js'],[],1,1,1
+825231b685467f5f7b147ac0d86fd8e55ae8cffb,c00d3dcc38546250c7821e81b57113c81b10fd6c,014061f582f1d3e75d5f5c35c04c2b4287c92586,['vega2.min.js'],[],1,1,1
+c00d3dcc38546250c7821e81b57113c81b10fd6c,a7cb6465e9a06e1c08cfd7424d344e14df497119,89ea0b8cff64d1e649ad0b1d7c899b1f12059bad,"['vega2.js', 'vega2.min.js']",[],2,5,5
+c2e7bfa725bf016141b0c9b1ce5e3c86b58ee933,bdf8146fae7fb7497f037b4c77192882d3bf6d29,96a4c1e58c5d593f3eb2b583ccc2399c04950808,['src/data/stats.js'],[],1,1,1
+b61b9a060daaa4c8b8ee55e9e34007bff17ad25c,8988b89731e954f7fc2498b11a33030c203119b4,d83701a4858efbd10e7f5dd2fa6ee35267fe6bf0,['vega.min.js'],[],1,1,1
+b584b0d1dee89d1ef494e28b608f38e3eaa94594,ec0836ba9ed1bd44c2545bd12bb5ce43d8222e05,d6b30be3385a32ca26408f8f0eb7917683e35363,['vega.min.js'],[],1,1,1
+ec0836ba9ed1bd44c2545bd12bb5ce43d8222e05,bfb8c0164ea1358c4a5d4bdfe42a81962239f2a4,b6351c0dc9a5286ac7e3bd02ebcb159f7c10f252,['vega.min.js'],[],1,1,1
+43282463ca6bbc00e131678ecce20738553281e7,4550e8e5716308cd614443ef3b608d570e520e2a,55a35cde736968f4b36504bb80e474b39f8d036a,['vega.min.js'],[],1,1,1

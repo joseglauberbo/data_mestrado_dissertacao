@@ -1,0 +1,37 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+a5944adf093e39cc4be1731f11d636fb6bebad82,895558632daf879b74df5666640d0deba2e6ae58,7e98dc17368c62a6f8a95aa2e300e4ab02faf007,[],"['test/cases/variables.css', 'test/cases/variables.styl']",0,3,0
+140011f8d6a00981994c457d0cc0ea160bf76948,bd5cac78e79e1f6f5b571ee0392d59fe514ed0fb,bd710359ec465991e0418d2fa43df8b74c45e5bc,[],['package.json'],0,1,0
+2f42a92c6317429df0bc802b1665c3414a0daf52,ca0fe52522cd290199cf89437d27afe86c56327c,71c588a7f697e8255e9e67906423af2cf9dcc975,[],"['History.md', 'package.json']",0,2,0
+26e04d862a9dfbbec9a39bc4747d9c66d5eadf19,3404059afd4b5be02485316a5c65e8e223d4360a,c806bcf6a574d47ee9d8db85986637771ff2978a,[],['History.md'],0,2,0
+8fe881c15a9cb10acefc435ec06171c1e3b51a31,e42e628736972eeecf6868758e89226abd3091be,4019ca9751e173cbcc2769bceada54c01ce406f4,[],['docs/bifs.md'],0,1,0
+a22beece2e5e91138a0af063881e4629c8be222e,ec6c765dcce6c9013d4ab6e8420f71c7fd7fd4cc,068f88feaa061d7a113a6eda54db705d4e542713,['lib/visitor/compiler.js'],[],1,1,1
+80b022a03eabd29540d42b58e43fab1c0a82f6a2,21f009814e5d0c64b91f9c6e0b5c5b62d24bcf6a,b0512a23b0e6ef27d28ba43d6bc22deaeba80fb9,['lib/parser.js'],[],1,1,1
+3d36b69ee9e0e1b9e3207d7c4d0d78bf02e77435,548523cd386ffa1a58de563699ab5a5a3aa93cb2,8a7f3bc3c773fae403ff19075353291bb651c655,[],"['test/cases/media.complex.css', 'test/cases/media.complex.styl']",0,2,0
+7ea3292abb189badf6e04bf93df7ff1e2becda45,3ac79c13cb079e604f7be51865024a2af8858f4a,572d396ac9a1c3f86d7273a5d93d24a16e79da74,[],"['test/cases/media.complex.css', 'test/cases/media.complex.styl']",0,3,0
+bcda1b45a1e6a8ccf85f2014f57221ffebe83977,eb50728c4dd558adc71019e2eb9c1432602e9537,48f169bc92dd1d8bed9bc43a7898530ad228280a,"['lib/nodes/block.js', 'lib/nodes/keyframes.js']",[],2,2,2
+f155efbfb3ab9c91e1f0d651d2ac7fcc62c5e872,5aca756bf94913161ea6728f0c00c9dc32201048,4937e23c896d5deab7c6e10292c3f8097770b8d3,['lib/utils.js'],[],1,2,2
+98643f6c3c37104fffb5731b1f78306cd587f06a,088e1041c6df019e7023c8dee761b0c5272dfa11,44fa9ddc6a1e55d8f0b3cec382291619b6ac33c3,[],['package.json'],0,1,0
+c78e3cbba4e73e22d7a15e99cf42dbb9a5c5f30d,6f6d3bea1c2d766bafb07ec20f365d7311fdb327,e5b33a2a80988ff32d47b3972fc00e48191336d2,"['lib/nodes/media.js', 'lib/parser.js']",['bin/stylus'],2,5,3
+7e51e39e58997152ef9b998a04dfcbc0a8b9c348,af22d2ba425268f939de11a413f4e36cd50cabe9,0fe89187f39dc51cc5d1d04abac48fcbd966639b,[],['test/run.js'],0,2,0
+aacc9aa4532d24867725afbae18c0e1520cbecb1,1d8ef23f115b1f59ef4d97c637f284fae0f8b4b1,f13b6ddcf98d21423bf073f6fc1274cec2846bc3,['lib/nodes/member.js'],[],1,1,1
+f0c0bae266ae951e851833b6b25bb6207767b2d0,935252aee850f1e903fc01610652b60934b4f70a,78bc75e84dba77fdd2e09e70ba140af90fb3aec3,[],"['test/cases/operators.css', 'test/cases/operators.styl']",0,2,0
+8e91e0029e4816b96d97128995f193c605c2a109,032fcdcfad05fb2005a0d60b71be72590320c54c,7f344fb850f3a9e9735361f7fde7acf16d60e622,['lib/parser.js'],[],1,1,1
+d0cbf5ea8651bd4f61b598d6ddca598099f27c85,5f477dcc3d1ad0346327828443cf5b79abda4555,06b4358a6bb408d32d42a4381198fb0248b15461,[],['docs/interpolation.md'],0,2,0
+1ba4fb40a2fecddbf113d9d08099840e1f7a4d9b,4c6ea6c77c460a5e58cb78440b005490598b2697,0653c801c144d6ce6b129446e9a13b4aeab3231d,['lib/visitor/evaluator.js'],[],1,2,2
+0653c801c144d6ce6b129446e9a13b4aeab3231d,ee4ba3a8a7296308a23617968d72aab6b4d69603,6ffb3454cc5da971545a957284a7fda1a1afa505,"['lib/utils.js', 'lib/visitor/evaluator.js']",['package.json'],2,4,3
+fc4a522d04d1f9f38983f76698d63f0e39b8acec,db162e2742fe588f5ddd717df34f6ea5e2839cc4,7fc630318afcbb28851c76637b98fed49e2bd83f,[],"['test/cases/if.mixin.css', 'test/cases/if.mixin.styl']",0,2,0
+d103d95d630796727eb2f1fb085fa0fdd39ea3e3,bc190343896e584715a457d09ddf18e9dcf0105e,507fed5a90c1b50a69dcc35db4913aa4c50ea70f,['lib/visitor/compiler.js'],[],1,1,1
+640791384b64cf8f460fc958e715e67b0f87bdb2,3f620879453c9ec3ff97dea2ebb9500e1c1fd1a8,49b1673742ea31f13c832de0909904687c02776d,[],"['test/cases/selectors.nested.css', 'test/cases/selectors.nested.styl']",0,2,0
+566930fb4884ccccc8a2a5939dc059f31b9a639e,624c3c4e396ac97c5bbd35550f1789ada86a606a,d99ff2099753aaf4a54f06ef28e07b7cbdc2e2ab,[],"['test/cases/object.complex.css', 'test/cases/object.complex.styl']",0,2,0
+4733f77ed31ba427d7967f7fa701c8460aabd931,ebba62a63e913e3a4675e21e7ec561a8935df674,b0d9d635eac8411969b4ea251aac1e26424e765f,['lib/parser.js'],[],1,1,1
+62fc8b5834d1525ff5523c734feb70b903def6ed,a5fd12c42ffbcdced297158c6e66de0b3b3f0416,582e618f4d6f19ddba2e5ec50d5813d7b1c5a00a,['lib/middleware.js'],[],1,1,1
+11b44586a897198441e1453f88de84ec6fb28c4b,5bb6bbaf268d7a2625aeb9bc2a69fec1081036eb,6f3128d5595777ed95698876cabc208c21ffc570,[],['History.md'],0,1,0
+e29187a9d9f85b07f0fca4ee115b859313797f86,e6796619e09a3bd8d23662031f8e2de0e5e481b6,573bfc3a865a0d0139524bb390ef06000558e0cc,['lib/functions/index.js'],[],1,2,2
+01f870813b2af0aa8950d661f609c94f5cf23c24,36ec9913b7667937b78dfac6cdf27291403c1180,8315fefac6dc2911453e25f08ff1a5d31f1297b9,['lib/middleware.js'],[],1,1,1
+1008de02493db26f48cb781d40c90ac6be78adac,5a4292877b511300f7e1bdef5179cc2b9fdc7b43,b672aa987e5cccd4b344095f2f4e1ef133158146,['lib/renderer.js'],[],1,1,1
+3269bd4cc10c90e640a21ef5b0fd24704e969035,75222d9d6f02b59d739af5a0aefddf78058040ce,3a9529e8ce1f1e091a4812bc1b75eb5131629a81,[],['editors/Stylus.tmbundle/Commands/Compile'],0,1,0
+5159d3eac99da58a4dce2498688bc69bab538796,d39570457f09b6f8dbc17a7c62fe8c6964ffb432,a3932111c29cfc0e585744c840b99450ef4ddd61,['lib/lexer.js'],[],1,2,2
+0e7b53b9d27b7d935717ec718904df8ac770e57d,cd732e9943ea22dcfba6ae4da25c667179301e9b,93637d137950335e921b1dcfbe50144a941403dc,[],['lib/functions/index.styl'],0,1,0
+0a85721c860ffd676f18badb3027f8de6e392e1d,111a6c25432b6d2080bc730b90d07b50c7847389,a7e260d049c6d36dde6935191f536f54e5bce255,"['lib/middleware.js', 'lib/visitor/compiler.js', 'lib/visitor/evaluator.js']",[],3,6,6
+51527943183b2642306b5ddf02b270a2b9e35e0a,c561e8ed1c010c8cd81f31fd90363216dfef01fb,79962ff0388858621ffdf825b7e472bdfc506c01,['lib/parser.js'],[],1,1,1

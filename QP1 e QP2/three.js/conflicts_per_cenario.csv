@@ -1,0 +1,454 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,['src/extras/geometries/IcosahedronGeometry.js'],[],1,1,1
+a5ee42475055692660a2b3eaaad9a775986a2a7b,5e9985d61431688dbd93b1874e7defc5fa080816,e57b7770785c6d013770687bb3ab187854b32076,['src/extras/geometries/IcosahedronGeometry.js'],[],1,1,1
+655363c21e30620741258fbf63abc2292df95e77,b2ea47ac7a575032af050b43afb8f57478efc8b6,b53dacf132af25f4e21646c78c1548b452118d8f,['src/renderers/webgl/WebGLTextures.js'],[],1,1,1
+c56f3dfe4fe05e737b8373b233443edd9bf41299,9b443e32709666335c9c258cd8941b8cc4bf55f6,9522135fdab2a64c8df61d16c2d5282266ea6c8f,[],['examples/files.json'],0,1,0
+08f03cead8b411466f427c13ea439904891675d5,da06eb3ad08d2c07274df00044879a311d5522af,39efa38ce98cd4854d4eeda4a7b55fc3f7e75944,"['examples/js/loaders/GLTFLoader.js', 'examples/jsm/loaders/GLTFLoader.js']",[],2,2,2
+67263f13ee7b6478b2241725ad72dff13761c5a1,d6228db45487d3ecf8e247bba704809b0749792e,8000053e53fa3167d0d7d836808c54fd0f5f6975,"['src/cameras/CubeCamera.js', 'src/cameras/OrthographicCamera.js']",[],2,4,4
+e1e5ce7d119619e4b7c71b3e7d66ef3931d0e9ae,728de0b9b158b1d29d8a1ca2a265baae6453081a,53fe881ab6cd48aa7f3ae71d5e6138044185f6dc,['src/renderers/WebGLRenderTarget.js'],[],1,3,3
+7a8783cc7e10ad4ca65530d7003c5c46ee7581b7,56da80e5677a443381c8fc78ccb9c0aa2bda2c32,f5895e00afe56ced11bf5b8417b6048cd3061918,"['examples/js/exporters/GLTFExporter.js', 'examples/jsm/exporters/GLTFExporter.js', 'utils/modularize.js']",[],3,9,9
+88c78b64ad36392ce685177d68ab21ba604f4173,da12e00d36e5d54fb3e4dd15b4fe867e4d72309a,5ad3317bf251bf0520d73704f2af66fafb770a77,"['src/textures/DataTexture2DArray.js', 'src/textures/DataTexture3D.js', 'src/textures/DepthTexture.js', 'src/textures/Texture.js']",[],4,10,10
+a58f37331db5cf553cdb9ded95512aa3a8933a45,72eaa45fffd0b4d0c424cc35adf716b9e8f9b342,5ad3317bf251bf0520d73704f2af66fafb770a77,"['src/extras/curves/CatmullRomCurve3.js', 'src/extras/curves/CubicBezierCurve.js', 'src/extras/curves/CubicBezierCurve3.js', 'src/extras/curves/LineCurve.js', 'src/extras/curves/LineCurve3.js', 'src/extras/curves/QuadraticBezierCurve.js', 'src/extras/curves/QuadraticBezierCurve3.js', 'src/extras/curves/SplineCurve.js']",[],8,22,22
+0342a264ebb351e1dd0905b503c3f03aafba0f98,de4ed0c24e786f524c7633ccab067b9d2f31b196,314258133661d1fa28241f947e70828909c37120,[],"['examples/webgpu_rtt.html', 'examples/webgpu_sandbox.html']",0,3,0
+f8338e5470ea6be50a53add1bd39697c8e850ba5,6ff1d1bd7183e9f4ec75075dccb6410a605de3d6,46fd86fb55603fdf33f3ecc68862ef73123ce77f,['examples/jsm/webxr/ARButton.js'],[],1,1,1
+1ccc726477bad419d1f6ecbe3f3e7b5708bbe7b1,3b7656a4215dce85c133d7122d51738d5574e545,af5414c0b6344d3c9529e2ad1758d6bfa37bafd5,['examples/jsm/utils/BufferGeometryUtils.js'],[],1,1,1
+dc7e084d10e7e7b9a4fd40499e92a1042560a83c,1659408cb3b92f1c86958365e1357c3f1cce6d7c,2591284fb9fd90f3ab7caa4cf1468d5f19f5aa26,['examples/jsm/modifiers/TessellateModifier.js'],[],1,1,1
+1659408cb3b92f1c86958365e1357c3f1cce6d7c,3c51f20379adbd690911e11cb02aa5c1da1da366,fbeb3de755c69a0ce335e925e8d827d36a80010d,"['examples/js/geometries/ConvexGeometry.js', 'examples/jsm/geometries/ConvexGeometry.js', 'src/Three.Legacy.js']",[],3,4,4
+fbc116788a06253d24a801dc8299a6a46557a333,c2adda4b132e17e5a4dbbe5e5bbd7f653f7e2364,3fea7a65269a446bea79316625c3cc320f3fd20b,['src/renderers/webxr/WebXRController.js'],[],1,1,1
+7599b0877699afd638d5978eaf280191222bd95d,4352db0fc98d9f8ed5dc23d3972c4d1b3729c9d1,915b035193fe256d1d8381aa193ca0c09e79d068,[],['docs/list.json'],0,1,0
+95d79137f9e281c54ba637359c8e132ca8c011ca,2790e963e8da9705ab28f48e25bb2b76dd8fb421,36a8b44a0ca47f2e7c704cff79d746bf9ee20e23,[],['examples/webxr_vr_video.html'],0,2,0
+3d02bdfadbb72dc90793fc8addf2b7ea984315dc,d66fd4419e6f5f348080b5723b30bbf15e13a48e,36a8b44a0ca47f2e7c704cff79d746bf9ee20e23,[],['docs/list.json'],0,1,0
+78d9b00744eec338c3236fca754068566060c99e,dc33fc3fc150554b76137e47724e93c56feb94e5,0c805bac5d0a41ea64c4c15fee8515bfc5afd49f,['utils/modularize.js'],[],1,1,1
+4ed35ebdb1d3c3ae0f217da4481214029804ac9d,7a68f02ff43aed68c03fc8bf907f6014fa305e66,3744dd55fd8b83680887fa4d8f17706bf6dd9409,['src/renderers/WebGLRenderer.js'],[],1,1,1
+ad2a514515399217e35f5571a01a4cf738150055,ddbc49298fe378253c45908b1018940793b5c837,5f66b71b1923f42fa46714e3614a9b926e812e8b,['src/renderers/webgl/WebGLRenderStates.js'],['src/renderers/webgl/WebGLRenderStates.d.ts'],1,3,2
+7eecac1de42644ba1e0502f601a7ffe9fd0e3233,23704f234ae6f0ca6ac8fc6bd277bcd89cdd11ce,b811513de215d5cdc8340b3669734baf1ce93771,['examples/jsm/exporters/GLTFExporter.js'],[],1,1,1
+ec0f7d6c83e5e18da10d8337a50da95d5709c79a,60430a581b06b02194ea511884a3e436cbd80b2d,4dc817354558be010fe765582044cd9ab67085b8,[],['examples/jsm/loaders/GLTFLoader.d.ts'],0,1,0
+cc8b95f261a8d400dd73b8a5a0bd80d1ac4b9507,338842f652c9cf4906a2514a696283f9efbf2eee,45b0103e4dd9904b341d05ed991113f2f9edcc70,['examples/jsm/renderers/webgpu/WebGPURenderPipelines.js'],[],1,2,2
+89dc6d32978c95eef42ace759c2da431e0df6eba,e7f3d7d162e9393f516d48b871032b8c5f8031b4,e4629dd3df9b72115b332406a36c56f6f6d1286e,"['src/loaders/AnimationLoader.js', 'src/loaders/AudioLoader.js', 'src/loaders/ObjectLoader.js']",[],3,6,6
+4245df7492a33ff2002aee4d752ad3c1a690afc7,16f7d685632fb1c44fb8c7e2b28b8b8866e97a77,e4629dd3df9b72115b332406a36c56f6f6d1286e,"['src/textures/CubeTexture.js', 'src/textures/VideoTexture.js']",[],2,2,2
+d1fe85778b5097527fd3e8d99d3d7fc7049fa3c0,bcb3155a79dec3f9c09fe3f33a03043531d1f41d,ff60cb599b8378003264f963e2aad699ea4d2be9,['src/loaders/ObjectLoader.js'],[],1,4,4
+0a0d087fda5b1fdfaa0e52ae5aecaa52457acf42,35695258db01876f89c405885d7cd40b467dc8ab,39aca0494bd7eb88da19ccf336f43772538eb3c0,"['examples/js/loaders/GLTFLoader.js', 'examples/jsm/loaders/GLTFLoader.js']",[],2,4,4
+4c8a3fd692afed9fcaa1df9b45951a063b2e7fba,030b24bbc44651119636e9cb87ed0f834c01dbbd,1f4aeca928ed8f971a63ca80b20a936b995ce33d,['examples/jsm/renderers/webgpu/constants.js'],[],1,1,1
+b555aa5d4363dc9463f499321cb44a3e95b6b9d2,2aa09e8405443d9b538bfce9770978342e7fa4f4,5ae634e1a4e3871415e418d025618f3f4f540747,[],['src/renderers/webxr/WebXRManager.d.ts'],0,1,0
+ac7b57d69e9d884fd4aa2014e0ed4053145c26e7,523ed43feb2c358bb4af44922029b774db949534,8258225a06d7c04828c4fffb80b92bdf84c6d54d,[],"['docs/examples/zh/controls/DeviceOrientationControls.html', 'docs/examples/zh/controls/FlyControls.html']",0,2,0
+5fbe29a1a62b37317a26fe7a479d0e888c68c78f,75f0ecc8815b780f34f111b0c9d40ec9f8978a4a,54222d950affeabfbbdd46340e19aec9b66ae7c5,[],['docs/api/zh/scenes/Scene.html'],0,1,0
+c73e993ea0be28ac434d1d32d4b871bab9d11ce6,7860f324b9833181f602c51e008072fb4ce9a765,6ef66866d02d1850d384718a64fb5a652571c9e6,['src/renderers/webgl/WebGLBindingStates.js'],[],1,1,1
+e22f67874f12275dfad1b2e4544eaee7eea7ac63,9eec7e737a602da6db926c8d425f0fbde5857c41,fd046cbc06b7a93ed2e34090e7fe19c72afdde9f,[],['docs/examples/zh/controls/PointerLockControls.html'],0,1,0
+2d54007589bc4994d37c58de8af0a94d2add5ffa,a25321ceb62305ecfc7ded184ebee8739076bf70,27114b5607b07e1f6073d6bdbec971233e3f7e35,['src/objects/Mesh.js'],[],1,3,3
+6714a0802f0fe0ac9c1b2453ff55c63f90e0dde8,83bf27e796d1c0f60c0a04f020672874ce114eaf,d5ae07facc15c81faab511396e51f909123b429f,[],[],0,0,0
+2c7e37bf8f2215a9a202238bcf2e0c4e73366fb7,9175e81dabdffd8967fbf4bf3288de7e4669e302,9ca100f2d84d5f24e8877d29f920637cae415f9a,['src/renderers/WebGLRenderer.js'],[],1,2,2
+f33b606f6fcf754d7ec3f1c48c7258e6e17e37d1,91d296e359d787c0fd914e1f078b72cf36ef32a5,a7cac762920ecb124b3d0eee099bb5f3ff4beaca,"['examples/js/loaders/GLTFLoader.js', 'examples/jsm/loaders/GLTFLoader.js']",[],2,2,2
+8544262f46e63748a4e809cbfa8653ca6b48047a,eed2322cf1cc6f73946543e78ae22f34025d1f94,1a8682136eda6cb474881c253f64f74f68a6bbfc,['src/core/Geometry.js'],[],1,7,7
+ecb7e23757e3fc1ae4bec1613ff645420be591f9,da9d4a291e63d2faadc3c5f45c9868c93a828f99,9d7b7c14c1ac8614f99acf8acf5cc329afcb3e4a,['src/cameras/CubeCamera.js'],[],1,1,1
+818cbfee106247d4e131365dd07d978cf1edce34,6446269fe635572ae269ec56b06cecf7bf86f170,9b247071c2be06d68d4eab44ba4d6ce13551325c,[],['docs/api/zh/cameras/CubeCamera.html'],0,3,0
+1c3b0afcb046db4930bfab6f915e912a6be27498,79edf22a345079dc6cf5d8c6ad38ee22e9edab3c,2b683e697b35e9dc629c0596526554e95f9e7326,[],"['docs/api/zh/cameras/OrthographicCamera.html', 'docs/api/zh/loaders/managers/LoadingManager.html', 'docs/api/zh/math/Frustum.html', 'docs/examples/zh/controls/DeviceOrientationControls.html', 'docs/examples/zh/controls/DragControls.html', 'docs/examples/zh/controls/FirstPersonControls.html', 'docs/examples/zh/controls/FlyControls.html', 'docs/examples/zh/controls/OrbitControls.html', 'docs/examples/zh/controls/PointerLockControls.html', 'docs/examples/zh/controls/TrackballControls.html', 'docs/examples/zh/controls/TransformControls.html', 'docs/examples/zh/geometries/ConvexBufferGeometry.html', 'docs/examples/zh/geometries/ConvexGeometry.html', 'docs/examples/zh/geometries/DecalGeometry.html']",0,22,0
+14d74a54b5b0437122690f1e4801d8552813b0b4,3c5f1416cc22254e342327378f8917da6257ef32,16f699473c6cfa8b83793d24e6c85ec913d633c8,['examples/jsm/loaders/FBXLoader.js'],[],1,1,1
+6fbe3fe7709ab558ac6b1342316a24109bad96e3,29230ce75d7bde24b852cf1dbfa40fee0d93abc7,56f1af83280a5afcf1f3f608b2a21ee6a4b6e503,['src/renderers/webxr/WebXRManager.js'],[],1,2,2
+67e4cf0135f2d747005445b1d4e4aca48aa6fdb2,21efe0b2907e7cf41b982c7e86ff708464edc998,69f91066827ee7efae927768d1a4ae019393640b,[],"['docs/api/en/math/Vector2.html', 'docs/api/en/math/Vector3.html', 'docs/api/en/math/Vector4.html', 'docs/api/zh/math/Vector2.html', 'docs/api/zh/math/Vector3.html', 'docs/api/zh/math/Vector4.html']",0,6,0
+c37ac3c8db8f9514a709957b735202bad00723a8,61786cd8795a5d003e1c07c5fe59ae6d7c57bcb1,9aebb13930b1a28fc4caf5e7f0ea88e8d0201bdb,[],['src/animation/AnimationMixer.d.ts'],0,1,0
+dc3fe137c9198a39e9bb2c2038667e9b9d46da67,51a0aad3f5644311fe42c6fd1d9c891ca8a1aa8e,a6dbe0aac9545c00ff7787d65982735ffe041025,['examples/jsm/csm/CSM.js'],[],1,1,1
+010df0162171adfd673cf29c1d6362c66a43a410,74d0bca4fa8c78ea00b1132f3c5f03b89d3d1887,a8787afecc43883d0b75407a3b63cec4fcbd4063,['examples/jsm/csm/CSM.js'],[],1,1,1
+13a2a5ab21d5efac896a5cea00afd476152f8fa9,bb0168be04bfe6ef689250ca428d2906a8bfb040,15879923bdc907d893646e3000ed58f0ef435866,['examples/jsm/csm/Frustum.js'],[],1,4,4
+0a6a1dc6d629b08bea89772f2cb20747e2b386de,50dce760933f1e3cfa09c731624afd9f99f6732b,ea794f5de38438e52fb120971597625f52c2cd5b,[],"['docs/api/en/materials/MeshPhysicalMaterial.html', 'docs/api/zh/loaders/managers/LoadingManager.html', 'docs/api/zh/materials/MeshPhysicalMaterial.html']",0,3,0
+a9fe07be2632a35743946f17a48d9cb2384a3762,2443963d23389055603877a4eb3fb0a7cc716f2f,205e345b4f48f8b560b3b35391fd914cba1997a0,['examples/js/loaders/GLTFLoader.js'],[],1,6,6
+76923fa18994d104f8fff878a3fbaf4e92295839,2b275e751547387b2e555af0bf72207dadad5b63,99fd5fea0d42823a271b7d12bbb9383a7e0caf06,['examples/files.js'],[],1,1,1
+db73e26ef94d18bffa5fe9e74fb3cf073c6f77bb,a51e4aa5f51fd3320e1d820c0c2d3301b92d4567,912575e208e0b322adc33ef4015c57b1ef54f3fd,[],"['examples/jsm/lines/WireframeGeometry2.d.ts', 'examples/jsm/nodes/core/Node.d.ts']",0,2,0
+b480a333b4bf21a67deddc1c245b7dbfe74f9c7a,503d7b018b700734b6b836a9d5a2e89056699ba3,b07ce26cf1d4b9056f4fc73b049e8bccf8e9472b,[],['src/renderers/WebGLRenderer.d.ts'],0,1,0
+59f2cad69a12a845ced3e084175db1c9208ef678,f4e9d19718c6eaec4db8964e56e7847d4399b345,21a91e43013c4c47ae3ce97ad514ef1efd6fc545,['src/renderers/shaders/ShaderLib/meshphong_frag.glsl.js'],[],1,1,1
+78e211ec495ea2dcb8390d4e82e9642aa3e53e1b,e1d7820a93dbd5dbe242034689d8407f8cda1ee8,9987d59799ab316e7231a1e4c634784232f9f544,[],"['src/math/Vector2.d.ts', 'src/renderers/webgl/WebGLCapabilities.d.ts']",0,3,0
+8e22e12e4151ea5c38ad603fa5aa1ece6a49787d,60e4c299277d72c842ee6402d761c3331850fd52,5fd3b5cd3b2ec99a06310fc4046e6c72ac07baee,[],['build/three.min.js'],0,1,0
+01356f36e64059570c69acd37970f2ae28a400ad,9ba4d012bb4b8943d85d824044a17f60acae85d9,92f08b4cdece761ba27abd87f33e624ecb16c284,['src/core/BufferGeometry.js'],[],1,1,1
+8bf08ca1af2e962e70d79a299cb93c122f7fabf7,11ae6232065d52fb0412172bf1f5014ae5023efc,4ab3edd67a233a5856998580dbe1a1d9f098101e,"['src/renderers/WebGLRenderer.js', 'src/renderers/webgl/WebGLMorphtargets.js', 'src/renderers/webgl/WebGLProgram.js', 'src/renderers/webgl/WebGLPrograms.js', 'src/renderers/webgl/WebGLState.js']",[],5,13,13
+5f080a887cf98cf457bc2fa8d4f9b84b2f178bd9,a5c9edd6864bf7b0b0be4644c5388271f39f0d5d,b6445caf38582eac02e54088c438a31f8df65df9,['src/renderers/webgl/WebGLPrograms.js'],[],1,1,1
+83d6dff4b1968da94b319e927fa5ae9087fe8be4,99f73f40f1d995baf0c12c403289c38f0a2d60a1,9b36c7a5c4f3d8e49dea3cd424ddb88ae649505b,[],['examples/jsm/loaders/EquirectangularToCubeGenerator.d.ts'],0,1,0
+251a312cdaf40245fc5ad865f95b2ef78628596f,c7f8f3d1c4a6dafcfd6134c9d5b4c43316baff56,3ac7fa7c48a290b4a3538c003b810cb4c7ab80e6,['src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl.js'],[],1,1,1
+92c65bffbef7660715ae563b1656db6e45dfb647,71eac86b1b70c5ea48820cfd65e6096a2ba06815,e0476d3c7331648d4b335545f4d0564a828d3f04,['src/renderers/shaders/ShaderChunk/common.glsl.js'],[],1,1,1
+9b152a5032b741661ca5aa15c7d3db2016c4e676,3a52175010a0d30bf03c9e9b7f47115bd6bf1d80,0730b431de3684e955ecb2357c027835f040a54e,[],['package.json'],0,1,0
+44a0b356b0b056dc5eca14c9910975304ab7ef8f,0dbb8154d0a82cd1fa2cc9a0b5a2c0955c4e4517,218c0093fb3a33189bdcd041b1fea7b1934a84c2,['src/renderers/webgl/WebGLPrograms.js'],[],1,1,1
+8824547318dc6f4a7a48ce4dae480e30924c18ba,de6472aa78aa2d88156bf732408da4ebdaad2a1a,8830252ad0ee3df8bc542b7a697f3310b6564b10,"['src/Three.Legacy.js', 'src/core/BufferAttribute.js', 'src/core/InterleavedBuffer.js']","['docs/api/en/core/BufferAttribute.html', 'docs/api/en/core/InterleavedBuffer.html', 'docs/api/zh/core/BufferAttribute.html', 'docs/api/zh/core/InterleavedBuffer.html', 'src/core/BufferAttribute.d.ts', 'src/core/InterleavedBuffer.d.ts', 'test/unit/src/core/BufferAttribute.tests.js']",3,13,5
+a709591d04c485785a351e75ec52527895d3e40d,520c30cda017d79cd771ca2dfb43299f22763fcd,f1ac751d89b952ab8dce906be40564565572fc6a,['editor/js/libs/ui.js'],"['editor/css/dark.css', 'editor/css/light.css', 'editor/css/main.css']",1,5,2
+7efa2d4bac200e3299a3a39ad7ed3b22b1279d3b,0df76c8577a52a04a3eaa86b8414855bdd507f65,47903ce101a9a1fc3677e8184d316942e9d16dcf,['docs/list.js'],[],1,2,2
+b6328b8193afa352497badda6835a92c3ac787f1,f1936dc7af6bbcb34725e497f604d77f4039dea8,73a1ada04295d35e604f076862eaa4dfddad4163,"['src/renderers/WebGLRenderer.js', 'src/renderers/webgl/WebGLCapabilities.js', 'src/renderers/webgl/WebGLMultiview.js', 'src/renderers/webgl/WebGLProgram.js']",[],4,7,7
+73a1ada04295d35e604f076862eaa4dfddad4163,23550627a74a01ed82105dd64885331e7cb965bb,7e0a78beb9317e580d7fa4da9b5b12be051c6feb,['src/renderers/webgl/WebGLProgram.js'],[],1,1,1
+ea6f76958c82793213418184aa2727a2518bf1be,709fe8964b13fe3b357142547493c1b9927c92d3,9769ae4671d92ce99692ef70952aa11aa5cb060f,['src/renderers/webgl/WebGLProgram.js'],[],1,1,1
+2d77fcbe8fb3099acfbf66e225fd6c7691073bfa,3491584ecfcd8f3207868a48039154849336d6bf,7e70c6003d607c7a1469fa110a0cd09601f3a935,[],['docs/examples/zh/controls/OrbitControls.html'],0,1,0
+17abeefff6789d6d37758966b454f4236fcc10ab,e09031ca2bd9229490daafe938f6551938c8f05b,cfec7dd82b0d7925f8176748fd536320465c4382,"['src/renderers/shaders/ShaderLib.js', 'src/renderers/shaders/ShaderLib/meshphysical_frag.glsl.js']",[],2,2,2
+3634115e4685f086cc9aab0566fe2711a36d1b0c,9c592151b4928ae37c3a56a77bf5d9b2db6a2261,84f9c5145548f67ffebf6e82478df97118c7bfd3,['src/renderers/webgl/WebGLPrograms.js'],[],1,1,1
+092c5a73181597fee06612d4e38d92314d9f0f13,c4daffb3a6c43afa1138b068ace3854720290924,3852d77f55272169e4f0e5fa99f53d1ee4c559cf,"['examples/jsm/nodes/materials/nodes/StandardNode.js', 'src/renderers/shaders/ShaderChunk/common.glsl.js', 'src/renderers/shaders/ShaderChunk/lights_physical_fragment.glsl.js', 'src/renderers/shaders/ShaderChunk/lights_physical_pars_fragment.glsl.js', 'src/renderers/shaders/ShaderLib/meshphysical_frag.glsl.js', 'src/renderers/webgl/WebGLProgram.js', 'src/renderers/webgl/WebGLPrograms.js']",[],7,11,11
+199d70b0b4d8683ecfce8fa005252a9f93431399,7d1fc45d7237dee86fd7558c5014480c69419136,6c6a39908b375df531df50914a60c1df437e50ba,[],['package.json'],0,1,0
+bc5e51d4baa7ace7ffa77aec07780d7da08f894b,e2538746acec94612294ecd9dd0f16275dc5eb6e,5d68fa63b3faf7a9a9650e43e01b3a7323f721a4,['src/objects/Sprite.js'],[],1,1,1
+9c261bc5b531e4861dd4544d43fdd07fa6e282e2,c89c1be0585d8c276d6a6157dbbcb50722674da0,2a97bf72fb1e862fedb3f5912eb3e6b2a46ff395,['src/objects/Sprite.js'],[],1,2,2
+b5288000c9e89c59799dd0b06fd2da0d2092529d,8342d027cd20effe32ddbe7034ae5d9991172774,8516e9eac94aff076bebb7dcd4852d3de3db9be0,['src/core/Object3D.js'],[],1,1,1
+70aee41b03745e694f0860ee93382127d6b4c8a1,0c95418a3e8b7d36497df11c23c3388c29860938,c4f53e0b4afe365d94da9230d2c9273a57c0561f,['src/core/BufferGeometry.js'],[],1,1,1
+c4f53e0b4afe365d94da9230d2c9273a57c0561f,88f4c9f54b7ddcdee4daaa13b25a92f9ebc5e712,b5374bdab16c05e3b4ed491d735985eb852ef25e,[],[],0,0,0
+9099439be9f64d4aae989e9ff3b20abf39cc86b8,3cf6f6e84dc80740ed2241a489185fee1acf3049,d41db0e13e26a610a04e5ff20a66c0a18faf216d,"['src/materials/MeshPhysicalMaterial.js', 'src/renderers/shaders/ShaderChunk/lights_physical_pars_fragment.glsl.js', 'src/renderers/shaders/ShaderLib.js']",['src/materials/MeshPhysicalMaterial.d.ts'],3,5,4
+d9b4126df65b16629eb27a384ade7d52b0ead85e,070101a9b3ae3b971316b4ae82fa3fa28452c9b8,1bb818e8357a5adc9f754fc9641cd0cfb600fbfc,['src/renderers/shaders/ShaderChunk/lights_physical_pars_fragment.glsl.js'],[],1,2,2
+b81c8c42075eac2a3d0cf0816b07c3bb377403c3,a9518ccb5f4160982ca3d6bf67405b76e4bb83d9,ebb0177334b6dc77d37068f879baceace5e2ab89,['examples/jsm/nodes/materials/nodes/StandardNode.js'],[],1,1,1
+fd3260669a438d80bf9e97d5aa7b7e6d66131a2e,fb0c776dd86f704729640421b0d6cce4fcf5f0da,ce97f8b14b19c5130f0c48f27ffe0dec5dce042f,['examples/js/loaders/FBXLoader.js'],[],1,11,11
+93963725f96424f85163e7ac0831009f8eee80ff,63802074d625febcb25f91db1c11b60681ccb229,4951a287075315cf765ee87f44c4badc1c39d6f5,['src/constants.js'],[],1,1,1
+4466b48ef54dc412a8b27dfe82afa668c3a6092a,a9518ccb5f4160982ca3d6bf67405b76e4bb83d9,ebe52525a2d0b22f12f18f374ee6ebb51977fcb9,['examples/jsm/nodes/materials/nodes/StandardNode.js'],[],1,1,1
+1f5bbda13b5eee972590e4d53c394b10f79bf180,7e3c98a138476411472700d48fde3e4a6f7af3d3,d40871d61863bcabbd25e2146f7c95f2f7aa313e,[],['examples/webgl_lod.html'],0,2,0
+3d93b1bebd6900d4ac1bda7b2809b208ace8ae6e,cd998e7576f64f9102413f17d39186ffd6259dc4,895829f6a6ba3b7bb449914e2a6144a77e0d0285,[],['src/materials/Material.d.ts'],0,1,0
+4ee03bb61a37a383e38023b3991790b074a2c908,abe885734e0a1b1d689c394f66e872a346063473,df2375a05d236c2b4370ee91c2292b648d42a8e0,[],['docs/manual/en/introduction/Import-via-modules.html'],0,1,0
+a5cb3b4ead9e7c6a8a5d156107bbb053b50bbfea,a5aab02149f62df9d8498ae6cc9bddab9ee35105,df2375a05d236c2b4370ee91c2292b648d42a8e0,['utils/modularize.js'],[],1,1,1
+79349fae7c361a3353a89bdf10fa4d2735c01c81,66fe16da900187b2bdf511d6decc5c58b148b519,38f2f5523de33b8c08ed708ae9cb60913f6062df,['utils/modularize.js'],[],1,1,1
+cdcb80c180d724e71cebff29f9372a0ae7e274e8,62808e02012e23e81712bfe3ae5cc1d7a19729d1,691ec8c42331f47aa7df16eab488d76f1fcf75fc,['utils/modularize.js'],[],1,1,1
+83180aed4104a22d1ce05c33a0f26b3b35da6883,61edddf6ed911e68f5eab487b5649368eac69747,b68798800ff435aa47b40d28c8a0b129182b2b33,[],['src/materials/Material.d.ts'],0,3,0
+a9224dea5b2b5d621d4791e67efdbe415f52a7bd,42cf8a3abb8391b675d1ce3951b9f45204420ee6,4058d7c6f10760e2b7db8ba5a68b478ea28b0d11,['examples/js/loaders/LWOLoader.js'],['examples/webgl_loader_lwo.html'],1,9,7
+4ac589714ade90075422fe6216ea6d1ef0318810,5cd8fe02fe2325770a59046085fd270709fbc3ae,399f52d3f547ae8adfd158dd8a7bc8372352fe15,['src/renderers/webvr/WebXRManager.js'],[],1,1,1
+b5eacca97e799119b3f568c8ec55e61b72c1297a,de46d2567ccec1678844252a89f7792bcec0a1ce,80f77286a1b5a1aabdc9a4e61425a0015fd9f468,[],['src/renderers/webgl/WebGLShader.d.ts'],0,1,0
+034df4ab88170af51e02928e7d1c87977623aa53,e644a399a72e31bf52fb680bc1f21a1f9466fbad,fce051cf61bf0dc22e56f21aca7d47eab71acdb5,['src/renderers/WebGLRenderer.js'],[],1,1,1
+2714a43aeb3f9d1a96f173e72206f7160f037d0b,357dc634ceed31db19fe065023230941fb2e5cdf,7df13626e6f195550ff986a3a63c891af48a6c9a,['examples/js/controls/TransformControls.js'],[],1,1,1
+27b90b8f93ec52c1988309d2e4bc075ca8259901,e77034c22816e5c51e69a2ebb17d57bb9b1855d1,679bbfb14d6b67897175092879c29d086aa97108,"['editor/js/Menubar.Add.js', 'editor/js/Strings.js']",[],2,3,3
+c7e2c85e6cfbb5946186b7ea5edd51c333396855,54354edb2edfd9b436b445dfc8209b05bdc69864,04c4fb02c53f36454b1fa558b4972196412227c1,[],['examples/webgl_materials_nodes.html'],0,1,0
+c547772cf48222733968f0ddd2a45d4b55803ca9,2bd6d155d42bb89e34734e5cdcff51b18e964753,29ce32efdc61bdf606763ae2d312bea38ffb2dfd,['src/renderers/WebGLRenderer.js'],[],1,1,1
+20f22382c79c2388ffbd88469158bc40b86f61b2,5082ece88e3719c451fdf84cde8f0dd7ec92ed76,f89180d3df9021121bc1d670f1223ff2166eddc2,[],['src/renderers/WebGLRenderer.d.ts'],0,1,0
+5d5ec83b1dfdec533592f5bcc52814c4e9d1f5f4,4e2e96d87f989f57254c6537b076225a021d199c,0f671389163c4b0d9d02dae7badadb1517029380,[],['examples/webgl_camera_array.html'],0,1,0
+d51c345e0bc0ac301dae82fe937757de0aac3412,c20dff3314da24622a26a18e7281c208c73a7ed2,cc7deb947da6451b03559a2e35e3361c1b9b3d6c,[],['test/unit/src/core/BufferGeometry.tests.js'],0,1,0
+fe3f882cea4943a25c194cceaa90b2de48e4eb1d,850b7359c1ed71b09ff6b49f797ed3c320baf294,24b35208fa3250773278cc7cc4c98fb4c7242ceb,['examples/js/loaders/GLTFLoader.js'],[],1,1,1
+240d2ca5ed89559ba7001a831fe17150a473a764,9f4cbe30c7c600f12b1287c9560f772cac58e61c,2db634d94955e119d5a519d091cb57ebf52f55e3,[],"['examples/webgl_multiple_elements.html', 'examples/webgl_multiple_elements_text.html', 'examples/webgl_multiple_views.html']",0,3,0
+dbe619d6d6a0ea35050c9891974e86cbebb5abfe,06a90033c33d7cdcc5897cc4ad4ef7556f9c8cf2,3b8869c43912e6cf3a3b0d508b17ccdacb9b3277,['docs/list.js'],[],1,1,1
+4b5c8ee3d27e6f90bfbebadace5655ef31ed88db,ddf940624031de703077169d616b9d92f7ba1f8c,20406bb122ae890b7be998aa8484a181b49b8ee9,['docs/list.js'],[],1,1,1
+e61e7c0ecf2d587c655d87a0366ea7c9c11865cc,ecde7386a139aa5890aad7a9b6a6ef7b225a87f0,dfd536f1fa82dd353b6095caa2c719c61c194bb4,['src/renderers/shaders/ShaderChunk/tonemapping_pars_fragment.glsl.js'],[],1,1,1
+694764d57cd9e019200d669b94e9fb390988a578,c131bb2b2d4dea38c77f28e94d804665caee44a8,344ff23af6c1f19af78294a6e8014ca73a499c7c,[],"['docs/api/zh/cameras/ArrayCamera.html', 'docs/api/zh/cameras/Camera.html', 'docs/api/zh/cameras/CubeCamera.html', 'docs/api/zh/cameras/OrthographicCamera.html', 'docs/api/zh/cameras/PerspectiveCamera.html', 'docs/api/zh/cameras/StereoCamera.html', 'docs/api/zh/core/Object3D.html', 'docs/api/zh/core/Raycaster.html', 'docs/api/zh/scenes/Fog.html', 'docs/api/zh/scenes/FogExp2.html', 'docs/api/zh/scenes/Scene.html']",0,66,0
+6769fd8e7330bdea222fa12f393365ab7bf37beb,1c66840124c7245ed7b10eaa9a5010614891a218,344ff23af6c1f19af78294a6e8014ca73a499c7c,[],"['examples/webgl_loader_texture_exr.html', 'examples/webgl_tonemapping.html']",0,8,0
+1c66840124c7245ed7b10eaa9a5010614891a218,6fe568e7de7cc0363971ab22dfdaa43818a8fd73,07b24f7f03e73174278152f062d98068124d6ff2,[],['examples/webgl_gpgpu_water.html'],0,5,0
+5ae96fa93595c324f2aba52dd40c98aa9da1e8f0,699b449cb50e21f24936fa05fc4900a29f500471,7d2a363025192d21bd1b93118e1dc6143b328d9d,['examples/js/loaders/GLTFLoader.js'],[],1,1,1
+9554b8146c7008507a94677004bdf40c5db4fbb0,1f9e34189663901b57bab169671815f6eca8440b,570581219595d8f34e74992508f825674ccf17bd,['examples/js/loaders/GLTFLoader.js'],[],1,1,1
+633c0f9d6dcff64f168abe98e5413f55652f85d9,04ea07dd5a0fc92afceee6ecc776e3cdba11703e,73d77bece263753f87ad7823013ee72953d03aae,['examples/files.js'],[],1,1,1
+7dcba1d35afeca4f0c3563c243deaa016a5163c0,5811da54bacee7d6bc7c819e27bff65c86bc6cff,9b3d5644eab24087750a30a270595cf941615840,[],['package.json'],0,1,0
+f08d22f7515805ca2a731e0f1921f9fde942ed30,21f67daeccd75726fdf96e9a5c88659e0faafbc1,94743d102bc4f63604b75d5f7f2d87aa834dfa36,['examples/js/loaders/EquirectangularToCubeGenerator.js'],['examples/webgl_materials_envmaps_exr.html'],1,2,1
+6b3e0852d7a67178f3b64e6d173842c3806ba4df,ee2eca9848cd9b444835e711ca8ac344f081445f,f5f566ef8d6cf0628c6820997d9d1f39fdb6abb8,['src/renderers/webvr/WebVRManager.js'],[],1,2,2
+368d1fd018c8e7f70189a2e424a37b0b7d5100aa,920caf376f7c71c1678ab557c7da577a0b1f0c82,9bb3c6472074ed87b77269fa9d09ff62fa7706d8,['docs/list.js'],[],1,1,1
+2cf6e119c42261cde16bd17ec6b2f23b44917ba4,454cc07403d23227a796b36af0588f55b6ab7744,c6354aeb6a03cd28ce9a2a5e13d8a940324e97a8,[],['docs/api/en/textures/Texture.html'],0,1,0
+371ee08d7857af6775b31c80f2d3b20af04913ae,8e4c6e7388874e5c4bd5bf7e7398fc05bb490880,f829d735dd7c0963fcacf8dfe433299848cb4dc8,['examples/js/exporters/ColladaExporter.js'],[],1,1,1
+c4a20fb3e7a0f73ed01d571be25f9ba8ba5fedf3,e8948e3b6f1d0f93f116ec2f6031c1bd6311efa9,f021aaa6e7061ba0d15c5bf84d45bdf23d82b1e2,[],['docs/examples/exporters/PLYExporter.html'],0,1,0
+257cb656d57bc9fb7d0ebdc31120f203bb7a91db,fde0d3494b257bfefacd42ea05b78a9f1237cc3c,c21050599ecc97564502e931377000e9ef598512,['examples/js/loaders/FBXLoader.js'],[],1,24,24
+3ac4c045ab22a30961dde1f518f881349eae4f2c,98f84c1b26a1d0506859b3aff3bf937ceb69478a,5067e5df79656cc8f101c3842552a29a2df50efd,['examples/js/controls/EditorControls.js'],[],1,1,1
+205a2fa44fb481ad5695f356c0f840e5fb5350e0,b5984dc299149a32aeb7b09999d94ee379f9cb7b,76975754084565cceee237654b470ab3acec34ea,['examples/files.js'],[],1,1,1
+be2d26b5986b2107bfdf6167fb0246ed8c41827d,2d0a1ee70acc22222bfaf08c7a502249b6ed9859,35ae830a7c4544582ed2759e5b18c5d6ef37c6d9,[],['examples/misc_controls_transform.html'],0,1,0
+a18d1a217d68d13d4916dccc75beef7b3aab5b61,fda6faca1a3924a63f5f4016b3935bf4f9f317d7,a0c93c9688e1567bc252605bd64af926c982f39d,['src/renderers/webgl/WebGLState.js'],[],1,1,1
+ab65cb7221b12a7c014a85815dce247062a687ee,46ee5b62b9e466f2f4ba3a2669c98d62e229bda5,bbfbe98cb7e602aa5d969b3a236cac1a7a3197d3,['src/renderers/webgl/WebGLBufferRenderer.js'],[],1,1,1
+1d14b57400058502b5be923c88e79b0106394f82,fb84b75446dbc095a3646d1f24b8414d78486e47,bc3aa48ed4ea8190f30957a7993c9135fa8047a6,['examples/js/loaders/GLTFLoader.js'],[],1,7,7
+e043959eec65478848a7fa0bdf8c863ad8d50069,55e903584e17ad238f5280972b551602d85b5e91,bc3aa48ed4ea8190f30957a7993c9135fa8047a6,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+ee853eae7b23b1c3031aa7833d2da50aafe72126,c90c0285caa8111727c081c7a9150035fcbc2bc3,1cc85a965a411f21c3b835decf4cebfe42313400,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+5d14bf2819e0c5634d64ea17ebaa6c125315019b,72afc6247187c011b3984a190cf7786b6521ce41,25446d6cfbae87c733c041f4b7fe1df6bf5665df,['examples/js/loaders/FBXLoader.js'],[],1,2,2
+a3f002285b6c491986546099fc1d0b9ae558c089,39ddddb2a5b9e9d115ad39cdf72eecf90a5cb5ed,8550bd451dc7d0c4a91fdb04da17302ccbb58c1d,[],"['docs/examples/renderers/CSS2DRenderer.html', 'docs/examples/renderers/CSS3DRenderer.html']",0,3,0
+9fa3edc00f5add8c28fa5a62a931f701e75cf518,f22daf7e6d2d386adf4ea41b0cfecbedaa4d3617,36dc4a7cc980e71cf227e09a02262014b9539399,[],['examples/webgl_loader_gltf_extensions.html'],0,3,0
+4f670970307820216b597566376676923fc69521,da321580e6629360898f31d39b2c2d8e4d9c4172,5abcf137fff1f12a28b693783011eb701c0e4533,[],['docs/api/materials/Material.html'],0,1,0
+465df0826caa1c9d006ea6720500e6671e95c5a0,782e4a83c44b2d125aad49786125dcdcdb528d25,0e5deea377c2ea0853771cd98d20878b5997cfdb,[],"['docs/api/cameras/Camera.html', 'docs/api/core/Object3D.html']",0,6,0
+6c5da91538d1976850e5130809316003e8db3e0f,e362e29d73f5b451114b76d478c98cde5819b400,b23b2d7847fea124fc5a1d5938ecf038c82d8873,[],['examples/webgl_loader_gltf_extensions.html'],0,2,0
+f57df83cdab7ff20acbf704a7ee5bdda093edb76,eb1e4bc60e4c935960f5474e9e377ab231fd2474,d4e771707cbc2e181c75c713129fe3c88333c5ac,['examples/js/loaders/FBXLoader.js'],[],1,2,2
+25060edd370111624c9f5fc0f2f05c949ad10928,4acf70e95f6d59b83a9d3cd4ca5452c4a07ca493,431a936c9a035d372e64336063b90ba215d4f845,[],[],0,0,0
+4369d6ae3dd8693afd99a708d87d1332e7283936,74ad881d040c61165ad0e8544a766f4cc71a00e5,a8576261ad2dfa20b8f78c577005a1443a947c7b,['src/animation/PropertyBinding.js'],[],1,1,1
+0cfed7305f141ae1535cbe3adfd894e7dbc36c8a,c5309cf13b96ffb25c552592c1269e428d9c245a,266395a28f79bbd098debda36032a179664e964c,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+c5309cf13b96ffb25c552592c1269e428d9c245a,6ae9d8074c663229987a11b3b9b43ae080d16066,d3eaa7f538f9b8f167756ac9bb61533ed483c738,['examples/js/loaders/FBXLoader.js'],[],1,10,10
+b52b4d94d7c68ab37f9e1ecbcb2b168cb16006f3,8eee1d227348230e831b8c3b924f4305248dd491,681e9ac34c0922a904a10886d5b6f63e57d8732f,"['examples/js/loaders/sea3d/SEA3D.js', 'examples/js/loaders/sea3d/SEA3DLoader.js']",[],2,2,2
+2f1df3dc67f652cd762adfe16fd2d9e4427a3044,2e593d79f9c5fba0216579ee944de98e324d72a1,14affdcfbda02b3dadbd420fe2583bda34c60b49,['examples/js/loaders/XLoader.js'],[],1,1,1
+0eaac7b9f8a39bc6c1d0fa9d12730e3383d6e7f8,2003dc38b9a94346463f2f6359dea20017982831,dcf6a1935ec01573166c99a623a737a9aafabfec,['examples/js/loaders/GLTFLoader.js'],[],1,3,3
+77c9ea1bb0718b21ab7a697378d49c76bbacfaf6,b5e84f4963c941a40251d0ea78cfd85c18a661b0,e2f9a78fe49f0e09bd108e733e54989c4e4ea40c,['examples/js/loaders/GLTFLoader.js'],[],1,2,2
+7591021ce7ed5255d4db5ff83553df514cebdde1,ec2a091f937a9b95c1812ca81187b9dc41e2a766,f3369e35e147366052064c0240766119637cf3e4,['examples/js/loaders/FBXLoader.js'],[],1,16,16
+405084c6ab448d6a6d616b42e9561164d8cb11d7,8eb289c229c2d0337f8a92316cf0ab0d4fe5282b,df5269083e45f1d4e70324eb463362bbf5373b7c,"['src/renderers/WebGL2Renderer.js', 'src/renderers/WebGLRenderer.js']",[],2,2,2
+9276322acd79757718879fc3bc36e2243fa0a27a,780f98dcfbacedcea3ff9ab9e8412ccc5ba97f34,97cab20e90ab6188b9bc10af13d5be406f0b8854,['examples/js/loaders/FBXLoader.js'],[],1,2,2
+9d9be47896c43499354ff74b2d19c884df3ccb41,4daa88ba7955857f0e7494813d6eb9a3de392459,0b4266d074fbebfef56c9bd9ef64ae02eef4b596,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+ebb9614abc49340ba2267da6aa207608f2b298d8,67f4855b5a1541bde6bb724ba571af6e29a7a368,0b4266d074fbebfef56c9bd9ef64ae02eef4b596,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+3bca01c48fc84afe6336e730e48608c8149b0a39,5e8f323550a985153be13b79f57ad05bdb0edbcb,0b4266d074fbebfef56c9bd9ef64ae02eef4b596,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+ce2395137f6cd75be78830e537d613e09bddf4a1,351fa33c41c38222131edf1877e8619f93addf2e,21ab28ec24611f303d0f5975f8d3236a8f863dde,"['src/extras/curves/CatmullRomCurve3.js', 'src/extras/curves/CubicBezierCurve.js', 'src/extras/curves/CubicBezierCurve3.js', 'src/extras/curves/LineCurve.js', 'src/extras/curves/LineCurve3.js', 'src/extras/curves/QuadraticBezierCurve.js', 'src/extras/curves/QuadraticBezierCurve3.js', 'src/extras/curves/SplineCurve.js']",[],8,8,8
+9a2c14717bc237d01b205666ed188ec8044fa838,56734d2cead06a8e615007f71c066509718f30b0,b8e3cf6309b281665fa13ebfac18a284280c7669,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+25b55a12449127aef4a29fd0448c52d8854b12f8,370b0e859821621b890b12bc8016b073d7a29789,897253bf1ac6a4bc2bf9f0c7f5616f9da23a38ff,['examples/js/loaders/FBXLoader.js'],[],1,2,2
+5ef5fcb87eb96756a1a846c6ccef0e33e798fd3d,dae0552d97fc61f47462ac959b7cfc80fa034ae4,20a821c7882913a8b14f96323f0f729bb94b4b19,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+2435d08c5bebfa3b3f70a7f0cf67da230f3dbdce,a4b96caf949c787b3e25bafc289f6aac45893334,4ca9b0a52aab3fbe403baf090143c5f2aba1a96a,['examples/js/loaders/FBXLoader.js'],[],1,7,7
+64c63fc27c4d5beaf05cf1431ae24fa03b657823,1505e69e61b9707cd38b5f474ffb50c62c524b11,697505d2cf8c66a9efcfcae066bd63aa66ef6d9c,['examples/js/loaders/FBXLoader.js'],[],1,1,1
+c261aad8aa0cf947ebf6d4da00d47e7bc7506cee,254bc2a73e58f75c2110c136a7f9c8025049dd29,120560f82ecc2392794c11764d6b91976b891c51,['src/renderers/WebGLRenderer.js'],[],1,2,2
+40531154237883c22867c6a3be977a4ccd343f8f,09ca0ddddc54294a2f9123f6723ab47860a7f56f,5f4c46b83eaf2008a099148fb1c45cb6bc2677f8,['src/textures/Texture.js'],[],1,1,1
+96ca9bba3a040a2f85193c043e4bb494690336e5,59eac06ed90983aaf4c58b1137f09248691923a1,c773acec25248675044fb93d3f617ee834cf0e86,['examples/js/loaders/ColladaLoader2.js'],[],1,1,1
+1c647a0db87f3dc9feaeba1ac46115145e97ffee,b362ee405b0ddaa378f24310564b5f94a5414dd1,1b2e8265b056b3ec4a819a18e159c51fafdde01e,['examples/js/controls/DragControls.js'],[],1,2,2
+68c6435710fc4c21a82e9244d6356b368379cd6b,9add2517b58295ea1f8e89a7e13cf915b0f2252e,223b8beefdbf9fdf30363bc03f56d608776b9014,['editor/js/Sidebar.Material.js'],[],1,1,1
+9fb2237298c6c4d80d919b0346be823d7147a396,8c683c14139d047ad53be85bfda98124371d80f8,f5fd35ee6fc099db24d3a274363674047084335c,[],"['utils/exporters/blender/addons/io_three/exporter/api/object.py', 'utils/exporters/blender/addons/io_three/exporter/object.py']",0,3,0
+985220c0076928f11d81ba6d8f53d584d1549932,c48bfb9a2428473413a4cc5341fa4e78b7bd2ad4,dcfa48a23524c4ecd5637cd9060ccc1413d2b429,"['src/helpers/DirectionalLightHelper.js', 'src/helpers/HemisphereLightHelper.js', 'src/helpers/PointLightHelper.js', 'src/helpers/SpotLightHelper.js']",[],4,4,4
+c451782dc090d02b09718425cdfd105f9d50d4f8,f82763ec6c103acf81a957d422cdcecb3ec3fd7d,ae6007a58c20ec7e8223e6af8aecf5443b222e97,[],['examples/webgl_loader_gltf2.html'],0,1,0
+4d1f66474bdd3370c2a3b500532fa40be3ad9bca,43a268b91d33c205cfa912b0a11c2cba8457529c,2514bd3f437fc25a071caa760863dfc9c7c62434,[],['docs/api/math/Color.html'],0,1,0
+f82763ec6c103acf81a957d422cdcecb3ec3fd7d,743524cf7f58e111fbc0879f0b0c20bd7bf849e6,7871fbed080cae463aee0ab1ba55ace2062af979,['src/renderers/shaders/ShaderLib.js'],[],1,1,1
+6067f8953d6961e024a39a04bbbe60e3dbe0a659,d09608172875b769c9b50d6d29c71daa0db9f690,6c7ef7e96034ef37fbc72b68f27d88821b9cca9a,['docs/scenes/js/geometry.js'],[],1,2,2
+15941e89b1c923d7a2d94049f80144e1e7a34d07,bce22389bbd4595fe0d5ab7f4373f8e6a5350bc3,63c049e01dda454a3db80bb34a707dd138c38d89,[],['examples/webgl_loader_gltf.html'],0,1,0
+0a24f91309d080f04f9b30c8f63dc55a80aca47f,42e26f906d1f25a701a345fd24bf9b209446fac4,ce5e112f397db18eca3bd3d450e26d550cae4012,['src/renderers/webgl/WebGLShadowMap.js'],[],1,2,2
+f3edce8db67c055bfb5153f95fbcc6b24e616770,9d2d839d7185927b1af063fba4135ea15e8dd878,8dec0b6ccfe8f80edabc769454fe043d9abe4ca9,['examples/js/loaders/GLTFLoader.js'],[],1,1,1
+a302b0c9f5732181520d4a6c1d726deeec2ce0a7,46630ad44bf18803e3a554c4fee6d815f291fc63,82cb5574ae3ec1ff68ce60907e16ab426f5bca84,"['src/core/BufferAttribute.js', 'src/core/InterleavedBuffer.js', 'src/core/InterleavedBufferAttribute.js', 'src/materials/Material.js', 'src/math/Euler.js', 'src/math/Quaternion.js', 'src/math/Vector2.js', 'src/textures/Texture.js']",[],8,9,9
+fcfb140529814c1e5d675a90fd36f44c796034dc,651d202b4fe848c0846dac8f7641e23e14dd5f29,d5adf4c96351a31a3a65213c9d7a5f536c582dde,['src/animation/PropertyBinding.js'],[],1,1,1
+6d2656766cae0b7b230fb31288938e7d06a5d4fd,636d2e5ddbd85aa12ce3e26be23d414c93adada3,7966036dfeb270c1bbb2a649e293b842f950b1bb,['examples/js/postprocessing/OutlinePass.js'],[],1,2,2
+cfbc8b2b9a479c0c81f1714866b3f700b125c1b3,36767f800a58032437e8171f443263c542a226f5,dd4e3d139f96212f3aced85a82caccabbd3d4766,['src/objects/Mesh.js'],[],1,1,1
+50b2d2f70f7d245de9045c1c0cabb907d0f14880,7eef51a27406bdfb24c29b4b1ff5f3303711ad59,87a8f52f70f0ebcf2142694e8bf9cde4ff6539a6,['examples/js/loaders/GLTFLoader.js'],[],1,3,3
+aa6c39de6a3344548910af425868c67d6f5dc470,d22e472012f1c3891ee450c8ed5b26ec75f1432d,87a8f52f70f0ebcf2142694e8bf9cde4ff6539a6,['examples/js/loaders/GLTFLoader.js'],[],1,1,1
+1f8bb9ffdab3333e9455a053a682d15bac460ec0,4424fb32f2ade4510dcb034dcf699d87aef3a4c9,06a2e667a8859a97c3054cca4962f35e87c15531,['docs/list.js'],[],1,1,1
+8ef5dfa9fc87721f28fb9ad137ef81412d9cc72b,106886a3c491e4a7457ffdf4244ac32be226fa4e,003f120a019ced74f9136e887b07f793bbc7cb83,['docs/list.js'],[],1,1,1
+6b08084037b5ab27299c7e0a0b516cbdf88cef15,ebe3cf313bd38bd5d416a51da0644fc7fd7cfc95,a67e3b00cc1285b207bf745067d36cdbafdb5bda,['docs/list.js'],[],1,1,1
+7c1edc336825dc28a6d419969a406333a072c40d,d90f6faad08b26cbc450b74802e2a53de3d63107,56ec5ce2e269d9fdf08ce6b385813c6ce0dc10ed,['docs/list.js'],[],1,1,1
+4cccaa17967a0df2e534befcbc0b3113dc7d93eb,ee1277c9e8e608834e2c99df1687c557cb14d0bd,42128239fb44e5792d5a0edf7a0e590fafc7c237,['src/Three.Legacy.js'],['docs/api/deprecated/DeprecatedList.html'],1,2,1
+e6182d73d5efa7222568797fff9cc27dcf01e23b,9d6f2d4ad2a7adbd61e060f494509afc6ff936af,e12d47efca403582ce7bdb4c4a62d782af3f256b,[],['docs/api/deprecated/DeprecatedList.html'],0,1,0
+d2b7172efc0238b3cd1ad7c113f4d98a0f2e9c34,997d259501d2f4cd411be7125eee03ec75debbfb,31bd77cb5a0daa03383fc24b2f68ee689580d05a,['src/renderers/shaders/ShaderLib.js'],[],1,1,1
+e32ebc8805b354da7eb364c606ece401aceda136,7a3ccd4b830567ee37fae51ab1579d244292d237,576c75dadaf04c76b10e3f9b6e36f9af53e3896c,[],['docs/api/math/Box3.html'],0,4,0
+7a32d5f82eacdeed7ac5b87ecd667115ad85854d,51a45080879849ab45d2750149185fbf42f104d7,40ddc192c76046d0ece4d20391f0f52398d7b0a2,['examples/js/loaders/FBXLoader.js'],[],1,6,6
+a0e607d019dfbcc7fbc1bfc1bb1c29791aedd17a,7af9e3813a22b1afbfef744a12c81cc49dcfa61e,fb1b800f51d1047520907f4f866ed203a24227cd,['examples/js/loaders/VRMLLoader.js'],[],1,1,1
+e00cfbf3c795703f91e7fa6ddf2325195dc7deba,f986933485a8b8003b2395e0ac9d8335a814fbe1,183eff477023d10fd7e750ef39c27ffd71906c5d,['examples/js/loaders/MMDLoader.js'],[],1,1,1
+c5a0ac8bb7380a36bab55fa29ea59ece3d7dfc5e,82fe6bfd068a1d42724fce3b44893e8dbc3c8f6f,b76761a587bf4def14f90f39a64f93a547a02cd4,['examples/js/loaders/MMDLoader.js'],[],1,1,1
+82fe6bfd068a1d42724fce3b44893e8dbc3c8f6f,2c8e655151d028ed5e7f2440fe6b7a70b1c9becf,dfe50c81bd9d63357861b942aa517237d65b3102,['examples/js/loaders/MMDLoader.js'],[],1,1,1
+1ced6b3ab3042ab80a5cf2c22de2b77002f2a276,4342cf8ec12a68bdd53627731b63d11358aede72,082c098699263d8fe41a592777a0c749396ea816,[],['examples/webgl_loader_mmd.html'],0,3,0
+5b70fa65477cbcc02d8cb9c6e7ef1d77eaeb90a4,8e5279ea8ab18ee3df704543e1f485d109504222,c72920490e93ff745bec54b461ae931e83ea39f1,['examples/js/loaders/MMDLoader.js'],[],1,1,1
+6b75f6b4c2db666672efdbfee3644c221d5c6153,6ff95c95fc26b8d0dba13af1c011d54005b4e781,9a27a70b87f310d09cac014d7b0c96c714ac242f,[],['examples/webgl_loader_mmd.html'],0,1,0
+6ff95c95fc26b8d0dba13af1c011d54005b4e781,b063a8f714fa8545a5e540377fd493161eea322f,edc8378b419fe434f059573f49efa53cb5cf6b4d,[],['examples/webgl_loader_mmd.html'],0,2,0
+7209a5b2ca0261e7c7a5171c6f9d1b9888176225,f9f3048c03a34092f0492dc2fab2e138cce5d8d4,9bc935adc4f22f28d29428d5d81273551c39f66d,['editor/js/libs/app.js'],[],1,1,1
+9d3cf8c2f51083bb20244f3f6e0b25cfb85c6837,0e76fd235743602f58fbc53637986f16ee34fe46,58151278fb94d34fdef17022541266ab43c84e82,[],[],0,0,0
+c892c055e0526b43c2bb0fb12208165b11abb7ec,7814c1775ff831d92651fe5bfc03f29f56c34963,1390a2ef05add9f998f4701a6790a5725b816e6b,['src/renderers/webgl/WebGLState.js'],['examples/webgl_materials_transparency.html'],1,2,1
+53bf8967bd47e6d5a0a06204bac32020abd5cff7,3bd62a1bacaed8aa10db5fa59dfc207a16e30c9a,0540e0e3ddfb75dcc3a6f14f98eb09e403044e6b,"['src/renderers/shaders/ShaderLib.js', 'src/renderers/webgl/WebGLPrograms.js']",[],2,2,2
+2cb466afb2cece6e428463f4a025cc7e85357e04,3c4face74e238a6fc2477a5533256296ea2e5c11,15ee8ac8a0b85b9ecd4296c3dd6511196706d79d,['src/renderers/webgl/WebGLPrograms.js'],[],1,1,1
+462d8d7c9d85a8df2e81a1ebeca26a7362aa4a8d,1b29f2158ef344cb2935873bd2a3ba8d1268c783,807a8ec729c715f6e4008c48c0cd49b0d4e66dbd,['src/renderers/shaders/ShaderLib.js'],[],1,5,5
+91d9af898324592dedce42fd7fda12649ee136a6,653a2787ce99ac450f1641d0016a13255571f399,5b55178ba773cd4d0c1bde37da88db4e9ac6e57a,['src/renderers/shaders/ShaderLib.js'],[],1,7,7
+627f7ee4a6d6758923fa4e0b206f2734a2149fe1,455508c8d3483de5cfd98b192042324940413ea7,6c16ca4192f1432276b2fe4d56d121c4d3d304c0,['examples/js/loaders/VTKLoader.js'],[],1,3,3
+0540e0e3ddfb75dcc3a6f14f98eb09e403044e6b,818a4539179b17b9cd571ae8d174c3931639729f,f52454cd75246c0cfed5616ef6dd72d95438dd7f,['src/renderers/webgl/WebGLPrograms.js'],"['src/renderers/shaders/ShaderChunk/encodings.glsl', 'src/renderers/shaders/ShaderChunk/lights_pars.glsl']",1,4,1
+af5e17058f7a0f4cc3141b98a4cf503ffe4bb01e,7073b21835bb71bf9d4b690969b2e58bd28daa4c,8292d318c6622021abfd125354a867316850e44e,['examples/js/exporters/OBJExporter.js'],[],1,1,1
+d61b14b4c526ea53d12403558629084f3b6dd4ff,c673b5b52d43e9e33b4833c7f133b87e70da688b,78010f879853801171df8e67d9c25622f53474dc,[],['examples/webgl_multiple_elements.html'],0,2,0
+956b74d8b647dbc2db3a48773a5aee20276584e6,8f1fa140800d945a581aa9f30f9fed43d013dd30,fb6c1185faf7214ea88eb574f23d83b083ba2b1a,[],['examples/index.html'],0,1,0
+0f33400fbc00a6494969b1b630ff7071290f4b1b,fe66364496d6bbf1479f96b01dfd7a92e6cffcd6,d865453bf872fe15e2f417d4fa598dab2164cae7,[],['examples/webgl_geometry_terrain_raycast.html'],0,1,0
+5bb75b3f663e097c59ce6ce69166abd61bccf8ed,a62ef382b68aa90b807a3add2749e59603cc0617,24dcdd45cf083c1d21d719d8ae986c0e52e22b30,['examples/js/loaders/VTKLoader.js'],[],1,1,1
+914163fe317ee698fa36604dd17c7fc12fd74677,98b9cddea892094b6a2400ca8ed5133d4f597d19,c03d597902d21b38220e66385a66ff6f46c97862,[],['package.json'],0,1,0
+419478eaa171b638632109e36b3edb448dae5956,1be8477ac40cb89da749ea94127ad9d0d36d7670,d5d9c068d9a2d0c0622c7f6520da28ec3da95fca,['src/renderers/WebGLRenderer.js'],[],1,3,3
+fdaad8df8b4d8f08db56223d99790f72313ef214,3c9e00fe0d426daf31d1b2ba766e395a45e14ed1,8f9ab7a32bfd6f9a2505efaa432e2de5254d2ac9,['src/renderers/shaders/ShaderLib.js'],"['examples/webgl_lights_hemisphere.html', 'examples/webgl_morphnormals.html', 'src/renderers/shaders/ShaderChunk/common.glsl', 'src/renderers/shaders/ShaderChunk/hemilight_fragment.glsl', 'src/renderers/shaders/ShaderChunk/lights_lambert_vertex.glsl', 'src/renderers/shaders/ShaderChunk/lights_pars.glsl', 'src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl', 'utils/build/includes/common.json']",1,11,1
+a72b0e082e6bed33a5118033a350974d549e14e5,a93be86575a9e6ab0a67a0e167af2ea9496d4e49,6e8b56b4ed2d2f6698bb5e9c44febbb07e47a355,[],['build/three.js'],0,12,0
+d2edf117773be7004897b02886f9715589f2fa72,7c872a3301c81bf4b93befa10d67d7aaf02c666c,de837676e97596140564c8797d32f80c99c2b6b0,"['editor/js/Sidebar.Geometry.CircleGeometry.js', 'editor/js/Sidebar.Object3D.js']",[],2,2,2
+8597c9a37ba1ad688eb78e84dbd1c499223eab43,7f7557ea083ce8b2d6fb2ba9e46855edd8fe5095,f82ed421f48a653e6c9ffd40ef5855ca53ec3522,['editor/js/Sidebar.Object3D.js'],[],1,1,1
+49d091453a0b4846159982da3d76633d4186287c,ea075f5595b8f42970559ebe3683c6e7acfd3768,b97e2d47dd72ca7c0e282d692fc0a6e06c29c756,['editor/js/Loader.js'],[],1,1,1
+1be8477ac40cb89da749ea94127ad9d0d36d7670,dd90c2f4d1834d67e7be2baf1439f65941b451fe,1e3b730b11105f484624671235d171f88dceb736,['src/renderers/WebGLRenderTarget.js'],[],1,2,2
+d065d0a1e9ec688cd2177ad4a0abf98187dd8fc8,c9d1cb75bf1e279203404783ae92a32a69cf53b8,1b9e3a9a696287031c7f233ba256ffd813306e97,[],['docs/index.html'],0,12,0
+193587faf006ad52e2b1ddf56a77b91a5580577d,0f6bfea48944dc08fd5a70ae1d4478132fc3ab04,790fdaf27c92bd190693b289cb737c1239696923,"['editor/js/Sidebar.Geometry.Modifiers.js', 'editor/js/Sidebar.Material.js']",[],2,2,2
+8b500f8093aa0c6068bd2978973db3b94efdc398,3790e74a60a22f45e7134d41fa5e669667b86973,d63d7d729fbcf8ea713e2781c1442bf5f6c74051,[],['docs/api/materials/ShaderMaterial.html'],0,1,0
+ca09c18f45b23cd4b057e0d1a63b35124b823dc3,f017384f1d7541cfebd270c3a9ae05560ee589e9,9cfdb1dc1e9fe54fb54f248fc06d656663555e12,['src/renderers/WebGLRenderer.js'],[],1,2,2
+8f79ee4228de0574cbf71c3c38b7d6db6584de29,3a24fca91de0b174b09292dd888625561e13ed64,fe6b0b36ab4fbb6c0b9de1101204a94dd850a68b,"['src/animation/tracks/BooleanKeyframeTrack.js', 'src/animation/tracks/ColorKeyframeTrack.js', 'src/animation/tracks/NumberKeyframeTrack.js', 'src/animation/tracks/QuaternionKeyframeTrack.js', 'src/animation/tracks/StringKeyframeTrack.js', 'src/animation/tracks/VectorKeyframeTrack.js']",['examples/webgl_morphnormals.html'],6,11,7
+fa92cf15110eb7c6e552ce613dfda527e00ec087,73a55e948a63da142c9772cf879eabe3c767061b,5df5fc57f0c0324093023d95201cf40e445acd34,['src/objects/MorphAnimMesh.js'],[],1,2,2
+0b07813dc45481f1d16d3b6d2334178664861465,87cf8392e8707b710e4260829aec4ddf72fab92e,2bfb1f557b7e39bda0656a5a65a4658fcfc7d50f,['examples/js/renderers/SoftwareRenderer.js'],[],1,3,3
+c090602a8f78efdc2516996909dc5d972b20638a,49144e16e9e9f879ca0e7ae694126a163f997626,8e02a5c89a953a858cf13b0121d194ac3d3b202a,['src/materials/MeshPhongMaterial.js'],[],1,1,1
+e06d89958e79175e3bc3735e0a8013eb32916f53,d984a329e6ad5e0dd18fe73b131117464e2e584b,5a954978350539092c9aa88db0691033781648fe,['examples/js/loaders/AssimpJSONLoader.js'],[],1,1,1
+6f15df93dcf2f607335c1aad56a4554f2639e166,ad50d97541fc8794aeb7936edc457f05a24ab131,309ef4a72900fae5175d72b605394f0c6972a93b,[],[],0,0,0
+d42a72fc797e492dab629eb1db0f80f5325345ca,9bb886538100f4176f0999e80d75d154e500cd6b,1c568ed1f547b94b2aa5315ec24a91ec34fe5e13,['src/renderers/webgl/WebGLGeometries.js'],[],1,1,1
+22cad1ab86872f12ff74d6859fec665479c34c96,541cbc2e0d73c6bcd9928f802ed8f8988eb82460,22b4a311c7c1af6f56578153f2d3944ef8d90f17,['src/objects/Mesh.js'],[],1,1,1
+4de446446c044d3a37b75e4017d5e818c8a52da6,49369e1ed419938f60c9ab2f4aba7cee6666d7f9,e19b247dbc1636fb02f6c6eafbbe0cd071d194a0,[],['examples/index.html'],0,1,0
+10049e7c02c8351cd11e006729f574fefe1e4970,7b39fe397d886ddbbf3e672a3b3985a931307c2f,f23e4494ccb0ef194c2b935c7889d0148953bb4d,['examples/js/loaders/AWDLoader.js'],[],1,1,1
+70e4206dbfcc89a05406f32157fb9ca2c4977db1,1eaed8d32590383b801404a9d2ee13eab3d83c76,fec2de80b45b97fbc078a9d7b81a06185274c05d,"['examples/js/loaders/AWDLoader.js', 'examples/js/loaders/BinaryLoader.js', 'examples/js/loaders/ColladaLoader.js', 'examples/js/loaders/MTLLoader.js', 'examples/js/loaders/OBJMTLLoader.js', 'examples/js/loaders/PVRLoader.js', 'examples/js/loaders/STLLoader.js', 'examples/js/loaders/UTF8Loader.js', 'src/loaders/CompressedTextureLoader.js', 'src/loaders/JSONLoader.js', 'src/loaders/Loader.js']",['examples/webgl_loader_ply.html'],11,237,236
+fc4d951c226dfc419a0b8921a5f6120b352e7476,a76f113a30aafc0d9da600aac3939ede4806ede8,366eec617adcdf901ff01366214ad7694ad3c9c0,['src/renderers/WebGLRenderer.js'],[],1,2,2
+c2da7a27d3be99ec5645882a22224dd61092a792,4275a915fcb352cdc0f01101fb77a1c6953897bd,e0e701d88bcbabf4c5058c6522d5c9e2835f6a6f,['src/core/BufferGeometry.js'],[],1,1,1
+0b3411ecf69178e9aa602727f424837fd6b2dc8b,b15f5bf85e25208e27004e541e0e7d11d7f4d91d,afd72f5d0644a1e83d13136f7e033a9fa39482fa,[],"['utils/exporters/blender/addons/io_three/constants.py', 'utils/exporters/blender/addons/io_three/exporter/geometry.py']",0,4,0
+1cdddbb2240603b2e8f618878e5a66ee123432bf,acde16b0c52eacc75f5d4318640e846265690e93,01d7456ac5052ea6c00a8dd9ff526d0332ef88be,['examples/js/controls/VRControls.js'],[],1,2,2
+e83bf8a30d48291ad3d978ef533da632c5f9701e,c3428fb811090de5ba63f838e402c43737e2972e,2d218c64027985886fae78720cbc3a485b8df8b7,['examples/js/shaders/NormalDisplacementShader.js'],[],1,1,1
+b7c99989a7309d638b0ac966c9865ef20ca2d999,4283f5d74aff6ffcad26f516fc47dc73d71ad587,46b3f65602a6a976e73c6d085dd73c95a83f2483,['examples/js/renderers/RaytracingRenderer.js'],[],1,1,1
+4c9de4cd337a2a0e56b5badd1da31a141544b59e,b348cd01ec920afa4699c93995220fe1c53420dd,ef98fac022be2d5f4c5175c862075456e2fed02b,['examples/js/loaders/ColladaLoader.js'],[],1,2,2
+891018d261445a36c45c64b319364de5dd1740ca,837fa7f24b709617eaa126e01c67c8a7e58c0159,4ce1d34951d7767f67b53ec825432ead8fe568b7,['examples/js/controls/TrackballControls.js'],[],1,3,3
+e57b5d1ef3c4e9a1797009fd5bf3b062deb65164,469c2e39aab7c8c031fa577c63e6a207c8bfd54c,4501d5a51d49e2e709930188a02af8d3dec5da61,['examples/js/loaders/ColladaLoader.js'],[],1,3,3
+ef2c65dd6dd08edef473abbddba2367fcfe731f4,ab094339e83c8be39ab4e48370ea2e2d1fffa700,c9f111c3109b98b2449cf8849787096594e3282e,"['src/Three.js', 'src/core/Object3D.js', 'src/renderers/WebGLRenderer.js']",[],3,5,5
+bc0ef0dded7c6da217911ef2f8fce9882a633bd2,c0478beba3c56321d1d86e116660f5f196dabe4b,389880030071389c8c19e8dbb743d9507c8bb425,['src/renderers/WebGLRenderer.js'],[],1,2,2
+c0478beba3c56321d1d86e116660f5f196dabe4b,12b0e7b1fd7aa5218a156b62aa43c40cf95e6b61,1b940ff79fe2c9d93dfbd92ce16e54f069d29d76,"['src/renderers/WebGLRenderer.js', 'src/renderers/shaders/ShaderLib.js', 'src/renderers/webgl/WebGLProgram.js']",['src/renderers/shaders/ShaderChunk/common.glsl'],3,7,6
+9dbd7669d066b175b86e5fd418f6a8e68328b627,911b818029262a918ce243597ea511a5710623fc,c622b5be56709c54ff4aa0b4d2f35025dc01e01f,['src/renderers/shaders/ShaderLib.js'],[],1,1,1
+b1550613ffdda0038b34d90a93a12053e2fb710b,3bab8ad3f18a3a8626d31560b01213cc593ec69a,16c3b394bc9c702a7035ee7331001269a04a3068,['src/renderers/shaders/ShaderLib.js'],[],1,1,1
+f560c79da2bdadb4c3b6263516987da311d1bc53,66a138887d9b28db73fb3ac7c4a867bdd436cb2e,fdbedb46efa6deac13dc2e11799eba42a71a0eed,['examples/js/controls/OrthographicTrackballControls.js'],[],1,16,16
+efbc69bd486d4674d601778d0431ea78a4f6f0f7,f13d81888b43c24b245a946de6b2cde19891e0e2,a72347515fa34e892f7a9bfa66a34fdc0df55954,[],['docs/api/objects/PointCloud.html'],0,1,0
+0f570f9461a6d48ee76b95f9e9abffa6ed26516a,b2f30bde9e13b3d8f8f00f73604cd3d64b8e012f,aaca1f7017f484cc6782f4175090aa6932cc668a,['examples/js/renderers/SoftwareRenderer.js'],[],1,1,1
+b323f3bd7de05df24248b4366dcbf62259ffa051,612c83aeca1124cfbf5b609aa9e1fa8046dbd39f,92c8bda8ecda9ed3e7697f76d2c227abce82c9e8,[],['src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl'],0,1,0
+194127357b9ffdea27b6d595b9fbd4006debe927,077dc92be4fd43d745572c42d2349335ba37ca21,616952a3c7c0cfc2f6eb39ea88566cd19ffe55f1,['src/math/Ray.js'],[],1,1,1
+077dc92be4fd43d745572c42d2349335ba37ca21,3d0c4ef8cb106a1aa20ddfc8ab7aefe495eb1718,bda2f09c8636bee9706bf88b0d1b079f710bda19,[],['examples/webgl_decals.html'],0,1,0
+fec2de80b45b97fbc078a9d7b81a06185274c05d,24f376ed5e7571d29c97b173275ad9e3be2d3029,54034067a18e894753bd2d6c2e54ad4cf3632316,"['examples/js/loaders/ColladaLoader.js', 'examples/js/loaders/UTF8Loader.js']",[],2,3,3
+b2b98c8f524fe4a51be971ffbed3b2a759f4934e,078c31024f930020645e46c50ee414c23bb21ca4,d4e55945f2ca5de548196cf7bea8fbacc87df06a,[],[],0,0,0
+aacb30d083b557a5d9df04255d19197e4e55f2b1,d6ee350d1b5f7a22ffaee18140ddfa2de1ab6530,f70abb690bfbffd838120d8e48a1c6d0b1fba32e,[],[],0,0,0
+d1fb1fe91ffafbbc019ea50622b0ecb9364be148,52cc0092b093d8264baec0d35b24a50ecb488f32,f70abb690bfbffd838120d8e48a1c6d0b1fba32e,[],[],0,0,0
+7d4ea159013e3d2227a1a76f5baf8a51dfb055c3,5e9ad40b35ec8903452b91067dbc744a9534d2f8,4e05d11d50b3c396783332b9dbd4143a4c4312a1,[],[],0,0,0
+1fd15b8b4e2ba80d5aac93b61e22b340309fa0f3,374888525a9a0623290bf84c292e4771fa20e035,b138b6880fd6f74ed72e27f1ae2b97fdd25ab137,[],"['docs/api/materials/Material.html', 'docs/api/materials/MeshFaceMaterial.html', 'docs/page.css']",0,4,0
+0425538fd1d2e17656c6eac1aa183b8a8bf27324,38061f3f10dc22be8f28056cb6629d81709c9379,5fe9dcd5fe0e776fa7a150c95c2a0c39ce20fd97,[],['docs/api/loaders/TextureLoader.html'],0,3,0
+9c28444c0883f85cf83e5b8ca5de9464307a2252,8c6c7ed70d300eb66f2d447c902de9388d44888b,e60e600c031143e5da0ad2b1179d24af8176aabd,['examples/js/loaders/PLYLoader.js'],[],1,1,1
+2f86e3dea5f0c2935f0d5a6b2dba00f768c769a3,f513df53483b5b2d9e7785aa1854d5103ab40234,2e751ae0a479e4297efd035961ff9aa1148089e1,['src/renderers/WebGLRenderer.js'],[],1,1,1
+c9efac91c012a7178236a3ed0c7afdbf12c2e855,647516926d66ac6c5f5ac5cd8fd956225fa45da6,ad71cf1c216884dd0c72da01c11faf7589aa0210,['examples/js/controls/TransformControls.js'],[],1,2,2
+5dcf4c711cf310c6eab147df1f3f70b4608459fe,3367742cb5f859a42f689f2ffacba3a8727f1810,34b6ba3e5f424fb7e3a1d70554537daa6cbea98c,['examples/js/controls/TransformControls.js'],[],1,2,2
+3367742cb5f859a42f689f2ffacba3a8727f1810,a4e10f078ae415d04b02d0ab31a29f090d1073f6,8ace99d735858e7b469e77a1201409107bf94aa5,['examples/js/controls/TransformControls.js'],[],1,1,1
+55d8d2a40f2d075373d9b64479447ce0948c4efa,f9d909caddbce88147f53317d7f0b8818be3f30a,1964a88078efb47176e20213731eb4bb75ba05b5,['examples/js/renderers/SoftwareRenderer.js'],[],1,21,21
+8437bfb9c6330479aca1772ebd10ca662fff6fac,e018acb0a11b15e3c7226dfe5d30bfefbf777fb3,a728c13dd39ad88ae3d34635f5c4d3866f40cfa6,"['src/objects/Skeleton.js', 'src/renderers/shaders/ShaderChunk.js']",[],2,2,2
+c18368973e64b3e7ef247238d44adf1d8afe9bd9,b57d981e13aeb24172ba62ec278ba0d9690432df,99585b6180de186c7955c9befa91504ae602199e,['src/renderers/shaders/ShaderChunk.js'],[],1,1,1
+edc5d1897b6d52eb882fcd2fd8c22bc63ea48c11,4fb34b4dae997ec7552ec9f2c50d65da535354db,866c3338126345a660aec39f6532564b1cf48480,['src/renderers/WebGLRenderer.js'],[],1,1,1
+1e30568ee4637d51f7ec4cff4215d1a9b183868b,f4884bac7a11d9dcef86921f1e54c99a24fd98e4,604f1d1bbf020cf5b86532c9e7579633a50555fe,['src/renderers/WebGLRenderer.js'],[],1,2,2
+d1dca3d0e2e939c820ee464a10d79c57de6a50d5,da293fe689d6e7863efb3321b8bfd46b238abab4,66dfaba302a5a40efa51e4269631d644c9dff0b3,[],['utils/converters/obj/convert_obj_three.py'],0,2,0
+a89b5adf1ff6e4da846a11806832a1caef9cd497,f705dc45f076a7d3f091087a3559e604da6e6fd8,8af63a27b4a24c26e3155eac86ed9a63fb3b0ecb,[],['build/three.js'],0,12,0
+da425be8a9712a6df3ad62c7e7887bd82e8d3b74,aff4c1c2a11dce340b34e1ede805258d9b0a7283,df779cacc81d16424d5091a2be409b279641b562,[],['build/three.js'],0,2,0
+db53cfa037c52c1e388fb275290506478fb01893,489bebe443cb5d1df1d6b02c0dc6fb3cfdb44468,8a6a0220b200f68923cfd9616a0bcaca5261b588,[],['build/three.min.js'],0,17,0
+9493db5fe40bb2c22e1cb258bcd8737bd6f90d60,caa544fe5fd7554ee6b789a00f1fe3ad60c12182,75e2e813db2355549e2ef3d815fcd31bf354846d,['examples/js/controls/OrbitControls.js'],[],1,1,1
+44bb8284ff32eeb25cf705f46ab6ca2d5a23fdec,5a8a6188506ad71120e08ec1406eacd107e24191,9f4693c61eb2f9ac6dc54bb0fdf17a1e22c8e41a,[],['docs/api/math/Box3.html'],0,13,0
+db1947639bfffc9d36acfce852b6c1abfc3562bb,3660c3923e3f0e30e3b612c06ed4a695ca06dfd3,88dc98ef7073bd3b8393b49bd553d3ba947ea4ad,[],['utils/build/includes/common.json'],0,1,0
+220c84434858fe2ed22305545e41e03d4da633df,f213ffffbec842d8b0abc5294ed89bd1fbb72df6,7c3f71780d461e30e39c25c5a886d6b0a34cbabf,['src/core/Geometry99.js'],[],1,7,7
+8f5c2c9e3bcdaf9f1783dbe612e61eab43dd029b,6d175222822c77eabc33739220a7b26462a38adc,79d8e9a4fd8abb014bf623f324bc42adf9dd91a5,[],['examples/webgl_gpgpu_birds.html'],0,1,0
+a49b3fba3b8431431983529ffe0e30c3008d1238,602aadb1ab9b50c6bbe6ef22ea9932b30a4f64de,441f4e9f427a022a1273e787f59b450aa2bbc532,['src/extras/geometries/ExtrudeGeometry.js'],[],1,1,1
+fcdde251e8d23b4dd43861530e6a63acc54a1577,3fb61aa8d01f9dac3d4a5fcbe0a1bd0c11a9e019,0d088d110ef9efc43ca840c3f774a607457464c2,[],[],0,0,0
+b8df09792451fe0435ff6feebd411b1ff2bf8c47,57f068d43f8947b8ee9302a33817114901fc631e,2e76fba14415b8bc20a78062fa40102dafb28970,[],['build/three.min.js'],0,25,0
+ba01f63541b29516f61f66945af37fee7c54d393,823435bca0bf69ef34ccfff8c0b0724e691d4851,9ef7f48579560faf5adb599d2ef6b71ff9da3b17,[],['build/three.min.js'],0,2,0
+823435bca0bf69ef34ccfff8c0b0724e691d4851,235bd3629daaa86940fff3c003b750dea78c6a64,f7a9e1f2b92472892b0e8d9d1903f3142cb57ad6,[],['build/three.js'],0,26,0
+612455cd5a68ecc0953c61c7489b503669a147b1,4b324c3030df679f9261e647e8141dcfe4fc8826,8a258a4bd0af58c55da992d74606d9da402c13c3,['examples/js/loaders/VRMLLoader.js'],[],1,1,1
+c63e80af72f4fb5bdcb21da896db49cda14eb116,7801e038131f068bb36f8b4dce0f06203af5c016,a39fe3f2445314b7a013a948bca45eda2e806890,['examples/js/controls/TransformControls.js'],[],1,1,1
+9ad3ba1dceeaaf1a5b1bfb8046ef11ee62aeefb8,d5199c5192763824c77562538494a70c999a3868,59db2ace44d2b7584c298caf783154c97e679ce4,['examples/js/controls/TransformControls.js'],[],1,9,9
+2e7e660c2acd15731cdff99b382df1cdc16a2311,1cd5a4d54c09adfc959f7c2ea59236f1acb6dfcb,d403e841caeb8c92105bb4ce617fdbf1f627a7f4,['src/core/Raycaster.js'],[],1,1,1
+a28e942faf02c556279f31ba333030dafc32abc5,31175e9bee67dc12d231b23de5f235fa931005a8,4c2286cafcec127d686e41752840c0985c8f2cef,['src/renderers/WebGLRenderer.js'],[],1,1,1
+2e0e8c046bc34fe620c56dedb9de467be2405276,0d110e4b3f504957b7393d57b7566006aedd2e63,354f8ee37e408ae9e3caa6f18ded678b29914214,[],['test/unit/unittests_sources.html'],0,1,0
+ec8dc3e3f31b7143b249267dd2c983a713d8ff72,8a7f3fad38bd9389eaaeab40996dd7d46546b10a,060b294a12713d577bc6a5381093e27fb98d8c33,['examples/js/renderers/WebGLDeferredRenderer.js'],[],1,1,1
+427a7b3ecd74aa60027ae2ba400e148555e5bf47,c11cdb7f87fdaa1644eddb2bed2cb208e2519e88,42da32414c5f73ad41903f9a2576a8ebfe72f7d4,['src/math/Plane.js'],[],1,1,1
+940c9e06db67a1f043f4057e6caf95a9fee4421c,cd92495139c8e6822f71977ec89bb313e2d56a22,95c1fdbb105fe79f1d171e2b91cc4bc26b2b019d,[],['build/three.js'],0,1,0
+1f94c963e0d1817a92da6587f71cda1ccd805e4a,558669559a2895785e898a0975474c383ea54c04,36a5cde6b41e52fdcda737c390e72428d0c2005b,[],['build/three.js'],0,2,0
+56a1e4fca1551d8dfab9dfc015f067ca78973ad4,26e5e345b3305daa417780e5b9b29db3c733c7f1,a1c4489a2e7537669969f0c2e3e92ea85a609b4a,[],[],0,0,0
+03fde66832226b5ae0d8b21cf777854072f67b40,6670e6ad47bd136b7d372165fcc11146cf24e5f8,bb3aafbd84646dc55c49ee1ab25878032da23a2e,[],['build/three.js'],0,4,0
+da8858069b2afad5d8e80f2a3e49a01076aeecd9,81ac4ae6deef0ee790fcb919b8652ad2e274ff45,6fda5650204ded39edde6e3cf43e7f33d165af44,[],['build/three.js'],0,24,0
+7af978c4afb66f6aff876d218894571b2d3e1221,9c8c639f9c2f075baf49d1b936c5a49c85b3d232,0c899e055f221d2f5ad4e6d1f0803465f9747801,[],['build/three.js'],0,25,0
+231a36ac33e5819a4c062f7218cd665ab66ac814,c14c0f23837d0656080ae44def372d62da9b790b,f0366c0e8fc0dc29aef5fce33fda1657a0336cd8,[],['docs/index.html'],0,1,0
+44478c4fdc4c8faa64bb292840d3de949ce5b02d,7c6a44ad0248a0ffab4e0778e64e58196abffb3f,4e89ecb31c551a0506986c107e92584a784f8a00,['src/core/Box3.js'],[],1,1,1
+1310deadf64ada0a40aee2b6cb0ae638e83854b1,c12109d75349c70628126da4d3eefdd68915c7a8,a9b7fe4cf3b5bb4c17813f7bd5779e496a586e37,[],[],0,0,0
+89b9d21da3d97d83680292de7f884e6057975827,b6331a8560d56a7f44077dec8d1e83440e9423fa,6a804759e93d7e814f083afafe132bdc96964629,[],['examples/webgl_lights_deferred_pointlights.html'],0,2,0
+f7aa627d00f522f5de5ae1c5fda063a9a75b7614,0d747761dcdddcae508e44593fea244d6a60dcb9,eae8c5600bf0fd2e8775513c77a4956b8be4b5d1,[],['build/three.js'],0,22,0
+0d747761dcdddcae508e44593fea244d6a60dcb9,a27cabba410e2942896bac6fa5be77f300f2022e,68f7bf988b05c2008eabbaf0985aa4702c0b513d,[],['build/three.js'],0,1,0
+95a05c1a05c6dc97a3b9ea4cd682b62165cff943,3b4dc1b6512fe1d7f3bafa27a48313bcdac2d092,c4a5f027645c59c4e1038c2447d618dfad31befd,[],['build/three.js'],0,2,0
+654adb5fd7679458ac960789f0402f2cb6d7e8e7,ae79c901ebf05f06c4351e1a266a401c58dba66a,64ec4df6f84c52f11df5012ecde2b50fcceb78a0,[],['build/three.js'],0,2,0
+3c82e6af94a7d576b0f6d687e25e6764d99ec36b,1292a17d056f538c744e625420c385c6c94b98e9,0aafb706461d20aff07a7bff54491f82aaeb689d,[],['examples/css3d_molecules.html'],0,1,0
+8f576ecdb52a2f866ec5bc933a9708b7e70d2873,c557343047ae4718ce252f6ed31ed8ae12dd3baa,0baabe3718dd7c0f5347e9e053c5f11c527f919c,[],['build/three.js'],0,2,0
+42479eaf6ce6b36c7d200fec4e6ae8e433091d65,3b987332fed81ea096a558a04b550a520ef9a558,a1d8be214501829c9c7f8927dde0a87784982e8e,['editor/js/ui/Viewport.js'],['editor/index.html'],1,2,1
+8b06b2117b8169255878525e1b7b68dce53c059d,ad9ad59dedff53e5fa5680847df1d415aff7a7e1,ccf27e5e31dba65aeff285334470d47ad07efeb4,['editor/js/ui/Viewport.js'],[],1,6,6
+30d4cbbb4306e490c51be6b480f85d40435e6c70,ef83ebe8f4910992023314c244edd176153d06e6,9d669e48f37d078011002aa9d02471a40d92bd77,[],[],0,0,0
+ef83ebe8f4910992023314c244edd176153d06e6,38059c4205902438dca18ea86732a48550e70849,d8bab754d02fa52bc4b37c1feca0efde46d37c18,[],[],0,0,0
+1dcc2d756a22bdae57dfad6140291bb4d173b286,eea8d1102db30b00f65cc048986771e1ab0338c6,fbd22e761ec9ec56b28b44be2b2c03ef4f0d7690,[],['build/three.min.js'],0,3,0
+fbd22e761ec9ec56b28b44be2b2c03ef4f0d7690,3463fc1857a0983566632c4492f504c0a8156c9a,156d4d38e6672284c4875d97956517818d8036ac,[],['build/three.min.js'],0,5,0
+d073c4b68a209d74944eadeb0077896a6bdc9306,ddd4063caeae01fc73b094a5ac1bccfad1fd14f4,a5a00cc52ad18f6eb1b9a42bcbe17d5d2503e512,[],[],0,0,0
+ae7e147f4e313df33fc39b8f80512118c9f4dcdb,ae631064d06a699743376d04f8888fd9fa4b860f,13c6951603a852918501f21e90104713c50d93ca,[],['build/Three.js'],0,8,0
+9cc7b75a895287d08de15bc4faef9e1d9367cf16,38f3ac13959e8ae71d75a363ddfb5d99a794edf7,72cbc5ea469fb15720ba62bac369ae1b79a7fc3e,[],['build/Three.js'],0,2,0
+46134f6fd95f37d6fb69c7382c568659693396c3,bb66b3fbd99153398cc6d762fc60f2f1c64568d9,5b07ee341ab431902d67e40ecfdd1468b01b7887,['src/core/Geometry.js'],[],1,1,1
+c33d3454151685aab280fa6118fe3fa196831bd6,a893ef18b3e3a8c16fabbcb58ad48b952e9d761c,098d3edab89103c57b9ffa36e28dd3a608766b39,[],['build/Three.js'],0,12,0
+bb29f27471f0be5fdd84a8d5a1c0dd2f3b7d591f,8c3f52062c4dad1398c14d29049a18cf74b4cc65,bbc7d7816c023369276aeb4648cda01e788b5ff4,[],['build/Three.js'],0,1,0
+06b10a01e6e4c039a70c9ad8d643095f762576ee,e938c76b8783679c80a7c3a8ce68ad3e8b4b0781,535848c84d395c3064f3a172b28c858fe89dc389,[],['build/Three.js'],0,6,0
+62123193b033c691df2cfbda796773d2f2dbc9d2,3023154ef36e14959cc713bfe39f9aea9655d9a1,3b2c67b5e532d82c3f43b46639715c414df179b2,[],['build/Three.js'],0,26,0
+d3aa96784a268164e2da6524bb51795f9e656977,43bcf9192d7a742c2325841c9e8cd0f4abd830aa,e5c23ae0cce3b9e5c13b48f4dc0f7ae97b01317a,[],['build/Three.js'],0,18,0
+43bcf9192d7a742c2325841c9e8cd0f4abd830aa,1087cf8cda10b728e8244636ceacb57571c2e71e,e1edb1714a3438b3fa57c05d947542331096d172,[],['build/Three.js'],0,27,0
+9f94fcbba84411bd1a5232d76f74ba3d8ce4cad7,01852d283b95a56e9c930c3db35fc06f346975f4,eeef494fd1ff0e18f6bc98241e68d8c62d1e989b,[],['build/Three.js'],0,6,0
+2b59d31716d3a81cd69892e7f82bb2f6c1149510,1ebe7dff4f27a74d7db2074be1221986ab52e161,10165f45f74803e14ed8601dd1226c4296b996c5,['src/extras/geometries/TubeGeometry.js'],['examples/webgl_geometry_extrude_splines.html'],1,8,6
+685d72ed9f396a4f7f0fd5724c8f3bd35e51781d,9451201ca30c11d5eeece9553915c1795f5dcdd3,25245b95e920162ff9caae4d568a6defbd47108b,[],['build/Three.js'],0,21,0
+e19f442f30ef6bc79ad67d083126cb8dfc48ee4c,eb37f601b5f813bbb05d86e894213c496aca6f9d,6e002f324a06f6f766b50c930732a9994fdd4ac6,[],['build/Three.js'],0,4,0
+29e875a3d5d0d230f351fac8079e750d7b34e3b7,baf0f65e1db76cc95e3d1a3cf759861b807fa177,5ac883160dd0662b5158660f9031b6f6f05b3845,[],['build/Three.js'],0,9,0
+dba0cf0194830aa9c5e648b63234d2b6ffdbff44,14fdaa11e7bc823ad4d45b02f5f05bfb973f27ec,1aa5bfe85d7af71de7de82d23343ecceb4debb9c,[],['build/Three.js'],0,17,0
+b6e3d5738d044e6c10e4a019f2302c35aebfd2d0,0ed890f71c1b66c643b4bfc53ccecbfb0bdb7ec6,72065046485771874b6f14ae61fda783c30e9b33,[],['build/Three.js'],0,8,0
+8367e2b17fbcaf99d77fcd0f02026576da199600,27afa046be8f3fd3b7d2492c7be7f08046a747a0,341038da6df0d00924190d997234c86ff0f2b2b3,[],['build/Three.js'],0,20,0
+5da812d1602a42b0bc6f3c08290b6696ecbb458b,c42478fae0b5c41799c2ee6592739b5089ba5dfa,f59ed3e2ab0a5c23feae0323534679e0bf20e4eb,[],['build/Three.js'],0,26,0
+673781777cf0cf65f238b93e2f94ac9cb0ebf4d6,3920c5df0f3a5fd6e637d429f4144957b8598947,12121950bfb877ce473ce1ed2f662c9cf94300e7,[],['build/Three.js'],0,2,0
+bb67cbe13af9f7b583b015c398015ea38bb07e2c,63eede66a6454aa918384a72a768816f13df34ee,88c2c170754b469060ca3943b1d19636c4f37afc,[],"['docs/api/core/Face3.rst', 'docs/api/core/Face4.rst']",0,6,0
+d8c23537f46fcfb771b7a24604d1cf6e55757f5c,835b57addaf328412b61a2b644ff5efd7fe6d25e,40dad13424aa924225822c4b727db6abf03f6a69,[],['build/Three.js'],0,3,0
+ef5f67d1a6dab7a8141a7884612227c54f827af2,ab0ce360915a516b2e3a6df9e7d0c0b1dba2f19a,3015d93960ced35bb0bf6d912286db7e3d52a0b1,['src/renderers/WebGLRenderer.js'],[],1,1,1
+b1ef3409a6f465e2432dc19196e1f3afd17893b2,3aa1767844acbaa1b0d8adec32401df5e6e7b515,c5613ebb5371f5135bde9a07b654c19967155be5,[],['build/Three.js'],0,3,0
+3aa1767844acbaa1b0d8adec32401df5e6e7b515,1d5a72ddc973ea8b44c7f61e6335fa3fc828bfa0,a640e74c701ce6c1b9bc0287b4553af2bc4d7ce7,['src/extras/GeometryUtils.js'],[],1,1,1
+bac513dda94eb2cdd6c1deb7e1ab90af992dd7f1,0fd25ba910f1e627481c0ebf1c8ecfdf38df867b,aac4384e1ced10d8806ca845c6c3c71dddb67031,[],['build/Three.js'],0,2,0
+655b1efbde069821b0041c2c5de58e695e473c18,e207f5e852ae52e8fb5f43e7f91e81789231f76c,e16e443394a3d6c5a52beef8ee68ba4c722eaf38,[],['build/Three.js'],0,36,0
+10052662ab3fd9864b860a3976ba1378992e59e2,3ded4a408fa341205e039a273dd79fcae73b1f98,91233570cf2d98f41ce370758a09cc0763dacf96,[],['build/Three.js'],0,4,0
+bad3639c26793a10898eb79b7bc1b8b91879d6bd,e08434c18358337ceb25453534a691ce05d9a5b1,036caa64eeeccd424d19a52be3497d0c8a85acd1,[],['build/Three.js'],0,29,0
+093fbbe334ed07bf17dd8c13d8bd1e34005848d1,a529e4c78356aeaae95f76bc9e66f6dd1e309aba,6742f8e4a4ad502e22d04f53d99c217cfe8a8a4c,[],['build/Three.js'],0,24,0
+8afaef45971b1dc8ae0a5fe7ac826fe2105da9e0,1042528b39d9c4d82338063c9b856c190524db9e,40d1ea1083a156753995801b985576bee775f244,[],['build/custom/ThreeWebGL.js'],0,1,0
+94ff102c64ad52dbaebc57e4c5978ab5c4bc18a7,40decb9093ce676b2eaf46693d3e322ab4ad326f,c89e3fe49a52bd9ad9ecebe1e06878b94d918e21,[],['examples/webgl_geometry_subdivison.html'],0,2,0
+40decb9093ce676b2eaf46693d3e322ab4ad326f,7fa0d7b887394c6c7f83721806140c5311496eaf,4b7c468e154c5ef82a893c979d9b4332092ff216,[],['build/Three.js'],0,14,0
+db81e4525533d50275aae4a1a856d49485297e7e,1f7bc4e31df85dc526d4b3d8814e18819db325e1,ab944fda0ad123275ec7d09b4960328c3b450636,[],['build/Three.js'],0,14,0
+a6eb8106a21bb7ba0376b0d6e7ef2934e6a0586b,dd6114b7f210eddd417843a2d160425ad67adbc6,71565b4b5a6ea573832ef756dc926ed37cfc7f9d,[],['build/Three.js'],0,15,0
+b4332d6a241bca6811768d11ca2b3235a122cfa3,cdd5a20de24772f7b69e29afb475bd7b059fbbf5,705f6967c0816b11083a2a160010dae3aa96e4ce,[],['build/Three.js'],0,10,0
+f26eed4b1e832cb68afb11d6f7e16dc0257c63b4,0e44dd672245d4065a45cd6739661125f9a57415,36ae04418ca617c8972dfb4833847c7384000bef,[],['build/Three.js'],0,2,0
+e63d5bae2bd634d4b17ba79e7ec5b511872fb434,4f73052bc018b6673120325d744350198c6b1536,7700feb538f210f5111fb3efad8546d262b6c5ed,[],['build/Three.js'],0,9,0
+f43d6a3cd1330d44a3c48ae343dc46ce60636f57,d275bee33193ea0a1e699990cf4a919dcec8b8a6,d376e7ae3b9cc913c000f0236421e3e37daf2752,[],['build/custom/ThreeWebGL.js'],0,1,0
+93468b0094798a09c6c4084937f66026760ee74e,0959969fc31e419a713bf997b5fdacd4c9a77ef0,cec753335e01f63adf7ac164c3328246e859e6d2,[],['build/Three.js'],0,1,0
+fe83a3f0521984e6f0215ff3b266a74eccd94f11,8c326a222fa67e891b8f733aeb1d4168f1043e3f,cd760abfba9ed2351722d06bd415e7d06b5b1c14,[],['build/Three.js'],0,23,0
+5a87757b1b87818ddc10e9c10dd0c88139c87d83,59bfd811503f1069a5797243bc7bf3c5c496c899,d8e75851f114319b433bd583b5336e3399fc1b10,[],['build/Three.js'],0,12,0
+dcee8501f63dbda8845d4bac275874a040d238da,4336d757ac34ee9cb1926cc8d1c0052507773c1e,ce76a7406c2d311367ce4cee39ee291adc51d731,['src/renderers/WebGLRenderer.js'],[],1,1,1
+29e51a6ed947c848ef89862fa071c6537dab6954,e59aefce8e250b7d4df74703509d5850f33624c5,358c35fde6d3cf62e1b480987db634582b928546,[],['build/Three.js'],0,15,0
+e59aefce8e250b7d4df74703509d5850f33624c5,fb6d579d35728804de1c3cae5c2800e3c1390bee,f4d6cb1f162604f94f04a8f0d3e7282ca47772b9,[],['build/Three.js'],0,22,0
+fb6d579d35728804de1c3cae5c2800e3c1390bee,4484dc3af8fdee9fa4f29df21e3ff483a46be6fe,13b486b4cde96ba5fb7591e3afc4b555cd659889,[],['build/Three.js'],0,2,0
+e95ca433b2597edff0de587403d2a79c69af2e20,822b52e07b65c397cd81b1415de76bd2379ef358,0824c15a51cc71aac74228a02522c48ee56c5202,[],['build/Three.js'],0,15,0
+35b9c8dd69f1209a2ef342bd67912a9cd0e7109c,3e321b4a17f44728cf9a65aeb2bbe27488549aaf,a7b7377c03d688245a11002b466b0d435456d617,"['src/extras/geometries/ExtrudeGeometry.js', 'src/extras/geometries/Shape.js']",[],2,8,8
+ce8b942ebe35ba9ffe972c0485ae01edf8ce6be0,56df7724edb3ab153905e584ce330bfce7df44a6,3db68227d58cf9f73643ae9f10816d3512b060ee,[],['build/Three.js'],0,21,0
+c0d371be7caf0484b26c20bfc9db8729c743d807,6376d990058b4d8c0aa1f02c73f34de08fcdfec1,d90f5e68753e65efe0f679c1a51f92d5840f332f,[],['build/Three.js'],0,19,0
+c7133cac6f7ebd68b09c36862e015a3648a423ff,7dbf0554fd85eac0e058f8472e77cb50b7bd598f,f72cec853fa069f3c5e49d0f8553b6c5e457e438,"['src/extras/geometries/ExtrudeGeometry.js', 'src/extras/geometries/Shape.js', 'src/extras/geometries/TextGeometry.js']",[],3,17,17
+e9ca7cf7f342500236a1fb08c53e0aa5e8037828,d44e284bc4f41c5af86e287d292e4a5e93bbfbe3,418780fc74a73f09753c45bf3d109e59dee07394,[],['build/Three.js'],0,1,0
+0cefeed567d69057ed8be99661037aa022866e43,830bf1e2b691c93d837e8371913816403a150d91,e37a02805ab44552d8e07dcf28d7c43b5028f4e9,[],['build/Three.js'],0,13,0
+830bf1e2b691c93d837e8371913816403a150d91,d738718e93526950c550cdc6f4392a0ac3d7c422,71778b81a51c2f1c216165ea43639e52714bcf25,[],['build/Three.js'],0,3,0
+d738718e93526950c550cdc6f4392a0ac3d7c422,bc73d017628058ba59de482488b8627f8e593999,e21dccf35ac68143cb432dedb590dceaf325b11b,[],['build/Three.js'],0,2,0
+f1559f0186e6f9046cb673280c38eb06a63e3dfe,372e383e2b1456f6b9c77131523dbcc3cd42e62f,802b5376bec219736ff7559fd232b9f7a224e75d,[],['build/Three.js'],0,4,0
+280a28dfdc6abf4102c911e0cd45f6088a945597,bb332e5fcda34d1acc5af4b79d50304dc166b7eb,78fb8ac6f865514f5071a86035faacf5818ca4c7,[],['build/Three.js'],0,23,0
+7ffb2f45ba07ca460f00e1fef1c658bfab45b73a,cf84fa08b880b390c010bcf9ad90c196b10bd30c,9596667876efd40a1783ee296c2cc744f5a27836,[],['examples/webgl_geometry_text.html'],0,3,0
+213a2d9d2bd038ca8df95550748f43c1389aa23e,5739f754a8be35411114f36509700abaed1333e7,016ab44d7c8dea5a1f5f58814ea3ed91b025d2f2,[],['build/Three.js'],0,13,0
+9596667876efd40a1783ee296c2cc744f5a27836,22fbb30d286aee70dbc66d60ef221e8074c86ecc,1e95d917dcedb411317584d93e5e2e8bb9c449f9,['src/extras/geometries/TextGeometry.js'],[],1,1,1
+02cd88bd9126b822b84309edfa475f9216222449,afe9d3b59301a573fb0b4560943629e4c6ee4ca2,44c0f34e2aaf849b620722052c765ff08c31942d,['src/extras/geometries/Text.js'],['examples/webgl_geometry_text.html'],1,10,9
+4983327011795c6d71825ee940cd4f74e0b23057,5c2e6ee5d704b13c956dad1b0f8ec3edd8c27e45,934883d3bfeb96d91f120edccc054e5b5f219138,[],['build/Three.js'],0,23,0
+e4b75f1c8dd650d7afc7b2402e2bce8bac8a3c9d,d2cbf83dd32fcbaf5dca489723e4b8c2c3fdcb0e,0d66e46e5ba79f5e4fa307c8da682cfd976457fc,[],['build/Three.js'],0,8,0
+d2cbf83dd32fcbaf5dca489723e4b8c2c3fdcb0e,d8c3c92fc9cd2a7511f2d66cc100006914674382,2860731edb1eebbc1b52cef0a5f0812bfe16d458,[],['build/Three.js'],0,15,0
+2860731edb1eebbc1b52cef0a5f0812bfe16d458,1286e5171b6c1a2edff2b70c5df1eb823941a503,3bc83727949a4ef4a7058bb0e88c8bdaaf05f99e,[],['build/Three.js'],0,19,0
+c234c5cc6ea8c3eb7f0a7cdaa854cdfffe0f40d7,023024f520506b02b91ff136a3f90edb6683fbf6,be5a27198c580697cc9999777b9b65622746052e,[],['build/Three.js'],0,4,0
+b6ab1f68cf484fd2c0bb876b3e6294456ef3acf5,d95d6d979d0cbfb628a91c85c792e4e1ba6f4dfc,44a8652c37e576d51a7edd97b0f99f00784c3db7,[],['build/Three.js'],0,9,0
+fd6da8ebcd6fbb7a84ded1cb0d6921b9befab360,691a5ea3eda2a8e41c77f8ab62f2f3cbbd7d5108,697a05766a4520f139082574d4a3068b4ca18ce2,[],['build/Three.js'],0,6,0
+87a8c1e02c2d0c5664866432983e83a7b797ac51,b56600a54edc2217c45192443472af16d2c90ecf,964ae25886c7d81d844a80465c5a92019b2e9b92,[],['build/Three.js'],0,1,0
+bdbf1f78c5745bc88624dd0f9b1d17fb9d21aa98,22bd108ab13cb0c0d944eae510442484fe4fac14,25dddd2024b979b2ac88b6da763c4507679f5fde,[],['build/Three.js'],0,9,0
+f7d97caf1d28b707956fe0351ab852cd4a272d0b,de2dcdf5c05d3bfae42f543fc77ee3d9f7e99938,3379648153d45bb7c2a393cbeed921f8b655a874,[],['build/Three.js'],0,12,0
+da0b612ce8fe7bcf11995f6208eb406e1844e510,5fa19e8460457bcde21516479fba379221d64303,94790f057e780694f77150fe2e9f4083f66fee52,[],['build/Three.js'],0,13,0
+65e3f92d55cdb46bc611a0ff20e540a1c55113f5,0209928118dee37198703c34bb7753ea158875b1,693a36f509c44dbc95bef2890408af06ec5626d5,[],['build/Three.js'],0,6,0
+e7b6f4ad3ce4f5c2637a39211d6b33d0b73bc6a9,ea423109757356a7b5c5ec98d00ddaf997d64340,6992b8e45541c666ff7a11128ef27daddc0b3ccb,[],['build/Three.js'],0,4,0
+08642c5239df0c2a8b2d3dbf1f5fadbcb617977e,b35b70a0e063f4bf53dc560b3f6579a9e9141cac,8c3fa8f401e6ed54c02f9539866ac2850a009013,[],['build/Three.js'],0,3,0
+e19bf176456f9891bfc1cbb29791333c1c06f14b,1001b763515b3e31f52859828115540ce6961b63,8c3fa8f401e6ed54c02f9539866ac2850a009013,[],['build/Three.js'],0,2,0
+d12252421e6d30618aa482ae76e46232c383df7d,f518051f1fd396e454f9b128ff28f87c2a7b574e,816d19a8d6296df3ac6a8774b358e382c296b734,[],['build/Three.js'],0,5,0
+e88b1b4783351ba3debed7fd3b2459069739f6ce,a0b0de46ff6eaefefe0eac14587969b0dbd0cc2b,d5cff3fd37cf0e2bd656b1b457e1aeb1276c6f66,[],['build/Three.js'],0,1,0
+36cd380725ae26348df6971d98c57df36f1ce55b,cc453b6bda174bd227023ffae0f1d929c767b793,0014ce7215e65a15ac376b7df6b69ebd5959be70,[],['build/custom/ThreeCanvas.js'],0,7,0
+cc453b6bda174bd227023ffae0f1d929c767b793,a0636d934bfe3f57fbf4f7c6b0e3631b2efef70f,7b07f34b7d8301f1e80c5d0dac6228142e02cd0d,[],['build/Three.js'],0,15,0
+a0636d934bfe3f57fbf4f7c6b0e3631b2efef70f,49773aab42ee5fad8797c06aaf0bf95c73d57893,3536f3f2f54fc8f3800861139ae0a814f68c92f1,[],['build/Three.js'],0,9,0
+7b07f34b7d8301f1e80c5d0dac6228142e02cd0d,3536f3f2f54fc8f3800861139ae0a814f68c92f1,49773aab42ee5fad8797c06aaf0bf95c73d57893,[],['build/Three.js'],0,9,0
+f51a53bd23993a6f973c73d36605cfbffff82703,ccc566463ea1bed9ce9d53f3f07fcbcc801fa7f7,8b638423051d776a48a3a2593c2e22e4b6ebb397,[],['build/Three.js'],0,3,0
+3536f3f2f54fc8f3800861139ae0a814f68c92f1,ac6f422a6fa0bb299cfafa4ece955bd4479abc7b,3960e5c8ef32b42dadd0d77aacafdc6d0773b5ff,[],['build/Three.js'],0,25,0
+8abdf466ce667d6994fddaa2d387a91493b65c2b,4f80bbf808eb8c5165629f148e4c00e642bcfd63,a3e29e5bebb0bee86845c067e90efb34ce850435,[],['build/Three.js'],0,1,0
+4f80bbf808eb8c5165629f148e4c00e642bcfd63,1859fe4057d7e6b4d45d8da2f3de0e018b68f852,0f3093373d20f42b2ee2bf9c266fbea309f3f351,[],['build/Three.js'],0,15,0
+d90304c136b4c80a4520bec1c5be7d3f2682c801,a230b659abf6357991dc4564e1ff2ddf3d2cf93e,af5e208b571a78edf9cd46e2a29568a89a9ccc97,[],['utils/build.py'],0,1,0
+da497665f7412e049fb76464b7ecee3d8c64c899,d5f0ce79d4e9f9cac9128a7632c9d02e34e47e5e,a4a96f259c763f1a550ffb3f86eede62b73338d8,[],['build/Three.js'],0,11,0
+59071e75b3732c42b806c24fd8a782338b449747,2127bdeb506fbf00b32cf503f40658659a30549e,49d9b2e460e7a5de834a03f91c378b57c6a56bca,[],['build/Three.js'],0,13,0
+2127bdeb506fbf00b32cf503f40658659a30549e,863e7db49fe38a807b7f05ae62397b3250570eaa,24c759016998b973729460d2ece0ae2fd5420e0a,[],['build/Three.js'],0,7,0
+cf6e2de8c916a1280a6621dff1b46c7a7657aada,a9f8419ae4855229493a686c1664306fc514390d,86ee064d6cd2627b65634b3508dd4456c450ea5e,[],['build/Three.js'],0,1,0
+52edc3b9a9a54574c0b7d816043b90d4225fdfae,f03f67da1c58ea15b388b3aafc54d77b5c2f3ace,09a10f7b2ce4bfc74dac75e1f7d267b00e0afe34,[],['build/Three.js'],0,11,0
+a861d97ab9788e17d9207d13777ad5a5651bd664,24c759016998b973729460d2ece0ae2fd5420e0a,b6b0e21015bbe9570deb50c6e0ccf68c9d1e8382,[],['build/Three.js'],0,7,0
+0750cf1742d2f3ba82e738ecd03d0f79f2d04c0b,b2fa718d8d404258c350d284f3ccd934418b61b2,0bf0e59f12020a170ce802797b95738e7326df7f,[],['build/Three.js'],0,6,0
+0bf0e59f12020a170ce802797b95738e7326df7f,a273871911ce70621b8233cb1085684585d41567,ce751a10dd6f2824ba1911ee2be59f7edd8affe3,[],['build/Three.js'],0,1,0
+6b9a08e5edaddf689da728db469a442f7da2f250,c61f89ba14736b11724a95f2d84b75a1f513e0a7,5b9ca694d3cb83ee805d8b8fa2a12306c0d6d302,[],['build/Three.js'],0,3,0
+549f9b03a5f8451486b8d7ab3c34265307ff4805,0ee15104cb188b87b5da2cb51c9da913fd0e0aaf,91795a35104a4f76b13476c7c1d6c582190f2bb3,['src/core/Matrix4.js'],[],1,1,1
+34d3aaf0ba058fc1cfd0667aeec001410d7ae1a6,cacdf0216612ede7fb3378f84732ede530821866,7aa0bf9726b93cfe9930381013b72fd3a3407be3,[],['build/Three.js'],0,4,0
+0984c4145bb33fa68ab640f29008724794cb486d,03b9dfe80d4f19afb9ec8da3375ac73dc78e3040,30161dab047ff402b16b9e7d12b5920375280e2f,[],['build/Three.js'],0,9,0
+99dd3a411b7901b9e01e4a4e3d594d2cc002c980,bc79c2393d26cd3b41ad0e8bd283f7adfc700317,7480fb69cde63b8fcaf6c569b2bb38b9ba309aa0,[],[],0,0,0
+3e2f4f7cc54a562deb969ef19bf30c47941296c6,cff95a119c8a8a0b9d03a433a963f638d8f891e0,fef3c084b1027da2186c6b7437ac655cfb34003f,[],['build/Three.js'],0,2,0
+ced26b32e6f995008e88c956b8417e24b199f0ed,408fad19057d4f6d2355a55749fd1174062571b7,9297fb975e92558d7ac9e2740a9f98ca0aebdf58,[],['examples/canvas_geometry_cube.html'],0,1,0
+d05053c4933b29905db32fc40c5d45a2c7d2ef21,0111f5ddbbece29603a7647b90b4a23fe8a0c7ee,30a3d14c2d5cf1a8397f3159d33a2e7fa2c8605a,[],['build/Three.js'],0,2,0
+0111f5ddbbece29603a7647b90b4a23fe8a0c7ee,eae36edf1e1bc68db791a50a5f4889819270e273,d65ef66aa7fbaab929228b92cf606ee7e1062a19,['src/materials/Material.js'],[],1,1,1
+abfa966fb9dedaf67fb71df7bb0e02334cb13d6f,119f363f24adcb5d8d8dfbd11d9020b466513c3a,aaa0b59660fe48443a64e24321673eb37ca8f135,[],['build/Three.js'],0,3,0
+b4a177f3264f33de8a5d8dea16acc42b30ac026c,506d7e1fa0ac016b62b9384e0d3bcdf11ddbf4c1,6d565bfb87573bd8a8edc255e0d54da75730e88b,[],['build/ThreeExtras.js'],0,1,0
+5a6a872e754296577ac7cd7a08785a50c94957c4,b0113fb87415b3c8b144b5d62d0828ffca9545e7,b4b2843caeb4825b20c687df82b218625f1f7e69,[],['build/ThreeExtras.js'],0,1,0
+7f719ec239183054eef2078edd1be366295bb93a,09571ee3d0cb14880ddfb89ca0414d97c4e66e82,50dc834a0acd67c1040223a71fb1bfb6eccdbaa1,"['src/core/Matrix3.js', 'src/core/Matrix4.js', 'src/renderers/Projector.js']",[],3,5,5
+cee72056707a0e4553f16cac3865eb57cd02db44,b511fdc38b84701d30ca1774cc9dc953f697c082,868cab1e9821b4f3479506e2889dafaa2d760085,[],['build/ThreeExtras.js'],0,9,0
+b511fdc38b84701d30ca1774cc9dc953f697c082,0f5652390f709e2f655261511a9dedfb1dc91c9f,6294caed077d35d4dea6617c2e60e34f9f116752,[],['build/Three.js'],0,3,0
+dad635b64c913aecc4477c7d0f9cdbb19a27722b,06a977384de42351b1e5007afc8ebc92ec0cd268,9b755e827ffe1202f0577702008252ed0f71254f,[],['build/Three.js'],0,4,0
+06a977384de42351b1e5007afc8ebc92ec0cd268,6cfcdd1501e757b122dbff224f81fece9b6abe1d,5c8a089669813cd84970ea5c51f5a45d84cda386,['src/renderers/WebGLRenderer.js'],[],1,16,16
+91b9539e0201d83c7738280a3e9ad5f8b567043e,255c042b1ed617d99a0567be92aa2d140252d82f,b086c2c5af76d49e96d729f62c73ea01aa529f2d,[],['build/Three.js'],0,4,0
+d14ed35ae575bf0efc7b900b025ade4966ebaa2d,2163691b59bb824cc3105ae4e9ae2e61c5eec234,15262507bdc8551a591429e730d4c8972ee6442f,[],['build/Three.js'],0,3,0
+3b5450595980526b0b11545a1707a7c2871d03ee,39c7e8da5745f435c768b3398fea28581d728fd4,fca3aec67d027ece98f302430f587db43c757520,[],['build/Three.js'],0,3,0
+39c7e8da5745f435c768b3398fea28581d728fd4,5e9bce8385079f5f50abc3d0843574fc6df52153,9f668deab5fe90fadf0010d7a8d9e7c889c9ab39,[],['build/Three.js'],0,3,0
+8e53294e6240c7e348973a3e45ff12f60bd71780,044a98c8ce3362e6ba41690681b9249a7095c554,4225330065fecfa43303e1f2a9f4b7f5accfb9fc,[],['build/Three.js'],0,4,0
+feb349a7947e52ad001b383a47128db96b54ba50,e3c9b9d04539dd26f9be4192d7272aa5dade7fe8,e3fd76178656267fbfa95e5c3feea9a3df1e0d14,[],['build/Three.js'],0,3,0
+508d22f296fbd6fb82affcc1bfcfa14ed2e523fb,c91aac5d5cc10df34551e9169b1bd9c7396de01d,a9e185aa7005ed29046c15f0d3df7536c1814946,[],['build/Three.js'],0,3,0
+e10d8c6680114b8f291c98ec06a6d12382617572,c0e30b2c3996f03c280b72c89d0a8a4ae1a1f889,2929d5a3457719502fd9e7b9e5f070fc51053d72,[],['build/ThreeExtras.js'],0,1,0
+774b5e843d4b24e9ef797550938c0d7bdab1ccaf,0528c143fc006f814b6da7e4959098a1be10c58b,a2acf0b390c80e738ac08e60e68abb4fde5b4114,[],['build/Three.js'],0,1,0
+14bccd81ea553130dee7c1a7cf06dd2440023c1e,45b3ceb7df88726ce80c1a7cfd076a008d5a10f8,a2acf0b390c80e738ac08e60e68abb4fde5b4114,[],['build/Three.js'],0,2,0
+2582c77b468147d4a69a5516018ed9be47b5dfa0,d3cd0887d24bb0678641b036a700da7a8c7b392b,4d815f1721987710004a14bdebb3fd03ac067641,[],['build/Three.js'],0,2,0
+b409e5b04ef70ce36dcdcc5c7792eadad3da098b,9cd7308d2b3a2989ea46a8c38fbbb1ce22054ed5,a1d014c1102626dc2661bb5febc90a8e577c1713,[],['build/Three.js'],0,11,0
+9cd7308d2b3a2989ea46a8c38fbbb1ce22054ed5,0cdd188e17a79ae997e08a795c502a9352a4283b,4b606714a2afc155c816852c802527bda61fa755,[],['build/Three.js'],0,5,0
+19a702241198752bdd0a03e8921b5dfeef2adb1a,fbd12838b13d04ee0f47281d6c3f82b633874a56,d961ee52c887f1bfef717c24563598948fcdc100,[],['build/Three.js'],0,4,0
+b6e42d54d939051589d222132414976f86f99e5f,b09308c238e716c90abaa8adfd6367f789c4dcc8,aebe898625ab37ed8eab17efb78a4cc4be593c95,[],['build/Three.js'],0,2,0
+b09308c238e716c90abaa8adfd6367f789c4dcc8,bfb824292899a381a78c549f34faf016928c28e7,98dc841aaba570cab4996e0d79bfb6a2bef3f0be,[],['build/Three.js'],0,2,0
+514a2e613581c2716034a446d64be6cd086dd06d,0cb79310e54cb5cf8fafa0b689fb8a5f3fdfaec0,3cdc007b90ff11a1fd5341ab3ce633564b5de775,[],['build/Three.js'],0,2,0
+bf6db5a714984f8c403f18388f5e8c1ee04b28e3,0ca8efd91644b961772471514b54ce170ab11df7,52045b53cbd2fcc4fd0da43c4cda626880e04d97,[],[],0,0,0
+c437ce68fea25e5e2b6c43a04836e80532b1b5d4,f6e829ca21695de1bd1169d87f692413b72f32e1,55c40d0fa33e21fb6b24d956fde45ac19f3d8264,[],['build/Three.js'],0,2,0
+f6e829ca21695de1bd1169d87f692413b72f32e1,49d1bd170ba58b7d7c2ab7b337454412db953309,8d198002d135b34667c7076eede558a5eb73cf4b,[],['build/Three.js'],0,2,0
+9d2aaf4e4c73d011213fe45cba440c08ca12ffd6,8e31bbb1650537c94ec8282d9215e9d474c02f7d,a9197533282b081b211c7fa2197433765714113e,[],['build/Three.js'],0,2,0
+b150a747553ba0b85429f02b784d9bd440b2c6f9,1c35d90fd7198deb7278492b3989e3f7a8e817f2,05ba1a2b1c8a185641b89e4d6998a791afaa810b,[],['build/Three.js'],0,2,0
+69287b8d103122ef7130306f888ad56483481351,9ba951a14bbd8560a6bbb725cae41e92131c33b6,369a8661dcd4f8b92171a7069183175d03e42cf2,['src/renderers/WebGLRenderer.js'],[],1,1,1
+79ab4bf2e600694513adabb90f807761d4cdd106,b6904f3d729e0aa5020fc4f09e93723cf255ca83,71f96a5f1b59ff2fcde1e80f987b1c99f2fb14a5,[],['build/Three.js'],0,9,0
+4a7082165af96a6d7a00f7aeca413b129560234e,1de8e6fd2a284e8df70d504fe5309b6a2c401010,369a8661dcd4f8b92171a7069183175d03e42cf2,[],['build/Three.js'],0,4,0
+ce000d482f5b592ec2a148d8276ba3364d2e0dbb,dde831bf6f00abe4cb88ea7711015d02882ac39f,db7003e88a7f7637d754586d3478ccd0f30af023,[],['build/Three.js'],0,2,0

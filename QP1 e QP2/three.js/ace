@@ -1,0 +1,43 @@
+import csv
+from csv import reader, writer
+import subprocess
+import os
+
+
+
+repositories = ['ace', 'bitcoinjs-lib', 'bluebird', 'bower', 'bowser',
+                'brackets', 'chancejs', 'd3', 'director', 'dox', 'fetch',
+                'flux', 'gitbook', 'i18next', 'impress.js', 'intro.js',
+                'istanbul', 'jquery-pjax', 'jshint', 'konva', 'mocha',
+                'mousetrap', 'nightmare', 'node_redis', 'node-restify', 'numbers.js',
+                'page.js', 'phaser', 'pm2', 'pug', 'q', 'request',
+                'requirejs', 'socket.io', 'statsd', 'stylus', 'three.js',
+                'underscore', 'webpack', 'webtorrent', 'whistle', 'zepto']
+
+# for repository in repositories:
+
+#     owd = os.getcwd()
+#     os.chdir(repository)
+
+#     # Criando arq.csv com os cenários de merge
+#     arquivo = subprocess.getstatusoutput('git log --merges --pretty=format:"%H,%P" > arq.csv')
+#     os.chdir(owd)
+
+for repository in repositories:
+
+    print(repository)
+    owd = os.getcwd()
+    print(owd)
+    source_file = owd + '/%s' % repository
+    print(source_file)
+
+    # copiando scriptGeral para todos os repositorios
+    copiando_scriptGeral = subprocess.getstatusoutput('cp scriptGeral.py %s' % source_file)
+
+    os.chdir(repository)
+
+    # Criando conflicts.csv com os cenários de merge com conflitos
+    conflicts = subprocess.getstatusoutput('python3 scriptGeral.py')
+    print(conflicts)
+    os.chdir(owd)
+

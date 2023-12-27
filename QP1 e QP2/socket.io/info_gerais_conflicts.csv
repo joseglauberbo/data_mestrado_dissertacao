@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+4672ab65d7ca24cba34c8611183fa42ca03a433d,28b396c3fcd75ea7abcf5a75a5315bf43c634610,331e6e85b90bf1ce1e04b0ea9dbd9cda994c3669,"['lib/client.js', 'lib/manager.js', 'lib/transports/websocket/default.js', 'lib/transports/websocket/hybi-07-12.js', 'lib/transports/http-polling.js']","['package.json', 'test/socket.io.js', 'test/transports.websocket.test.js']",8,33,9
