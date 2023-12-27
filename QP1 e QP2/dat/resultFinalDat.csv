@@ -1,0 +1,14 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+f82ce56d3a97e77b4eca206519ee2bebbf004f6e,59dff632ffb0621a5479a6aac1d4600886b2332c,00a9a3141ca0476df6d1b728ad55491ad424faf8,[],['docs/rest-api.md'],0,1,0,0,0
+0e26d0f59c04f32a0e3695f601842bd7722cbef5,a4f97cb98381b8f0b347a92eab40a70712920627,1013580c320abe31da3f7263920e7c16b2136ddb,['cli.js'],[],1,2,2,0,0
+f643665af261f8cd58f42c98eaef054ebdf785f1,a1ca15681c06410aafbc63acae36d9b7579dcc88,296170d946c87533cf0bc7577e9d518fd0780b9e,['cli.js'],[],1,1,1,0,0
+ce838430e1ef41c9943fb4dfec37d09c96742612,a613475941dd7b1ab2b4d65de28a21c5a294679f,d3a9bacdb6ca2289cfe28c13f3a8c9775daedc0f,['bin/merge.js'],[],1,2,2,2,1
+8d6ec7bd193feb7ba4a4f3a1ae93734dcfa84afb,4bd8a3be63fb5b0c332172e750194fac9b4c5b7f,02539a50591d0077138a7e2c4b3b17a1e2b28416,['bin/merge.js'],[],1,2,2,2,1
+8f33c1fe7f121080ecca752a73860b04269c671c,ad7ab8b9e55902f44204409ea54d9ea53f844108,7fd36c4c801a73ac6500ce84678b07230d84d391,[],['package.json'],0,1,0,0,0
+fb65535f3172b87adbecfcf69588c39eafaa2a4b,32a738e4e5ca9a2f4fdc0023b8d4750f8dbc625c,d64065db03b1c4e5b8d4b3b05974250a3aecabd5,[],[],0,0,0,0,0
+157fae1e119cd630df31ad6e6c86eb8d9c2c14a3,6bdd624ae6f9ddb96069e04fc030c6e964e77ac7,b14634a239ccdf4749f6d2a6c8381b9026ada3f3,"['bin/cat.js', 'bin/import.js', 'bin/init.js', 'bin/pull.js', 'bin/push.js', 'cli.js']","['.travis.yml', 'package.json']",6,12,8,8,3
+6f3dfef8882d1247b77df6b171dd340ff15b347c,61b74ff3242ec6c1e15e7e831888bea3a28519bd,503da703d94501251c79c7341764b029a09bcf93,"['bin/import.js', 'lib/commands.js']",['test/tests/cli.js'],2,7,3,0,0
+a1bb4c3eeb5fe0e91c98e8a72e298d821d4e45a9,3565bc59f71238e675d6a0e2579f4b286fa692c8,5dd550931a0b1f21d7f9e56d5d52a58ba751e0d2,['bin/cat.js'],[],1,1,1,0,0
+9c31e4e7f4c03893fe525952bf0615fb3162be94,aa5b8e51b615a5fa7bf50ce85618728ff27883d5,d7368fc3c393eccfdef449360a92e2512a79ab5d,['lib/rest-handler.js'],[],1,2,2,0,0
+e5ab0794e146b3fac310773f60c20a711f9f527e,1abd12838796459d537aee9015793afbd693cfce,a0b919c97a0b088321b852ec1036568f35c92bfa,[],['docs/rest-api.md'],0,1,0,0,0
+8ec954f6ed86ff03adc9cc4d7d5d26095d1c785a,9e4841980980ecae90ec34e84352171a867df6f8,90e90a16df6fbab9a9ba186298c010bc8844ad99,[],['docs/getting-started.md'],0,2,0,0,0

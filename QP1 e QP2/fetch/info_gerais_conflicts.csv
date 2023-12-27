@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+ddf7a7dc3888051e1d9b5d30e4753f2154883bee,d5a000df9312002548d22dcd88fc2772fa75a7d0,c35893f6edba0bd5a7c3538ec791c2181bdab3e1,['fetch.js'],"['test/test.html', 'test/test.js', 'package.json']",5,11,6

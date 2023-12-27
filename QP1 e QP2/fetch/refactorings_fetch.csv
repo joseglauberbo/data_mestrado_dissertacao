@@ -1,0 +1,5 @@
+60f902de69706b769c07453f593e80d28f8befb4,INTERNAL_MOVE,{Function responseURL at fetch.js:256},{Function responseURL at fetch.js:285})
+60f902de69706b769c07453f593e80d28f8befb4,INTERNAL_MOVE,{Function onerror at fetch.js:285},{Function onerror at fetch.js:314})
+60f902de69706b769c07453f593e80d28f8befb4,INTERNAL_MOVE,{Function onload at fetch.js:269},{Function onload at fetch.js:298})
+60f902de69706b769c07453f593e80d28f8befb4,INLINE,{Function _fetch at fetch.js:247},{Function fetch at fetch.js:270})
+

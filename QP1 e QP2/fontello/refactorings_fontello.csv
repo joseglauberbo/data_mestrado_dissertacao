@@ -1,0 +1,2 @@
+ecc6b44ad67df3ecdedf00a8f3ed2437903ca2e5,RENAME,{Function checkResult at server/font/_lib/font_builder.js:215},{Function checkFont at server/font/_lib/font_builder.js:204})
+4a3c4cf7820d092347fe42bf1d605c0ff9c6168b,RENAME,{Function get_font at server/fontomas/font.js:41},{Function get_embedded_font at server/fontomas/font.js:41})

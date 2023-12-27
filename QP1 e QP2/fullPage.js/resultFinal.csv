@@ -1,0 +1,8 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+52cc060fd261eac9515ca813416b97eba18652dd,1902588a4dc8a1480f42c3b6a4c5f21a63e7d13d,2f9d3dbbd401e95d2d3100b79e8372cf21580b4a,[],[],0,0,0,0,0
+d1682517abf4cba93df377d2ff2073e3b4c76e23,9f4913fbc3ee8f69e76224b19fb0f2d0c0ff0626,c57b7dcea361c73a2374ae481b3a5bb64f1350b6,[],['package.json'],0,1,0,0,0
+f790fc5ce221a4268f1f1a5f78741b1082d41f16,9973586bd744358654395896d763952d89edc3a0,b344728a7f05c0591605d230f14e1b2937c0c557,[],['jquery.fullPage.css'],0,1,0,0,0
+d93d5d682e847b1c98e95973f5ffde1ddafbaba9,67d76fb53053b3ccf9abc3e76af639ca8eb07475,e4bf30d84a97b2c3c6602bb905e4bc40b5113566,[],"['jquery.fullPage.css', 'jquery.fullPage.scss', 'package.json']",0,3,0,0,0
+681b3864799d163c64e23f446270e260a6394bba,9702c05eedf110d28883be4a0b8ff76d49bba730,3af9c336843ae1e64a3b208170df66998f1b16d9,"['jquery.fullPage.js', 'jquery.fullPage.min.js']",[],2,8,8,9,0
+dc9d5cad662c1d35a1fb6df0352bd18802c230ad,cdae214aaab2c84fe21b6ab5f1aceb31f18a3e6a,9ccc8f5cb7e245e9cab4f207631ae58854bd9ac4,['jquery.fullPage.js'],[],1,1,1,0,0
+acc7702b7613c9e4d77140c5ca5c0ff8250010e5,daf4ec344c5390c6bbf95d4e7e841b3701e6e5eb,83d8e393208b4aa94ce69fc1ffd7c8cb8818ec8c,[],['README.md'],0,1,0,0,0

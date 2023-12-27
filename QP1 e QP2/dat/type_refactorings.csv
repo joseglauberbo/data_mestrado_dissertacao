@@ -1,0 +1,2 @@
+qt_refactorings_arq,qt_refactorings_region_conflict,qt_type_refactorings_arq,qt_type_refactorings_region_conflict,occur_type_refactorings_arq,occur_type_refactorings_region_conflict
+8,4,5,4,"['INTERNAL_MOVE', 'INTERNAL_MOVE', 'INTERNAL_MOVE', 'INTERNAL_MOVE', 'MOVE', 'EXTRACT_MOVE', 'EXTRACT', 'RENAME', 'RENAME', 'EXTRACT_MOVE', 'INTERNAL_MOVE', 'EXTRACT']","['INTERNAL_MOVE', 'INTERNAL_MOVE', 'EXTRACT_MOVE', 'EXTRACT', 'RENAME']"

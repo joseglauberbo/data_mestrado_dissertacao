@@ -1,0 +1,201 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,0,0
+merge,left,right,[],[],0,0,0,0,0
+61d76220c798b9f67d17672ac678ffd38125e942,d9921171f561cfe80f447bbf1fa0b072f0931119,33d0d05adbe478a5847f46665baa51a67c41435b,[],"['common/app/Nav/Nav.jsx', 'common/app/Nav/components/BinButtons.jsx', 'common/app/Nav/components/NavLinks.jsx', 'common/app/Nav/components/NavLogo.jsx']",0,13,0,0,0
+07e08b9e6a8727d2e72aff98e9e6570add111451,ca7790158edcf931fc4b6658993efc4e2abf83ea,6285d369ca1423fbb54bd8f83ebddcff517c8395,['common/app/routes/Challenges/redux/index.js'],[],1,1,1,0,0
+eab62f6623cc03611207064522182dace121347c,f158183039e4d7126a3fdeed99cee80f98470f66,49a5911fca2a9d8c337aa7ec7c934138378ad729,['common/models/user.js'],[],1,3,3,1,0
+603a354e5667e48469d5070128bdf826978d2699,23d2f2a08b553888068e50b65b0e31d88cf146f7,4aa4248204d39eb01c8d531711d6c18d4dcf8446,[],['common/app/routes/Challenges/Preview.jsx'],0,2,0,0,0
+71708aa7ff705bffec15c3f66e2650a99981a0a6,4c96c2079e98594c97176e19340732e035266057,7f2edb6a7199d50e7b4c9a9f3cc0e08460cc2e28,[],['common/app/routes/Challenges/Tool-Panel.jsx'],0,4,0,0,0
+564e76b2bffcc1e7a3dc4293b485983d77c3d529,b944d606208d31d1de75775a96d5b1743ed62b34,a5c330de4d8ee7241a0ac60ba960944cf6d8b630,[],['common/app/routes/settings/Settings.jsx'],0,2,0,0,0
+8b85db06b55877b3007213eb068e995f1d67b4d5,cd9af163f6986b5cb256c05c2c258f9df454988a,86b3724e698ebee859300a3983a18ce36a66e521,[],['common/app/routes/challenges/Test-Suite.jsx'],0,1,0,0,0
+f018cae68655dcc6ceec44eff2345d3f515e5cae,566de3e3f2e751e0775fa8281c47dfdf1737dc11,34a25f784fcd360f97e8805dea079c1bf5add8a1,['gulpfile.js'],[],1,1,1,0,0
+ee2e0e290f5834d5e2b4c11129f4ba4df5ece9bc,209d7752935025f198b4f128be80aa0761e3b97e,e72ad8c513dc07e8c8df787d988ebf75d4130661,['common/models/user.js'],[],1,1,1,0,0
+b69e6388d3289784974358e9baab96a7dec8c761,684c60d9d5266a438f7a5c5f8efa058d633b8dda,c2318979c73f6f44b1e431d8776c8376c5dcfdcc,[],['challenges/01-front-end-development-certification/html5-and-css.json'],0,3,0,0,0
+4413e9b5af6ce532622b77c8982a3bd2a9105d12,525d91f4b76c674cd67361ca51063976b7756782,2f7aa1d2a071c1fa5b55c73526cc06b5505ec78d,[],['seed/challenges/01-front-end-development-certification/html5-and-css.json'],0,3,0,0,0
+4fe49642efa0010a8a5df60c59326799d66d5855,8b14acea16f24b14a7dd1a743ca4cb2ae675d559,5b2bd1c5b559a83036814a33e959106165fcae81,[],['challenges/00-getting-started/getting-started.json'],0,1,0,0,0
+5cc967f21ddb58491cbefd816c4c140400f92e09,1d624e4ed0e03b73d0f0804868cd9c6646801781,7e5f1eed4dc72903ad4fe81453a6c3eff54dbf27,[],['seed/challenges/00-getting-started/getting-started.json'],0,1,0,0,0
+724039a42d5836e2052064882e75715d21c7901c,36987c1806b0451a922b3733de6ac35488d2447a,4e345e0d12dec5d4914d2fa86cd2a2242cf8f569,[],['package.json'],0,1,0,0,0
+72cea0a0b34aa89978d97e21ea621ffa1ca9d04d,b4cf2b530329eac8a6e4b475550b905ef972a65c,a5dd5e2d01c405db8ef8d826ccdc4e227be17391,[],['challenges/01-front-end-development-certification/basic-javascript.json'],0,1,0,0,0
+c45df39fa5102dd4b2fad834ba9373b733bb52cd,334b1b222e4aeee433e01420c464b4185ed63453,425c0274149f158f950a51bea8c563b970a2d42f,[],['seed/challenges/01-front-end-development-certification/basic-javascript.json'],0,1,0,0,0
+60789e0386227c2d4f9809c5e2dcb9b544df3796,473a77e0a2c5648df0ebe81cb5392433c35865a9,1464adc3502ad7aa4a084d237468e7da882bebdc,[],['server/views/commit/index.jade'],0,1,0,0,0
+9409945ee7514136322f4113c133c659214b16ab,92928b552b5033586ab6441dad7a3c857d9e113b,c23367f62b114ca1793be873ce62ecbe07dfec3c,['client/commonFramework/bindings.js'],[],1,1,1,0,0
+7e9d65675a716b914595ae99b177307c1ce41e69,b1d8814aed5c4888767289586f6af810351fb126,887578abb815989385ce6cedd35e78040c7f02d9,['client/main.js'],"['bower.json', 'server/views/coursewares/showZiplineOrBasejump.jade', 'server/views/partials/scripts.jade']",1,5,2,3,2
+9651dc4185929720f88f62ffa0173eb4b1290ad1,82dc1cf3b5e4a3803c61a17a6bcdb62574eba3ba,ea018bedda04278691e1f324f3d83c16a29776c9,[],['package.json'],0,1,0,0,0
+61ffb55a3df1e825ae9830d121e41c6a302ea9fd,3dcc77278bcff456fb8723b65e506c26b5e7c15d,fc615ad3dd0aaab45be78b4f8bbbf2e64c60d578,[],['common/app/routes/Jobs/components/Jobs.jsx'],0,1,0,0,0
+4a7d9fa947d9ef873c0fb9f8339a9bd55cce2b57,323b3add32944bc525341beb56e738b97fd731f9,0d243fa228c4d734206cfea4d86ee5fa80906630,[],[],0,0,0,0,0
+d77d78a3b2962972106dbc0c286d55c18f24ff8f,6aa19ef24755cbd5250590dcf83880ec20a17b6f,0546e34abfa58c28a46b548097fc8fafb2398ce9,[],[],0,0,0,0,0
+7326996bdbccc3ec95c82c4c8bf9b6feec8c7d60,eef1c5136a66b00f3e1620340573821e72dfce2c,4011efdaed49c0a4ac4628b537592eb8a41d0da4,[],"['challenges/basic-javascript.json', 'challenges/bootstrap.json', 'challenges/html5-and-css.json', 'challenges/object-oriented-and-functional-programming.json']",0,50,0,0,0
+fd7451e233be8494cade0e069b27ad431b3d00c6,7f5653963b718925763a7cfd92a84479e9790f79,74e4b21ec6386b06c0f716fcbe54fa9de87b8d00,[],"['seed/challenges/basic-javascript.json', 'seed/challenges/bootstrap.json', 'seed/challenges/html5-and-css.json', 'seed/challenges/object-oriented-and-functional-programming.json']",0,50,0,0,0
+b3c58910acf2345dec95f37c52997ae3e8d7f03d,c75e93835946623d78f83a1bc709e276a0ff17dc,8fd3f55a7af901b7d56de7bff97f4d92da8ba7a8,[],['seed/challenges/basejumps.json'],0,1,0,0,0
+8cb33be491af49a5407397092062ef3829d8cc70,9573c836790c11587814ef12b0d34d4ea66fda7a,df8df1172b39a5812de4feefe3f94d4001e4f459,[],['challenges/basejumps.json'],0,1,0,0,0
+565d4d1309711434b25e3e914ca7f167b3481d3b,0e70f98171f32545bafc76afdea4febfcd2251f9,d9d558a8a9c2b03f01882d60cc646c3d1b57e61d,[],['seed/challenges/basic-javascript.json'],0,1,0,0,0
+2ca89c19e98dbfb084acba8a9c8cc8461f9f64b1,4cf242d4b1ca47471d3ef7c31964636cbf1e871c,5f4ecc72e4bde98dadc23e8f91e68c9e95e90e31,[],['challenges/basic-javascript.json'],0,1,0,0,0
+0e70f98171f32545bafc76afdea4febfcd2251f9,b2a19cfec5f99c8aa8dbcd48b2179d435aa3b76d,be373787831a45bfce00b92ab70e35dc4f5cd676,[],['seed/challenges/bootstrap.json'],0,1,0,0,0
+4cf242d4b1ca47471d3ef7c31964636cbf1e871c,c1212e159c66a0e9ff55507b50b12f05ce716a44,723a8ffb76355992918fac018bdda752003a8c13,[],['challenges/bootstrap.json'],0,1,0,0,0
+d1cc8350a447e7ac683d95231aa17e5982dd6163,f6fe58e866b10abcdc9ac1968ba9e38d4f527557,f4f72ec0ef7644d46bd1517ed3ec650dbbbe55a2,[],['challenges/basic-bonfires.json'],0,1,0,0,0
+6dbbf56c5c6c49d912fec0b94a38c9ac23df1af3,e521cdb2a6e77dfecfbb9f795ecc30b42944d69b,0a455fcd9231d2a13374380be6722d71a1f53d6b,[],['seed/challenges/basic-bonfires.json'],0,1,0,0,0
+e7c6e626e070459660a3a5003dd1270a2a09b533,0bebb8eb82e8a880046fb2f4d05f8d69c658e9ba,1fa5db288fd72670a79e71c07554880a89ddf129,[],[],0,0,0,0,0
+36ba68781f619b83038be1c75a0a964154b5376c,49f5204f03c1d8fea6be0be0fbb1468ac5c56014,924d35e61009c059eea71f212d1fc17836583ae6,[],[],0,0,0,0,0
+da29152783fb71dc062b8810e205f08e18fdec32,6fafbdf441884b5c9c6529778dddf2e16e36b374,e62375516bb8aa5a65bb46a912c6d907ad144478,[],['server/views/commit/index.jade'],0,1,0,0,0
+b8dc81214d7e5c21ab9c7b01576614ea164fb4a8,51af4e4b0db696cf449a7b8251c6a6840fd83925,e404e74187866ce05a9562db4d1455e2faa16b16,['server/boot/user.js'],['server/views/account/show.jade'],1,3,1,0,0
+66c092066f79427b82a9c66d6e08c053fbc72554,d65042af543b777729921dd24fa49001f1044388,620c82836214d33c08e0a340fce7d9d57bb33f4e,[],['challenges/json-apis-and-ajax.json'],0,1,0,0,0
+cbb78079f9e622f72a9c34d41dfea04b489ef435,5b771e18e66eb53157acd1bc10d8d90ce4951e0a,4b05a6edc77084d9c8f23bd2d722ec0ddb6e01b5,[],['seed/challenges/json-apis-and-ajax.json'],0,1,0,0,0
+344a5b9103ca7e166eda929e510e5e524cc79199,8dc908aa305f3824ecf061e552b9dc685df0121d,b78696463d237afc88439716b2c839c094637d7e,[],"['challenges/basic-ziplines.json', 'challenges/intermediate-ziplines.json']",0,7,0,0,0
+465835d6b16449fa8fcf8d05238e4669bc9d7ca0,69a372902582745ba30b1e93d171c35564163c5f,7709438fa3b43aea239e8c76cb75391702ffa61c,[],"['seed/challenges/basic-ziplines.json', 'seed/challenges/intermediate-ziplines.json']",0,7,0,0,0
+b1973580567afab5beb2a2c8cc87bd39f06e7a90,3e25b3a6bce0816aae8ffa7dcbf91bb2385bc3ea,77892a05c0ce2b9f0617c2c8ac6f63873e99a943,[],['server/views/partials/navbar.jade'],0,1,0,0,0
+e71d748e91db5c57d38931ed873a589148ddc4b7,42d2587e5b4dd2bf0594571d1342cdf2348a8c3d,303d4db21d8be5e27549b8ceacc5c4cd08745973,[],"['challenges/basic-bonfires.json', 'challenges/intermediate-bonfires.json']",0,15,0,0,0
+dca179c2c57e5242b0493100d2517881913736a7,16c0c23b2c2efb782d7e11427e5d7f293dddbb28,afe8aed60866a7ee933fe7e5b2c726cb0e192000,[],"['seed/challenges/basic-bonfires.json', 'seed/challenges/intermediate-bonfires.json']",0,15,0,0,0
+e2d33ca8f7622e196d12575ef6299ab1bda6557f,85c2666e8b7c38cd1e55c7283267facf9743bf49,bd0cb8ffdecc385b7fa20fe4ecb8062b58604dee,[],['challenges/intermediate-bonfires.json'],0,1,0,0,0
+ddde4db82121c4fa639bcb57491a18d81b92ddfd,ab8b81abb38e9803a89eec1be2974b99d26f6a3f,93029f4e35fb53c749c67633ec7f45d88766a794,[],['seed/challenges/intermediate-bonfires.json'],0,1,0,0,0
+51af4e4b0db696cf449a7b8251c6a6840fd83925,ebb84c9e757d62c278b4b228042425e173bd86b7,51e5c54f81c2cecea03889a58488429ef8ec7942,['server/boot/user.js'],"['server/views/account/show.jade', 'server/views/account/signin.jade', 'server/views/coursewares/showBonfire.jade', 'server/views/coursewares/showZiplineOrBasejump.jade', 'server/views/partials/scripts.jade']",1,8,1,0,0
+5b760b7cf3701c063ebdf4ba42b0bdae74210c8c,523410e3efb618ac38ac55b4db052cb0f340c597,ac51c6efb907f73938dc4119fe08196efaa92b57,[],['challenges/basic-bonfires.json'],0,1,0,0,0
+fba0d02c08c4b9439977b98390c17bcc8746d9a7,1eb34dc175db5b333714ff0d02a70d3b50f291bb,4f16b0e996b36e5f6a676b1a2fda9d49cc501bae,[],['seed/challenges/basic-bonfires.json'],0,1,0,0,0
+3e713ca906630c731e21bd8bfdfab4433b9d2197,b3257a5fb6df5b2bdeea2258923bf3729bbc8a1a,f289eb9201aab1fd9490ca075424ed781e5aba0e,[],"['challenges/basic-bonfires.json', 'challenges/intermediate-bonfires.json']",0,8,0,0,0
+3d08496eb855f2925a3e8a70c229703d86f78944,3c88c69c184c2594340198e3e7a652f755f80e94,f837df92ed021a25f34035ce4c2bed4898021b7a,[],"['seed/challenges/basic-bonfires.json', 'seed/challenges/intermediate-bonfires.json']",0,8,0,0,0
+f289eb9201aab1fd9490ca075424ed781e5aba0e,2922be8d98c0df3a791d9a18fe31733220594f1a,d22deb5f762fc228f6e9cabf6128390482028b15,[],['challenges/basic-javascript.json'],0,1,0,0,0
+31f818788dd8d8d38b2d571d683e487643b7bd61,9ed8d35ec22a38168502fc4df185aa2005879091,8e705b14ecd649f62eae6d862bf97b3f2783efcd,[],['seed/challenges/basic-javascript.json'],0,1,0,0,0
+c94b50d186f6e27486a3776f384c36c53deccd01,4707bf1b1a7e8bcb0315a79ce4b90976cd428cd2,fec58a7afb97b924cf2256de25a7b9e2b0836e7a,[],['challenges/basic-javascript.json'],0,3,0,0,0
+9bdbb59b67c36cb26cb12906253a9be4e10f6ac5,fa64b9dca6cac6d5c292c946ed938fae61b75d12,43778e5149717f25e84c4e716261d95d6d00753f,[],['seed/challenges/basic-javascript.json'],0,3,0,0,0
+0d31256a1042995b65ef70ad98fdc417e9163193,09b6dae11bca4ac0d3dd53c13ed9c6d440d4af02,d3e77f1282b5b4d83aaf14689d39af7494ee6b37,['client/commonFramework.js'],"['server/views/coursewares/showBonfire.jade', 'server/views/coursewares/showJS.jade']",1,3,1,0,0
+c70fe77952f4b28c60208385a8e65dacdff0915a,ee9a2d681f3b1d2daa180885cfa3ad6d67fe84a4,a5f30414aba8ee675554fcc99e32e6d2548bdb93,[],"['server/views/coursewares/showVideo.jade', 'server/views/coursewares/showZiplineOrBasejump.jade']",0,2,0,0,0
+09b6dae11bca4ac0d3dd53c13ed9c6d440d4af02,c10f81408a4d4097ae1bfadb2a35496ee0315554,308071b33cf53e5d5830b5e06c2202121c3744fe,[],"['server/views/coursewares/showBonfire.jade', 'server/views/coursewares/showHTML.jade']",0,2,0,0,0
+79a396b9c83a680ec6a82e6fd63e8eedb6b47c2c,fdf3fbe1576d47ec6604888e5647fb690b0cbbb1,f8a5d0d7ba23cb98ce8cf6b1fbf7c16d8237b5db,[],['server/views/coursewares/showHTML.jade'],0,1,0,0,0
+b3a278a8f91e31adf5dd52de71ddd12a926d2e9c,a4e903847f9bb422132a0752b1f28156d20a820a,1be3ad369fc15912ae415bf42d85172ed36e6b38,[],['challenges/basic-javascript.json'],0,1,0,0,0
+a0f700b7dbf8a9968e7609bbd83fd3d7f8ff8e68,c5c68c252c4980b9b0489874a8b44500960533c8,36d7e5ba8848cd6a1407cb65c25db6487df6b941,[],['seed/challenges/basic-javascript.json'],0,1,0,0,0
+d33168fe25228ef28313ebaf95d8920b150628ab,14cc6a7cefc778625dd0e190e9f5a881971c64b6,1133aeda9b71d2c15b38df541d17d53225ea5c39,['public/js/lib/coursewares/commonFrameWork.js'],[],1,6,6,0,0
+275fe55fe785aed0a0cda9fd7b7c7ff9555a9740,07262eb5f19aa0189bbfb95426a998cffa480505,734659881f5aeb7792ff6e4249825b8cac837cfc,[],['challenges/basic-javascript.json'],0,1,0,0,0
+0cc032a6e9db4902517c5cfd563297560eb977c6,beb537d5eb85eccaf3f5ba2faa5ca713aa0d62dc,782f06b73794268d2ae03e0370ef55381be032c8,[],['seed/challenges/basic-javascript.json'],0,1,0,0,0
+2f4e459e82dc687b376d6ef5a08257e0d524e809,d14eb0dbaa584f21b786ffbbfbf3fd0dd200994a,13920938f5d1a452b3e55628e548a3595efdf303,['public/js/calculator.js'],"['public/css/main.less', 'seed/challenges/basic-ziplines.json', 'server/views/challengeMap/show.jade', 'server/views/home.jade', 'server/views/partials/challenge-modals.jade', 'server/views/partials/footer.jade', 'server/views/partials/navbar.jade', 'server/views/stories/news-nav.jade']",1,16,3,0,0
+9b1d7294c03ee1be3647f62fd790d379b63db7aa,75b19e0e30e937005a4e1215a4bd1a2e4d102c43,67edb8518429a0fdd7255c12e24beb85c4c87a8e,[],['challenges/html5-and-css.json'],0,1,0,0,0
+c8b32afaeb1b32c63c2eee0355abbbc8a15a8295,b001b8f8f2bd1d560206412be541de02d093db45,27cac3067a2df0def7fc9ea4b866e12f6fe2c7b6,[],['seed/challenges/html5-and-css.json'],0,1,0,0,0
+9275bd5076a81bf6ca0fbe1ca97c518be0c6375b,837d4127775840752cc55d737dead23e6b8767d3,b14990dd63cb37f66811674087a3a3015863612c,[],"['challenges/basic-javascript.json', 'challenges/object-oriented-and-functional-programming.json']",0,2,0,0,0
+fea723efbd4e3133a646a30bbd3049f6612919cb,3f05565739371f6fbb538af157e94a5b15e97c0f,0a8855fb117c874b3b2831dda4ecdef8588c963b,[],"['seed/challenges/basic-javascript.json', 'seed/challenges/object-oriented-and-functional-programming.json']",0,2,0,0,0
+c801b4b9072cdee37b1d2600f22093b1a92b370e,043ef69d2fc2df54f14b9c0c15c9035d96f48487,2bbb2bd5411cf6b49bbe139ddb801f949f1d89e9,[],"['challenges/basic-ziplines.json', 'challenges/jquery.json']",0,2,0,0,0
+271166450556c46639c89ef37ece455eb27dc57a,4cdd0e20d98d8d795f6f90c7fb48458a85538eac,40b43370ebf4ec29633780421d766a010278a871,[],"['seed/challenges/basic-ziplines.json', 'seed/challenges/jquery.json']",0,2,0,0,0
+0fdf9fbe62ad248c1684f9588684a177958c6811,22ce7219a6a40011e9ac826a6a27762a672bfa6e,760fa4e360c104a795e0d840cf10c0797f3cd332,[],['challenges/bootstrap.json'],0,1,0,0,0
+d138757c52aff41f7c92a2e33e47681120466236,b4f5f1a81efbfd78e5f0fe58edcde99e0084145a,7a2c2544a4209cb48596de117bf440bac6bff83c,[],['seed/challenges/bootstrap.json'],0,1,0,0,0
+9ff8440d1d6b5044fce14166c8c7e2b4f94f9677,36035312082c3a8a5396d276e2cec4cade5ac123,b87f8f023491a56ab05fc35fe9bc5fbb32cf8b90,[],[],0,0,0,0,0
+690369f76ad9b7617c884579276d459df0bfd81f,9e128e27877e7b989e715cd4db4e89c7742f6672,e7f4fdc5cf62eab28af10c7c733e34da90fc8e8e,[],[],0,0,0,0,0
+f2356c6767259d939d5881d7b83d29aa1857370e,d838036ed2db4ee59ca524cf298dffbc46112ce8,5ad9cf8fabd081025bd0a4e99cca6ad487d15856,[],['challenges/bootstrap.json'],0,1,0,0,0
+db6db2e403049b80bd5d9229d9ea5a0f612c19cf,959fde64fcf39b3b0a576448b34d88cf803ca9e2,43e3dc8914086923760c295fdee3a4ae339d7d17,[],['seed/challenges/bootstrap.json'],0,1,0,0,0
+59e620476880ab30f4a9bae98517a0ca35ef3d57,2c6b1e93120d1e075d7b8197fc6734acd2f85de3,b1003b403c8b78a5273aa26976e84603f8bd9d0a,[],['challenges/basic-bonfires.json'],0,1,0,0,0
+a44622af8281ceb1d5884afa61c2ad2ad41952e5,f8665324ad4afc5db7f47d50f5091f418347a13e,8dabd39950ee87dd7fcb3a4edb672a086a4883e8,[],"['seed/challenges/basic-bonfires.json', 'server/views/challengeMap/show.jade']",0,2,0,0,0
+1d724f145e84224dd05fa7acb4bbd7dddec31298,967f92e6f42aee5fa0bf752e9ad41c0a77fba8f7,0c349f97639f2ff6efbd80a1e8e7adeaa9558ce7,[],"['seed/challenges/advanced-bonfires.json', 'seed/challenges/object-oriented-and-functional-programming.json']",0,4,0,0,0
+d2069827d5628c79a2fa8ab36844e9f78f3bc44d,a7ba4bacf87e7b32166ab8c43ed4bc274a99e0b8,339dfaeb1ebb8401945c76a736d70de3b30300a9,[],"['challenges/advanced-bonfires.json', 'challenges/object-oriented-and-functional-programming.json']",0,4,0,0,0
+2c6b1e93120d1e075d7b8197fc6734acd2f85de3,7ce1a06c54e938d36fd35159319d9d44b09596b2,6ba77ca9f687117359c66496ebb6bf37ddbdcc5f,[],['challenges/object-oriented-and-functional-programming.json'],0,1,0,0,0
+13f08bf037bdbba4447216d0365309df24365ac1,f3028b0e6a911b5d605461dd0d70180f7f41b38e,4ed041c0db5f89dc4f44611ccea8daac8c2931c2,[],['seed/challenges/object-oriented-and-functional-programming.json'],0,1,0,0,0
+6c3e86390079e7d094a0a9cbc1b0a7a99789d4e5,f8b5efefbbd0d9a1957d39756f233138f347e244,f606d49a680c270abe3322e65f8417a20826f2ac,[],['challenges/html5-and-css.json'],0,1,0,0,0
+28610c4092b17904f3e4c55fd6e6e9c78cc86c90,dcbb753b7172f5ee18fb9543fa41374e1e889e63,3d51e7776dd561e351cbe753cd307a4e14334169,[],['seed/challenges/html5-and-css.json'],0,1,0,0,0
+912e07503994c5414492c9698207c5f933f5a42d,527df362db715d59c7b4535b4d14f71cc4847953,edbab55c988d6e4dea7c728054171ca9f44731f0,[],['challenges/basic-javascript.json'],0,10,0,0,0
+5fd95c584c8d9d44e5b21e18a3644fb672b6d1d7,2d009777b3c0faa498e7b1a07042baccc19cfef8,79a96292b9280299ba09b45d41a09fa575485c44,[],['seed/challenges/basic-javascript.json'],0,10,0,0,0
+cf7da2a7d5242d7998000760102f7978401ae752,986ce9a64c30701dfdb55c2f389dcd007428fe50,1ef15eb839d36b3b105561c4e9ba257474238704,[],['challenges/basic-javascript.json'],0,42,0,0,0
+37d5efed4e71fa1934d2ae245cfc964a558e1ef6,b67a6b2b7230a79ebca7d29206150b2857766a9e,890bd8cd9c3a9dc864fce501fef2541aff474b00,[],['seed/challenges/basic-javascript.json'],0,42,0,0,0
+986ce9a64c30701dfdb55c2f389dcd007428fe50,84a268d09ad650a27302d2f6ee9766037891fa70,5227fc0214b1d8d66d0bf275109444ac951ed52e,[],['challenges/basic-javascript.json'],0,14,0,0,0
+b67a6b2b7230a79ebca7d29206150b2857766a9e,1e76ea18429f8539fbeb6ee394a2233f8d54baa9,ead5c19d6e9e8a8e0fb165b26e723f71437e5ce9,[],['seed/challenges/basic-javascript.json'],0,14,0,0,0
+84a268d09ad650a27302d2f6ee9766037891fa70,4060d7fdc952a0ce4130df233d6a02d696905de1,50f356f16fbfe0cefc980a282ac7b0b8483f3754,[],['challenges/basic-javascript.json'],0,29,0,0,0
+ea26455c4ccebf05f6ff72c8651bd07ba8adbbdb,8072a4b7f2344f5af8c68cedc9f8ec33388a6569,a24ef288b4d00cea5366e32ae0c6f477100f3967,[],['seed/challenges/basic-javascript.json'],0,29,0,0,0
+b287c14ddde8c18757ac02ae3c0be748665cae15,30c46a43ebf3cb30b9fd172ba3c28c92bd3239d3,ef919b7ed3976c45d0c849f20de0c511a54ade57,[],"['challenges/get-set-for-free-code-camp.json', 'field-guides.json']",0,2,0,0,0
+378f6da221439641b0070dddc59fa9553875d3a9,670072965801a74ffbaabfec37e381ac1af71739,8570f9b5e71c21437e8dd4cdde5f9384fe717a71,['public/js/main_0.0.3.js'],"['seed/challenges/get-set-for-free-code-camp.json', 'seed/field-guides.json']",1,3,1,0,0
+1df962bb07b43e247deec25007bf80044603aece,4d620c57966a8b152145d1006d05fda5d9296e9c,fb1897073cd7051ed7d8dee55cdb636c9ce01738,['public/js/main_0.0.2.js'],"['seed/challenges/advanced-bonfires.json', 'seed/challenges/basic-bonfires.json', 'seed/challenges/get-set-for-free-code-camp.json', 'server/views/partials/navbar.jade']",1,8,2,0,0
+ce0731df5f550d4f5709b843dfbc4a28940bdf55,a0f4f91ec19e59ea31468c347743ef9e72a15823,629262dd0d126ca1b0ff58da6b6871cd1d7fb78c,['server/boot/randomAPIs.js'],"['server/views/coursewares/showBonfire.jade', 'server/views/partials/navbar.jade']",1,3,1,0,0
+cd63977687c7a5815e3eeb75993ae32a79c83e8f,ccc29b7fcb3321aedab877d984c71871b2a8e54f,9509c5eb2f0670cc004eb83058604f87d49c97e5,[],['seed/challenges/basic-bonfires.json'],0,1,0,0,0
+d5ea05e4487e108471a41bd698e6e03d1a11a3b8,0ef399ad92a030390b0605c614cdae545478d73a,6fed8d1c24420312dfd5198c47458602076d3c67,[],['server/views/coursewares/showBonfire.jade'],0,1,0,0,0
+0ef399ad92a030390b0605c614cdae545478d73a,1a3e227920551f09b6d8cc5f8a62795ce5f660bf,c56c8fb310eca02bd63e71650470171748c2d12d,['server/passport-providers.js'],[],1,2,2,0,0
+43f347bae0bee68e7aeaf56adf2a860b73fe4bc3,b6fc2551d9b322032e92af9bc6f00107666c05d0,3979dc42b9d611f6a2c96d03de022198262626e3,[],['seed/field-guides.json'],0,2,0,0,0
+b6fc2551d9b322032e92af9bc6f00107666c05d0,b411426874630c8671346ed43e96f880d30659a0,c7ce5784ad8722533666478f7979c9082169a803,[],[],0,0,0,0,0
+d4fe751baaf0418bfa980ad2f0a199b9d85a992b,fc7ac3b3ca2a9f78334ef980481d2da993d4e67f,794c036fd30b8418ef2e184120a5a7a265aea28d,[],['field-guides.json'],0,1,0,0,0
+173d46ae01e989ccd3f771937093ecfadfaf3e8d,b3fb1d492d9eb31f7d79060952d0b5d1a21aabba,0f5f92b937768adf3bc29a7d4dc39f51a5d8ad43,[],['seed/field-guides.json'],0,1,0,0,0
+223ea2a39385f866e06dd46de45109608c2d4dc0,3017991de5d04488034b028358430ed23f693897,c2f408fb56937b85e653114e4502dbe0cdcf99c2,['common/models/user.js'],[],1,3,3,0,0
+61486c2d7c25fde816be20571e129b69c8bdd91f,ccc440fb4f6a2b9cfdd1003d8c49d50961ebe116,78dac937f7bf7cc5484c9e7ff472cacb92bb2959,[],"['seed/challenges/basic-html5-and-css.json', 'seed/challenges/bootstrap.json', 'seed/field-guides.json', 'server/views/partials/navbar.jade']",0,24,0,0,0
+f33269d2b981e21a2618bb2388563bc67789b25d,5eee9b7ac38c1d15367cacf60c97d5f7a9add22d,6ffdbb7b8a06e1589441dd6cad05ed8719e2e32b,[],['seed_data/challenges/basic-html5-and-css.json'],0,1,0,0,0
+ee1f336475e435f53b5a795a791f0341a05e69ad,d6e09ad1e52ca01c5d819db3f3a65292eef0c9ae,aa44bb2e3fc3f611bc564f74edc8d1c961e1e3ca,[],['public/css/main.less'],0,1,0,0,0
+f6596d265455391e7435f07c5b36685e3b220b87,e87e132325632e907d5b1f39ebdff1029bacceaa,40bc945a200869ca92caea79284caf694d43d9d0,[],[],0,0,0,0,0
+b8b5f3471f5bde39f538c508bc6071d3db374c1d,5f71407a84fc71dbe1221425403e34bcf7eb66f1,223c4499bab5ae5a62ef3efd198894c09c2d3042,[],['seed_data/challenges/basic-html5-and-css.json'],0,7,0,0,0
+2b39b22d67ec05b413f71e6ba767d01af757052c,d4eed5b5144fd6b0d14cc423599410174ffd561c,d403204a3133042b8b7828f29ba1932674e71a66,[],['seed_data/challenges/basic-html5-and-css.json'],0,2,0,0,0
+ebe3e2b04ab3fccec272e37e4f60eb88946c9a3f,1b9325dec0b2a2d16c2a1e69da3a21240591c26c,b3c86489378d6cd320f21ac9f18ad3dc100daf27,['controllers/resources.js'],[],1,1,1,0,0
+e322b3b7d61ebcf176ca237fed1921a891f7cc16,7e08f9d8f5eb8fca241c7d6669fb6534436ca2b2,1c76a104dbc0dd1028d1f1e6bde05be8725820ce,[],"['seed_data/field-guides.json', 'views/coursewares/showHTML.jade']",0,2,0,0,0
+697fff79d527fa7161c548911bd8195101052a92,7d9ffbaa651516efc949129014c4edfc0e63cb24,40837abeaa789992395903c43f9f220b117db564,[],['seed_data/challenges/basic-html5-and-css.json'],0,1,0,0,0
+40837abeaa789992395903c43f9f220b117db564,15817591d4c3bc87b76bea40d159472963278b3e,5c46c552d65f988f5509afb32c3f7117f13e6ae8,[],['seed_data/challenges/basic-html5-and-css.json'],0,1,0,0,0
+7279559c413b5537ec124df30fe6d002004a9648,b9adbd59767ae1abe3ef15252d03ed00c55c5b61,42d48dbcec5770db871dc7bfa91ad3b486c85872,['controllers/resources.js'],"['seed_data/bonfires.json', 'views/partials/navbar.jade']",1,6,1,0,0
+a4be01aabbadf361caf471c51ed999efee7a6620,92f4c7a41a3896b2b91356cc959d1de54a70f565,fd8a291ecd4c7a1137c8062225ca98d2577190f5,['controllers/story.js'],[],1,5,5,0,0
+52f7dcc96bb8631e784debfe04d2947740edfad3,e52c0a1578ada84dbef67179801216d44a7de103,b73c7eac62d30fdc5e533f617dcd1b5e95306984,[],['views/account/show.jade'],0,1,0,0,0
+82a1680943d57591b2c81fa821c042664ec28766,1d5392e5c194622531793f552a41b562d3ff96eb,e77eae2643d08ab9f28e82c023c5f867fdd6dccc,[],['package.json'],0,1,0,0,0
+7cbcf46377e8bdf2f486d7a05da9f1b98e0f72c2,0f0adac85c0d2c0c696bab8b0896c18132dd87bc,1d7f74a0f690a60768caf986b54209dc0dddf7bf,['app.js'],['views/challengeMap/show.jade'],1,2,1,0,0
+e1d577b0354482dd97836470a89a76b92cd1d52e,d492afb4f5ab43050f7245f0c1ecb1b530fc2726,58981252cc100ec6afd697e57cf2778895c2947d,[],"['seed_data/coursewares.json', 'views/nonprofits/show.jade']",0,3,0,0,0
+d492afb4f5ab43050f7245f0c1ecb1b530fc2726,ec5c542d07d7e160bb5269ec469f5967aa7cde91,f17d8abf015930ec01d9a701c5f8241966344432,[],['views/challengeMap/show.jade'],0,1,0,0,0
+1d7f74a0f690a60768caf986b54209dc0dddf7bf,d07bd24a5e8244fa984b215e0d7d5bdb38dae2ea,58981252cc100ec6afd697e57cf2778895c2947d,[],"['seed_data/coursewares.json', 'views/nonprofits/show.jade']",0,3,0,0,0
+cbdba845dfeacecd38af66c2f2e317e1313d5d6c,f3c99d90a7223da05c772bd388e02f2ecf4b681b,f17d8abf015930ec01d9a701c5f8241966344432,[],"['seed_data/field-guides.json', 'views/challengeMap/show.jade']",0,2,0,0,0
+fb3a116fffdd50631d23d3318df0768af152d18a,d6da385b920c32144354cf37c9cb5220e081eb97,c71514cc81dd532f4d09cd8e2059086c8d32fa1c,['controllers/story.js'],"['seed_data/field-guides.json', 'views/coursewares/showVideo.jade']",1,3,1,0,0
+dac45382e2db8f7a57cc37ca30621de345400a4b,941d261b7c241bd78338b94867ca23a865990f04,c50ce70749a4349df7a3552fcf068eaa2b4b3acd,['app.js'],[],1,1,1,0,0
+a6f6d7e1cf56bb07ec109a43ba0b8f7793be708b,76ca1c6c5ff2851b9dc02659a30d89b57608e406,b4850932dceea88171249278fec4ee7e1b45c5b3,[],['README.md'],0,1,0,0,0
+8781bc3e63b0213d6a6a822e1c7b01c3d51558c6,4473b6b62035b2dd5d79123bd2c1231d0fd9d247,b2f18a790af5cd63c52aaa3e767c700866ee085b,[],['views/stories/comments.jade'],0,1,0,0,0
+020e1999a31f2a863d94996c74501dc2fc294f2d,04d9856d4fd88d897d08cf50bc24ea8d038bba65,255a6b48be3eaad0f0b42daaab2dc5d25e553049,[],['seed_data/coursewares.json'],0,1,0,0,0
+b49d2fd34380061dff87ff2f91521117c59e3b06,56e45ba9dd54ae5fd4dfad1f1f80b1ecea68da52,9c67d4988f8166acd15e5617b9896928e815a571,"['app.js', 'controllers/bonfire.js', 'controllers/courseware.js', 'controllers/resources.js', 'controllers/story.js', 'controllers/user.js']","['views/bonfire/show.jade', 'views/home.jade', 'views/partials/navbar.jade', 'views/partials/universal-head.jade']",6,39,35,2,2
+56e45ba9dd54ae5fd4dfad1f1f80b1ecea68da52,8119858a24ec0699140884a5fb37b1b79805eddf,d20aa1cf3cd838785fee92c5f18a06ea43f01b7b,['seed_data/bonfireMDNlinks.js'],[],1,1,1,0,0
+543c79b67a7c60bfa3b32ef7c84367abd6da3fcc,003f6c6c0a31886800c735dde421d06763a0ba58,b6da3125474c4478131fd022199c0bd0b20f0eea,[],['seed_data/bonfires.json'],0,1,0,0,0
+2328cc29275b5f66a0aefc285c7f9c9c6202dc09,a60c5eb92c9a57ea8b99e8580b785527b600b712,2bc92924e2af72f53172c6f16130905311f4b39d,['controllers/user.js'],[],1,1,1,0,0
+e04470872e9136658acf38836794999faef22bca,b6dc82805d5d687ac7f8558d3060e65bdc689f89,c17ff59aef7d3155ea733b0735df3c0c95c3e862,['controllers/courseware.js'],[],1,1,1,0,0
+18a9818200a15816ee28e6dd0b8b4f253e6007a2,106a10edcaca310c2730881d542dc8625807257c,9fe8bf2fbf92135912736f67708b2ef656777e91,['controllers/courseware.js'],[],1,7,7,1,1
+43810ccb0c738d298360f5e31bfb9da5cec1d98d,f20743428a02b45248189035c56dc3ec33bc1136,b00c5be45c61a25565b65bac6fec3ec0b935cf6f,"['controllers/bonfire.js', 'controllers/resources.js', 'public/js/main.js']",['views/bonfire/show.jade'],3,7,5,0,0
+70f812dc78fa552ca013d4652a876ee2e0fa43c0,4a805729cfde5e71ff89e46e50b9323469011711,47d0d8e0da83463a43ae7bbcd99f6a448f7e337f,"['controllers/bonfire.js', 'controllers/resources.js']",['views/bonfire/show.jade'],2,5,4,0,0
+f6df15d5e09abde1ada59dc7860b7771cbb8dfe3,65a4c923b2e2546b41813dfc428d002de215eab8,47d0d8e0da83463a43ae7bbcd99f6a448f7e337f,"['controllers/bonfire.js', 'controllers/resources.js']",['views/bonfire/show.jade'],2,5,4,0,0
+65a4c923b2e2546b41813dfc428d002de215eab8,6a19dc9bda72a98db58d1f8b0f66e8b5d7a1315c,672df775a2031a67105d9773fcbb3e2214d74d52,['controllers/user.js'],['package.json'],1,2,1,0,0
+ff94d10aa8cd2ad4a7be2afb9f6c6443e9c08d9b,0a07c1e3972798ad54696481372707bfeaccdcb9,4d3337df3221e3be8d55d058f9a898a2d502b451,['controllers/courseware.js'],['views/coursewares/showJS.jade'],1,2,1,1,1
+4d3337df3221e3be8d55d058f9a898a2d502b451,94b6cae3ece95cd7bfebc6954da55e004299f6c2,e4eb5052c7826f1cecffb0e6571b858afadccf6b,[],['views/coursewares/showJS.jade'],0,1,0,0,0
+eb96d2cb02e4126c78320d13ca07186ff32c2d09,947b034533a39de2f317da9c14e3fdcab65b114c,f7f7fb39b9b631ee4ae955009f05120572ffa366,[],['views/coursewares/showJS.jade'],0,1,0,0,0
+947b034533a39de2f317da9c14e3fdcab65b114c,efd7707ac83546c88345d4571f83e08d8dd76862,94b6cae3ece95cd7bfebc6954da55e004299f6c2,['app.js'],[],1,1,1,0,0
+4cad7c1aee1e8d5f11f2eeaf37f6f522c22d4125,b3174eeadf5e831c96adc6549ac52c5448678f7c,8a357dd48a5e77127e85c76e492d58a13299ab44,[],['seed_data/bonfires.json'],0,1,0,0,0
+09b812688ea543d053906eed7423b457e2291877,7d4c30c502c28d56aa1e96166071184e2bab0784,8a357dd48a5e77127e85c76e492d58a13299ab44,['app.js'],[],1,1,1,0,0
+25ae3ec909c2a96f6a59fa60f2acd4fb1e9b9764,e9c6498cdf0a1239fd7cdc69085924627d14f4f2,8a357dd48a5e77127e85c76e492d58a13299ab44,['app.js'],[],1,1,1,0,0
+2dbd59b7f1260916c666367fceb89e4e27e1e172,88e261ccf666b5786faa168145b2962af8c96641,03022c68ed3cf313380a2eeb82570f4ee39421d1,['controllers/resources.js'],"['views/account/show.jade', 'views/coursewares/showHTML.jade', 'views/coursewares/showJS.jade', 'views/partials/bonfires.jade']",1,7,2,0,0
+88e261ccf666b5786faa168145b2962af8c96641,a89139119acb6ed7c1c4902a3ebb4af881f37e52,5e97c678a5d84f50b3c5f19ecda3895b29303f3d,"['controllers/resources.js', 'controllers/user.js']","['views/account/show.jade', 'views/coursewares/showHTML.jade', 'views/coursewares/showJS.jade', 'views/partials/bonfires.jade']",2,7,3,0,0
+5e97c678a5d84f50b3c5f19ecda3895b29303f3d,9c5d9eea2334aeab74fdc54273b9d741c1634cc7,ec5b3e4b84a334330f7c06a3c592076a65423f2d,['controllers/story.js'],[],1,1,1,0,0
+cf44287d7abf4485bd02188575912fd4728b727b,ac511982a4357e3af5d87b5d045b6f6d1f7f6dc4,a89139119acb6ed7c1c4902a3ebb4af881f37e52,[],['views/partials/navbar.jade'],0,1,0,0,0
+9cdb2588b4295d06627c3032699da536d324323f,6ad7c223138f04ebd83fcfa6a79a446f76647bb6,ec5b3e4b84a334330f7c06a3c592076a65423f2d,['controllers/user.js'],[],1,1,1,0,0
+d48da59aa78aa12d06888ee4c595b87f66e35768,120cc113b95f8025ce2a2d671faa8742c6bedf69,94e855040892afe1919398fd2dafbae92c1a36d9,"['controllers/resources.js', 'controllers/user.js']","['views/account/show.jade', 'views/coursewares/showHTML.jade', 'views/coursewares/showJS.jade', 'views/partials/bonfires.jade', 'views/partials/navbar.jade']",2,8,3,0,0
+95c249afc6caebbb0da5073e9d3f491ed29be33f,f3f6d0d16e488bc537d56c08bf83c3b94d1ed3a2,d4f3a4e21356764777d3ccbdd2fa289738549b02,[],['.gitignore'],0,1,0,0,0
+bf7d38e080962e774e56077a9a53253974613ccc,c609294e1f281acc58b5882dda504756a113b9ce,191e38472e35985777d702ae29dd6caab912ae05,['public/js/lib/bonfire/bonfireFramework_v0.1.2.js'],[],1,1,1,0,0
+6283ec1174730732d332405b45858cec320033b6,de91be44dace653329b336e419d4d37d4e15e6b2,aacb0070b3738f586df729a75f0dc266ef892a93,[],['views/stories/show.jade'],0,1,0,0,0
+4c0ff3b5edec192cafa9be536526ae90cc3535df,6a9bfc5ebf62c0eae13a4f52f9449a03a17ae302,3416353baf3ac096aa5c6ee71797886e3ab0ed9c,[],['views/partials/navbar.jade'],0,1,0,0,0
+f4fcb565f43c659f85692872b8009b5c00844571,55f892a9749870de1fa8e71002fc3ef8adc149fc,19e87950558cfbe8d170dcf0fd1880da21d46586,[],['seed_data/coursewares.json'],0,1,0,0,0
+67ff8087349eb83da4f73f1d42fc66c04f5672e5,5a68ac5411e5a9e2669ce63f65c0c480e6cd4fdd,3833053221cc074e1bb991a90d7b6cd63342c0db,[],['views/bonfire/show.jade'],0,1,0,0,0
+89eb361ec3ed8ce59d734ead389309e8239c4bf1,74f6fc6763958d297b9a92424d17b1a841c9e66e,a087068022793acce071a5018247aa3082d284ab,['app.js'],[],1,1,1,0,0
+93c3a8210fbedda73a6e2a926e992eea0436ea4e,04cd57b91961d1587e0d6c58bb476afb48e9a705,b32f6133db796cb56ac446346c217522d71cfc9f,['app.js'],[],1,1,1,0,0
+dfc44651e22a19cf874a8fa3161a40fd1b808ab9,a41c37ec0334a46ff0433d9ae80d103dc49c1a1e,2cf308915a87abf25301779ab1106399a705634a,['app.js'],[],1,1,1,0,0
+5cc56236489dbe5e245f869e5faef938ddbdcb00,108b2728792ae4463f0d6abc04a67fd9ee662005,20b37ac4702688e323a2007c7f50de2cec81ba8a,[],['seed_data/bonfires.json'],0,2,0,0,0
+108b2728792ae4463f0d6abc04a67fd9ee662005,2a32f5f087de7e92131bdfd03f45182eb0825a8e,e3c9e42fced4f9cd95e80ef2bd3bacb794d55465,[],['seed_data/coursewares.json'],0,1,0,0,0
+8210cb927e4492880b636f03eb5edbca9c70f836,a22e472fb202ee487451e30330a0fc40a66a9956,f0fff1e1b92d7ca7594aebf201fd38bbc6838251,[],['seed_data/challenges.json'],0,1,0,0,0
+0eededde368163e37061c68adf15adedca2f8b4d,b691a35163e8197d161577475ff6c2be579687b6,54901a4b9b9d84c6764b1b3b162efc44bd3c5b72,[],['seed_data/bonfires.json'],0,2,0,0,0
+7514e3fba6c806c6d6bde5fd04672559da7e1501,a1507a969b99d08460f3f3b687ed3e9025c4118b,c1e2af95250afbd7d116b080a0f30336b1e06cde,[],['seed_data/coursewares.json'],0,1,0,0,0
+e2ab4438f5ba3cf9e3e0e5ffe6b64730134d441c,0313fd9751703be8f67bd8e55a2fe5f007488f44,a487e8c7ddc0102e9439988c50b73230b37f030a,['controllers/bonfire.js'],"['controllers/resources.json', 'views/bonfire/show.jade']",1,6,4,0,0
+f1000c3189bb5b49a9ad2a7b1ac4bdad7415bae9,6464241b2e09ae2070b0ba83bde3f8413b1bc4bf,dda901872ef20252ff081147bdbc9ba8283aa913,['controllers/bonfire.js'],['views/layout.jade'],1,2,1,1,1
+0a49890517b1582ef9dccc0bb2418072ce868de0,d26a4efea48c3da85daf73d7193a8d6815a96de6,613f332bb84e7289bb65ea4f87ca50b770a1f48f,['controllers/user.js'],['views/account/account.jade'],1,5,1,0,0
+e9efc039ec082f233587985573c958e9f8a3de1c,3b0c082b56b34bd7db8e77b145b767427ffb46d5,3a8c10e43846dad586d64844bb52a15093cb6718,[],['views/resources/live-pair-programming.jade'],0,1,0,0,0
+6503c108bb620ea4f9dd7e7a30f7e31e004ad652,17312f43f5226c1e6dcd9839d485ae4413391f02,d886a778581f2e1b7f741bd3c3a43e5167275b56,[],['views/bonfire/show.jade'],0,1,0,0,0
+1a9beef08153936cb4093060de4d34ecd636418e,95f5581d1908fc88ff8819f8b2c9ff8e215f8484,54470e6c46ac55e05592debdfebc35c228d78920,[],['views/resources/live-pair-programming.jade'],0,1,0,0,0
+3810b4d9ae65dfce27b66b9370ada0f5ee6c0604,b1f22ef925de68f1cb8e2470a121f7eb704f8035,93e15a6d1f57dc79a2aa41d4df8723f3ac71187e,[],['views/bonfire/bonfire.jade'],0,3,0,0,0
+6202c03d13e025b30e5820f211dc8cf7e25e9a9f,0dcce677630cea6dece6a874fe8b1f03cda87416,bf1d8cd81acfe03ec50466f8511d2b41716b5d92,['controllers/bonfire.js'],[],1,1,1,0,0
+0dcce677630cea6dece6a874fe8b1f03cda87416,f6603aadaeaa2edc7d981acb16f5f91846a86ce0,53e5d061474960d6f4eb74ddfc5dd34706dacc22,[],['public/css/main.less'],0,1,0,0,0
+7722c20877366de43a3a030f6daa0729a7bc394e,a9d52c82c0a29e1bf9b5ff3f4d0492a59d6246be,c90d062f7b62db64fbb0b3e4fc7d9ec3a770ebe0,['app.js'],[],1,3,3,0,0
+be2e224f9386d8a73a32c07cd0b4a86639583cfb,c3a114c45a6460987df4baadacabefec7d12ee21,044f89b8cc636eafa848ecf27ab93c6fc6a4fa1e,[],['public/css/main.less'],0,1,0,0,0
+ef2eba7b14b165353be9d13f5b592eee8911fdbf,86fcfe82960804a01a662de80499b950646ea97d,3ac4ecdd08f016012d7c7b87d26363143c8d675a,"['app.js', 'controllers/challenges.js', 'gulpfile.js']",[],3,6,6,0,0
+ffddd860229b7f69aaab3069e386d8bb6e0ad773,21738654e9309b323ae1fa78fbe6f524dd36b171,c06b8683c9d742ea21ad95377ced85e7e3002f09,['controllers/resources.js'],"['package.json', 'views/partials/meta.jade']",1,3,1,0,0
+54979875066e7cf6c07eb9350c29d7625da29c8a,7dc1b2fc9bc3537188cd70c018ff820b93ef68eb,b4914fa4971248b727b61a287dc16afc14e8f1d5,['app.js'],[],1,1,1,0,0
+c7a5a51c8d2d887d49abb726bbdcfdbca6c8653b,675b0ebd47da0dc2bea9034aaaa801f4da4ac5c0,bedddde945410b9f6a6ac3ca580fc39332d1ee66,['config/passport.js'],['public/css/main.less'],1,2,1,0,0
+5c54fddaec24f40fb026ebb69d2990ee2709cbf5,456c8459671a2e7a528e0eb82bf62fd1c49b5d1e,711904d1c19fbcb79feafde85272e04e7e5d458e,[],['views/partials/challenges.jade'],0,4,0,0,0
+00c92176cb370abed35b8d90163b1a1a42d7133f,c08854ee8c6ac4076db63d84c44b425600126688,d2a82067955ecf3497ef8fac4aadcd07dc61ccd0,['app.js'],"['package.json', 'public/css/lib/bootstrap/variables.less', 'public/css/main.less', 'views/account/login.jade', 'views/layout.jade']",1,17,4,0,0
+3fd1c591947d047a5919a0f4b5f085ca15d9a15a,754789e0858f62baab3c17800499d86fe1bf1b42,3d5b71671614b4b17de89d1f9397ade306bc362d,[],['package.json'],0,1,0,0,0
+6a0c6561e3bfeaf9810ee218c729b1c8dee0474f,d752b4f5c7015c7216c0bacf9e30cf4aa0f4ce90,e4233714f7445f4c8fb65b20939725615414cd1b,[],['README.md'],0,1,0,0,0
+ebb019e44fcf82bf243e7bd638e74472c01e38cc,7086c98a0ffe711fa66d9c1960a88996c6a24444,9a6b58c9e10f8c545a7445a01604514de6bc4797,[],['README.md'],0,1,0,0,0
+b9fee1cb355243cc33dcf52be7801d6e593e4887,d84a8fd6431548c6600a6e8f010c1fa698028c6b,972b018d28c2f2195f3e75cf018a9bede5bc46d3,[],"['package.json', 'views/api/index.jade']",0,2,0,0,0
+096e4d4d71391905a9b8ea64b6f13d7b2107fb11,205318ea4264cd8330a609f4242e0abf2f46e733,f6c4900b3b0d6001e2a7e8aaf48e9d2f9daa3e89,[],['views/layout.jade'],0,1,0,0,0
+007d561d8863b9ab9c15a7509cea68130a7ac58d,0318c1fa795b3a229470ca42d12525ad23305070,bea521f3b33b6c0afcab2b69dee3ecbd0887de66,['controllers/api.js'],['package.json'],1,3,2,0,0
+c78085b73ebf7efbc1d950621179bc1a17a623ff,675156629dbbc1fb1795a49c44a5c63c2dfc9221,31e495489059acc0c0bb8264bbc6c0d5cf8f6d9e,[],['package.json'],0,1,0,0,0
+9d9f9c926c640de85652ba2328b21ffdd6ed956e,ed70466c43b1b0b79529b7b8c6a05e06fd394ab5,517e2f13d2b071e4f9e35e477902602b8ced677f,[],"['views/account/login.jade', 'views/account/profile.jade']",0,2,0,0,0
+38296e38b11e01d9b52bb3af3486bda65b67718b,de8601fb79cf8871b622f9a115067fd985cdd240,aa3e6e6a6708957b71578908ad803dce738b9e34,[],['views/api/index.jade'],0,1,0,0,0
+61e95b582b7bcfc59cd5115d1ebcedbe64edb8fb,0b89b41376521dfa52f03c2ac90ccfbb255d0d54,c5199929a596d11eafab1cb327e5a223e49d7609,[],['views/account/profile.jade'],0,1,0,0,0
+b9ba23263cf4851d55e98a842df126304321fc7f,8e804c5a1ab78d3e42fc0494c222dbdf7502933f,85c3e8e83bd28ac490780f9d9482b3a6072f3f9c,['models/User.js'],[],1,1,1,0,0
+d4b7720a006bc0fa098432191de8c59e326a4a6b,f80c890287a13b233fe5cb5fc2a0343449552a7e,64e5ece974df01dd9f60af000b13940c19a05747,[],['README.md'],0,1,0,0,0
+399c03e19beea75a89d777348194b0f67fa97e8b,ba6b33282b58c9255d440df7d3121fd4f9466239,b875803527dfa63ebcbb2740bd90addee4f99599,[],['README.md'],0,1,0,0,0
+478c0a1ad9b0afaee11a948336602bcdb7c3d417,940d52bd4379f3bf38a9ffd145709f1163d0ff9d,8fd6bf38b69adc8e5ece58e86320ed6fea51243f,[],['README.md'],0,3,0,0,0
+e979634652c4cf96e1b04a82a12e32eedfea7cb0,fb48fd467e7884fb312f965baab27151a87e96f6,9be3a08a2da5af3cc33e91192e18373c10ace32d,[],['README.md'],0,1,0,0,0

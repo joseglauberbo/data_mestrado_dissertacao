@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+73004e2573e1f9ebe5ea45c96dedb33780a09ea9,aa0b2c8fcf6a0fbd7dbea6c8f1f9ac6826244cec,c807af71f49a1f3bc30fa87504bcea91af8f0d84,"['server/font/_lib/font_builder.js', 'server/font/download.js', 'server/font/status.js', 'client/fontomas/init.js', 'server/fontomas/font.js']","['views/layout.html', 'bin/build_embedded_fonts.sh', 'src/fonts-original/entypo_rescaled.svg']",5,17,14

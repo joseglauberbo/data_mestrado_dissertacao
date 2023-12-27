@@ -1,0 +1,9 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,qt_relations_arq,qt_relations_region_conflict
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js,0,0
+merge,left,right,[],[],0,0,0,0,0
+42df6b7c18d1516621151cab6e3d82ef945b7b7c,0c8b54f973886db954bbcf1ccae292fc37ed196c,ecc6b44ad67df3ecdedf00a8f3ed2437903ca2e5,"['server/font/_lib/font_builder.js', 'server/font/download.js', 'server/font/status.js']",[],3,4,4,1,1
+d34a5afbf9f6c5ae223662009a09fd88e6df39dd,84d3e6708e93c176a9466bf7a099d32e43316aa7,d3b37ff4362d937f0e1431533b06336ae1c455c7,['client/fontomas/init.js'],[],1,4,4,0,0
+7262d0a4687478adf901a3f21b1e9e2e94bb513b,34573ed32b8315836ad0b8a7afe09ce2e5bb7c38,528dc14c139362f9bb33e0372dff478e04e72ffc,['server/fontomas/font.js'],[],1,6,6,6,0
+02f3e14477d8a30162046ac0fbc14ad564b19206,af7ebc6470b8e7957198672ba22a87e3613ecbe0,fd4a3ec9a5560b117100d6b42486727f7d59145e,[],['views/layout.html'],0,1,0,0,0
+6422f59750e684a058cb5bb0a04423887574b403,33d735dacc034eb1f1ca03a0bc76811f32720c5c,de279329695fac87788b8fb4ce48ff81540d55c3,[],"['bin/build_embedded_fonts.sh', 'src/fonts-original/entypo_rescaled.svg']",0,2,0,0,0
+73004e2573e1f9ebe5ea45c96dedb33780a09ea9,aa0b2c8fcf6a0fbd7dbea6c8f1f9ac6826244cec,c807af71f49a1f3bc30fa87504bcea91af8f0d84,[],[],0,0,0,0,0

@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+acc7702b7613c9e4d77140c5ca5c0ff8250010e5,daf4ec344c5390c6bbf95d4e7e841b3701e6e5eb,83d8e393208b4aa94ce69fc1ffd7c8cb8818ec8c,"['jquery.fullPage.js', 'jquery.fullPage.min.js']","['package.json', 'jquery.fullPage.css', 'jquery.fullPage.scss', 'README.md']",3,15,9

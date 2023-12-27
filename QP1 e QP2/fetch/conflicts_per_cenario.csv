@@ -1,0 +1,9 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+c31fca91bb736f0b704927ffaf1813ddd062ccb3,7f6b8d2eb3e7d64cc3e8ec2c93332939ab5d859c,f83e37133e21c72e8277e9f634b7c2002b8d552e,['fetch.js'],"['test/test.html', 'test/test.js']",1,5,2
+9595e3e357d9c27cae67cef7c59cb37177e8db5e,f6d8b4d5139c41cd8b38f86ee3828821161e0806,cbb313bf09512efda9444e40fe9e8ac432ac1108,[],['package.json'],0,1,0
+7021a0ce9eee57ff01dd1dae0e769063536b8ef8,211d5ca7a1156c718064ebe1f600612d539784ee,4949171b58c14e755694b538180816883782d3b7,['fetch.js'],[],1,1,1
+2553aadccd62ce2b3e0d65dac0f8ee44c1479ec3,09c316d2450c08fde129336438b3a44de4e8177c,587f00ea8597e1a39260835b00f6949b831b824b,['fetch.js'],[],1,1,1
+5b7e895a1a8b5e7ac5d86c3f02ba7c78a2fb0c0e,0c28117a1ed4ac79aca89bf9a8a05fcc927fb9ce,84395a37fb9a686514aa0717ca14d8aa7839ff8d,[],['package.json'],0,1,0
+c7604e12ca89769e2f08c914070e8090b21c110f,dd894e128d1e76e81c66ddf4217d800230856ec9,4a44c0b0376a8c6cb6bf76f9a3936e0252520b24,['fetch.js'],[],1,1,1
+ddf7a7dc3888051e1d9b5d30e4753f2154883bee,d5a000df9312002548d22dcd88fc2772fa75a7d0,c35893f6edba0bd5a7c3538ec791c2181bdab3e1,['fetch.js'],[],1,1,1
