@@ -1,0 +1,2 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+53cc4c7668f662a55c4d5316911338138a0d8802,7e10f96f36bfd481372cf03ea578ead9b6f0fde9,1182eedd3d59aec75b173b8723428439382b1cfe,"['src/event.js', 'src/zepto.js', 'src/touch.js', 'src/detect.js', 'src/fx.js', 'src/ajax.js', 'src/assets.js']","['make', 'test/touch.html', 'test/detect.html', 'test/fx.html', 'test/zepto.html', 'README.rdoc']",17,41,29

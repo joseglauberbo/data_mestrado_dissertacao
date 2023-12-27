@@ -1,0 +1,17 @@
+merge,left,right,arquivos_conflitos_analisados,arquivos_conflitos_nao_analisados,quantidade_total_de_conflitos_validos_js,quantidade_regioes_de_conflito_total,quantidade_regioes_de_conflito_total_valido_js
+merge,left,right,[],[],0,0,0
+ffad76111d34f695eaf0721128e1d117fa3c0c04,3ccd741a83f844b54de6536e5e44ece39573f6f8,67290f4cc1110b9486180503de6445658caf974a,['biz/webui/htdocs/js/index.js'],[],1,1,1
+6b614fd09cd854422196db502b8a7d9d08da0f0b,fe98740b030b0be018d1521514575199b8fbbbad,ec968932d225a67a10314531475a9766d609910d,['lib/inspectors/weinre.js'],[],1,1,1
+bf4da0a00283e4447be224fcf1ed388bf5a90e03,fb545167db84a4f222b6aa0d410b921ea3bb8d9e,57bc4e24712093d9b3b8f94f18918fcd0a3ad59c,['bin/whistle.js'],[],1,1,1
+bc3812f48130f571931e4f2c4f96d89eb569e639,9d689738b4fbac3094b88a65a202d4166dd2e138,699b20c1db69ba0a807e2e7a9a6799aa8850fe3a,[],['README.md'],0,2,0
+5b486d047db60eca4d52b4ea058a90fb16045ae8,e962b9713462317b899de09d5228c65d6c75f7ab,345b965e48a073d2c9b1d219317f2d98eb565053,[],"['docs/src/zh-cn/README.md', 'docs/src/zh-cn/SUMMARY.md', 'docs/src/zh-cn/webui/websocket.md']",0,4,0
+deb3ab8bb2ea4f441784188d6abb04468e1f1c06,f23f9268e08194b96b85638542a75d7edb15a41d,5034ab474becc5d00126dc57dd2a7f2abd99092c,[],['package.json'],0,1,0
+2d25f2e56eebcaed02fb073e36a7ccc6fbcdfd53,8ae1aa2004b6a29959a6fe93019b423f7062cf89,45ecb6578679fcc8a83f869429fdb8ec7b0acff6,['biz/webui/htdocs/js/index.js'],[],1,2,2
+05dfce773f43c35616c9c4c5921da0bf560b19ca,20329993e2702624a5c09cd64377012ca164bb6a,f74037dc008480992d009ba04dc7b244fbaaf3d7,[],['package.json'],0,1,0
+63531a0b29e2c9050244162149fa1640657299f2,6716b0524d2dc1a2d61babaae77ebb102f761077,c8531505ded7cda03bb6c61f181fdf5a029c4ef9,[],['README.md'],0,2,0
+572aa83270cf10b0dcad8f4833b9dc36d66aede1,6b8a9ecc5e0438e7d2060b7f4ac4752660ce50b1,08d2530f3fc084f181d77518f943ce6e8928cb8c,[],"['CHANGELOG.md', 'package.json']",0,3,0
+3382323eb55995eaf09b90317c79fda8db1acf11,65eff39fa4f86253921825ee6906e506b6dfecbb,23b8ed6a1d9f2dc2378f14c54735260896db5df8,[],['package.json'],0,1,0
+0e67ac04f6d383cae817352f176f38e4e7fccd22,15ded38e5bb7411816e4b65a4711fdba1a52b310,73ade23497582466fa5f79f749bde6bc5ceba7a9,[],['CHANGELOG.md'],0,1,0
+080ed09dd66097228a6875dfb86dbcb7a9898eee,9d3abe0eb75af5afa0c9df3a6e85e63f76388f60,9d5ae92494503135be993c30312869208965ff1a,"['lib/handlers/file-proxy.js', 'lib/util/index.js']",['package.json'],2,3,2
+d8ca04106b13cb3d4fcf1dd51057faf8154ac968,31807db10e95da5be549ea5a142bceea9141638f,fdcbab91ffa5a75de8480eb4e0d0a61ebe442eb8,['lib/index.js'],['package.json'],1,2,1
+11be7b4bc90e24515bcc521aea2614d2af5c5bc9,2dbfc74fa972bb97cd28a6a11b09b1826ae4a690,c9837afe443289db570f6cdb191effb24062260e,[],['package.json'],0,1,0
